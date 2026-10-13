@@ -3541,7 +3541,7 @@ window.MLB_DATA = {
       "last": "Marte",
       "pos": "2B",
       "teamCode": "ARI",
-      "age": 32,
+      "age": 33,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32512.png",
       "colors": {
         "primary": "#a71930",
@@ -3557,7 +3557,7 @@ window.MLB_DATA = {
         "sb": 4,
         "ops": 0.748
       },
-      "legendScore": 40.8,
+      "legendScore": 41.7,
       "currentScore": 58,
       "battingScore": 58,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-13 02:37 UTC",
+  "LAST_UPDATE": "2026-10-13 12:43 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

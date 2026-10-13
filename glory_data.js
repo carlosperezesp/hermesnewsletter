@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-13 02:40 UTC",
+  "UPDATED": "2026-10-13 12:46 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -129,24 +129,6 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-29"
-    },
-    {
-      "id": "rank:golf:CURRENT:in:Rory McIlroy",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Rory McIlroy entra en el top-10 · Nivel actual",
-      "weight": 84,
-      "firstSeen": "2026-10-13"
-    },
-    {
-      "id": "rank:golf:CURRENT:in:Xander Schauffele",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Xander Schauffele entra en el top-10 · Nivel actual",
-      "weight": 84,
-      "firstSeen": "2026-10-13"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
@@ -455,24 +437,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-29"
     },
     {
-      "id": "rank:golf:CURRENT:out:Cameron Young",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Cameron Young cae del top-10 · Nivel actual",
-      "weight": 74,
-      "firstSeen": "2026-10-13"
-    },
-    {
-      "id": "rank:golf:CURRENT:out:Chris Gotterup",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Chris Gotterup cae del top-10 · Nivel actual",
-      "weight": 74,
-      "firstSeen": "2026-10-13"
-    },
-    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:BA Carse",
       "sport": "cricket",
       "detail": "Cricket",
@@ -692,8 +656,8 @@ window.GLORY_DATA = {
       "Edmonton Oilers",
       "Florida Panthers",
       "Carolina Hurricanes",
-      "New York Rangers",
       "Minnesota Wild",
+      "New York Rangers",
       "Boston Bruins",
       "Dallas Stars"
     ],
@@ -783,6 +747,7 @@ window.GLORY_DATA = {
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Jared Goff",
+      "Matthew Stafford",
       "Kirk Cousins",
       "Dak Prescott",
       "Joe Burrow",
@@ -790,7 +755,6 @@ window.GLORY_DATA = {
       "Geno Smith",
       "Jordan Love",
       "Jacoby Brissett",
-      "Matthew Stafford",
       "Trevor Lawrence"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
@@ -988,13 +952,13 @@ window.GLORY_DATA = {
       "Scottie Scheffler",
       "Matt Fitzpatrick",
       "Wyndham Clark",
+      "Cameron Young",
       "Si Woo Kim",
+      "Chris Gotterup",
       "Collin Morikawa",
       "Sam Burns",
       "Tommy Fleetwood",
-      "Ludvig Åberg",
-      "Rory McIlroy",
-      "Xander Schauffele"
+      "Ludvig Åberg"
     ],
     "golf:LEGENDS": [
       "Tiger Woods",

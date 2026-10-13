@@ -118,6 +118,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "BUF",
+      "city": "Buffalo Bills",
+      "shortName": "Buffalo",
+      "commonName": "Bills",
+      "conf": "AFC",
+      "div": "AFC East",
+      "gp": 5,
+      "w": 4,
+      "l": 1,
+      "t": 0,
+      "winPct": 0.8,
+      "pf": 164,
+      "pa": 141,
+      "pd": 23,
+      "seed": 4,
+      "score": 68,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+      "colors": {
+        "primary": "#00338d",
+        "secondary": "#c60c30"
+      }
+    },
+    {
       "code": "SEA",
       "city": "Seattle Seahawks",
       "shortName": "Seattle",
@@ -155,35 +178,12 @@ window.NFL_DATA = {
       "pf": 119,
       "pa": 96,
       "pd": 23,
-      "seed": 6,
+      "seed": 7,
       "score": 52,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
       "colors": {
         "primary": "#0b162a",
         "secondary": "#c83803"
-      }
-    },
-    {
-      "code": "BUF",
-      "city": "Buffalo Bills",
-      "shortName": "Buffalo",
-      "commonName": "Bills",
-      "conf": "AFC",
-      "div": "AFC East",
-      "gp": 4,
-      "w": 3,
-      "l": 1,
-      "t": 0,
-      "winPct": 0.75,
-      "pf": 127,
-      "pa": 107,
-      "pd": 20,
-      "seed": 4,
-      "score": 64,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-      "colors": {
-        "primary": "#00338d",
-        "secondary": "#c60c30"
       }
     },
     {
@@ -247,7 +247,7 @@ window.NFL_DATA = {
       "pf": 164,
       "pa": 148,
       "pd": 16,
-      "seed": 7,
+      "seed": 6,
       "score": 51,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
       "colors": {
@@ -417,29 +417,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "LAR",
-      "city": "Los Angeles Rams",
-      "shortName": "Los Angeles",
-      "commonName": "Rams",
-      "conf": "NFC",
-      "div": "NFC West",
-      "gp": 4,
-      "w": 2,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.5,
-      "pf": 85,
-      "pa": 83,
-      "pd": 2,
-      "seed": 9,
-      "score": 40,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
-      "colors": {
-        "primary": "#003594",
-        "secondary": "#ffd100"
-      }
-    },
-    {
       "code": "DAL",
       "city": "Dallas Cowboys",
       "shortName": "Dallas",
@@ -460,6 +437,29 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#003594",
         "secondary": "#869397"
+      }
+    },
+    {
+      "code": "LAR",
+      "city": "Los Angeles Rams",
+      "shortName": "Los Angeles",
+      "commonName": "Rams",
+      "conf": "NFC",
+      "div": "NFC West",
+      "gp": 5,
+      "w": 2,
+      "l": 3,
+      "t": 0,
+      "winPct": 0.4,
+      "pf": 119,
+      "pa": 120,
+      "pd": -1,
+      "seed": 9,
+      "score": 32,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#ffd100"
       }
     },
     {
@@ -975,6 +975,32 @@ window.NFL_DATA = {
       "prevRank": 9
     },
     {
+      "id": 12483,
+      "name": "Matthew Stafford",
+      "pos": "QB",
+      "teamCode": "LAR",
+      "age": 38,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/12483.png",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#ffd100"
+      },
+      "score": 80,
+      "stats": {
+        "type": "passing",
+        "cmp": 139,
+        "att": 216,
+        "pct": 64.4,
+        "yds": 1572,
+        "ypa": 7.3,
+        "td": 9,
+        "int": 6,
+        "rushYds": 21,
+        "rushTd": 0
+      },
+      "prevRank": 21
+    },
+    {
       "id": 8439,
       "name": "Aaron Rodgers",
       "pos": "QB",
@@ -997,8 +1023,7 @@ window.NFL_DATA = {
         "int": 4,
         "rushYds": 18,
         "rushTd": 0
-      },
-      "prevRank": 10
+      }
     },
     {
       "id": 3139477,
@@ -1098,6 +1123,31 @@ window.NFL_DATA = {
         "int": 5,
         "rushYds": 62,
         "rushTd": 0
+      }
+    },
+    {
+      "id": 3918298,
+      "name": "Josh Allen",
+      "pos": "QB",
+      "teamCode": "BUF",
+      "age": 30,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png",
+      "colors": {
+        "primary": "#00338d",
+        "secondary": "#c60c30"
+      },
+      "score": 71,
+      "stats": {
+        "type": "passing",
+        "cmp": 91,
+        "att": 138,
+        "pct": 65.9,
+        "yds": 1249,
+        "ypa": 9.1,
+        "td": 7,
+        "int": 4,
+        "rushYds": 239,
+        "rushTd": 3
       }
     },
     {
@@ -1201,31 +1251,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "id": 3918298,
-      "name": "Josh Allen",
-      "pos": "QB",
-      "teamCode": "BUF",
-      "age": 30,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png",
-      "colors": {
-        "primary": "#00338d",
-        "secondary": "#c60c30"
-      },
-      "score": 66,
-      "stats": {
-        "type": "passing",
-        "cmp": 79,
-        "att": 119,
-        "pct": 66.4,
-        "yds": 1039,
-        "ypa": 8.7,
-        "td": 6,
-        "int": 3,
-        "rushYds": 118,
-        "rushTd": 1
-      }
-    },
-    {
       "id": 4426338,
       "name": "Bo Nix",
       "pos": "QB",
@@ -1247,31 +1272,6 @@ window.NFL_DATA = {
         "td": 6,
         "int": 3,
         "rushYds": 35,
-        "rushTd": 0
-      }
-    },
-    {
-      "id": 12483,
-      "name": "Matthew Stafford",
-      "pos": "QB",
-      "teamCode": "LAR",
-      "age": 38,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/12483.png",
-      "colors": {
-        "primary": "#003594",
-        "secondary": "#ffd100"
-      },
-      "score": 62,
-      "stats": {
-        "type": "passing",
-        "cmp": 99,
-        "att": 162,
-        "pct": 61.1,
-        "yds": 1189,
-        "ypa": 7.3,
-        "td": 6,
-        "int": 6,
-        "rushYds": 21,
         "rushTd": 0
       }
     },
@@ -1784,6 +1784,23 @@ window.NFL_DATA = {
         "prevRank": 1
       },
       {
+        "id": 12483,
+        "name": "Matthew Stafford",
+        "pos": "QB",
+        "teamCode": "LAR",
+        "colors": {
+          "primary": "#003594",
+          "secondary": "#ffd100"
+        },
+        "age": 38,
+        "careerScore": 74.4,
+        "threshold": 90.0,
+        "gap": 15.6,
+        "rings": 1,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": 9
+      },
+      {
         "id": 14880,
         "name": "Kirk Cousins",
         "pos": "QB",
@@ -1901,23 +1918,6 @@ window.NFL_DATA = {
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
         "prevRank": 8
-      },
-      {
-        "id": 12483,
-        "name": "Matthew Stafford",
-        "pos": "QB",
-        "teamCode": "LAR",
-        "colors": {
-          "primary": "#003594",
-          "secondary": "#ffd100"
-        },
-        "age": 38,
-        "careerScore": 62.2,
-        "threshold": 90.0,
-        "gap": 27.8,
-        "rings": 1,
-        "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 9
       },
       {
         "id": 4360310,
@@ -2038,7 +2038,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-13 02:37 UTC",
+  "LAST_UPDATE": "2026-10-13 12:43 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

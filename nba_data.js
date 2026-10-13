@@ -143,6 +143,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "UTAH",
+      "city": "Utah Jazz",
+      "shortName": "Utah",
+      "commonName": "Jazz",
+      "conf": "W",
+      "gp": 3,
+      "w": 2,
+      "l": 1,
+      "winPct": 0.667,
+      "gf": 334,
+      "ga": 323,
+      "gd": 11,
+      "score": 61,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+      "colors": {
+        "primary": "#002b5e",
+        "secondary": "#00471b"
+      }
+    },
+    {
       "code": "MEM",
       "city": "Memphis Grizzlies",
       "shortName": "Memphis",
@@ -260,26 +280,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#860038",
         "secondary": "#fdbb30"
-      }
-    },
-    {
-      "code": "UTAH",
-      "city": "Utah Jazz",
-      "shortName": "Utah",
-      "commonName": "Jazz",
-      "conf": "W",
-      "gp": 2,
-      "w": 1,
-      "l": 1,
-      "winPct": 0.5,
-      "gf": 215,
-      "ga": 214,
-      "gd": 1,
-      "score": 42,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
-      "colors": {
-        "primary": "#002b5e",
-        "secondary": "#00471b"
       }
     },
     {
@@ -548,13 +548,13 @@ window.NBA_DATA = {
       "shortName": "San Antonio",
       "commonName": "Spurs",
       "conf": "W",
-      "gp": 2,
+      "gp": 3,
       "w": 0,
-      "l": 2,
+      "l": 3,
       "winPct": 0.0,
-      "gf": 214,
-      "ga": 225,
-      "gd": -11,
+      "gf": 323,
+      "ga": 344,
+      "gd": -21,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
       "colors": {
@@ -1006,7 +1006,7 @@ window.NBA_DATA = {
           "primary": "#0c2340",
           "secondary": "#236192"
         },
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "teamCode": "GS",
@@ -1022,7 +1022,7 @@ window.NBA_DATA = {
           "primary": "#1d428a",
           "secondary": "#ffc72c"
         },
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "teamCode": "IND",
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-13 02:37 UTC",
+  "LAST_UPDATE": "2026-10-13 12:43 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-13 02:40 UTC
+// Auto-generated 2026-10-13 12:46 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-13 02:40 UTC",
+  "UPDATED": "2026-10-13 12:46 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -883,7 +883,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 69.6
@@ -1667,7 +1667,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 63.2
@@ -5183,10 +5183,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 100.0
     },
@@ -5217,7 +5217,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5251,7 +5251,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5285,7 +5285,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5319,10 +5319,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 90.2
     },
@@ -5354,9 +5354,9 @@ window.TENNIS_DATA = {
       "prevListRank": 6,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 90.4
     },
@@ -5421,10 +5421,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 90.0
     },
@@ -5490,9 +5490,9 @@ window.TENNIS_DATA = {
       "prevListRank": 10,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 85.7
     },
@@ -5523,7 +5523,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5591,7 +5591,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5625,7 +5625,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5661,7 +5661,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 80.4
@@ -5693,7 +5693,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5727,7 +5727,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5761,7 +5761,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5796,9 +5796,9 @@ window.TENNIS_DATA = {
       "prevListRank": 19,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 76.7
     },
@@ -5829,10 +5829,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 76.1
     },
@@ -5863,7 +5863,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5897,7 +5897,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5931,7 +5931,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5967,7 +5967,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 75.6
@@ -6001,7 +6001,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 71.5
@@ -6035,7 +6035,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 72.9
@@ -6067,7 +6067,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6103,7 +6103,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 70.8
@@ -6135,7 +6135,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6169,7 +6169,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6237,7 +6237,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6375,7 +6375,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 66.7
@@ -6409,7 +6409,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 65.2
@@ -6476,9 +6476,9 @@ window.TENNIS_DATA = {
       "prevListRank": 39,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 64.7
     },
@@ -6509,7 +6509,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6544,9 +6544,9 @@ window.TENNIS_DATA = {
       "prevListRank": 41,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 64.8
     },
@@ -6613,9 +6613,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 63.6
@@ -6649,7 +6649,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 63.8
@@ -6681,7 +6681,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6751,7 +6751,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.1
@@ -6783,7 +6783,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6851,7 +6851,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6919,7 +6919,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6953,7 +6953,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6988,9 +6988,9 @@ window.TENNIS_DATA = {
       "prevListRank": 54,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.6
     },
@@ -7021,7 +7021,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7055,7 +7055,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7089,7 +7089,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7157,7 +7157,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7191,7 +7191,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7260,9 +7260,9 @@ window.TENNIS_DATA = {
       "prevListRank": 62,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.9
     },
@@ -7293,7 +7293,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7329,7 +7329,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.8
@@ -7361,7 +7361,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7396,9 +7396,9 @@ window.TENNIS_DATA = {
       "prevListRank": 66,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.5
     },
@@ -7429,7 +7429,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7465,7 +7465,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7500,9 +7500,9 @@ window.TENNIS_DATA = {
       "prevListRank": 69,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 60.7
     },
@@ -7533,7 +7533,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7568,9 +7568,9 @@ window.TENNIS_DATA = {
       "prevListRank": 71,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.6
     },
@@ -7601,7 +7601,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7637,7 +7637,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.7
@@ -7703,7 +7703,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7771,7 +7771,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7840,9 +7840,9 @@ window.TENNIS_DATA = {
       "prevListRank": 79,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 53.8
     },
@@ -7875,7 +7875,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.9
@@ -7907,7 +7907,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7941,7 +7941,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7975,7 +7975,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8009,7 +8009,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8079,7 +8079,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 51.9
@@ -8111,7 +8111,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8145,7 +8145,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8179,7 +8179,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8213,7 +8213,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8247,7 +8247,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8315,7 +8315,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8349,7 +8349,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8383,7 +8383,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8453,7 +8453,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8487,7 +8487,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8521,7 +8521,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8591,7 +8591,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8625,9 +8625,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 49.6
@@ -8661,7 +8661,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8697,7 +8697,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8733,9 +8733,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -8767,7 +8767,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8801,7 +8801,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8871,7 +8871,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 47.7
@@ -8905,7 +8905,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8939,7 +8939,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8973,7 +8973,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9007,7 +9007,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9043,7 +9043,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9079,7 +9079,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9113,7 +9113,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9147,7 +9147,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9217,7 +9217,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 42.7
@@ -9249,7 +9249,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9285,7 +9285,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9393,7 +9393,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.3
@@ -9497,7 +9497,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9531,7 +9531,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9567,9 +9567,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.1
@@ -9604,9 +9604,9 @@ window.TENNIS_DATA = {
       "prevListRank": 130,
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 39.6
     },
@@ -9637,7 +9637,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9673,7 +9673,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9709,7 +9709,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9744,9 +9744,9 @@ window.TENNIS_DATA = {
       "prevListRank": 134,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 38.6
     },
@@ -9813,7 +9813,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9849,7 +9849,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9921,7 +9921,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9991,7 +9991,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -10027,7 +10027,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10063,7 +10063,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10099,7 +10099,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10135,7 +10135,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10171,7 +10171,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10207,7 +10207,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+        "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -10243,7 +10243,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10277,7 +10277,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10313,7 +10313,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+        "tournament": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -11004,15 +11004,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R16",
-          "w": "Alexander Zverev",
+          "w": "Alexander Bublik",
           "w_logo": "",
-          "l": "Alexander Bublik",
+          "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 87.5,
-          "l_score": 74.8,
+          "scheduled": false,
+          "w_score": 74.8,
+          "l_score": 87.5,
           "match_score": 87.5
         },
         {
@@ -11021,9 +11021,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Karen Khachanov",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 76.6,
           "l_score": 69.6,
           "match_score": 76.6
@@ -11043,15 +11043,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R16",
-          "w": "Jakub Mensik",
+          "w": "Arthur Gea",
           "w_logo": "",
-          "l": "Arthur Gea",
+          "l": "Jakub Mensik",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.2,
-          "l_score": 59.9,
+          "scheduled": false,
+          "w_score": 59.9,
+          "l_score": 63.2,
           "match_score": 63.2
         }
       ]
@@ -11170,7 +11170,7 @@ window.TENNIS_DATA = {
       ]
     },
     {
-      "name": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+      "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
       "level": "WTA 250",
       "surface": "",
       "matches": [
@@ -11381,28 +11381,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Marta Kostyuk",
+          "w": "Maria Sakkari",
           "w_logo": "",
-          "l": "Maria Sakkari",
+          "l": "Marta Kostyuk",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.4,
-          "l_score": 64.9,
+          "scheduled": false,
+          "w_score": 64.9,
+          "l_score": 90.4,
           "match_score": 90.4
         },
         {
           "round": "R128",
-          "w": "Sorana Cirstea",
+          "w": "Guo Hanyu",
           "w_logo": "",
-          "l": "Guo Hanyu",
+          "l": "Sorana Cirstea",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "1-6 7-6 (8-6) 7-5",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 85.6,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 85.6,
           "match_score": 85.6
         },
         {
@@ -11411,24 +11411,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mayar Sherif",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 80.2,
           "l_score": 38.5,
           "match_score": 80.2
         },
         {
           "round": "R128",
-          "w": "Elise Mertens",
+          "w": "Daria Snigur",
           "w_logo": "",
-          "l": "Daria Snigur",
+          "l": "Elise Mertens",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 7-5",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 77.3,
-          "l_score": 62.6,
+          "scheduled": false,
+          "w_score": 62.6,
+          "l_score": 77.3,
           "match_score": 77.3
         },
         {
@@ -11437,9 +11437,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Katie Boulter",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.8,
           "l_score": 64.9,
           "match_score": 75.8
@@ -11450,9 +11450,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daria Kasatkina",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 70.5,
           "l_score": 54.4,
           "match_score": 70.5
@@ -11463,9 +11463,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Camila Osorio",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 3-0 ret",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.4,
           "l_score": 64.5,
           "match_score": 66.4
@@ -11476,9 +11476,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lilli Tagger",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 2-6 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 65.8,
           "l_score": 60.2,
           "match_score": 65.8
@@ -11486,7 +11486,7 @@ window.TENNIS_DATA = {
       ]
     },
     {
-      "name": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+      "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
       "level": "WTA 250",
       "surface": "",
       "matches": [
@@ -11496,9 +11496,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ida Wobker",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 49.5,
           "l_score": null,
           "match_score": 49.5
@@ -11522,9 +11522,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anastasiia Sobolieva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11535,9 +11535,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tea Kovacevic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11548,22 +11548,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daria Yesypchuk",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "Despina Papamichail",
-          "w_logo": "",
-          "l": "Tamara Zidansek",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11583,13 +11570,26 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Eva Bennemann",
+          "w": "Joelle Lilly Sophie Steur",
           "w_logo": "",
-          "l": "Lucie Nguyen Tan",
+          "l": "Mina Hodzic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Lidia Encheva",
+          "w_logo": "",
+          "l": "Aneta Kucmova",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11607,9 +11607,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anna Siskova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 55.1,
           "l_score": null,
           "match_score": 55.1
@@ -11618,7 +11618,7 @@ window.TENNIS_DATA = {
           "round": "R128",
           "w": "Teodora Kostovic",
           "w_logo": "",
-          "l": "Lola Radivojevic",
+          "l": "Elsa Jacquemot",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
@@ -11646,9 +11646,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lea Boskovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 47.0,
           "l_score": null,
           "match_score": 47.0
@@ -11668,15 +11668,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Alina Charaeva",
+          "w": "Martyna Kubka",
           "w_logo": "",
-          "l": "Martyna Kubka",
+          "l": "Alina Charaeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 39.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 39.8,
           "match_score": 39.8
         },
         {
@@ -11694,13 +11694,13 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Mia Ristic",
+          "w": "Jil Teichmann",
           "w_logo": "",
-          "l": "Bianca Andreescu",
+          "l": "Tessa Johanna Brockmann",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11744,24 +11744,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martina Colmegna",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 40.8,
           "l_score": null,
           "match_score": 40.8
         },
         {
           "round": "R128",
-          "w": "Darja Semenistaja",
+          "w": "Mathilde Lollia",
           "w_logo": "",
-          "l": "Mathilde Lollia",
+          "l": "Darja Semenistaja",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 38.3,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 38.3,
           "match_score": 38.3
         },
         {
@@ -11796,9 +11796,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zhibek Kulambayeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11809,9 +11809,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martha Matoula",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11935,7 +11935,7 @@ window.TENNIS_DATA = {
     "matchesSeen": 88
   },
   "WTA_TOURNAMENT": {
-    "name": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
+    "name": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
     "level": "WTA 1000",
     "surface": "Hard",
     "tour": "WTA",
@@ -11946,7 +11946,7 @@ window.TENNIS_DATA = {
         "surface": "Hard"
       },
       {
-        "name": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+        "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "level": "WTA 250",
         "surface": ""
       },
@@ -11962,43 +11962,35 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Adrienn Nagy",
-      "Alina Charaeva",
       "Analu Freitas",
-      "Anastasiia Sobolieva",
       "Andrea Lazaro Garcia",
       "Ane Mintegi Del Olmo",
       "Aneta Kucmova",
       "Ann Li",
-      "Anna Siskova",
       "Anouk Koevermans",
       "Antonia Ruzic",
       "Ariana Geerlings",
+      "Aryna Sabalenka",
       "Ashlyn Krueger",
       "Aurora Zantedeschi",
       "Beatriz Castro",
       "Belinda Bencic",
       "Bianca Andreescu",
-      "Camila Osorio",
       "Carole Monnet",
       "Catherine McNally",
       "Clara Burel",
-      "Cristina Bucsa",
       "Dalma Galfi",
-      "Daria Kasatkina",
       "Daria Snigur",
-      "Daria Yesypchuk",
       "Darja Semenistaja",
       "Dayana Yastremska",
-      "Despina Papamichail",
       "Diana Shnaider",
       "Dominika Salkova",
       "Ekaterine Gorgodze",
+      "Elina Svitolina",
       "Elisa Visentin",
-      "Elise Mertens",
       "Elizara Yaneva",
+      "Elsa Jacquemot",
       "Erika Andreeva",
-      "Eva Bennemann",
       "Fiona Ferro",
       "Francesca Curmi",
       "Francesca Jones",
@@ -12009,35 +12001,29 @@ window.TENNIS_DATA = {
       "Guiomar Maristany Zuleta De Reales",
       "Guo Hanyu",
       "Harmony Tan",
-      "Ida Wobker",
       "Iga Swiatek",
       "Irene Burillo",
+      "Iva Jovic",
       "Janice Tjen",
       "Jasmine Paolini",
       "Jazmin Ortenzi",
       "Jelena Ostapenko",
       "Jessica Bouzas Maneiro",
+      "Jessica Pegula",
       "Jil Teichmann",
       "Joelle Lilly Sophie Steur",
       "Julia Grabher",
       "Karolina Muchova",
-      "Katerina Siniakova",
-      "Katie Boulter",
       "Katie Volynets",
-      "Kimberly Birrell",
       "Lanlana Tararudee",
       "Laura Mair",
-      "Laura Pigossi",
       "Laura Samson",
       "Lea Boskovic",
       "Leylah Fernandez",
       "Leyre Romero Gormaz",
       "Lidia Encheva",
-      "Lilli Tagger",
       "Lisa Pigato",
-      "Lisa Zaar",
       "Liudmila Samsonova",
-      "Lola Radivojevic",
       "Lucia Bronzetti",
       "Lucia Cortez Llorca",
       "Lucie Havlickova",
@@ -12049,19 +12035,14 @@ window.TENNIS_DATA = {
       "Maria Sakkari",
       "Marie Bouzkova",
       "Marina Bassols Ribera",
-      "Marta Kostyuk",
       "Martha Matoula",
-      "Martina Colmegna",
       "Martyna Kubka",
       "Mathilde Lollia",
       "Matilde Jorge",
-      "Mayar Sherif",
       "Mia Pohankova",
       "Mia Ristic",
       "Milana Ivantsiv",
-      "Mina Hodzic",
       "Nikola Bartunkova",
-      "Noemi Basiletti",
       "Noma Noha Akugue",
       "Nuria Brancaccio",
       "Oksana Selekhmeteva",
@@ -12071,50 +12052,73 @@ window.TENNIS_DATA = {
       "Selena Janicijevic",
       "Shi Han",
       "Sonay Kartal",
-      "Sorana Cirstea",
       "Susan Bandecchi",
       "Tamara Zidansek",
       "Tea Kovacevic",
       "Teodora Kostovic",
-      "Tessa Johanna Brockmann",
       "Viktoria Hruncakova",
       "Viktoria Morvayova",
       "Wang Xiyu",
       "Yulia Putintseva",
-      "Zeynep Sonmez",
-      "Zhang Shuai",
       "Zhibek Kulambayeva"
     ],
     "out": [
+      "Adrienn Nagy",
       "Alexandra Eala",
       "Alice Rame",
+      "Alina Charaeva",
+      "Anastasiia Sobolieva",
       "Anhelina Kalinina",
       "Anna Bondar",
+      "Anna Siskova",
       "Aoi Ito",
       "Aran Teixido Garcia",
       "Barbora Palicova",
+      "Camila Osorio",
       "Clara Tauson",
+      "Cristina Bucsa",
+      "Daria Kasatkina",
+      "Daria Yesypchuk",
       "Deborah Chiesa",
+      "Despina Papamichail",
       "Diane Parry",
       "Donna Vekic",
       "Ekaterina Alexandrova",
+      "Elise Mertens",
       "Emiliana Arango",
+      "Eva Bennemann",
       "Eva Vedder",
       "Gaia Maduzzi",
+      "Ida Wobker",
       "Jennifer Ruggeri",
       "Julia Avdeeva",
+      "Katerina Siniakova",
+      "Katie Boulter",
+      "Kimberly Birrell",
+      "Laura Pigossi",
+      "Lilli Tagger",
       "Lina Gjorcheska",
       "Linda Klimovicova",
+      "Lisa Zaar",
       "Mananchaya Sawangkaew",
+      "Marta Kostyuk",
+      "Martina Colmegna",
+      "Mayar Sherif",
+      "Mina Hodzic",
       "Mona Barthel",
+      "Noemi Basiletti",
       "Polina Iatcenko",
       "Sara Bejlek",
+      "Sorana Cirstea",
+      "Tessa Johanna Brockmann",
       "Wang Xinyu",
       "Yasmine Kabbaj",
-      "Yuliia Starodubtseva"
+      "Yuliia Starodubtseva",
+      "Zeynep Sonmez",
+      "Zhang Shuai"
     ],
-    "aliveCount": 122,
-    "matchesSeen": 80
+    "aliveCount": 99,
+    "matchesSeen": 96
   },
   "ATP_SCORE_LOG": {
     "206173": [
