@@ -1477,6 +1477,37 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8480981,
+      "first": "Joel",
+      "last": "Hofer",
+      "name": "Joel Hofer",
+      "pos": "G",
+      "teamCode": "STL",
+      "age": 26,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#002f87",
+        "secondary": "#fcb514"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8480981.png",
+      "score": 74,
+      "stats": {
+        "gp": 4,
+        "w": 2,
+        "svpct": 0.921,
+        "gaa": 1.76,
+        "so": 1
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        74
+      ]
+    },
+    {
       "id": 8479410,
       "first": "Mikhail",
       "last": "Sergachev",
@@ -1543,37 +1574,6 @@ window.NHL_DATA = {
         74
       ],
       "legendScore": 35.9
-    },
-    {
-      "id": 8480981,
-      "first": "Joel",
-      "last": "Hofer",
-      "name": "Joel Hofer",
-      "pos": "G",
-      "teamCode": "STL",
-      "age": 26,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#002f87",
-        "secondary": "#fcb514"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8480981.png",
-      "score": 73,
-      "stats": {
-        "gp": 4,
-        "w": 2,
-        "svpct": 0.92,
-        "gaa": 1.76,
-        "so": 1
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        73
-      ]
     },
     {
       "id": 8482447,
@@ -1727,7 +1727,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 3,
         "w": 2,
-        "svpct": 0.908,
+        "svpct": 0.906,
         "gaa": 1.91,
         "so": 1
       },
@@ -9949,7 +9949,7 @@ window.NHL_DATA = {
         "g": 1,
         "a": 1,
         "p": 2,
-        "pm": 13,
+        "pm": 12,
         "toi": 21.7,
         "shots": 5
       },
@@ -12919,7 +12919,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": 0,
         "toi": 19.5,
-        "shots": 12
+        "shots": 11
       },
       "trajectory": [
         38,
@@ -15362,7 +15362,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": 0,
         "toi": 18.5,
-        "shots": 13
+        "shots": 14
       },
       "trajectory": [
         37,
@@ -18199,8 +18199,8 @@ window.NHL_DATA = {
         "g": 0,
         "a": 1,
         "p": 1,
-        "pm": 0,
-        "toi": 11.4,
+        "pm": 1,
+        "toi": 11.5,
         "shots": 0
       },
       "trajectory": [
@@ -24191,9 +24191,9 @@ window.NHL_DATA = {
       "name": "Cole Beaudoin",
       "pos": "C",
       "teamCode": "NYR",
-      "age": 20,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -34964,10 +34964,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-14 12:06 UTC",
+  "LAST_UPDATE": "2026-10-14 17:35 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-14T12:06:15Z"
+    "standingsDateTimeUtc": "2026-10-14T17:35:30Z"
   }
 };
