@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-14 17:37 UTC
+// Auto-generated 2026-10-14 18:12 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-14 17:37 UTC",
+  "UPDATED": "2026-10-14 18:12 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11642,15 +11642,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Lisa Pigato",
+          "w": "Lucie Havlickova",
           "w_logo": "",
-          "l": "Lucie Havlickova",
+          "l": "Lisa Pigato",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 52.3,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 52.3,
           "match_score": 52.3
         },
         {
