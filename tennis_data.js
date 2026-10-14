@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-14 10:16 UTC
+// Auto-generated 2026-10-14 12:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-14 10:16 UTC",
+  "UPDATED": "2026-10-14 12:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1189,7 +1189,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 66.1
@@ -5321,7 +5321,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 90.2
@@ -5422,9 +5422,9 @@ window.TENNIS_DATA = {
       "prevListRank": 8,
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 90.0
     },
@@ -8627,7 +8627,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 49.6
@@ -8871,7 +8871,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 47.7
@@ -9569,7 +9569,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 40.1
@@ -10952,15 +10952,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R16",
-          "w": "Tommy Paul",
+          "w": "Zizou Bergs",
           "w_logo": "",
-          "l": "Zizou Bergs",
+          "l": "Tommy Paul",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 80.2,
-          "l_score": 61.5,
+          "scheduled": false,
+          "w_score": 61.5,
+          "l_score": 80.2,
           "match_score": 80.2
         },
         {
@@ -10991,15 +10991,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R16",
-          "w": "Stefanos Tsitsipas",
+          "w": "Daniil Medvedev",
           "w_logo": "",
-          "l": "Daniil Medvedev",
+          "l": "Stefanos Tsitsipas",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 66.1,
-          "l_score": 78.9,
+          "w_score": 78.9,
+          "l_score": 66.1,
           "match_score": 78.9
         }
       ]
@@ -11459,15 +11459,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Aryna Sabalenka",
+          "w": "Ann Li",
           "w_logo": "",
-          "l": "Ann Li",
+          "l": "Aryna Sabalenka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 100.0,
-          "l_score": 66.4,
+          "scheduled": false,
+          "w_score": 66.4,
+          "l_score": 100.0,
           "match_score": 100.0
         },
         {
@@ -11498,15 +11498,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Jessica Pegula",
+          "w": "Jelena Ostapenko",
           "w_logo": "",
-          "l": "Jelena Ostapenko",
+          "l": "Jessica Pegula",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-6 7-6 (9-7) 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 89.9,
-          "l_score": 70.5,
+          "w_score": 70.5,
+          "l_score": 89.9,
           "match_score": 89.9
         },
         {
@@ -11574,7 +11574,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Marina Bassols Ribera",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 6-3 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11587,7 +11587,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Carole Monnet",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 40.0,
@@ -11596,15 +11596,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Julia Grabher",
+          "w": "Lidia Encheva",
           "w_logo": "",
-          "l": "Lidia Encheva",
+          "l": "Julia Grabher",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 35.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 35.2,
           "match_score": 35.2
         },
         {
@@ -11613,9 +11613,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ariana Geerlings",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11633,9 +11633,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Gabriela Knutson",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 55.6,
           "l_score": null,
           "match_score": 55.6
@@ -11705,7 +11705,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Selena Janicijevic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 42.7,
@@ -11919,7 +11919,6 @@ window.TENNIS_DATA = {
       "Jazmin Ortenzi",
       "Jelena Ostapenko",
       "Jessica Bouzas Maneiro",
-      "Jessica Pegula",
       "Jil Teichmann",
       "Joelle Lilly Sophie Steur",
       "Julia Grabher",
@@ -12004,6 +12003,7 @@ window.TENNIS_DATA = {
       "Giorgia Pedone",
       "Ida Wobker",
       "Jennifer Ruggeri",
+      "Jessica Pegula",
       "Julia Avdeeva",
       "Katerina Siniakova",
       "Katie Boulter",
@@ -12039,8 +12039,8 @@ window.TENNIS_DATA = {
       "Zhang Shuai",
       "Zhibek Kulambayeva"
     ],
-    "aliveCount": 78,
-    "matchesSeen": 116
+    "aliveCount": 77,
+    "matchesSeen": 118
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -974,7 +974,7 @@ window.NBA_DATA = {
           "primary": "#1d428a",
           "secondary": "#ffc72c"
         },
-        "prevRank": 5
+        "prevRank": 2
       },
       {
         "teamCode": "DEN",
@@ -990,7 +990,7 @@ window.NBA_DATA = {
           "primary": "#0e2240",
           "secondary": "#fec524"
         },
-        "prevRank": 2
+        "prevRank": 3
       },
       {
         "teamCode": "MIN",
@@ -1022,7 +1022,7 @@ window.NBA_DATA = {
           "primary": "#552583",
           "secondary": "#fdb927"
         },
-        "prevRank": 3
+        "prevRank": 5
       },
       {
         "teamCode": "OKC",
@@ -1038,7 +1038,7 @@ window.NBA_DATA = {
           "primary": "#007ac1",
           "secondary": "#ef3b24"
         },
-        "prevRank": 8
+        "prevRank": 6
       },
       {
         "teamCode": "IND",
@@ -1054,7 +1054,7 @@ window.NBA_DATA = {
           "primary": "#002d62",
           "secondary": "#fdbb30"
         },
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "teamCode": "MIL",
@@ -1070,7 +1070,7 @@ window.NBA_DATA = {
           "primary": "#00471b",
           "secondary": "#eee1c6"
         },
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "teamCode": "SA",
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-14 10:13 UTC",
+  "LAST_UPDATE": "2026-10-14 12:06 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
