@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-13 23:46 UTC",
+  "UPDATED": "2026-10-14 00:24 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -120,15 +120,6 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-06"
-    },
-    {
-      "id": "tennis:in:ATP:Arthur Fils:20260924",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Arthur Fils entra en el top 10 ATP",
-      "weight": 90,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-09-29"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
@@ -426,15 +417,6 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-06"
-    },
-    {
-      "id": "tennis:out:ATP:Taylor Fritz:20260924",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Taylor Fritz sale del top 10 ATP",
-      "weight": 78,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-09-29"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:BA Carse",

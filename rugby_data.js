@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-10-13 23:46 UTC",
+  "UPDATED": "2026-10-14 00:24 UTC",
   "LAST_MATCH": "2026-10-10",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -64,56 +64,6 @@ window.RUGBY_DATA = {
         "awayScore": 38,
         "venue": "Optus Stadium",
         "city": "Perth"
-      },
-      {
-        "date": "2026-09-19",
-        "status": "final",
-        "competition": "IRB Pacific Nations Cup",
-        "home": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "Fiji",
-          "teamCode": "FIJ",
-          "colors": {
-            "primary": "#6ecff6",
-            "secondary": "#111111"
-          }
-        },
-        "homeScore": 0,
-        "awayScore": 0,
-        "venue": "Prince Chichibu Memorial Stadium",
-        "city": "Tokyo"
-      },
-      {
-        "date": "2026-09-19",
-        "status": "final",
-        "competition": "IRB Pacific Nations Cup",
-        "home": {
-          "name": "United States",
-          "teamCode": "USA",
-          "colors": {
-            "primary": "#3c3b6e",
-            "secondary": "#b22234"
-          }
-        },
-        "away": {
-          "name": "Canada",
-          "teamCode": "C",
-          "colors": {
-            "primary": "#8a8178",
-            "secondary": "#dedad6"
-          }
-        },
-        "homeScore": 0,
-        "awayScore": 0,
-        "venue": "Prince Chichibu Memorial Stadium",
-        "city": "Tokyo"
       }
     ],
     "upcoming": [

@@ -1164,7 +1164,7 @@ window.NHL_DATA = {
       "name": "Quinn Hughes",
       "pos": "D",
       "teamCode": "MIN",
-      "age": 26,
+      "age": 27,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -9943,7 +9943,7 @@ window.NHL_DATA = {
       "name": "Matias Maccelli",
       "pos": "LW",
       "teamCode": "NYI",
-      "age": 25,
+      "age": 26,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -9967,8 +9967,7 @@ window.NHL_DATA = {
         43,
         45,
         53
-      ],
-      "legendScore": 45.6
+      ]
     },
     {
       "id": 8483505,
@@ -21360,7 +21359,7 @@ window.NHL_DATA = {
       "name": "Scott Mayfield",
       "pos": "D",
       "teamCode": "NYI",
-      "age": 33,
+      "age": 34,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -35046,10 +35045,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-13 23:44 UTC",
+  "LAST_UPDATE": "2026-10-14 00:22 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-13T23:43:30Z"
+    "standingsDateTimeUtc": "2026-10-14T00:22:30Z"
   }
 };
