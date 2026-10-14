@@ -745,7 +745,7 @@ window.NFL_DATA = {
       "name": "Jared Goff",
       "pos": "QB",
       "teamCode": "DET",
-      "age": 31,
+      "age": 32,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3046779.png",
       "colors": {
         "primary": "#0076b6",
@@ -1775,10 +1775,10 @@ window.NFL_DATA = {
           "primary": "#0076b6",
           "secondary": "#b0b7bc"
         },
-        "age": 31,
-        "careerScore": 79.6,
+        "age": 32,
+        "careerScore": 80.9,
         "threshold": 90.0,
-        "gap": 10.4,
+        "gap": 9.1,
         "rings": 0,
         "note": "1–2 temporadas elite + un Super Bowl",
         "prevRank": 1
@@ -2038,7 +2038,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-14 00:22 UTC",
+  "LAST_UPDATE": "2026-10-14 10:13 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
