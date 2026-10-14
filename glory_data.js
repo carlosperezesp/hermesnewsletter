@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-14 18:12 UTC",
+  "UPDATED": "2026-10-14 23:17 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -122,6 +122,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-06"
     },
     {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:PJ Cummins",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "PJ Cummins entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-14"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Jack Eichel",
       "sport": "nhl",
       "detail": "NHL",
@@ -226,15 +235,6 @@ window.GLORY_DATA = {
       "detail": "NFL",
       "anchor": "nfl-jovenes-promesas",
       "text": "Jayden Daniels entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:JNT Seales",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "JNT Seales entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-12"
     },
@@ -963,8 +963,8 @@ window.GLORY_DATA = {
       "Taijul Islam",
       "MJ Henry",
       "RA Jadeja",
-      "JNT Seales",
       "KA Maharaj",
+      "PJ Cummins",
       "Nauman Ali",
       "JC Tongue",
       "Sajid Khan"

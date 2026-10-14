@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-14 18:12 UTC
+// Auto-generated 2026-10-14 23:17 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-14 18:12 UTC",
+  "UPDATED": "2026-10-14 23:17 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8045,7 +8045,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 52.3
@@ -11646,7 +11646,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lisa Pigato",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-0 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11718,7 +11718,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martha Matoula",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-0 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 36.4,
@@ -12040,7 +12040,7 @@ window.TENNIS_DATA = {
       "Zhibek Kulambayeva"
     ],
     "aliveCount": 76,
-    "matchesSeen": 123
+    "matchesSeen": 124
   },
   "ATP_SCORE_LOG": {
     "206173": [
