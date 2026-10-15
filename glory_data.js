@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-15 00:00 UTC",
+  "UPDATED": "2026-10-15 09:58 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -601,10 +601,10 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Macklin Celebrini",
       "Matthew Schaefer",
+      "Lane Hutson",
       "Leo Carlsson",
       "Beckett Sennecke",
       "Tim Stützle",
-      "Lane Hutson",
       "Vasily Podkolzin",
       "Ivan Demidov",
       "Jack Hughes",
@@ -626,8 +626,8 @@ window.GLORY_DATA = {
       "Boston Celtics",
       "Golden State Warriors",
       "Denver Nuggets",
-      "Minnesota Timberwolves",
       "Los Angeles Lakers",
+      "Minnesota Timberwolves",
       "Oklahoma City Thunder",
       "Indiana Pacers",
       "Milwaukee Bucks",

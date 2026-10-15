@@ -5881,7 +5881,7 @@ window.MLB_DATA = {
       "last": "Kelly",
       "pos": "SP",
       "teamCode": "ARI",
-      "age": 37,
+      "age": 38,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32968.png",
       "colors": {
         "primary": "#a71930",
@@ -5897,7 +5897,7 @@ window.MLB_DATA = {
         "so": 113,
         "whip": 1.46
       },
-      "legendScore": 34.6,
+      "legendScore": 35.5,
       "currentScore": 39,
       "battingScore": null,
       "pitchingScore": 39,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-14 23:58 UTC",
+  "LAST_UPDATE": "2026-10-15 09:55 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
