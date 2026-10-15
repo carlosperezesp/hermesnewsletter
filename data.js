@@ -2868,7 +2868,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 2,
         "w": 1,
-        "svpct": 0.898,
+        "svpct": 0.897,
         "gaa": 3.06,
         "so": 0
       },
@@ -6794,7 +6794,7 @@ window.NHL_DATA = {
         "p": 6,
         "pm": 1,
         "toi": 13.9,
-        "shots": 17
+        "shots": 18
       },
       "trajectory": [
         38,
@@ -7315,7 +7315,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 4,
         "w": 1,
-        "svpct": 0.841,
+        "svpct": 0.842,
         "gaa": 4.63,
         "so": 0
       },
@@ -11117,7 +11117,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": 1,
         "toi": 15.1,
-        "shots": 6
+        "shots": 5
       },
       "trajectory": [
         38,
@@ -23566,9 +23566,9 @@ window.NHL_DATA = {
       "name": "Jared Wright",
       "pos": "RW",
       "teamCode": "LAK",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -35032,10 +35032,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-15 11:43 UTC",
+  "LAST_UPDATE": "2026-10-15 17:20 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-15T11:43:15Z"
+    "standingsDateTimeUtc": "2026-10-15T17:20:00Z"
   }
 };

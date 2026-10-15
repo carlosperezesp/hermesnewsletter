@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-15 11:46 UTC
+// Auto-generated 2026-10-15 17:23 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-15 11:46 UTC",
+  "UPDATED": "2026-10-15 17:23 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5389,7 +5389,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R32",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 90.3
@@ -6375,7 +6375,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R32",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 66.7
@@ -6615,7 +6615,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 63.6
@@ -7329,7 +7329,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.8
@@ -7875,7 +7875,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.9
@@ -8559,7 +8559,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 49.7
@@ -8735,7 +8735,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -9357,7 +9357,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 40.8
@@ -9887,7 +9887,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 36.5
@@ -11294,7 +11294,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ashlyn Krueger",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 90.3,
@@ -11359,9 +11359,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Janice Tjen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 7-6 (7-1)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.4,
           "l_score": 54.0,
           "match_score": 66.4
@@ -11392,7 +11392,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucie Nguyen Tan",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-0 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 63.6,
@@ -11414,26 +11414,26 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Joelle Lilly Sophie Steur",
+          "w": "Rebeka Masarova",
           "w_logo": "",
-          "l": "Tamara Zidansek",
+          "l": "Ane Mintegi Del Olmo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 7-6 (7-1) 1-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "R64",
-          "w": "Rebeka Masarova",
+          "w": "Tamara Zidansek",
           "w_logo": "",
-          "l": "Ane Mintegi Del Olmo",
+          "l": "Joelle Lilly Sophie Steur",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11447,15 +11447,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Antonia Ruzic",
+          "w": "Bianca Andreescu",
           "w_logo": "",
-          "l": "Bianca Andreescu",
+          "l": "Antonia Ruzic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 55.1,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 55.1,
           "match_score": 55.1
         },
         {
@@ -11477,9 +11477,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Viktoria Hruncakova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 49.7,
           "l_score": null,
           "match_score": 49.7
@@ -11490,9 +11490,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anouk Koevermans",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-1 ret",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11510,9 +11510,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Francisca Jorge",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 40.8,
           "l_score": null,
           "match_score": 40.8
@@ -11536,20 +11536,20 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mathilde Lollia",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "R64",
-          "w": "Matilde Jorge",
+          "w": "Dalma Galfi",
           "w_logo": "",
-          "l": "Dalma Galfi",
+          "l": "Matilde Jorge",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 7-6 (12-10) 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11858,7 +11858,7 @@ window.TENNIS_DATA = {
       "Zhibek Kulambayeva"
     ],
     "aliveCount": 76,
-    "matchesSeen": 129
+    "matchesSeen": 134
   },
   "ATP_SCORE_LOG": {
     "206173": [
