@@ -843,7 +843,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": 8477934,
@@ -878,7 +878,7 @@ window.NHL_DATA = {
         81
       ],
       "legendScore": 63.8,
-      "prevRank": 6
+      "prevRank": 5
     },
     {
       "id": 8482193,
@@ -910,7 +910,7 @@ window.NHL_DATA = {
         60,
         80
       ],
-      "prevRank": 7
+      "prevRank": 6
     },
     {
       "id": 8476999,
@@ -942,7 +942,7 @@ window.NHL_DATA = {
         60,
         80
       ],
-      "prevRank": 8
+      "prevRank": 7
     },
     {
       "id": 8480280,
@@ -974,7 +974,7 @@ window.NHL_DATA = {
         60,
         79
       ],
-      "prevRank": 9
+      "prevRank": 8
     },
     {
       "id": 8480800,
@@ -1009,7 +1009,7 @@ window.NHL_DATA = {
         79
       ],
       "legendScore": 52.5,
-      "prevRank": 10
+      "prevRank": 9
     },
     {
       "id": 8479318,
@@ -1044,7 +1044,7 @@ window.NHL_DATA = {
         78
       ],
       "legendScore": 59.5,
-      "prevRank": 11
+      "prevRank": 10
     },
     {
       "id": 8478398,
@@ -34857,7 +34857,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.1,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 6
+        "prevRank": 3
       },
       {
         "id": 8484153,
@@ -34875,7 +34875,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "id": 8484762,
@@ -34893,7 +34893,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.6,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 8482116,
@@ -34911,7 +34911,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 35.6,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "id": 8481617,
@@ -35032,10 +35032,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-15 09:55 UTC",
+  "LAST_UPDATE": "2026-10-15 11:43 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-15T09:54:45Z"
+    "standingsDateTimeUtc": "2026-10-15T11:43:15Z"
   }
 };

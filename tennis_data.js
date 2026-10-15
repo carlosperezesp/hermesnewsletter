@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-15 09:58 UTC
+// Auto-generated 2026-10-15 11:46 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-15 09:58 UTC",
+  "UPDATED": "2026-10-15 11:46 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 87.5
@@ -441,7 +441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 76.6
@@ -849,7 +849,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 72.3
@@ -5321,7 +5321,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R32",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 90.2
@@ -6035,7 +6035,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 72.9
@@ -8283,7 +8283,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 51.7
@@ -9183,7 +9183,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -9959,7 +9959,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 36.0
@@ -10956,9 +10956,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alex de Minaur",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 87.5,
           "l_score": 76.6,
           "match_score": 87.5
@@ -11294,9 +11294,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ashlyn Krueger",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.3,
           "l_score": 57.4,
           "match_score": 90.3
@@ -11329,15 +11329,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R32",
-          "w": "Jasmine Paolini",
+          "w": "Sonay Kartal",
           "w_logo": "",
-          "l": "Sonay Kartal",
+          "l": "Jasmine Paolini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-0",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 71.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 71.2,
           "match_score": 71.2
         },
         {
@@ -11392,24 +11392,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucie Nguyen Tan",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.6,
           "l_score": null,
           "match_score": 63.6
         },
         {
           "round": "R64",
-          "w": "Nuria Brancaccio",
+          "w": "Andrea Lazaro Garcia",
           "w_logo": "",
-          "l": "Andrea Lazaro Garcia",
+          "l": "Nuria Brancaccio",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (1-7) 7-5 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 48.6,
+          "w_score": 48.6,
+          "l_score": null,
           "match_score": 48.6
         },
         {
@@ -11460,15 +11460,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Teodora Kostovic",
+          "w": "Martyna Kubka",
           "w_logo": "",
-          "l": "Martyna Kubka",
+          "l": "Teodora Kostovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.6,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 51.6,
           "match_score": 51.6
         },
         {
@@ -11523,9 +11523,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Raluka Serban",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.9,
           "l_score": null,
           "match_score": 35.9
@@ -11549,9 +11549,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Dalma Galfi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11672,7 +11672,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen"
     ],
     "aliveCount": 53,
-    "matchesSeen": 92
+    "matchesSeen": 93
   },
   "WTA_TOURNAMENT": {
     "name": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
@@ -11858,7 +11858,7 @@ window.TENNIS_DATA = {
       "Zhibek Kulambayeva"
     ],
     "aliveCount": 76,
-    "matchesSeen": 126
+    "matchesSeen": 129
   },
   "ATP_SCORE_LOG": {
     "206173": [

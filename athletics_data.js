@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-15 09:58 UTC
+// Auto-generated 2026-10-15 11:46 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-10-15 09:58 UTC",
+  "UPDATED": "2026-10-15 11:46 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -2958,108 +2958,7 @@ window.ATHLETICS_DATA = {
               "year": 2024
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "3:54.05",
-              "athlete": "Klaudia Kazimierska",
-              "country": "POL",
-              "flag": "https://flagcdn.com/24x18/pl.png",
-              "primary": "#DC143C",
-              "venue": "Boudewijnstadion",
-              "date": "05 SEP 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "3:54.72",
-              "athlete": "Dorcus Ewoi",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "Boudewijnstadion",
-              "date": "05 SEP 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "3:54.73",
-              "athlete": "Jessica Hull",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Boudewijnstadion",
-              "date": "05 SEP 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "3:55.06",
-              "athlete": "Tsige Duguma",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "3:55.56",
-              "athlete": "Birke Haylom",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "3:55.63",
-              "athlete": "Georgia Hunter Bell",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "3:55.92",
-              "athlete": "Freweyni Hailu",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "3:56.12",
-              "athlete": "Abbey Caldwell",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "3:56.24",
-              "athlete": "Agathe Guillemot",
-              "country": "FRA",
-              "flag": "https://flagcdn.com/24x18/fr.png",
-              "primary": "#002395",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "3:56.24",
-              "athlete": "Emily Mackay",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "5000m_m",
