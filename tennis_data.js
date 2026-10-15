@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-15 17:55 UTC
+// Auto-generated 2026-10-15 23:07 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-15 17:55 UTC",
+  "UPDATED": "2026-10-15 23:07 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7739,7 +7739,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 56.5
@@ -9463,7 +9463,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 40.4
@@ -11438,7 +11438,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Antonia Ruzic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 3-6 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11845,7 +11845,7 @@ window.TENNIS_DATA = {
       "Zhibek Kulambayeva"
     ],
     "aliveCount": 76,
-    "matchesSeen": 134
+    "matchesSeen": 135
   },
   "ATP_SCORE_LOG": {
     "206173": [

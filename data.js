@@ -2951,9 +2951,9 @@ window.NHL_DATA = {
       "name": "Matt Murray",
       "pos": "G",
       "teamCode": "NSH",
-      "age": 28,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#041e42"
@@ -3854,9 +3854,9 @@ window.NHL_DATA = {
       "name": "Justin Holl",
       "pos": "D",
       "teamCode": "WSH",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 34,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -19078,9 +19078,9 @@ window.NHL_DATA = {
       "name": "Aatu Räty",
       "pos": "C",
       "teamCode": "VAN",
-      "age": 23,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#00843d"
@@ -35032,10 +35032,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-15 17:52 UTC",
+  "LAST_UPDATE": "2026-10-15 23:04 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-15T17:51:45Z"
+    "standingsDateTimeUtc": "2026-10-15T23:04:00Z"
   }
 };

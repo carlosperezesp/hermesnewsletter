@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-10-15 17:52 UTC",
+  "UPDATED": "2026-10-15 23:05 UTC",
   "SEASON": 2026,
   "ROUND": 18,
   "TOTAL_ROUNDS": 19,
@@ -484,7 +484,7 @@ window.INDYCAR_DATA = {
       "points": 245.0,
       "score": 23.9,
       "legendScore": 0.0,
-      "age": 26,
+      "age": null,
       "prevRank": 21,
       "stats": {
         "pts": 245.0
