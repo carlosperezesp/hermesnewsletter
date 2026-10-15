@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-15 17:23 UTC
+// Auto-generated 2026-10-15 17:55 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-15 17:23 UTC",
+  "UPDATED": "2026-10-15 17:55 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11411,19 +11411,6 @@ window.TENNIS_DATA = {
           "w_score": 48.6,
           "l_score": null,
           "match_score": 48.6
-        },
-        {
-          "round": "R64",
-          "w": "Rebeka Masarova",
-          "w_logo": "",
-          "l": "Ane Mintegi Del Olmo",
-          "l_logo": "",
-          "score": "4-6 7-6 (7-1) 1-1",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
         },
         {
           "round": "R64",
