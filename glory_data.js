@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-14 23:17 UTC",
+  "UPDATED": "2026-10-15 00:00 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -552,42 +552,6 @@ window.GLORY_DATA = {
       "text": "Jaxson Dart cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-10-01"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Porter Martone",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Porter Martone cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-09-30"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Matt Boldy",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Matt Boldy cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-09-30"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Ilya Protas",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Ilya Protas cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-09-30"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Victor Eklund",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Victor Eklund cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-09-30"
     }
   ],
   "REPORTS": [],
