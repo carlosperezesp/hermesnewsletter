@@ -836,7 +836,7 @@ window.NHL_DATA = {
         "p": 14,
         "pm": 7,
         "toi": 21.3,
-        "shots": 25
+        "shots": 26
       },
       "trajectory": [
         40,
@@ -1384,6 +1384,37 @@ window.NHL_DATA = {
       "legendScore": 54.9
     },
     {
+      "id": 8482661,
+      "first": "Jesper",
+      "last": "Wallstedt",
+      "name": "Jesper Wallstedt",
+      "pos": "G",
+      "teamCode": "MIN",
+      "age": 23,
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "colors": {
+        "primary": "#154734",
+        "secondary": "#a6192e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8482661.png",
+      "score": 75,
+      "stats": {
+        "gp": 7,
+        "w": 5,
+        "svpct": 0.921,
+        "gaa": 2.13,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        75
+      ]
+    },
+    {
       "id": 8483457,
       "first": "Lane",
       "last": "Hutson",
@@ -1484,37 +1515,6 @@ window.NHL_DATA = {
         74
       ],
       "legendScore": 48.0
-    },
-    {
-      "id": 8482661,
-      "first": "Jesper",
-      "last": "Wallstedt",
-      "name": "Jesper Wallstedt",
-      "pos": "G",
-      "teamCode": "MIN",
-      "age": 23,
-      "country": "Sweden",
-      "birthCountry": "SWE",
-      "colors": {
-        "primary": "#154734",
-        "secondary": "#a6192e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8482661.png",
-      "score": 74,
-      "stats": {
-        "gp": 7,
-        "w": 5,
-        "svpct": 0.92,
-        "gaa": 2.13,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        74
-      ]
     },
     {
       "id": 8484153,
@@ -7558,7 +7558,7 @@ window.NHL_DATA = {
         "p": 5,
         "pm": -4,
         "toi": 17.7,
-        "shots": 12
+        "shots": 13
       },
       "trajectory": [
         38,
@@ -35353,10 +35353,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-16 16:56 UTC",
+  "LAST_UPDATE": "2026-10-16 17:40 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-16T16:55:45Z"
+    "standingsDateTimeUtc": "2026-10-16T17:39:45Z"
   }
 };

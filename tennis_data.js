@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-16 16:58 UTC
+// Auto-generated 2026-10-16 17:42 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-16 16:58 UTC",
+  "UPDATED": "2026-10-16 17:42 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11395,11 +11395,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Jil Teichmann",
+          "w": "Lucie Havlickova",
           "w_logo": "",
-          "l": "Lucie Havlickova",
+          "l": "Jil Teichmann",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
