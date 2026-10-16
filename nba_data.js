@@ -148,18 +148,38 @@ window.NBA_DATA = {
       "shortName": "Toronto",
       "commonName": "Raptors",
       "conf": "E",
-      "gp": 3,
+      "gp": 4,
       "w": 2,
-      "l": 1,
-      "winPct": 0.667,
-      "gf": 367,
-      "ga": 333,
-      "gd": 34,
-      "score": 75,
+      "l": 2,
+      "winPct": 0.5,
+      "gf": 487,
+      "ga": 455,
+      "gd": 32,
+      "score": 55,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
       "colors": {
         "primary": "#ce1141",
         "secondary": "#000000"
+      }
+    },
+    {
+      "code": "HOU",
+      "city": "Houston Rockets",
+      "shortName": "Houston",
+      "commonName": "Rockets",
+      "conf": "W",
+      "gp": 3,
+      "w": 2,
+      "l": 1,
+      "winPct": 0.667,
+      "gf": 366,
+      "ga": 338,
+      "gd": 28,
+      "score": 71,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+      "colors": {
+        "primary": "#ce1141",
+        "secondary": "#c4cdd2"
       }
     },
     {
@@ -383,26 +403,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "HOU",
-      "city": "Houston Rockets",
-      "shortName": "Houston",
-      "commonName": "Rockets",
-      "conf": "W",
-      "gp": 2,
-      "w": 1,
-      "l": 1,
-      "winPct": 0.5,
-      "gf": 250,
-      "ga": 249,
-      "gd": 1,
-      "score": 42,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
-      "colors": {
-        "primary": "#ce1141",
-        "secondary": "#c4cdd2"
-      }
-    },
-    {
       "code": "SA",
       "city": "San Antonio Spurs",
       "shortName": "San Antonio",
@@ -440,26 +440,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#00538c",
         "secondary": "#002b5e"
-      }
-    },
-    {
-      "code": "OKC",
-      "city": "Oklahoma City Thunder",
-      "shortName": "Oklahoma City",
-      "commonName": "Thunder",
-      "conf": "W",
-      "gp": 4,
-      "w": 1,
-      "l": 3,
-      "winPct": 0.25,
-      "gf": 460,
-      "ga": 469,
-      "gd": -9,
-      "score": 16,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-      "colors": {
-        "primary": "#007ac1",
-        "secondary": "#ef3b24"
       }
     },
     {
@@ -523,6 +503,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "OKC",
+      "city": "Oklahoma City Thunder",
+      "shortName": "Oklahoma City",
+      "commonName": "Thunder",
+      "conf": "W",
+      "gp": 5,
+      "w": 1,
+      "l": 4,
+      "winPct": 0.2,
+      "gf": 549,
+      "ga": 585,
+      "gd": -36,
+      "score": 3,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+      "colors": {
+        "primary": "#007ac1",
+        "secondary": "#ef3b24"
+      }
+    },
+    {
       "code": "CHA",
       "city": "Charlotte Hornets",
       "shortName": "Charlotte",
@@ -563,6 +563,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "NY",
+      "city": "New York Knicks",
+      "shortName": "New York",
+      "commonName": "Knicks",
+      "conf": "E",
+      "gp": 5,
+      "w": 1,
+      "l": 4,
+      "winPct": 0.2,
+      "gf": 530,
+      "ga": 621,
+      "gd": -91,
+      "score": 0,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+      "colors": {
+        "primary": "#006bb6",
+        "secondary": "#f58426"
+      }
+    },
+    {
       "code": "SAC",
       "city": "Sacramento Kings",
       "shortName": "Sacramento",
@@ -580,26 +600,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#5a2d81",
         "secondary": "#63727a"
-      }
-    },
-    {
-      "code": "NY",
-      "city": "New York Knicks",
-      "shortName": "New York",
-      "commonName": "Knicks",
-      "conf": "E",
-      "gp": 4,
-      "w": 0,
-      "l": 4,
-      "winPct": 0.0,
-      "gf": 408,
-      "ga": 501,
-      "gd": -93,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-      "colors": {
-        "primary": "#006bb6",
-        "secondary": "#f58426"
       }
     }
   ],
@@ -1025,22 +1025,6 @@ window.NBA_DATA = {
         "prevRank": 5
       },
       {
-        "teamCode": "OKC",
-        "city": "Oklahoma City Thunder",
-        "era": "2023–present",
-        "rings": 1,
-        "dynastyScore": 30.8,
-        "threshold": 89.4,
-        "gap": 58.6,
-        "note": "2025 Champions · SGA Finals MVP · dynasty begins",
-        "needs": "2–3 more titles + another dominant era needed",
-        "colors": {
-          "primary": "#007ac1",
-          "secondary": "#ef3b24"
-        },
-        "prevRank": 6
-      },
-      {
         "teamCode": "IND",
         "city": "Indiana Pacers",
         "era": "2024–present",
@@ -1055,6 +1039,22 @@ window.NBA_DATA = {
           "secondary": "#fdbb30"
         },
         "prevRank": 7
+      },
+      {
+        "teamCode": "OKC",
+        "city": "Oklahoma City Thunder",
+        "era": "2023–present",
+        "rings": 1,
+        "dynastyScore": 23.6,
+        "threshold": 89.4,
+        "gap": 65.8,
+        "note": "2025 Champions · SGA Finals MVP · dynasty begins",
+        "needs": "2–3 more titles + another dominant era needed",
+        "colors": {
+          "primary": "#007ac1",
+          "secondary": "#ef3b24"
+        },
+        "prevRank": 6
       },
       {
         "teamCode": "MIL",
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-15 23:43 UTC",
+  "LAST_UPDATE": "2026-10-16 09:49 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

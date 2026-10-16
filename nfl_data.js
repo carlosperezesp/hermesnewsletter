@@ -141,22 +141,45 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "DEN",
+      "city": "Denver Broncos",
+      "shortName": "Denver",
+      "commonName": "Broncos",
+      "conf": "AFC",
+      "div": "AFC West",
+      "gp": 6,
+      "w": 4,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.667,
+      "pf": 114,
+      "pa": 125,
+      "pd": -11,
+      "seed": 6,
+      "score": 52,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+      "colors": {
+        "primary": "#fb4f14",
+        "secondary": "#002244"
+      }
+    },
+    {
       "code": "SEA",
       "city": "Seattle Seahawks",
       "shortName": "Seattle",
       "commonName": "Seahawks",
       "conf": "NFC",
       "div": "NFC West",
-      "gp": 5,
+      "gp": 6,
       "w": 3,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "winPct": 0.6,
-      "pf": 134,
-      "pa": 105,
-      "pd": 29,
+      "winPct": 0.5,
+      "pf": 148,
+      "pa": 122,
+      "pd": 26,
       "seed": 8,
-      "score": 53,
+      "score": 43,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
       "colors": {
         "primary": "#002244",
@@ -345,29 +368,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#203731",
         "secondary": "#ffb612"
-      }
-    },
-    {
-      "code": "DEN",
-      "city": "Denver Broncos",
-      "shortName": "Denver",
-      "commonName": "Broncos",
-      "conf": "AFC",
-      "div": "AFC West",
-      "gp": 5,
-      "w": 3,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.6,
-      "pf": 97,
-      "pa": 111,
-      "pd": -14,
-      "seed": 6,
-      "score": 46,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-      "colors": {
-        "primary": "#fb4f14",
-        "secondary": "#002244"
       }
     },
     {
@@ -1261,17 +1261,17 @@ window.NFL_DATA = {
         "primary": "#fb4f14",
         "secondary": "#002244"
       },
-      "score": 63,
+      "score": 65,
       "stats": {
         "type": "passing",
-        "cmp": 97,
-        "att": 162,
-        "pct": 59.9,
-        "yds": 942,
-        "ypa": 5.8,
+        "cmp": 114,
+        "att": 189,
+        "pct": 60.3,
+        "yds": 1049,
+        "ypa": 5.6,
         "td": 6,
         "int": 3,
-        "rushYds": 35,
+        "rushYds": 37,
         "rushTd": 0
       }
     },
@@ -1311,17 +1311,17 @@ window.NFL_DATA = {
         "primary": "#002244",
         "secondary": "#69be28"
       },
-      "score": 58,
+      "score": 59,
       "stats": {
         "type": "passing",
-        "cmp": 63,
-        "att": 98,
-        "pct": 64.3,
-        "yds": 755,
-        "ypa": 7.7,
+        "cmp": 90,
+        "att": 149,
+        "pct": 60.4,
+        "yds": 1033,
+        "ypa": 6.9,
         "td": 7,
-        "int": 5,
-        "rushYds": 16,
+        "int": 7,
+        "rushYds": 35,
         "rushTd": 0
       }
     },
@@ -2038,7 +2038,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-15 23:43 UTC",
+  "LAST_UPDATE": "2026-10-16 09:50 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
