@@ -3753,7 +3753,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 2,
         "w": 0,
-        "svpct": 0.902,
+        "svpct": 0.905,
         "gaa": 1.93,
         "so": 0
       },
@@ -4510,6 +4510,37 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8481033,
+      "first": "Akira",
+      "last": "Schmid",
+      "name": "Akira Schmid",
+      "pos": "G",
+      "teamCode": "FLA",
+      "age": 26,
+      "country": "Switzerland",
+      "birthCountry": "CHE",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8481033.png",
+      "score": 63,
+      "stats": {
+        "gp": 4,
+        "w": 2,
+        "svpct": 0.878,
+        "gaa": 3.25,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        63
+      ]
+    },
+    {
       "id": 8477949,
       "first": "Alex",
       "last": "Tuch",
@@ -4873,37 +4904,6 @@ window.NHL_DATA = {
         43,
         45,
         63
-      ]
-    },
-    {
-      "id": 8481033,
-      "first": "Akira",
-      "last": "Schmid",
-      "name": "Akira Schmid",
-      "pos": "G",
-      "teamCode": "FLA",
-      "age": 26,
-      "country": "Switzerland",
-      "birthCountry": "CHE",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8481033.png",
-      "score": 62,
-      "stats": {
-        "gp": 4,
-        "w": 2,
-        "svpct": 0.876,
-        "gaa": 3.25,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        62
       ]
     },
     {
@@ -6129,7 +6129,7 @@ window.NHL_DATA = {
         "a": 4,
         "p": 6,
         "pm": -2,
-        "toi": 16.0,
+        "toi": 15.9,
         "shots": 11
       },
       "trajectory": [
@@ -8258,7 +8258,7 @@ window.NHL_DATA = {
         "p": 6,
         "pm": -5,
         "toi": 18.2,
-        "shots": 12
+        "shots": 13
       },
       "trajectory": [
         38,
@@ -8687,7 +8687,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": 0,
         "toi": 19.6,
-        "shots": 16
+        "shots": 17
       },
       "trajectory": [
         38,
@@ -9183,7 +9183,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": -3,
         "toi": 20.5,
-        "shots": 20
+        "shots": 21
       },
       "trajectory": [
         38,
@@ -10881,7 +10881,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 4,
         "pm": -1,
-        "toi": 14.7,
+        "toi": 14.6,
         "shots": 8
       },
       "trajectory": [
@@ -11648,7 +11648,7 @@ window.NHL_DATA = {
         "a": 1,
         "p": 1,
         "pm": 0,
-        "toi": 12.2,
+        "toi": 12.1,
         "shots": 2
       },
       "trajectory": [
@@ -12215,7 +12215,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": 3,
         "toi": 17.9,
-        "shots": 11
+        "shots": 10
       },
       "trajectory": [
         38,
@@ -14150,7 +14150,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": -4,
         "toi": 19.3,
-        "shots": 14
+        "shots": 13
       },
       "trajectory": [
         37,
@@ -15206,7 +15206,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": 2,
         "toi": 16.7,
-        "shots": 9
+        "shots": 10
       },
       "trajectory": [
         37,
@@ -18143,7 +18143,7 @@ window.NHL_DATA = {
         "p": 1,
         "pm": 4,
         "toi": 15.6,
-        "shots": 5
+        "shots": 6
       },
       "trajectory": [
         37,
@@ -24610,7 +24610,7 @@ window.NHL_DATA = {
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 8.2,
+        "toi": 8.6,
         "shots": 0
       },
       "trajectory": [
@@ -24694,9 +24694,9 @@ window.NHL_DATA = {
       "name": "Jaroslav Chmelar",
       "pos": "RW",
       "teamCode": "NYR",
-      "age": 23,
-      "country": "Czechia",
-      "birthCountry": "CZE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -25006,7 +25006,7 @@ window.NHL_DATA = {
         "a": 0,
         "p": 0,
         "pm": -4,
-        "toi": 9.8,
+        "toi": 10.0,
         "shots": 0
       },
       "trajectory": [
@@ -35353,10 +35353,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-16 11:37 UTC",
+  "LAST_UPDATE": "2026-10-16 16:56 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-16T11:36:30Z"
+    "standingsDateTimeUtc": "2026-10-16T16:55:45Z"
   }
 };

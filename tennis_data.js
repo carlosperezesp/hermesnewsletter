@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-16 11:39 UTC
+// Auto-generated 2026-10-16 16:58 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-16 11:39 UTC",
+  "UPDATED": "2026-10-16 16:58 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -203,7 +203,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 80.2
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 79.1
@@ -305,7 +305,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 78.9
@@ -5389,7 +5389,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 90.3
@@ -5661,7 +5661,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 80.4
@@ -6375,7 +6375,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 66.7
@@ -6615,7 +6615,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 63.6
@@ -8419,7 +8419,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 51.0
@@ -8559,7 +8559,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 49.7
@@ -8735,7 +8735,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -9357,7 +9357,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.8
@@ -9569,7 +9569,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.1
@@ -9887,7 +9887,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.5
@@ -9959,7 +9959,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 36.0
@@ -10926,15 +10926,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Tommy Paul",
+          "w": "Daniil Medvedev",
           "w_logo": "",
-          "l": "Daniil Medvedev",
+          "l": "Tommy Paul",
           "l_logo": "",
-          "score": "3-6 6-1",
+          "score": "6-3 1-6 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 80.2,
-          "l_score": 78.9,
+          "w_score": 78.9,
+          "l_score": 80.2,
           "match_score": 80.2
         },
         {
@@ -11255,7 +11255,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ann Li",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 90.3,
@@ -11301,24 +11301,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Andrea Lazaro Garcia",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 ret",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.6,
           "l_score": 48.6,
           "match_score": 63.6
         },
         {
           "round": "Quarterfinal",
-          "w": "Elizara Yaneva",
+          "w": "Francesca Curmi",
           "w_logo": "",
-          "l": "Francesca Curmi",
+          "l": "Elizara Yaneva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 4-6 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 40.0,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 40.0,
           "match_score": 40.0
         },
         {
@@ -11336,13 +11336,13 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Rebeka Masarova",
+          "w": "Tamara Zidansek",
           "w_logo": "",
-          "l": "Tamara Zidansek",
+          "l": "Rebeka Masarova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 3-6 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11373,9 +11373,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lea Boskovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 2-6 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 49.7,
           "l_score": null,
           "match_score": 49.7
@@ -11399,9 +11399,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucie Havlickova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11412,7 +11412,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Gabriela Knutson",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 4-2 ret",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11428,15 +11428,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Polona Hercog",
+          "w": "Jessica Bouzas Maneiro",
           "w_logo": "",
-          "l": "Jessica Bouzas Maneiro",
+          "l": "Polona Hercog",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-1 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 50.5,
+          "w_score": 50.5,
+          "l_score": null,
           "match_score": 50.5
         },
         {
@@ -11454,28 +11454,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Francesca Jones",
+          "w": "Dalma Galfi",
           "w_logo": "",
-          "l": "Dalma Galfi",
+          "l": "Francesca Jones",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 40.8,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 40.8,
           "match_score": 40.8
         },
         {
           "round": "Quarterfinal",
-          "w": "Guiomar Maristany Zuleta De Reales",
+          "w": "Clara Burel",
           "w_logo": "",
-          "l": "Clara Burel",
+          "l": "Guiomar Maristany Zuleta De Reales",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 36.4,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 36.4,
           "match_score": 36.4
         }
       ]
@@ -11594,7 +11594,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen"
     ],
     "aliveCount": 53,
-    "matchesSeen": 93
+    "matchesSeen": 94
   },
   "WTA_TOURNAMENT": {
     "name": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open · Kinoshita Group Japan Open · BNB Ningbo Open",
@@ -11790,7 +11790,7 @@ window.TENNIS_DATA = {
       "Zhibek Kulambayeva"
     ],
     "aliveCount": 76,
-    "matchesSeen": 137
+    "matchesSeen": 143
   },
   "ATP_SCORE_LOG": {
     "206173": [
