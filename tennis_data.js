@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-16 17:42 UTC
+// Auto-generated 2026-10-16 22:55 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-16 17:42 UTC",
+  "UPDATED": "2026-10-16 22:55 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9463,7 +9463,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.4
@@ -11382,15 +11382,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Lucrezia Stefanini",
+          "w": "Bianca Andreescu",
           "w_logo": "",
-          "l": "Bianca Andreescu",
+          "l": "Lucrezia Stefanini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 7-5",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 40.3,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 40.3,
           "match_score": 40.3
         },
         {
@@ -11790,7 +11790,7 @@ window.TENNIS_DATA = {
       "Zhibek Kulambayeva"
     ],
     "aliveCount": 76,
-    "matchesSeen": 143
+    "matchesSeen": 144
   },
   "ATP_SCORE_LOG": {
     "206173": [
