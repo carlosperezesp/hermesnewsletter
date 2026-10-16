@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-16 09:52 UTC",
+  "UPDATED": "2026-10-16 11:39 UTC",
   "EVENTS": [
+    {
+      "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
+      "sport": "indycar",
+      "detail": "IndyCar",
+      "text": "Scott McLaughlin ganó en Grand Prix of Monterey",
+      "weight": 100,
+      "firstSeen": "2026-10-16"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
       "sport": "nascar",
