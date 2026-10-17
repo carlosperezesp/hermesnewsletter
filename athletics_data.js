@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-17 10:58 UTC
+// Auto-generated 2026-10-17 15:58 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-10-17 10:58 UTC",
+  "UPDATED": "2026-10-17 15:58 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -4383,108 +4383,7 @@ window.ATHLETICS_DATA = {
               "year": 2026
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "6.31",
-              "athlete": "Armand Duplantis",
-              "country": "SWE",
-              "flag": "https://flagcdn.com/24x18/se.png",
-              "primary": "#006AA7",
-              "venue": "IFU Arena",
-              "date": "12 MAR 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "6.20",
-              "athlete": "Emmanouil Karalis",
-              "country": "GRE",
-              "flag": "https://flagcdn.com/24x18/gr.png",
-              "primary": "#4A4745",
-              "venue": "Letzigrund",
-              "date": "27 AUG 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "6.06",
-              "athlete": "Sondre Guttormsen",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Complexe Kindarena",
-              "date": "07 MAR 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "6.01",
-              "athlete": "Matvei Volkov",
-              "country": "BLR",
-              "flag": "https://flagcdn.com/24x18/by.png",
-              "primary": "#4A4745",
-              "venue": "Olimpiyets Arena",
-              "date": "20 FEB 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "6.01",
-              "athlete": "Zachery Bradford",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Ocean Breeze Athl. Complex",
-              "date": "28 FEB 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "6.00",
-              "athlete": "Kurtis Marschall",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Maison des Sports",
-              "date": "22 FEB 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "5.95",
-              "athlete": "Sam Kendricks",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "5.93",
-              "athlete": "Baptiste Thiery",
-              "country": "FRA",
-              "flag": "https://flagcdn.com/24x18/fr.png",
-              "primary": "#002395",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "5.93",
-              "athlete": "Christopher Nilsen",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stadion Śląski",
-              "date": "18 SEP 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "5.91",
-              "athlete": "Kc Lightfoot",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Randal Tyson Indoor Center",
-              "date": "07 FEB 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "pv_w",
@@ -6560,108 +6459,7 @@ window.ATHLETICS_DATA = {
               "year": 2017
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "92.62",
-              "athlete": "Rumesh Tharanga Pathirage",
-              "country": "SRI",
-              "flag": "",
-              "primary": "#4A4745",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "90.40",
-              "athlete": "Julian Weber",
-              "country": "GER",
-              "flag": "https://flagcdn.com/24x18/de.png",
-              "primary": "#000000",
-              "venue": "Alexander Stadium",
-              "date": "15 AUG 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "88.05",
-              "athlete": "Neeraj Chopra",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Stade Olympique de la Pontaise",
-              "date": "21 AUG 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "87.68",
-              "athlete": "Rohit Yadav",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Kalinga Stadium",
-              "date": "22 AUG 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "87.59",
-              "athlete": "Curtis Thompson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Icahn Stadium",
-              "date": "25 JUL 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "87.47",
-              "athlete": "Dawid Wegner",
-              "country": "POL",
-              "flag": "https://flagcdn.com/24x18/pl.png",
-              "primary": "#DC143C",
-              "venue": "Boudewijnstadion",
-              "date": "05 SEP 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "86.93",
-              "athlete": "Anderson Peters",
-              "country": "GRN",
-              "flag": "https://flagcdn.com/24x18/gd.png",
-              "primary": "#4A4745",
-              "venue": "Letzigrund",
-              "date": "27 AUG 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "85.73",
-              "athlete": "Cameron Mcentyre",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Stadion Allmend",
-              "date": "16 JUL 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "85.72",
-              "athlete": "Yash Vir Singh",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Municipal Mizuho Stadium",
-              "date": "28 SEP 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "85.65",
-              "athlete": "Aliaksei Katkavets",
-              "country": "BLR",
-              "flag": "https://flagcdn.com/24x18/by.png",
-              "primary": "#4A4745",
-              "venue": "Regional Sport Complex",
-              "date": "07 MAY 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "jt_w",

@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-17 10:58 UTC
+// Auto-generated 2026-10-17 15:58 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-17 10:58 UTC",
+  "UPDATED": "2026-10-17 15:58 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 79.1
@@ -305,7 +305,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 78.9
@@ -849,7 +849,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 72.3
@@ -5389,7 +5389,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 90.3
@@ -5557,9 +5557,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "BNB Ningbo Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 84.2
@@ -5661,7 +5661,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 80.4
@@ -5795,8 +5795,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 19,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "out",
+        "tournament": "BNB Ningbo Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6101,9 +6101,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open",
+        "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 70.8
@@ -6203,8 +6203,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "out",
+        "tournament": "BNB Ningbo Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6271,8 +6271,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "out",
+        "tournament": "BNB Ningbo Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6305,9 +6305,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open",
+        "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 68.0
@@ -6339,8 +6339,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "out",
+        "tournament": "BNB Ningbo Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6577,8 +6577,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Dongfeng Voyah Wuhan Open",
-        "state": "out",
+        "tournament": "BNB Ningbo Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6615,7 +6615,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 63.6
@@ -8419,7 +8419,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 51.0
@@ -8559,7 +8559,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 49.7
@@ -9959,7 +9959,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 36.0
@@ -10943,9 +10943,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.1,
           "l_score": 78.9,
           "match_score": 79.1
@@ -11212,28 +11212,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Iga Swiatek",
+          "w": "Maja Chwalinska",
           "w_logo": "",
-          "l": "Maja Chwalinska",
+          "l": "Iga Swiatek",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.3,
-          "l_score": 80.2,
+          "scheduled": false,
+          "w_score": 80.2,
+          "l_score": 90.3,
           "match_score": 90.3
         },
         {
           "round": "Semifinal",
-          "w": "Jelena Ostapenko",
+          "w": "Sonay Kartal",
           "w_logo": "",
-          "l": "Sonay Kartal",
+          "l": "Jelena Ostapenko",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (11-9) 7-6 (7-5)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 70.5,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 70.5,
           "match_score": 70.5
         }
       ]
@@ -11249,7 +11249,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tamara Zidansek",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 1-6 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 63.6,
@@ -11282,22 +11282,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martyna Kubka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "1-6 7-5 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 49.7,
           "l_score": null,
           "match_score": 49.7
         },
         {
           "round": "Semifinal",
-          "w": "Lucie Havlickova",
+          "w": "Bianca Andreescu",
           "w_logo": "",
-          "l": "Bianca Andreescu",
+          "l": "Lucie Havlickova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11311,28 +11311,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Jessica Bouzas Maneiro",
+          "w": "Clara Burel",
           "w_logo": "",
-          "l": "Clara Burel",
+          "l": "Jessica Bouzas Maneiro",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 50.5,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 50.5,
           "match_score": 50.5
         },
         {
           "round": "Semifinal",
-          "w": "Dalma Galfi",
+          "w": "Leyre Romero Gormaz",
           "w_logo": "",
-          "l": "Leyre Romero Gormaz",
+          "l": "Dalma Galfi",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 35.9,
+          "w_score": 35.9,
+          "l_score": null,
           "match_score": 35.9
         }
       ]
@@ -11472,7 +11472,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen"
     ],
     "aliveCount": 76,
-    "matchesSeen": 110
+    "matchesSeen": 111
   },
   "WTA_TOURNAMENT": {
     "name": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open · Kinoshita Group Japan Open · BNB Ningbo Open",
@@ -11512,6 +11512,7 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Alexandra Eala",
       "Andrea Lazaro Garcia",
       "Ane Mintegi Del Olmo",
       "Ann Li",
@@ -11519,6 +11520,7 @@ window.TENNIS_DATA = {
       "Antonia Ruzic",
       "Ariana Geerlings",
       "Ashlyn Krueger",
+      "Belinda Bencic",
       "Bianca Andreescu",
       "Carole Monnet",
       "Catherine McNally",
@@ -11527,8 +11529,11 @@ window.TENNIS_DATA = {
       "Daria Snigur",
       "Dayana Yastremska",
       "Diana Shnaider",
+      "Diane Parry",
       "Dominika Salkova",
+      "Ekaterina Alexandrova",
       "Elina Svitolina",
+      "Elise Mertens",
       "Elizara Yaneva",
       "Ena Shibahara",
       "Fiona Ferro",
@@ -11590,6 +11595,7 @@ window.TENNIS_DATA = {
       "Polona Hercog",
       "Raluka Serban",
       "Rebeka Masarova",
+      "Sara Bejlek",
       "Selena Janicijevic",
       "Shi Han",
       "Sonay Kartal",
@@ -11605,7 +11611,6 @@ window.TENNIS_DATA = {
     ],
     "out": [
       "Adrienn Nagy",
-      "Alexandra Eala",
       "Alice Rame",
       "Alina Charaeva",
       "Analu Freitas",
@@ -11620,7 +11625,6 @@ window.TENNIS_DATA = {
       "Aurora Zantedeschi",
       "Barbora Palicova",
       "Beatriz Castro",
-      "Belinda Bencic",
       "Camila Osorio",
       "Clara Tauson",
       "Cristina Bucsa",
@@ -11629,12 +11633,9 @@ window.TENNIS_DATA = {
       "Darja Semenistaja",
       "Deborah Chiesa",
       "Despina Papamichail",
-      "Diane Parry",
       "Donna Vekic",
-      "Ekaterina Alexandrova",
       "Ekaterine Gorgodze",
       "Elisa Visentin",
-      "Elise Mertens",
       "Elsa Jacquemot",
       "Emiliana Arango",
       "Erika Andreeva",
@@ -11665,7 +11666,6 @@ window.TENNIS_DATA = {
       "Noma Noha Akugue",
       "Oksana Selekhmeteva",
       "Polina Iatcenko",
-      "Sara Bejlek",
       "Sorana Cirstea",
       "Tea Kovacevic",
       "Tessa Johanna Brockmann",
@@ -11676,8 +11676,8 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhibek Kulambayeva"
     ],
-    "aliveCount": 90,
-    "matchesSeen": 154
+    "aliveCount": 96,
+    "matchesSeen": 163
   },
   "ATP_SCORE_LOG": {
     "206173": [

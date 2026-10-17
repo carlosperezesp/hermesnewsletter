@@ -3332,7 +3332,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 2,
         "w": 1,
-        "svpct": 0.911,
+        "svpct": 0.912,
         "gaa": 2.54,
         "so": 0
       },
@@ -4009,7 +4009,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 6,
         "w": 4,
-        "svpct": 0.89,
+        "svpct": 0.891,
         "gaa": 2.86,
         "so": 0
       },
@@ -9819,7 +9819,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": -4,
         "toi": 17.3,
-        "shots": 17
+        "shots": 18
       },
       "trajectory": [
         38,
@@ -11650,7 +11650,7 @@ window.NHL_DATA = {
         "a": 1,
         "p": 1,
         "pm": 0,
-        "toi": 12.1,
+        "toi": 12.2,
         "shots": 2
       },
       "trajectory": [
@@ -19400,7 +19400,7 @@ window.NHL_DATA = {
         "p": 0,
         "pm": -1,
         "toi": 18.6,
-        "shots": 3
+        "shots": 4
       },
       "trajectory": [
         37,
@@ -35544,10 +35544,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-17 10:57 UTC",
+  "LAST_UPDATE": "2026-10-17 15:56 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-17T10:56:45Z"
+    "standingsDateTimeUtc": "2026-10-17T15:55:45Z"
   }
 };

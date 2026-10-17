@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-17 10:58 UTC",
+  "UPDATED": "2026-10-17 15:58 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -51,6 +51,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-03"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.players:new1:Stephen Curry",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Stephen Curry es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:new1:Victor Wembanyama",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Victor Wembanyama es nuevo nº1 · jóvenes promesas",
+      "weight": 92,
+      "firstSeen": "2026-10-17"
+    },
+    {
       "id": "rank:cycling:CURRENT_PROSPECTS:new1:Paul Seixas",
       "sport": "cycling",
       "detail": "Ciclismo",
@@ -85,6 +103,78 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-06"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Kawhi Leonard",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Kawhi Leonard entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Giannis Antetokounmpo",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Giannis Antetokounmpo entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Luka Doncic",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Luka Doncic entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Cooper Flagg",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Cooper Flagg entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Anthony Edwards",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Anthony Edwards entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Jalen Johnson",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Jalen Johnson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Keyonte George",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Keyonte George entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Jalen Duren",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Jalen Duren entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-17"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
@@ -294,6 +384,87 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-06"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.players:out:Jayson Tatum",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Jayson Tatum cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:out:Jalen Brunson",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Jalen Brunson cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:out:Dillon Brooks",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Dillon Brooks cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:out:James Harden",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "James Harden cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Scottie Barnes",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Scottie Barnes cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Alperen Sengun",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Alperen Sengun cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Amen Thompson",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Amen Thompson cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Stephon Castle",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Stephon Castle cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Jalen Green",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Jalen Green cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-17"
+    },
+    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:BA Carse",
       "sport": "cricket",
       "detail": "Cricket",
@@ -378,16 +549,16 @@ window.GLORY_DATA = {
       "Ivan Demidov"
     ],
     "nba:ROAD_TO_GLORY.players": [
+      "Stephen Curry",
       "LeBron James",
+      "Kawhi Leonard",
       "Nikola Jokic",
       "Kevin Durant",
+      "Giannis Antetokounmpo",
       "Shai Gilgeous-Alexander",
-      "Jayson Tatum",
       "Jaylen Brown",
-      "Joel Embiid",
-      "Jalen Brunson",
-      "Dillon Brooks",
-      "James Harden"
+      "Luka Doncic",
+      "Joel Embiid"
     ],
     "nba:ROAD_TO_GLORY.teams": [
       "Boston Celtics",
@@ -402,16 +573,16 @@ window.GLORY_DATA = {
       "New York Knicks"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
-      "Paolo Banchero",
       "Victor Wembanyama",
-      "Cade Cunningham",
-      "Scottie Barnes",
-      "Alperen Sengun",
+      "Cooper Flagg",
       "Tyrese Maxey",
-      "Amen Thompson",
-      "Stephon Castle",
+      "Anthony Edwards",
+      "Cade Cunningham",
+      "Jalen Johnson",
+      "Keyonte George",
       "Deni Avdija",
-      "Jalen Green"
+      "Paolo Banchero",
+      "Jalen Duren"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",
