@@ -23344,9 +23344,9 @@ window.NHL_DATA = {
       "name": "Jared Wright",
       "pos": "RW",
       "teamCode": "LAK",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -35544,10 +35544,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-17 15:56 UTC",
+  "LAST_UPDATE": "2026-10-17 16:37 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-17T15:55:45Z"
+    "standingsDateTimeUtc": "2026-10-17T16:37:15Z"
   }
 };

@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-17 15:58 UTC
+// Auto-generated 2026-10-17 16:39 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-10-17 15:58 UTC",
+  "UPDATED": "2026-10-17 16:39 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1866,7 +1866,108 @@ window.ATHLETICS_DATA = {
               "year": 2026
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "45.80",
+              "athlete": "Alison Dos Santos",
+              "country": "BRA",
+              "flag": "https://flagcdn.com/24x18/br.png",
+              "primary": "#009C3B",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "46.40",
+              "athlete": "Rai Benjamin",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "46.52",
+              "athlete": "Karsten Warholm",
+              "country": "NOR",
+              "flag": "https://flagcdn.com/24x18/no.png",
+              "primary": "#EF2B2D",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "47.10",
+              "athlete": "Emil Agyekum",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "47.26",
+              "athlete": "Matheus Lima",
+              "country": "BRA",
+              "flag": "https://flagcdn.com/24x18/br.png",
+              "primary": "#009C3B",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "47.37",
+              "athlete": "Ezekiel Nathaniel",
+              "country": "NGR",
+              "flag": "https://flagcdn.com/24x18/ng.png",
+              "primary": "#008751",
+              "venue": "Cushing Stadium",
+              "date": "06 JUN 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "47.37",
+              "athlete": "Trevor Bassitt",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Cushing Stadium",
+              "date": "06 JUN 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "47.42",
+              "athlete": "Caleb Dean",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Cushing Stadium",
+              "date": "06 JUN 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "47.56",
+              "athlete": "Bassem Hemeida",
+              "country": "QAT",
+              "flag": "https://flagcdn.com/24x18/qa.png",
+              "primary": "#8A1538",
+              "venue": "Stadio Comunale",
+              "date": "30 AUG 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "47.61",
+              "athlete": "Chris Robinson",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Icahn Stadium",
+              "date": "26 JUL 2026"
+            }
+          ]
         },
         {
           "id": "400mh_w",
@@ -6459,7 +6560,108 @@ window.ATHLETICS_DATA = {
               "year": 2017
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "92.62",
+              "athlete": "Rumesh Tharanga Pathirage",
+              "country": "SRI",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Stadio Olimpico",
+              "date": "04 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "90.40",
+              "athlete": "Julian Weber",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Alexander Stadium",
+              "date": "15 AUG 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "88.05",
+              "athlete": "Neeraj Chopra",
+              "country": "IND",
+              "flag": "https://flagcdn.com/24x18/in.png",
+              "primary": "#4A4745",
+              "venue": "Stade Olympique de la Pontaise",
+              "date": "21 AUG 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "87.68",
+              "athlete": "Rohit Yadav",
+              "country": "IND",
+              "flag": "https://flagcdn.com/24x18/in.png",
+              "primary": "#4A4745",
+              "venue": "Kalinga Stadium",
+              "date": "22 AUG 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "87.59",
+              "athlete": "Curtis Thompson",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Icahn Stadium",
+              "date": "25 JUL 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "87.47",
+              "athlete": "Dawid Wegner",
+              "country": "POL",
+              "flag": "https://flagcdn.com/24x18/pl.png",
+              "primary": "#DC143C",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "86.93",
+              "athlete": "Anderson Peters",
+              "country": "GRN",
+              "flag": "https://flagcdn.com/24x18/gd.png",
+              "primary": "#4A4745",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "85.73",
+              "athlete": "Cameron Mcentyre",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Stadion Allmend",
+              "date": "16 JUL 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "85.72",
+              "athlete": "Yash Vir Singh",
+              "country": "IND",
+              "flag": "https://flagcdn.com/24x18/in.png",
+              "primary": "#4A4745",
+              "venue": "Municipal Mizuho Stadium",
+              "date": "28 SEP 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "85.65",
+              "athlete": "Aliaksei Katkavets",
+              "country": "BLR",
+              "flag": "https://flagcdn.com/24x18/by.png",
+              "primary": "#4A4745",
+              "venue": "Regional Sport Complex",
+              "date": "07 MAY 2026"
+            }
+          ]
         },
         {
           "id": "jt_w",
