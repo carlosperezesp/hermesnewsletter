@@ -1771,7 +1771,7 @@ window.MLB_DATA = {
       "last": "Harper",
       "pos": "1B",
       "teamCode": "PHI",
-      "age": 33,
+      "age": 34,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30951.png",
       "colors": {
         "primary": "#e81828",
@@ -6498,7 +6498,7 @@ window.MLB_DATA = {
           "primary": "#e81828",
           "secondary": "#002d72"
         },
-        "age": 33,
+        "age": 34,
         "careerScore": 73.0,
         "legendScore": 73.0,
         "currentScore": 69,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-16 23:41 UTC",
+  "LAST_UPDATE": "2026-10-17 09:21 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

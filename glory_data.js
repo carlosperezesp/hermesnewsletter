@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-16 23:43 UTC",
+  "UPDATED": "2026-10-17 09:23 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -78,15 +78,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Macklin Celebrini",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Macklin Celebrini es nuevo nº1 · jóvenes promesas",
-      "weight": 92,
-      "firstSeen": "2026-10-02"
-    },
-    {
       "id": "tennis:in:ATP:Novak Djokovic:20261001",
       "sport": "tennis",
       "detail": "Tenis",
@@ -96,13 +87,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-06"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mikael Granlund",
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
-      "text": "Mikael Granlund entra en el top-10 · Road to Glory",
+      "text": "David Pastrnak entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-10-16"
+      "firstSeen": "2026-10-17"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Connor Bedard",
@@ -328,15 +319,6 @@ window.GLORY_DATA = {
       "text": "CJ Abrams cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-10-04"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:out:Mohammed Siraj",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "Mohammed Siraj cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-10-02"
     }
   ],
   "REPORTS": [],
@@ -364,12 +346,12 @@ window.GLORY_DATA = {
       "Nathan MacKinnon",
       "Connor McDavid",
       "Leon Draisaitl",
+      "David Pastrnak",
       "Auston Matthews",
       "Roman Josi",
       "Cale Makar",
       "Jack Eichel",
-      "Matthew Tkachuk",
-      "Mikael Granlund"
+      "Matthew Tkachuk"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -386,10 +368,10 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Macklin Celebrini",
       "Connor Bedard",
-      "Leo Carlsson",
-      "Beckett Sennecke",
       "Lane Hutson",
+      "Beckett Sennecke",
       "Matthew Schaefer",
+      "Leo Carlsson",
       "Tim Stützle",
       "Owen Power",
       "Vasily Podkolzin",
@@ -412,11 +394,11 @@ window.GLORY_DATA = {
       "Golden State Warriors",
       "Denver Nuggets",
       "Los Angeles Lakers",
-      "Minnesota Timberwolves",
-      "Indiana Pacers",
-      "Oklahoma City Thunder",
-      "Milwaukee Bucks",
       "San Antonio Spurs",
+      "Minnesota Timberwolves",
+      "Milwaukee Bucks",
+      "Oklahoma City Thunder",
+      "Indiana Pacers",
       "New York Knicks"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
