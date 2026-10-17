@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-17 09:23 UTC
+// Auto-generated 2026-10-17 10:58 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-17 09:23 UTC",
+  "UPDATED": "2026-10-17 10:58 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 87.5
@@ -10930,7 +10930,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "5-7 6-4 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 72.3,
@@ -11249,20 +11249,20 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tamara Zidansek",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.6,
           "l_score": null,
           "match_score": 63.6
         },
         {
           "round": "Semifinal",
-          "w": "Francesca Curmi",
+          "w": "Ariana Geerlings",
           "w_logo": "",
-          "l": "Ariana Geerlings",
+          "l": "Francesca Curmi",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11324,15 +11324,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Leyre Romero Gormaz",
+          "w": "Dalma Galfi",
           "w_logo": "",
-          "l": "Dalma Galfi",
+          "l": "Leyre Romero Gormaz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 35.9,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 35.9,
           "match_score": 35.9
         }
       ]
