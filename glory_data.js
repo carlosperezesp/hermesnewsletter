@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-17 16:39 UTC",
+  "UPDATED": "2026-10-17 22:21 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -103,6 +103,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-06"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mark Stone",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Mark Stone entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-17"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.players:in:Kawhi Leonard",
@@ -209,15 +218,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "Jack Eichel entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-14"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-14"
     },
@@ -519,10 +519,10 @@ window.GLORY_DATA = {
       "Leon Draisaitl",
       "David Pastrnak",
       "Auston Matthews",
+      "Mark Stone",
       "Roman Josi",
       "Cale Makar",
-      "Jack Eichel",
-      "Matthew Tkachuk"
+      "Jack Eichel"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
