@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-18 16:52 UTC
+// Auto-generated 2026-10-18 22:30 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-18 16:52 UTC",
+  "UPDATED": "2026-10-18 22:30 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1051,9 +1051,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "out",
-        "round": "R64",
+        "tournament": "BNP Paribas Fortis European Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 67.0
@@ -1563,9 +1563,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
+        "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 63.8
@@ -1597,8 +1597,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "out",
+        "tournament": "BNP Paribas Fortis European Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -1699,10 +1699,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "BNP Paribas Fortis European Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.8
     },
@@ -1767,7 +1767,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
+        "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -3675,10 +3675,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "BNP Paribas Fortis European Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.6
     },
@@ -3745,10 +3745,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "BNP Paribas Fortis European Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.3
     },
@@ -4465,8 +4465,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "out",
+        "tournament": "BNP Paribas Fortis European Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -5111,10 +5111,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "BNP Paribas Fortis European Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -11194,10 +11194,12 @@ window.TENNIS_DATA = {
       "Alejandro Davidovich Fokina",
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
+      "Alex Michelsen",
       "Alex Molcan",
       "Alex de Minaur",
       "Alexander Bublik",
       "Alexander Zverev",
+      "Andrea Guerrieri",
       "Arthur Fery",
       "Arthur Fils",
       "Arthur Gea",
@@ -11210,14 +11212,17 @@ window.TENNIS_DATA = {
       "Camilo Ugo Carabelli",
       "Carlos Alcaraz",
       "Casper Ruud",
+      "Clement Chidekh",
       "Corentin Moutet",
       "Dalibor Svrcina",
       "Damir Dzumhur",
       "Daniel Altmaier",
       "Daniil Medvedev",
+      "David Goffin",
       "Dino Prizmic",
       "Fabian Marozsan",
       "Facundo Diaz Acosta",
+      "Federico Cina",
       "Felix Auger-Aliassime",
       "Felix Balshaw",
       "Frances Tiafoe",
@@ -11230,6 +11235,7 @@ window.TENNIS_DATA = {
       "Jakub Mensik",
       "James Duckworth",
       "Jan-Lennard Struff",
+      "Jaume Munar",
       "Jenson Brooksby",
       "Jiri Lehecka",
       "Juan Manuel Cerundolo",
@@ -11240,6 +11246,7 @@ window.TENNIS_DATA = {
       "Marcos Giron",
       "Mariano Navone",
       "Marin Cilic",
+      "Martin Damm",
       "Martin Landaluce",
       "Matteo Arnaldi",
       "Matteo Berrettini",
@@ -11249,12 +11256,15 @@ window.TENNIS_DATA = {
       "Miomir Kecmanovic",
       "Moise Kouame",
       "Nikoloz Basilashvili",
+      "Nishesh Basavareddy",
       "Nuno Borges",
       "Pablo Carreno Busta",
       "Pavel Kotov",
       "Quentin Halys",
       "Rafael Jodar",
+      "Raphael Collignon",
       "Rei Sakamoto",
+      "Remy Bertola",
       "Rinky Hijikata",
       "Roman Safiullin",
       "Sebastian Baez",
@@ -11283,18 +11293,15 @@ window.TENNIS_DATA = {
     ],
     "out": [
       "Alejandro Tabilo",
-      "Alex Michelsen",
       "Alexander Blockx",
       "Andrey Rublev",
       "Bernard Tomic",
       "Chak Lam Coleman Wong",
       "Daniel Merida",
-      "Federico Cina",
       "Flavio Cobolli",
       "Holger Rune",
       "Ignacio Buse",
       "Ilia Simakin",
-      "Jaume Munar",
       "Kamil Majchrzak",
       "Kimmer Coppejans",
       "Luca Van Assche",
@@ -11307,8 +11314,8 @@ window.TENNIS_DATA = {
       "Vit Kopriva",
       "Zhang Zhizhen"
     ],
-    "aliveCount": 91,
-    "matchesSeen": 121
+    "aliveCount": 101,
+    "matchesSeen": 127
   },
   "WTA_TOURNAMENT": {
     "name": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open · Kinoshita Group Japan Open · BNB Ningbo Open",

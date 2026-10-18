@@ -22580,9 +22580,9 @@ window.NHL_DATA = {
       "name": "Helge Grans",
       "pos": "D",
       "teamCode": "PHI",
-      "age": 24,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -36211,10 +36211,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-18 16:49 UTC",
+  "LAST_UPDATE": "2026-10-18 22:26 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-18T16:49:15Z"
+    "standingsDateTimeUtc": "2026-10-18T22:25:30Z"
   }
 };
