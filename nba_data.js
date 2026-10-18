@@ -143,26 +143,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "MEM",
-      "city": "Memphis Grizzlies",
-      "shortName": "Memphis",
-      "commonName": "Grizzlies",
-      "conf": "W",
-      "gp": 4,
-      "w": 3,
-      "l": 1,
-      "winPct": 0.75,
-      "gf": 471,
-      "ga": 443,
-      "gd": 28,
-      "score": 74,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
-      "colors": {
-        "primary": "#5d76a9",
-        "secondary": "#12173f"
-      }
-    },
-    {
       "code": "ORL",
       "city": "Orlando Magic",
       "shortName": "Orlando",
@@ -180,6 +160,26 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#0077c0",
         "secondary": "#c4ced4"
+      }
+    },
+    {
+      "code": "MEM",
+      "city": "Memphis Grizzlies",
+      "shortName": "Memphis",
+      "commonName": "Grizzlies",
+      "conf": "W",
+      "gp": 4,
+      "w": 3,
+      "l": 1,
+      "winPct": 0.75,
+      "gf": 470,
+      "ga": 443,
+      "gd": 27,
+      "score": 74,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+      "colors": {
+        "primary": "#5d76a9",
+        "secondary": "#12173f"
       }
     },
     {
@@ -553,8 +553,8 @@ window.NBA_DATA = {
       "l": 3,
       "winPct": 0.25,
       "gf": 386,
-      "ga": 445,
-      "gd": -59,
+      "ga": 444,
+      "gd": -58,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
       "colors": {
@@ -12976,7 +12976,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-17 23:12 UTC",
+  "LAST_UPDATE": "2026-10-18 09:38 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

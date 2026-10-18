@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-17 23:14 UTC",
+  "UPDATED": "2026-10-18 09:40 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -41,14 +41,6 @@ window.GLORY_DATA = {
       "text": "Marc Márquez ganó el Japanese motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-10-04"
-    },
-    {
-      "id": "f1:win:Gulf Air Bahrain Grand Prix in Malaysia:Max Verstappen",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "Max Verstappen ganó el Gulf Air Bahrain Grand Prix in Malaysia",
-      "weight": 100,
-      "firstSeen": "2026-10-03"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.players:new1:Stephen Curry",
@@ -103,6 +95,24 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-06"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Erik Karlsson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Erik Karlsson entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jackson LaCombe",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Jackson LaCombe entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-18"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mark Stone",
@@ -195,15 +205,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-17"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Connor Bedard",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Connor Bedard entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:PJ Cummins",
       "sport": "cricket",
       "detail": "Cricket",
@@ -229,15 +230,6 @@ window.GLORY_DATA = {
       "text": "Lane Hutson entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-14"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Cale Makar entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-12"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Owen Power",
@@ -364,15 +356,6 @@ window.GLORY_DATA = {
       "text": "James Wood entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-04"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Leo Carlsson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Leo Carlsson entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-03"
     },
     {
       "id": "tennis:out:ATP:Arthur Fils:20261001",
@@ -517,20 +500,20 @@ window.GLORY_DATA = {
       "Nathan MacKinnon",
       "Connor McDavid",
       "Leon Draisaitl",
+      "Jack Eichel",
+      "Mark Stone",
       "David Pastrnak",
       "Auston Matthews",
-      "Mark Stone",
-      "Roman Josi",
-      "Cale Makar",
-      "Jack Eichel"
+      "Erik Karlsson",
+      "Roman Josi"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
       "Colorado Avalanche",
       "Florida Panthers",
       "St. Louis Blues",
-      "Carolina Hurricanes",
       "Edmonton Oilers",
+      "Carolina Hurricanes",
       "Boston Bruins",
       "Minnesota Wild",
       "New York Rangers",
@@ -538,14 +521,14 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Macklin Celebrini",
-      "Connor Bedard",
+      "Matthew Schaefer",
       "Lane Hutson",
       "Beckett Sennecke",
-      "Matthew Schaefer",
-      "Leo Carlsson",
-      "Tim Stützle",
       "Owen Power",
+      "Leo Carlsson",
       "Vasily Podkolzin",
+      "Jackson LaCombe",
+      "Tim Stützle",
       "Ivan Demidov"
     ],
     "nba:ROAD_TO_GLORY.players": [
