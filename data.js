@@ -391,7 +391,7 @@ window.NHL_DATA = {
       "gf": 23,
       "ga": 24,
       "gd": -1,
-      "score": 50,
+      "score": 51,
       "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
       "colors": {
         "primary": "#ffb81c",
@@ -1237,7 +1237,7 @@ window.NHL_DATA = {
         "g": 3,
         "a": 7,
         "p": 10,
-        "pm": 3,
+        "pm": 2,
         "toi": 22.4,
         "shots": 23
       },
@@ -2986,7 +2986,7 @@ window.NHL_DATA = {
         "g": 3,
         "a": 8,
         "p": 11,
-        "pm": -3,
+        "pm": -2,
         "toi": 17.6,
         "shots": 22
       },
@@ -4656,6 +4656,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8482482,
+      "first": "Adam",
+      "last": "Wilsby",
+      "name": "Adam Wilsby",
+      "pos": "D",
+      "teamCode": "NSH",
+      "age": 26,
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "colors": {
+        "primary": "#ffb81c",
+        "secondary": "#041e42"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8482482.png",
+      "score": 60,
+      "stats": {
+        "gp": 8,
+        "g": 0,
+        "a": 5,
+        "p": 5,
+        "pm": 5,
+        "toi": 18.7,
+        "shots": 7
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        60
+      ]
+    },
+    {
       "id": 8477949,
       "first": "Alex",
       "last": "Tuch",
@@ -6317,39 +6350,6 @@ window.NHL_DATA = {
         43,
         45,
         58
-      ]
-    },
-    {
-      "id": 8482482,
-      "first": "Adam",
-      "last": "Wilsby",
-      "name": "Adam Wilsby",
-      "pos": "D",
-      "teamCode": "NSH",
-      "age": 26,
-      "country": "Sweden",
-      "birthCountry": "SWE",
-      "colors": {
-        "primary": "#ffb81c",
-        "secondary": "#041e42"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8482482.png",
-      "score": 57,
-      "stats": {
-        "gp": 8,
-        "g": 0,
-        "a": 4,
-        "p": 4,
-        "pm": 5,
-        "toi": 18.7,
-        "shots": 7
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        57
       ]
     },
     {
@@ -36211,10 +36211,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-18 22:26 UTC",
+  "LAST_UPDATE": "2026-10-18 23:22 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-18T22:25:30Z"
+    "standingsDateTimeUtc": "2026-10-18T23:22:00Z"
   }
 };

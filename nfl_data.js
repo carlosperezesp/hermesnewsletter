@@ -17,7 +17,7 @@ window.NFL_DATA = {
       "pf": 154,
       "pa": 93,
       "pd": 61,
-      "seed": 2,
+      "seed": 1,
       "score": 90,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
       "colors": {
@@ -40,7 +40,7 @@ window.NFL_DATA = {
       "pf": 109,
       "pa": 64,
       "pd": 45,
-      "seed": 1,
+      "seed": 2,
       "score": 87,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
       "colors": {
@@ -431,7 +431,7 @@ window.NFL_DATA = {
       "pf": 138,
       "pa": 136,
       "pd": 2,
-      "seed": 10,
+      "seed": 9,
       "score": 32,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
       "colors": {
@@ -469,16 +469,16 @@ window.NFL_DATA = {
       "commonName": "Rams",
       "conf": "NFC",
       "div": "NFC West",
-      "gp": 5,
+      "gp": 6,
       "w": 2,
-      "l": 3,
+      "l": 4,
       "t": 0,
-      "winPct": 0.4,
-      "pf": 119,
-      "pa": 120,
-      "pd": -1,
-      "seed": 9,
-      "score": 32,
+      "winPct": 0.333,
+      "pf": 135,
+      "pa": 138,
+      "pd": -3,
+      "seed": 14,
+      "score": 26,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
       "colors": {
         "primary": "#003594",
@@ -523,7 +523,7 @@ window.NFL_DATA = {
       "pf": 142,
       "pa": 153,
       "pd": -11,
-      "seed": 11,
+      "seed": 10,
       "score": 25,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
       "colors": {
@@ -569,7 +569,7 @@ window.NFL_DATA = {
       "pf": 152,
       "pa": 178,
       "pd": -26,
-      "seed": 12,
+      "seed": 11,
       "score": 23,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
       "colors": {
@@ -592,12 +592,35 @@ window.NFL_DATA = {
       "pf": 106,
       "pa": 137,
       "pd": -31,
-      "seed": 13,
+      "seed": 12,
       "score": 23,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
       "colors": {
         "primary": "#004c54",
         "secondary": "#a5acaf"
+      }
+    },
+    {
+      "code": "ARI",
+      "city": "Arizona Cardinals",
+      "shortName": "Arizona",
+      "commonName": "Cardinals",
+      "conf": "NFC",
+      "div": "NFC West",
+      "gp": 6,
+      "w": 2,
+      "l": 4,
+      "t": 0,
+      "winPct": 0.333,
+      "pf": 126,
+      "pa": 178,
+      "pd": -52,
+      "seed": 13,
+      "score": 20,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+      "colors": {
+        "primary": "#97233f",
+        "secondary": "#ffb612"
       }
     },
     {
@@ -638,7 +661,7 @@ window.NFL_DATA = {
       "pf": 115,
       "pa": 149,
       "pd": -34,
-      "seed": 14,
+      "seed": 15,
       "score": 19,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
       "colors": {
@@ -667,29 +690,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#0c2340",
         "secondary": "#4b92db"
-      }
-    },
-    {
-      "code": "ARI",
-      "city": "Arizona Cardinals",
-      "shortName": "Arizona",
-      "commonName": "Cardinals",
-      "conf": "NFC",
-      "div": "NFC West",
-      "gp": 5,
-      "w": 1,
-      "l": 4,
-      "t": 0,
-      "winPct": 0.2,
-      "pf": 108,
-      "pa": 162,
-      "pd": -54,
-      "seed": 15,
-      "score": 7,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-      "colors": {
-        "primary": "#97233f",
-        "secondary": "#ffb612"
       }
     },
     {
@@ -2038,7 +2038,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-18 22:26 UTC",
+  "LAST_UPDATE": "2026-10-18 23:22 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

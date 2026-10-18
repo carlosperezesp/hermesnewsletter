@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-18 22:26 UTC
+// Auto-generated 2026-10-18 23:22 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-10-18 22:26 UTC",
+  "UPDATED": "2026-10-18 23:22 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
