@@ -7321,7 +7321,7 @@ window.NBA_DATA = {
       "last": "Williams III",
       "pos": "C",
       "teamCode": "POR",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066211.png",
       "colors": {
         "primary": "#e03a3e",
@@ -7337,7 +7337,7 @@ window.NBA_DATA = {
         "blk": 1.5,
         "min": 17.1
       },
-      "legendScore": 37.4
+      "legendScore": 38.4
     },
     {
       "id": 4683771,
@@ -9146,7 +9146,7 @@ window.NBA_DATA = {
       "last": "Gill",
       "pos": "F",
       "teamCode": "WSH",
-      "age": 33,
+      "age": 34,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/2581184.png",
       "colors": {
         "primary": "#002b5e",
@@ -12976,7 +12976,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-18 11:23 UTC",
+  "LAST_UPDATE": "2026-10-18 16:08 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

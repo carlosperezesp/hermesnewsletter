@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-18 11:25 UTC
+// Auto-generated 2026-10-18 16:10 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-18 11:25 UTC",
+  "UPDATED": "2026-10-18 16:10 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -29,7 +29,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 16.0,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -779,7 +779,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -881,9 +881,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
+        "tournament": "Almaty Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 69.6
@@ -1357,7 +1357,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1699,10 +1699,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.8
     },
@@ -1869,7 +1869,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1903,7 +1903,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2175,7 +2175,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2243,7 +2243,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2277,8 +2277,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "out",
+        "tournament": "Almaty Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2379,7 +2379,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2413,7 +2413,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2651,7 +2651,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2685,7 +2685,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2719,7 +2719,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2957,7 +2957,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2991,7 +2991,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3059,7 +3059,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3095,7 +3095,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3129,7 +3129,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3163,7 +3163,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3435,7 +3435,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3471,7 +3471,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3505,7 +3505,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3539,7 +3539,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
+        "tournament": "Almaty Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -3573,7 +3573,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3607,7 +3607,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3641,8 +3641,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "out",
+        "tournament": "Almaty Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3675,7 +3675,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3745,7 +3745,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3779,7 +3779,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3813,7 +3813,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3915,7 +3915,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3983,7 +3983,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4087,7 +4087,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4155,7 +4155,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4225,7 +4225,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4293,7 +4293,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4395,7 +4395,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4431,7 +4431,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4501,7 +4501,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4535,7 +4535,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4571,10 +4571,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Almaty Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 40.6
     },
@@ -4607,7 +4607,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4643,7 +4643,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4679,7 +4679,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4715,7 +4715,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4751,7 +4751,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4787,7 +4787,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4823,7 +4823,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4895,8 +4895,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "out",
+        "tournament": "Almaty Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -4931,7 +4931,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5003,7 +5003,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5039,7 +5039,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5075,9 +5075,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
+        "tournament": "Almaty Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -5111,7 +5111,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5147,7 +5147,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8559,7 +8559,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 49.7
@@ -9959,7 +9959,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 36.0
@@ -11082,15 +11082,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Sonay Kartal",
+          "w": "Maja Chwalinska",
           "w_logo": "",
-          "l": "Maja Chwalinska",
+          "l": "Sonay Kartal",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-6 6-4 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 80.2,
+          "w_score": 80.2,
+          "l_score": null,
           "match_score": 80.2
         }
       ]
@@ -11122,15 +11122,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Dominika Salkova",
+          "w": "Bianca Andreescu",
           "w_logo": "",
-          "l": "Bianca Andreescu",
+          "l": "Dominika Salkova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-2) 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 49.7,
           "match_score": 49.7
         }
       ]
@@ -11142,22 +11142,22 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Leyre Romero Gormaz",
+          "w": "Clara Burel",
           "w_logo": "",
-          "l": "Clara Burel",
+          "l": "Leyre Romero Gormaz",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 35.9,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 35.9,
           "match_score": 35.9
         }
       ]
     }
   ],
   "ATP_TOURNAMENT": {
-    "name": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes",
+    "name": "Rolex Shanghai Masters · BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
     "level": "Masters 1000",
     "surface": "Hard",
     "tour": "ATP",
@@ -11174,6 +11174,11 @@ window.TENNIS_DATA = {
       },
       {
         "name": "Almaty Open",
+        "level": "ATP 250",
+        "surface": ""
+      },
+      {
+        "name": "Grand Prix Auvergne-Rhône-Alpes",
         "level": "ATP 250",
         "surface": ""
       },
@@ -11218,7 +11223,6 @@ window.TENNIS_DATA = {
       "Frances Tiafoe",
       "Francisco Cerundolo",
       "Hamad Medjedovic",
-      "Holger Rune",
       "Hubert Hurkacz",
       "Hugo Gaston",
       "Jacob Fearnley",
@@ -11235,24 +11239,28 @@ window.TENNIS_DATA = {
       "Lorenzo Sonego",
       "Marcos Giron",
       "Mariano Navone",
+      "Marin Cilic",
       "Martin Landaluce",
       "Matteo Arnaldi",
       "Matteo Berrettini",
       "Mattia Bellucci",
       "Max Schoenhaus",
+      "Mikhail Kukushkin",
       "Miomir Kecmanovic",
       "Moise Kouame",
+      "Nikoloz Basilashvili",
       "Nuno Borges",
       "Pablo Carreno Busta",
       "Pavel Kotov",
       "Quentin Halys",
       "Rafael Jodar",
-      "Raphael Collignon",
       "Rei Sakamoto",
       "Rinky Hijikata",
       "Roman Safiullin",
       "Sebastian Baez",
+      "Sho Shimabukuro",
       "Stan Wawrinka",
+      "Stefanos Sakellaridis",
       "Stefanos Tsitsipas",
       "Tallon Griekspoor",
       "Taylor Fritz",
@@ -11283,6 +11291,7 @@ window.TENNIS_DATA = {
       "Daniel Merida",
       "Federico Cina",
       "Flavio Cobolli",
+      "Holger Rune",
       "Ignacio Buse",
       "Ilia Simakin",
       "Jaume Munar",
@@ -11291,18 +11300,15 @@ window.TENNIS_DATA = {
       "Luca Van Assche",
       "Luciano Darderi",
       "Marco Trungelliti",
-      "Marin Cilic",
       "Michael Zheng",
       "Nicolas Mejia",
-      "Nikoloz Basilashvili",
       "Novak Djokovic",
-      "Sho Shimabukuro",
       "Valentin Royer",
       "Vit Kopriva",
       "Zhang Zhizhen"
     ],
-    "aliveCount": 88,
-    "matchesSeen": 118
+    "aliveCount": 91,
+    "matchesSeen": 121
   },
   "WTA_TOURNAMENT": {
     "name": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open · Kinoshita Group Japan Open · BNB Ningbo Open",
