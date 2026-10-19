@@ -811,7 +811,7 @@ window.NHL_DATA = {
         83
       ],
       "legendScore": 70.7,
-      "prevRank": 4
+      "prevRank": 3
     },
     {
       "id": 8479979,
@@ -843,7 +843,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": 8480800,
@@ -878,7 +878,7 @@ window.NHL_DATA = {
         82
       ],
       "legendScore": 52.5,
-      "prevRank": 3
+      "prevRank": 5
     },
     {
       "id": 8484801,
@@ -983,7 +983,7 @@ window.NHL_DATA = {
         78
       ],
       "legendScore": 61.1,
-      "prevRank": 9
+      "prevRank": 8
     },
     {
       "id": 8478864,
@@ -1018,7 +1018,7 @@ window.NHL_DATA = {
         78
       ],
       "legendScore": 55.1,
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 8477934,
@@ -1399,7 +1399,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 8,
         "w": 6,
-        "svpct": 0.921,
+        "svpct": 0.922,
         "gaa": 1.99,
         "so": 0
       },
@@ -10157,7 +10157,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": 0,
         "toi": 18.3,
-        "shots": 11
+        "shots": 12
       },
       "trajectory": [
         38,
@@ -35929,7 +35929,7 @@ window.NHL_DATA = {
           "primary": "#ffb81c",
           "secondary": "#111111"
         },
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "teamCode": "CAR",
@@ -35945,7 +35945,7 @@ window.NHL_DATA = {
           "primary": "#cc0000",
           "secondary": "#111111"
         },
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "teamCode": "MIN",
@@ -36224,10 +36224,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-19 10:47 UTC",
+  "LAST_UPDATE": "2026-10-19 13:37 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-19T10:46:30Z"
+    "standingsDateTimeUtc": "2026-10-19T13:37:15Z"
   }
 };
