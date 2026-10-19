@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-19 19:29 UTC
+// Auto-generated 2026-10-19 23:44 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-19 19:29 UTC",
+  "UPDATED": "2026-10-19 23:44 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5183,7 +5183,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5217,7 +5217,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5251,7 +5251,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5285,7 +5285,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5319,7 +5319,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5387,7 +5387,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5421,7 +5421,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5455,7 +5455,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5523,7 +5523,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5591,7 +5591,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5625,7 +5625,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5659,7 +5659,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5693,7 +5693,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5727,7 +5727,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5761,7 +5761,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5829,7 +5829,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5863,7 +5863,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5897,7 +5897,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5965,7 +5965,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6101,7 +6101,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6135,7 +6135,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6237,7 +6237,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6407,7 +6407,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6441,7 +6441,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6475,7 +6475,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6577,7 +6577,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6613,7 +6613,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6715,7 +6715,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6783,7 +6783,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6851,7 +6851,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6885,7 +6885,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6919,7 +6919,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6987,7 +6987,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7055,7 +7055,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7089,7 +7089,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7123,7 +7123,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7157,7 +7157,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7327,7 +7327,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7361,7 +7361,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7497,7 +7497,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7601,7 +7601,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7669,7 +7669,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7703,7 +7703,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7805,7 +7805,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7941,7 +7941,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7975,7 +7975,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8009,7 +8009,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8043,7 +8043,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8077,7 +8077,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8111,7 +8111,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8145,7 +8145,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8179,7 +8179,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8213,7 +8213,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8247,7 +8247,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8281,7 +8281,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8315,7 +8315,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8385,7 +8385,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8419,7 +8419,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8455,7 +8455,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8489,7 +8489,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8525,7 +8525,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8559,7 +8559,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8627,7 +8627,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8663,7 +8663,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8735,7 +8735,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8769,7 +8769,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8803,7 +8803,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8837,7 +8837,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8871,7 +8871,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8905,7 +8905,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8975,7 +8975,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9115,7 +9115,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9149,7 +9149,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9183,7 +9183,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9217,7 +9217,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9251,7 +9251,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9285,7 +9285,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9321,7 +9321,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9357,7 +9357,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9427,7 +9427,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9461,7 +9461,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9495,7 +9495,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9531,7 +9531,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9567,7 +9567,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9603,7 +9603,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9707,7 +9707,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9741,7 +9741,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9777,7 +9777,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9849,7 +9849,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9885,7 +9885,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9921,7 +9921,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9955,7 +9955,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9991,7 +9991,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10025,7 +10025,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10169,7 +10169,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10205,7 +10205,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10241,7 +10241,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10277,7 +10277,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10313,7 +10313,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -11310,117 +11310,6 @@ window.TENNIS_DATA = {
           "match_score": 55.6
         }
       ]
-    },
-    {
-      "name": "Río Ladies Open by MundoTênis Tours",
-      "level": "ATP 500",
-      "surface": "Clay",
-      "matches": [
-        {
-          "round": "R128",
-          "w": "TBD",
-          "w_logo": "",
-          "l": "TBD",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "TBD",
-          "w_logo": "",
-          "l": "TBD",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "TBD",
-          "w_logo": "",
-          "l": "TBD",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "TBD",
-          "w_logo": "",
-          "l": "TBD",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "TBD",
-          "w_logo": "",
-          "l": "TBD",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "TBD",
-          "w_logo": "",
-          "l": "TBD",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "TBD",
-          "w_logo": "",
-          "l": "TBD",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "TBD",
-          "w_logo": "",
-          "l": "TBD",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        }
-      ]
     }
   ],
   "ATP_TOURNAMENT": {
@@ -11534,7 +11423,7 @@ window.TENNIS_DATA = {
     "matchesSeen": 42
   },
   "WTA_TOURNAMENT": {
-    "name": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
+    "name": "Kinoshita Group Japan Open · BNB Ningbo Open",
     "level": "WTA 250",
     "surface": "",
     "tour": "WTA",
@@ -11548,11 +11437,6 @@ window.TENNIS_DATA = {
         "name": "BNB Ningbo Open",
         "level": "WTA 500",
         "surface": "Hard"
-      },
-      {
-        "name": "Río Ladies Open by MundoTênis Tours",
-        "level": "ATP 500",
-        "surface": "Clay"
       }
     ],
     "alive": [

@@ -5226,7 +5226,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 3,
         "w": 1,
-        "svpct": 0.873,
+        "svpct": 0.875,
         "gaa": 3.61,
         "so": 0
       },
@@ -5469,9 +5469,9 @@ window.NHL_DATA = {
       "name": "Justin Holl",
       "pos": "D",
       "teamCode": "WSH",
-      "age": 34,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -19890,7 +19890,7 @@ window.NHL_DATA = {
         "p": 0,
         "pm": 0,
         "toi": 17.0,
-        "shots": 10
+        "shots": 11
       },
       "trajectory": [
         37,
@@ -24791,9 +24791,9 @@ window.NHL_DATA = {
       "name": "Jonny Brodzinski",
       "pos": "C",
       "teamCode": "WSH",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 33,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -36224,10 +36224,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-19 19:27 UTC",
+  "LAST_UPDATE": "2026-10-19 23:42 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-19T19:26:30Z"
+    "standingsDateTimeUtc": "2026-10-19T23:42:15Z"
   }
 };
