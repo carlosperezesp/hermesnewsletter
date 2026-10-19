@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-19 13:40 UTC
+// Auto-generated 2026-10-19 18:52 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-19 13:40 UTC",
+  "UPDATED": "2026-10-19 18:52 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1360,9 +1360,9 @@ window.TENNIS_DATA = {
       "prevListRank": 40,
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 64.8
     },
@@ -2210,9 +2210,9 @@ window.TENNIS_DATA = {
       "prevListRank": 65,
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.5
     },
@@ -4538,9 +4538,9 @@ window.TENNIS_DATA = {
       "prevListRank": 133,
       "tournamentStatus": {
         "tournament": "Almaty Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 40.6
     },
@@ -10917,9 +10917,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Andrea Guerrieri",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 64.6,
           "l_score": null,
           "match_score": 64.6
@@ -11011,15 +11011,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Stefanos Sakellaridis",
+          "w": "Mikhail Kukushkin",
           "w_logo": "",
-          "l": "Mikhail Kukushkin",
+          "l": "Stefanos Sakellaridis",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 7-6 (7-3)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 37.4,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 37.4,
           "match_score": 37.4
         }
       ]
@@ -11035,9 +11035,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Matteo Arnaldi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 76.8,
           "l_score": 62.8,
           "match_score": 76.8
@@ -11048,7 +11048,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jaime Faria",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 4-6 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11057,15 +11057,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Lorenzo Sonego",
+          "w": "Moise Kouame",
           "w_logo": "",
-          "l": "Moise Kouame",
+          "l": "Lorenzo Sonego",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 51.2,
           "match_score": 51.2
         }
       ]
@@ -11454,7 +11454,6 @@ window.TENNIS_DATA = {
       "Adrian Mannarino",
       "Aleksandar Kovacevic",
       "Alex Michelsen",
-      "Andrea Guerrieri",
       "Andrey Rublev",
       "Arthur Fery",
       "Arthur Fils",
@@ -11477,7 +11476,6 @@ window.TENNIS_DATA = {
       "Hamad Medjedovic",
       "Hugo Gaston",
       "Jacob Fearnley",
-      "Jaime Faria",
       "James Duckworth",
       "Jan-Lennard Struff",
       "Jaume Munar",
@@ -11492,7 +11490,6 @@ window.TENNIS_DATA = {
       "Mariano Navone",
       "Martin Damm",
       "Martin Landaluce",
-      "Matteo Arnaldi",
       "Matteo Berrettini",
       "Mattia Bellucci",
       "Max Schoenhaus",
@@ -11509,7 +11506,6 @@ window.TENNIS_DATA = {
       "Sebastian Baez",
       "Sho Shimabukuro",
       "Stan Wawrinka",
-      "Stefanos Sakellaridis",
       "Stefanos Tsitsipas",
       "Tallon Griekspoor",
       "Terence Atmane",
@@ -11524,13 +11520,17 @@ window.TENNIS_DATA = {
     ],
     "out": [
       "Aleksandar Vukic",
+      "Andrea Guerrieri",
       "Federico Cina",
+      "Jaime Faria",
       "Marin Cilic",
+      "Matteo Arnaldi",
       "Miomir Kecmanovic",
+      "Stefanos Sakellaridis",
       "Thiago Agustin Tirante",
       "Yannick Hanfmann"
     ],
-    "aliveCount": 70,
+    "aliveCount": 66,
     "matchesSeen": 41
   },
   "WTA_TOURNAMENT": {

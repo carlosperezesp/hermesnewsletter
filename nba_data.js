@@ -7771,7 +7771,7 @@ window.NBA_DATA = {
       "last": "Mann",
       "pos": "G",
       "teamCode": "BKN",
-      "age": 29,
+      "age": 30,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3907823.png",
       "colors": {
         "primary": "#000000",
@@ -7787,7 +7787,7 @@ window.NBA_DATA = {
         "blk": 0.2,
         "min": 24.3
       },
-      "legendScore": 37.9
+      "legendScore": 38.9
     },
     {
       "id": 4997537,
@@ -12976,7 +12976,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-19 13:37 UTC",
+  "LAST_UPDATE": "2026-10-19 18:49 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

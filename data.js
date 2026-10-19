@@ -1919,6 +1919,40 @@ window.NHL_DATA = {
       "legendScore": 54.9
     },
     {
+      "id": 8479323,
+      "first": "Adam",
+      "last": "Fox",
+      "name": "Adam Fox",
+      "pos": "D",
+      "teamCode": "NYR",
+      "age": 28,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#0038a8",
+        "secondary": "#ce1126"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8479323.png",
+      "score": 68,
+      "stats": {
+        "gp": 10,
+        "g": 0,
+        "a": 9,
+        "p": 9,
+        "pm": 1,
+        "toi": 21.5,
+        "shots": 13
+      },
+      "trajectory": [
+        39,
+        42,
+        44,
+        46,
+        68
+      ],
+      "legendScore": 50.2
+    },
+    {
       "id": 8475798,
       "first": "Mikael",
       "last": "Granlund",
@@ -2053,40 +2087,6 @@ window.NHL_DATA = {
         68
       ],
       "legendScore": 73.5
-    },
-    {
-      "id": 8479323,
-      "first": "Adam",
-      "last": "Fox",
-      "name": "Adam Fox",
-      "pos": "D",
-      "teamCode": "NYR",
-      "age": 28,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#0038a8",
-        "secondary": "#ce1126"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8479323.png",
-      "score": 67,
-      "stats": {
-        "gp": 10,
-        "g": 0,
-        "a": 9,
-        "p": 9,
-        "pm": 1,
-        "toi": 21.5,
-        "shots": 12
-      },
-      "trajectory": [
-        39,
-        42,
-        44,
-        46,
-        67
-      ],
-      "legendScore": 50.2
     },
     {
       "id": 8476923,
@@ -2532,7 +2532,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 5,
         "w": 2,
-        "svpct": 0.905,
+        "svpct": 0.907,
         "gaa": 2.58,
         "so": 1
       },
@@ -8025,7 +8025,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": 0,
         "toi": 19.7,
-        "shots": 21
+        "shots": 20
       },
       "trajectory": [
         38,
@@ -15897,7 +15897,7 @@ window.NHL_DATA = {
         "p": 1,
         "pm": 3,
         "toi": 17.4,
-        "shots": 14
+        "shots": 15
       },
       "trajectory": [
         37,
@@ -21507,7 +21507,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": -2,
         "toi": 9.9,
-        "shots": 1
+        "shots": 2
       },
       "trajectory": [
         37,
@@ -23075,9 +23075,9 @@ window.NHL_DATA = {
       "name": "Alex Bump",
       "pos": "LW",
       "teamCode": "PHI",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -31184,7 +31184,7 @@ window.NHL_DATA = {
       "birthCountry": "USA",
       "birthDate": "1998-02-17",
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8479323.png",
-      "currentScore": 67,
+      "currentScore": 68,
       "legendScore": null,
       "colors": {
         "primary": "#0038a8",
@@ -36224,10 +36224,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-19 13:37 UTC",
+  "LAST_UPDATE": "2026-10-19 18:49 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-19T13:37:15Z"
+    "standingsDateTimeUtc": "2026-10-19T18:49:15Z"
   }
 };
