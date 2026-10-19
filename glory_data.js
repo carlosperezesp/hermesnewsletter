@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-18 23:24 UTC",
+  "UPDATED": "2026-10-19 10:50 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -35,12 +35,22 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-10"
     },
     {
-      "id": "motogp:win:Japanese motorcycle Grand Prix:Marc Márquez",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Marc Márquez ganó el Japanese motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-10-04"
+      "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Matthew Stafford",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Matthew Stafford es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:C.J. Stroud",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "C.J. Stroud es nuevo nº1 · jóvenes promesas",
+      "weight": 92,
+      "firstSeen": "2026-10-19"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.players:new1:Stephen Curry",
@@ -88,6 +98,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-05"
     },
     {
+      "id": "tennis:in:ATP:Arthur Fils:20261015",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Arthur Fils entra en el top 10 ATP",
+      "weight": 90,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-10-19"
+    },
+    {
       "id": "tennis:in:ATP:Novak Djokovic:20261001",
       "sport": "tennis",
       "detail": "Tenis",
@@ -95,6 +114,24 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-06"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:C.J. Stroud",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "C.J. Stroud entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:in:Caleb Williams",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "Caleb Williams entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-19"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Erik Karlsson",
@@ -250,15 +287,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Jacoby Brissett",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Jacoby Brissett entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "rank:nfl:ROAD_TO_GLORY.players:in:Trevor Lawrence",
       "sport": "nfl",
       "detail": "NFL",
@@ -349,13 +377,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-06"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:James Wood",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-jovenes-promesas",
-      "text": "James Wood entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-04"
+      "id": "tennis:out:ATP:Novak Djokovic:20261015",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Novak Djokovic sale del top 10 ATP",
+      "weight": 78,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-10-19"
     },
     {
       "id": "tennis:out:ATP:Arthur Fils:20261001",
@@ -455,24 +483,6 @@ window.GLORY_DATA = {
       "text": "BA Carse cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:out:Caleb Williams",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-jovenes-promesas",
-      "text": "Caleb Williams cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-10-05"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:out:CJ Abrams",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-jovenes-promesas",
-      "text": "CJ Abrams cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-10-04"
     }
   ],
   "REPORTS": [],
@@ -513,8 +523,8 @@ window.GLORY_DATA = {
       "Florida Panthers",
       "St. Louis Blues",
       "Edmonton Oilers",
-      "Carolina Hurricanes",
       "Boston Bruins",
+      "Carolina Hurricanes",
       "Minnesota Wild",
       "New York Rangers",
       "Dallas Stars"
@@ -604,22 +614,23 @@ window.GLORY_DATA = {
       "James Wood"
     ],
     "nfl:ROAD_TO_GLORY.players": [
-      "Jared Goff",
       "Matthew Stafford",
+      "Jared Goff",
       "Kirk Cousins",
       "Dak Prescott",
-      "Joe Burrow",
-      "Brock Purdy",
+      "Trevor Lawrence",
       "Geno Smith",
+      "Joe Burrow",
       "Jordan Love",
-      "Jacoby Brissett",
-      "Trevor Lawrence"
+      "C.J. Stroud",
+      "Brock Purdy"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
-      "Bryce Young",
       "C.J. Stroud",
+      "Bryce Young",
       "Drake Maye",
       "Cam Ward",
+      "Caleb Williams",
       "Jayden Daniels"
     ],
     "tennis:ATP": [
@@ -640,8 +651,8 @@ window.GLORY_DATA = {
       "Mirra Andreeva",
       "Coco Gauff",
       "Elina Svitolina",
-      "Marta Kostyuk",
       "Iga Swiatek",
+      "Marta Kostyuk",
       "Jessica Pegula",
       "Karolina Muchova",
       "Sorana Cirstea"
