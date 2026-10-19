@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-19 18:52 UTC
+// Auto-generated 2026-10-19 19:29 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-19 18:52 UTC",
+  "UPDATED": "2026-10-19 19:29 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 78.3
@@ -2924,9 +2924,9 @@ window.TENNIS_DATA = {
       "prevListRank": 86,
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 54.3
     },
@@ -11061,7 +11061,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lorenzo Sonego",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-2) 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11483,7 +11483,6 @@ window.TENNIS_DATA = {
       "Karen Khachanov",
       "Kyrian Jacquet",
       "Lorenzo Musetti",
-      "Lorenzo Sonego",
       "Luca Van Assche",
       "Luciano Darderi",
       "Marcos Giron",
@@ -11523,6 +11522,7 @@ window.TENNIS_DATA = {
       "Andrea Guerrieri",
       "Federico Cina",
       "Jaime Faria",
+      "Lorenzo Sonego",
       "Marin Cilic",
       "Matteo Arnaldi",
       "Miomir Kecmanovic",
@@ -11530,8 +11530,8 @@ window.TENNIS_DATA = {
       "Thiago Agustin Tirante",
       "Yannick Hanfmann"
     ],
-    "aliveCount": 66,
-    "matchesSeen": 41
+    "aliveCount": 65,
+    "matchesSeen": 42
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours",
