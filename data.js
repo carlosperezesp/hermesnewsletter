@@ -750,7 +750,7 @@ window.NHL_DATA = {
       "name": "Evan Bouchard",
       "pos": "D",
       "teamCode": "EDM",
-      "age": 26,
+      "age": 27,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -10341,7 +10341,7 @@ window.NHL_DATA = {
       "name": "Samuel Ersson",
       "pos": "G",
       "teamCode": "OTT",
-      "age": 26,
+      "age": 27,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -36224,10 +36224,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-19 23:42 UTC",
+  "LAST_UPDATE": "2026-10-20 00:27 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-19T23:42:15Z"
+    "standingsDateTimeUtc": "2026-10-20T00:26:30Z"
   }
 };

@@ -1,15 +1,15 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-10-19 23:44 UTC",
+  "UPDATED": "2026-10-20 00:29 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1676,
+    "matches": 1671,
     "archives": [
       {
         "name": "Tests",
-        "matches": 79
+        "matches": 78
       },
       {
         "name": "ODIs",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 990
+        "matches": 986
       },
       {
         "name": "IPL",
@@ -134,51 +134,6 @@ window.CRICKET_DATA = {
       "logo": "https://flagcdn.com/24x18/bd.png"
     },
     {
-      "id": "nauman-ali",
-      "name": "Nauman Ali",
-      "role": "Bowler",
-      "score": 87.4,
-      "legendScore": 58.5,
-      "stats": {
-        "test": 87.3,
-        "odi": 90.2,
-        "t20": 90.2,
-        "franchise": 77.1,
-        "runs": 116,
-        "wickets": 54,
-        "matches": 7
-      },
-      "formatScores": {
-        "test": {
-          "overall": 64.8,
-          "batting": 11.5,
-          "bowling": 89.1
-        },
-        "odi": {
-          "overall": 73.3,
-          "batting": 14.7,
-          "bowling": 91.6
-        },
-        "t20": {
-          "overall": 75.2,
-          "batting": 15.7,
-          "bowling": 91.6
-        },
-        "franchise": {
-          "overall": 74.3,
-          "batting": 15.7,
-          "bowling": 75.5
-        }
-      },
-      "country": "Pakistan",
-      "teamCode": "PAK",
-      "colors": {
-        "primary": "#115740",
-        "secondary": "#ffffff"
-      },
-      "logo": "https://flagcdn.com/24x18/pk.png"
-    },
-    {
       "id": "jj-bumrah",
       "name": "JJ Bumrah",
       "role": "Bowler",
@@ -267,51 +222,6 @@ window.CRICKET_DATA = {
         "secondary": "#d8d8d8"
       },
       "logo": "https://flagcdn.com/24x18/nz.png"
-    },
-    {
-      "id": "sajid-khan",
-      "name": "Sajid Khan",
-      "role": "Bowler",
-      "score": 77.8,
-      "legendScore": 57.5,
-      "stats": {
-        "test": 84.0,
-        "odi": 86.8,
-        "t20": 65.9,
-        "franchise": 56.3,
-        "runs": 243,
-        "wickets": 55,
-        "matches": 18
-      },
-      "formatScores": {
-        "test": {
-          "overall": 81.2,
-          "batting": 20.1,
-          "bowling": 80.1
-        },
-        "odi": {
-          "overall": 92.2,
-          "batting": 25.8,
-          "bowling": 82.4
-        },
-        "t20": {
-          "overall": 66.2,
-          "batting": 17.6,
-          "bowling": 63.4
-        },
-        "franchise": {
-          "overall": 65.4,
-          "batting": 17.6,
-          "bowling": 52.2
-        }
-      },
-      "country": "Pakistan",
-      "teamCode": "PAK",
-      "colors": {
-        "primary": "#115740",
-        "secondary": "#ffffff"
-      },
-      "logo": "https://flagcdn.com/24x18/pk.png"
     },
     {
       "id": "jc-tongue",
@@ -404,6 +314,51 @@ window.CRICKET_DATA = {
       "logo": "https://flagcdn.com/24x18/za.png"
     },
     {
+      "id": "nauman-ali",
+      "name": "Nauman Ali",
+      "role": "Bowler",
+      "score": 75.6,
+      "legendScore": 51.3,
+      "stats": {
+        "test": 75.5,
+        "odi": 78.0,
+        "t20": 78.0,
+        "franchise": 66.6,
+        "runs": 83,
+        "wickets": 43,
+        "matches": 6
+      },
+      "formatScores": {
+        "test": {
+          "overall": 55.6,
+          "batting": 9.8,
+          "bowling": 77.0
+        },
+        "odi": {
+          "overall": 63.1,
+          "batting": 12.6,
+          "bowling": 79.2
+        },
+        "t20": {
+          "overall": 64.8,
+          "batting": 13.5,
+          "bowling": 79.1
+        },
+        "franchise": {
+          "overall": 64.0,
+          "batting": 13.5,
+          "bowling": 65.2
+        }
+      },
+      "country": "Pakistan",
+      "teamCode": "PAK",
+      "colors": {
+        "primary": "#115740",
+        "secondary": "#ffffff"
+      },
+      "logo": "https://flagcdn.com/24x18/pk.png"
+    },
+    {
       "id": "pj-cummins",
       "name": "PJ Cummins",
       "role": "Bowler",
@@ -492,6 +447,51 @@ window.CRICKET_DATA = {
         "secondary": "#ff9933"
       },
       "logo": "https://flagcdn.com/24x18/in.png"
+    },
+    {
+      "id": "m-jansen",
+      "name": "M Jansen",
+      "role": "Bowler",
+      "score": 74.0,
+      "legendScore": 61.3,
+      "stats": {
+        "test": 71.0,
+        "odi": 72.9,
+        "t20": 76.3,
+        "franchise": 77.7,
+        "runs": 716,
+        "wickets": 98,
+        "matches": 60
+      },
+      "formatScores": {
+        "test": {
+          "overall": 77.1,
+          "batting": 22.6,
+          "bowling": 64.2
+        },
+        "odi": {
+          "overall": 90.4,
+          "batting": 31.9,
+          "bowling": 64.1
+        },
+        "t20": {
+          "overall": 86.3,
+          "batting": 27.0,
+          "bowling": 70.2
+        },
+        "franchise": {
+          "overall": 84.6,
+          "batting": 20.9,
+          "bowling": 73.6
+        }
+      },
+      "country": "South Africa",
+      "teamCode": "SA",
+      "colors": {
+        "primary": "#007a4d",
+        "secondary": "#ffb81c"
+      },
+      "logo": "https://flagcdn.com/24x18/za.png"
     }
   ],
   "FORMAT_KINGS": {
@@ -534,6 +534,24 @@ window.CRICKET_DATA = {
           "wickets": 30
         },
         {
+          "id": "ba-stokes",
+          "name": "BA Stokes",
+          "role": "All-rounder",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 82.6,
+          "batting": 29.1,
+          "bowling": 57.3,
+          "overall": 82.6,
+          "runs": 727,
+          "wickets": 49
+        },
+        {
           "id": "c-bosch",
           "name": "C Bosch",
           "role": "Bowler",
@@ -570,42 +588,6 @@ window.CRICKET_DATA = {
           "wickets": 128
         },
         {
-          "id": "ba-stokes",
-          "name": "BA Stokes",
-          "role": "All-rounder",
-          "country": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 81.4,
-          "batting": 28.8,
-          "bowling": 56.2,
-          "overall": 81.4,
-          "runs": 765,
-          "wickets": 49
-        },
-        {
-          "id": "sajid-khan",
-          "name": "Sajid Khan",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 81.2,
-          "batting": 20.1,
-          "bowling": 80.1,
-          "overall": 81.2,
-          "runs": 243,
-          "wickets": 55
-        },
-        {
           "id": "mehedi-hasan-miraz",
           "name": "Mehedi Hasan Miraz",
           "role": "Bowler",
@@ -622,6 +604,24 @@ window.CRICKET_DATA = {
           "overall": 81.1,
           "runs": 906,
           "wickets": 72
+        },
+        {
+          "id": "sajid-khan",
+          "name": "Sajid Khan",
+          "role": "Bowler",
+          "country": "Pakistan",
+          "teamCode": "PAK",
+          "colors": {
+            "primary": "#115740",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 77.8,
+          "batting": 20.9,
+          "bowling": 70.8,
+          "overall": 77.8,
+          "runs": 219,
+          "wickets": 46
         },
         {
           "id": "m-jansen",
@@ -898,24 +898,6 @@ window.CRICKET_DATA = {
           "wickets": 76
         },
         {
-          "id": "nauman-ali",
-          "name": "Nauman Ali",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 89.1,
-          "batting": 11.5,
-          "bowling": 89.1,
-          "overall": 64.8,
-          "runs": 116,
-          "wickets": 54
-        },
-        {
           "id": "jc-tongue",
           "name": "JC Tongue",
           "role": "Bowler",
@@ -932,24 +914,6 @@ window.CRICKET_DATA = {
           "overall": 50.7,
           "runs": 114,
           "wickets": 76
-        },
-        {
-          "id": "sajid-khan",
-          "name": "Sajid Khan",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 80.1,
-          "batting": 20.1,
-          "bowling": 80.1,
-          "overall": 81.2,
-          "runs": 243,
-          "wickets": 55
         },
         {
           "id": "mj-henry",
@@ -988,6 +952,24 @@ window.CRICKET_DATA = {
           "wickets": 122
         },
         {
+          "id": "nauman-ali",
+          "name": "Nauman Ali",
+          "role": "Bowler",
+          "country": "Pakistan",
+          "teamCode": "PAK",
+          "colors": {
+            "primary": "#115740",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 77.0,
+          "batting": 9.8,
+          "bowling": 77.0,
+          "overall": 55.6,
+          "runs": 83,
+          "wickets": 43
+        },
+        {
           "id": "mohammed-siraj",
           "name": "Mohammed Siraj",
           "role": "Bowler",
@@ -1022,6 +1004,24 @@ window.CRICKET_DATA = {
           "overall": 74.5,
           "runs": 502,
           "wickets": 81
+        },
+        {
+          "id": "sajid-khan",
+          "name": "Sajid Khan",
+          "role": "Bowler",
+          "country": "Pakistan",
+          "teamCode": "PAK",
+          "colors": {
+            "primary": "#115740",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 70.8,
+          "batting": 20.9,
+          "bowling": 70.8,
+          "overall": 77.8,
+          "runs": 219,
+          "wickets": 46
         },
         {
           "id": "sm-boland",
@@ -1074,30 +1074,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 92.4,
-          "batting": 37.0,
-          "bowling": 57.8,
-          "overall": 92.4,
-          "runs": 765,
+          "score": 93.7,
+          "batting": 37.3,
+          "bowling": 58.9,
+          "overall": 93.7,
+          "runs": 727,
           "wickets": 49
-        },
-        {
-          "id": "sajid-khan",
-          "name": "Sajid Khan",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 92.2,
-          "batting": 25.8,
-          "bowling": 82.4,
-          "overall": 92.2,
-          "runs": 243,
-          "wickets": 55
         },
         {
           "id": "m-jansen",
@@ -1116,6 +1098,24 @@ window.CRICKET_DATA = {
           "overall": 90.4,
           "runs": 716,
           "wickets": 98
+        },
+        {
+          "id": "sajid-khan",
+          "name": "Sajid Khan",
+          "role": "Bowler",
+          "country": "Pakistan",
+          "teamCode": "PAK",
+          "colors": {
+            "primary": "#115740",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 88.3,
+          "batting": 26.8,
+          "bowling": 72.9,
+          "overall": 88.3,
+          "runs": 219,
+          "wickets": 46
         },
         {
           "id": "ma-starc",
@@ -1446,24 +1446,6 @@ window.CRICKET_DATA = {
           "wickets": 76
         },
         {
-          "id": "nauman-ali",
-          "name": "Nauman Ali",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 91.6,
-          "batting": 14.7,
-          "bowling": 91.6,
-          "overall": 73.3,
-          "runs": 116,
-          "wickets": 54
-        },
-        {
           "id": "jnt-seales",
           "name": "JNT Seales",
           "role": "Bowler",
@@ -1480,24 +1462,6 @@ window.CRICKET_DATA = {
           "overall": 59.4,
           "runs": 230,
           "wickets": 104
-        },
-        {
-          "id": "sajid-khan",
-          "name": "Sajid Khan",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 82.4,
-          "batting": 25.8,
-          "bowling": 82.4,
-          "overall": 92.2,
-          "runs": 243,
-          "wickets": 55
         },
         {
           "id": "mj-henry",
@@ -1554,6 +1518,24 @@ window.CRICKET_DATA = {
           "wickets": 122
         },
         {
+          "id": "nauman-ali",
+          "name": "Nauman Ali",
+          "role": "Bowler",
+          "country": "Pakistan",
+          "teamCode": "PAK",
+          "colors": {
+            "primary": "#115740",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 79.2,
+          "batting": 12.6,
+          "bowling": 79.2,
+          "overall": 63.1,
+          "runs": 83,
+          "wickets": 43
+        },
+        {
           "id": "ka-maharaj",
           "name": "KA Maharaj",
           "role": "Bowler",
@@ -1588,6 +1570,24 @@ window.CRICKET_DATA = {
           "overall": 39.2,
           "runs": 76,
           "wickets": 109
+        },
+        {
+          "id": "sajid-khan",
+          "name": "Sajid Khan",
+          "role": "Bowler",
+          "country": "Pakistan",
+          "teamCode": "PAK",
+          "colors": {
+            "primary": "#115740",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 72.9,
+          "batting": 26.8,
+          "bowling": 72.9,
+          "overall": 88.3,
+          "runs": 219,
+          "wickets": 46
         }
       ]
     },
@@ -1612,6 +1612,24 @@ window.CRICKET_DATA = {
           "wickets": 76
         },
         {
+          "id": "ba-stokes",
+          "name": "BA Stokes",
+          "role": "All-rounder",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 93.8,
+          "batting": 38.1,
+          "bowling": 58.7,
+          "overall": 93.8,
+          "runs": 727,
+          "wickets": 49
+        },
+        {
           "id": "virandeep-singh",
           "name": "Virandeep Singh",
           "role": "All-rounder",
@@ -1628,24 +1646,6 @@ window.CRICKET_DATA = {
           "overall": 92.9,
           "runs": 1084,
           "wickets": 64
-        },
-        {
-          "id": "ba-stokes",
-          "name": "BA Stokes",
-          "role": "All-rounder",
-          "country": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 92.4,
-          "batting": 37.7,
-          "bowling": 57.6,
-          "overall": 92.4,
-          "runs": 765,
-          "wickets": 49
         },
         {
           "id": "ma-starc",
@@ -1930,11 +1930,11 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 59.8,
-          "batting": 59.8,
+          "score": 60.4,
+          "batting": 60.4,
           "bowling": 5.9,
-          "overall": 37.3,
-          "runs": 2658,
+          "overall": 37.4,
+          "runs": 2606,
           "wickets": 7
         },
         {
@@ -2010,24 +2010,6 @@ window.CRICKET_DATA = {
           "overall": 82.7,
           "runs": 296,
           "wickets": 76
-        },
-        {
-          "id": "nauman-ali",
-          "name": "Nauman Ali",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 91.6,
-          "batting": 15.7,
-          "bowling": 91.6,
-          "overall": 75.2,
-          "runs": 116,
-          "wickets": 54
         },
         {
           "id": "mj-henry",
@@ -2120,6 +2102,24 @@ window.CRICKET_DATA = {
           "wickets": 121
         },
         {
+          "id": "nauman-ali",
+          "name": "Nauman Ali",
+          "role": "Bowler",
+          "country": "Pakistan",
+          "teamCode": "PAK",
+          "colors": {
+            "primary": "#115740",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 79.1,
+          "batting": 13.5,
+          "bowling": 79.1,
+          "overall": 64.8,
+          "runs": 83,
+          "wickets": 43
+        },
+        {
           "id": "mohammed-siraj",
           "name": "Mohammed Siraj",
           "role": "Bowler",
@@ -2178,6 +2178,24 @@ window.CRICKET_DATA = {
           "wickets": 76
         },
         {
+          "id": "ba-stokes",
+          "name": "BA Stokes",
+          "role": "All-rounder",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 92.6,
+          "batting": 38.1,
+          "bowling": 48.3,
+          "overall": 92.6,
+          "runs": 727,
+          "wickets": 49
+        },
+        {
           "id": "virandeep-singh",
           "name": "Virandeep Singh",
           "role": "All-rounder",
@@ -2194,24 +2212,6 @@ window.CRICKET_DATA = {
           "overall": 91.8,
           "runs": 1084,
           "wickets": 64
-        },
-        {
-          "id": "ba-stokes",
-          "name": "BA Stokes",
-          "role": "All-rounder",
-          "country": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 91.2,
-          "batting": 37.7,
-          "bowling": 47.4,
-          "overall": 91.2,
-          "runs": 765,
-          "wickets": 49
         },
         {
           "id": "c-bosch",
@@ -2424,11 +2424,11 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 59.8,
-          "batting": 59.8,
+          "score": 60.4,
+          "batting": 60.4,
           "bowling": 4.9,
-          "overall": 36.9,
-          "runs": 2658,
+          "overall": 37.1,
+          "runs": 2606,
           "wickets": 7
         },
         {
@@ -2650,24 +2650,6 @@ window.CRICKET_DATA = {
           "wickets": 76
         },
         {
-          "id": "nauman-ali",
-          "name": "Nauman Ali",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 75.5,
-          "batting": 15.7,
-          "bowling": 75.5,
-          "overall": 74.3,
-          "runs": 116,
-          "wickets": 54
-        },
-        {
           "id": "jr-hazlewood",
           "name": "JR Hazlewood",
           "role": "Bowler",
@@ -2684,6 +2666,24 @@ window.CRICKET_DATA = {
           "overall": 51.4,
           "runs": 87,
           "wickets": 97
+        },
+        {
+          "id": "kuldeep-yadav",
+          "name": "Kuldeep Yadav",
+          "role": "Bowler",
+          "country": "India",
+          "teamCode": "IND",
+          "colors": {
+            "primary": "#1c4fa1",
+            "secondary": "#ff9933"
+          },
+          "logo": "https://flagcdn.com/24x18/in.png",
+          "score": 73.7,
+          "batting": 5.7,
+          "bowling": 73.7,
+          "overall": 44.2,
+          "runs": 86,
+          "wickets": 98
         }
       ]
     }
@@ -3447,6 +3447,51 @@ window.CRICKET_DATA = {
         "logo": "https://flagcdn.com/24x18/bd.png"
       },
       {
+        "id": "m-jansen",
+        "name": "M Jansen",
+        "role": "Bowler",
+        "score": 74.0,
+        "legendScore": 61.3,
+        "stats": {
+          "test": 71.0,
+          "odi": 72.9,
+          "t20": 76.3,
+          "franchise": 77.7,
+          "runs": 716,
+          "wickets": 98,
+          "matches": 60
+        },
+        "formatScores": {
+          "test": {
+            "overall": 77.1,
+            "batting": 22.6,
+            "bowling": 64.2
+          },
+          "odi": {
+            "overall": 90.4,
+            "batting": 31.9,
+            "bowling": 64.1
+          },
+          "t20": {
+            "overall": 86.3,
+            "batting": 27.0,
+            "bowling": 70.2
+          },
+          "franchise": {
+            "overall": 84.6,
+            "batting": 20.9,
+            "bowling": 73.6
+          }
+        },
+        "country": "South Africa",
+        "teamCode": "SA",
+        "colors": {
+          "primary": "#007a4d",
+          "secondary": "#ffb81c"
+        },
+        "logo": "https://flagcdn.com/24x18/za.png"
+      },
+      {
         "id": "mj-henry",
         "name": "MJ Henry",
         "role": "Bowler",
@@ -3627,51 +3672,6 @@ window.CRICKET_DATA = {
         "logo": "https://flagcdn.com/24x18/au.png"
       },
       {
-        "id": "nauman-ali",
-        "name": "Nauman Ali",
-        "role": "Bowler",
-        "score": 87.4,
-        "legendScore": 58.5,
-        "stats": {
-          "test": 87.3,
-          "odi": 90.2,
-          "t20": 90.2,
-          "franchise": 77.1,
-          "runs": 116,
-          "wickets": 54,
-          "matches": 7
-        },
-        "formatScores": {
-          "test": {
-            "overall": 64.8,
-            "batting": 11.5,
-            "bowling": 89.1
-          },
-          "odi": {
-            "overall": 73.3,
-            "batting": 14.7,
-            "bowling": 91.6
-          },
-          "t20": {
-            "overall": 75.2,
-            "batting": 15.7,
-            "bowling": 91.6
-          },
-          "franchise": {
-            "overall": 74.3,
-            "batting": 15.7,
-            "bowling": 75.5
-          }
-        },
-        "country": "Pakistan",
-        "teamCode": "PAK",
-        "colors": {
-          "primary": "#115740",
-          "secondary": "#ffffff"
-        },
-        "logo": "https://flagcdn.com/24x18/pk.png"
-      },
-      {
         "id": "jc-tongue",
         "name": "JC Tongue",
         "role": "Bowler",
@@ -3717,40 +3717,40 @@ window.CRICKET_DATA = {
         "logo": "https://flagcdn.com/24x18/gb-eng.png"
       },
       {
-        "id": "sajid-khan",
-        "name": "Sajid Khan",
+        "id": "nauman-ali",
+        "name": "Nauman Ali",
         "role": "Bowler",
-        "score": 77.8,
-        "legendScore": 57.5,
+        "score": 75.6,
+        "legendScore": 51.3,
         "stats": {
-          "test": 84.0,
-          "odi": 86.8,
-          "t20": 65.9,
-          "franchise": 56.3,
-          "runs": 243,
-          "wickets": 55,
-          "matches": 18
+          "test": 75.5,
+          "odi": 78.0,
+          "t20": 78.0,
+          "franchise": 66.6,
+          "runs": 83,
+          "wickets": 43,
+          "matches": 6
         },
         "formatScores": {
           "test": {
-            "overall": 81.2,
-            "batting": 20.1,
-            "bowling": 80.1
+            "overall": 55.6,
+            "batting": 9.8,
+            "bowling": 77.0
           },
           "odi": {
-            "overall": 92.2,
-            "batting": 25.8,
-            "bowling": 82.4
+            "overall": 63.1,
+            "batting": 12.6,
+            "bowling": 79.2
           },
           "t20": {
-            "overall": 66.2,
-            "batting": 17.6,
-            "bowling": 63.4
+            "overall": 64.8,
+            "batting": 13.5,
+            "bowling": 79.1
           },
           "franchise": {
-            "overall": 65.4,
-            "batting": 17.6,
-            "bowling": 52.2
+            "overall": 64.0,
+            "batting": 13.5,
+            "bowling": 65.2
           }
         },
         "country": "Pakistan",

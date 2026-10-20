@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-19 23:44 UTC",
+  "UPDATED": "2026-10-20 00:29 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -89,15 +89,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-09"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.teams:new1:Vegas Golden Knights",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-dinastias",
-      "text": "Vegas Golden Knights es nuevo nº1 · dinastías",
-      "weight": 92,
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "tennis:in:ATP:Arthur Fils:20261015",
       "sport": "tennis",
       "detail": "Tenis",
@@ -114,6 +105,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-06"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:M Jansen",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "M Jansen entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-20"
     },
     {
       "id": "rank:nfl:ROAD_TO_GLORY.players:in:C.J. Stroud",
@@ -393,6 +393,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-06"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:Sajid Khan",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "Sajid Khan cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-20"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.players:out:Jayson Tatum",
@@ -857,13 +866,13 @@ window.GLORY_DATA = {
       "MA Starc",
       "JJ Bumrah",
       "Taijul Islam",
+      "M Jansen",
       "MJ Henry",
       "RA Jadeja",
       "KA Maharaj",
       "PJ Cummins",
-      "Nauman Ali",
       "JC Tongue",
-      "Sajid Khan"
+      "Nauman Ali"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",
