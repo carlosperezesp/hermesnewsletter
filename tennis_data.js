@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-20 11:54 UTC
+// Auto-generated 2026-10-20 17:33 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-20 11:54 UTC",
+  "UPDATED": "2026-10-20 17:33 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -609,10 +609,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Almaty Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 74.8
     },
@@ -1222,9 +1222,9 @@ window.TENNIS_DATA = {
       "prevListRank": 36,
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 66.3
     },
@@ -1463,7 +1463,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.1
@@ -1496,9 +1496,9 @@ window.TENNIS_DATA = {
       "prevListRank": 44,
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 63.8
     },
@@ -1531,7 +1531,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.0
@@ -1565,7 +1565,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 63.8
@@ -2006,9 +2006,9 @@ window.TENNIS_DATA = {
       "prevListRank": 59,
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.7
     },
@@ -2143,7 +2143,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Almaty Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 59.3
@@ -2483,7 +2483,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.5
@@ -2517,7 +2517,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.5
@@ -2789,7 +2789,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.2
@@ -2822,9 +2822,9 @@ window.TENNIS_DATA = {
       "prevListRank": 83,
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 54.4
     },
@@ -3918,9 +3918,9 @@ window.TENNIS_DATA = {
       "prevListRank": 115,
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.3
     },
@@ -3953,7 +3953,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.4
@@ -4364,9 +4364,9 @@ window.TENNIS_DATA = {
       "prevListRank": 128,
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 43.8
     },
@@ -4968,9 +4968,9 @@ window.TENNIS_DATA = {
       "prevListRank": 145,
       "tournamentStatus": {
         "tournament": "Almaty Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 35.0
     },
@@ -5149,7 +5149,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -5387,10 +5387,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "BNB Ningbo Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 90.4
     },
@@ -5559,7 +5559,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 84.2
@@ -6341,7 +6341,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 68.1
@@ -6682,9 +6682,9 @@ window.TENNIS_DATA = {
       "prevListRank": 45,
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 62.6
     },
@@ -8701,7 +8701,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.8
@@ -11070,28 +11070,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Botic Van De Zandschulp",
+          "w": "Clement Chidekh",
           "w_logo": "",
-          "l": "Clement Chidekh",
+          "l": "Botic Van De Zandschulp",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 61.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 61.8,
           "match_score": 61.8
         },
         {
           "round": "R128",
-          "w": "Max Schoenhaus",
+          "w": "Tallon Griekspoor",
           "w_logo": "",
-          "l": "Tallon Griekspoor",
+          "l": "Max Schoenhaus",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-3) 6-7 (5-7) 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 61.5,
+          "w_score": 61.5,
+          "l_score": null,
           "match_score": 61.5
         },
         {
@@ -11113,24 +11113,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Toby Samuel",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 58.8,
           "l_score": 44.8,
           "match_score": 58.8
         },
         {
           "round": "R128",
-          "w": "Marcos Giron",
+          "w": "Jan-Lennard Struff",
           "w_logo": "",
-          "l": "Jan-Lennard Struff",
+          "l": "Marcos Giron",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-3) 7-6 (7-3)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 51.5,
-          "l_score": 52.9,
+          "w_score": 52.9,
+          "l_score": 51.5,
           "match_score": 52.9
         },
         {
@@ -11139,9 +11139,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Hugo Gaston",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 46.2,
           "l_score": 39.7,
           "match_score": 46.2
@@ -11159,9 +11159,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Rei Sakamoto",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.9,
           "l_score": 35.0,
           "match_score": 67.9
@@ -11181,15 +11181,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Timofey Skatov",
+          "w": "Fabian Marozsan",
           "w_logo": "",
-          "l": "Fabian Marozsan",
+          "l": "Timofey Skatov",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 56.5,
+          "w_score": 56.5,
+          "l_score": null,
           "match_score": 56.5
         },
         {
@@ -11257,38 +11257,51 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Benjamin Bonzi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.9,
           "l_score": 50.5,
           "match_score": 63.9
         },
         {
           "round": "R128",
-          "w": "Ugo Humbert",
+          "w": "Corentin Moutet",
           "w_logo": "",
-          "l": "Corentin Moutet",
+          "l": "Ugo Humbert",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-7 (5-7) 7-6 (7-4)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.8,
-          "l_score": 53.1,
+          "scheduled": false,
+          "w_score": 53.1,
+          "l_score": 63.8,
           "match_score": 63.8
         },
         {
           "round": "R128",
-          "w": "Luca Van Assche",
+          "w": "Clement Tabur",
           "w_logo": "",
-          "l": "Clement Tabur",
+          "l": "Luca Van Assche",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 62.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 62.7,
           "match_score": 62.7
+        },
+        {
+          "round": "R128",
+          "w": "Daniel Altmaier",
+          "w_logo": "",
+          "l": "Titouan Droguet",
+          "l_logo": "",
+          "score": "5-7 7-6 (7-4) 7-6 (7-3)",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 51.5,
+          "l_score": 57.5,
+          "match_score": 57.5
         },
         {
           "round": "R128",
@@ -11305,28 +11318,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Titouan Droguet",
+          "w": "Borna Gojo",
           "w_logo": "",
-          "l": "Daniel Altmaier",
+          "l": "Arthur Fery",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-6 (7-2)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 57.5,
-          "l_score": 51.5,
-          "match_score": 57.5
-        },
-        {
-          "round": "R128",
-          "w": "Arthur Fery",
-          "w_logo": "",
-          "l": "Borna Gojo",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 46.2,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 46.2,
           "match_score": 46.2
         }
       ]
@@ -11653,7 +11653,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Guo Hanyu",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 67.0,
@@ -11675,15 +11675,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Daria Snigur",
+          "w": "Katarzyna Kawa",
           "w_logo": "",
-          "l": "Katarzyna Kawa",
+          "l": "Daria Snigur",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "1-6 6-2 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 62.9,
-          "l_score": 48.9,
+          "w_score": 48.9,
+          "l_score": 62.9,
           "match_score": 62.9
         },
         {
@@ -11732,12 +11732,11 @@ window.TENNIS_DATA = {
     "alive": [
       "Adrian Mannarino",
       "Alex Michelsen",
+      "Alexander Bublik",
       "Andrey Rublev",
-      "Arthur Fery",
       "Arthur Fils",
       "Benjamin Bonzi",
       "Borna Gojo",
-      "Botic Van De Zandschulp",
       "Brandon Nakashima",
       "Cameron Norrie",
       "Clement Chidekh",
@@ -11752,8 +11751,8 @@ window.TENNIS_DATA = {
       "Facundo Diaz Acosta",
       "Felix Balshaw",
       "Francisco Cerundolo",
+      "Gauthier Onclin",
       "Hamad Medjedovic",
-      "Hugo Gaston",
       "Jacob Fearnley",
       "James Duckworth",
       "Jan-Lennard Struff",
@@ -11763,20 +11762,17 @@ window.TENNIS_DATA = {
       "Lorenzo Musetti",
       "Luca Van Assche",
       "Luciano Darderi",
-      "Marcos Giron",
       "Mariano Navone",
       "Martin Damm",
       "Martin Landaluce",
       "Matteo Berrettini",
       "Mattia Bellucci",
-      "Max Schoenhaus",
       "Mikhail Kukushkin",
       "Moise Kouame",
       "Nikoloz Basilashvili",
       "Nishesh Basavareddy",
       "Pierre-Hugues Herbert",
       "Raphael Collignon",
-      "Rei Sakamoto",
       "Remy Bertola",
       "Sho Shimabukuro",
       "Stan Wawrinka",
@@ -11784,12 +11780,9 @@ window.TENNIS_DATA = {
       "Tallon Griekspoor",
       "Taylor Fritz",
       "Terence Atmane",
-      "Timofey Skatov",
-      "Titouan Droguet",
       "Toby Samuel",
       "Tomas Machac",
       "Tomas Martin Etcheverry",
-      "Ugo Humbert",
       "Zangar Nurlanuly",
       "Zizou Bergs"
     ],
@@ -11797,22 +11790,31 @@ window.TENNIS_DATA = {
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Andrea Guerrieri",
+      "Arthur Fery",
+      "Botic Van De Zandschulp",
       "Federico Cina",
+      "Hugo Gaston",
       "Jaime Faria",
       "Juan Manuel Cerundolo",
       "Lorenzo Sonego",
+      "Marcos Giron",
       "Marin Cilic",
       "Matteo Arnaldi",
+      "Max Schoenhaus",
       "Miomir Kecmanovic",
+      "Rei Sakamoto",
       "Rinky Hijikata",
       "Roman Safiullin",
       "Sebastian Baez",
       "Stefanos Sakellaridis",
       "Thiago Agustin Tirante",
+      "Timofey Skatov",
+      "Titouan Droguet",
+      "Ugo Humbert",
       "Yannick Hanfmann"
     ],
-    "aliveCount": 62,
-    "matchesSeen": 45
+    "aliveCount": 55,
+    "matchesSeen": 51
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open",
@@ -11839,11 +11841,9 @@ window.TENNIS_DATA = {
       "Antonia Ruzic",
       "Ashlyn Krueger",
       "Belinda Bencic",
-      "Daria Snigur",
       "Diana Shnaider",
       "Ekaterina Alexandrova",
       "Elena Rybakina",
-      "Guo Hanyu",
       "Iva Jovic",
       "Jasmine Paolini",
       "Katarzyna Kawa",
@@ -11855,6 +11855,7 @@ window.TENNIS_DATA = {
       "Lilli Tagger",
       "Magda Linette",
       "Marie Bouzkova",
+      "Marta Kostyuk",
       "Mary Stoiana",
       "Moyuka Uchijima",
       "Polina Kudermetova",
@@ -11873,10 +11874,12 @@ window.TENNIS_DATA = {
       "Claire Liu",
       "Cristina Bucsa",
       "Daria Kasatkina",
+      "Daria Snigur",
       "Diane Parry",
       "Elise Mertens",
       "Emerson Jones",
       "Ena Shibahara",
+      "Guo Hanyu",
       "Harriet Dart",
       "Himeno Sakatsume",
       "Janice Tjen",
@@ -11894,8 +11897,8 @@ window.TENNIS_DATA = {
       "Yulia Putintseva",
       "Zhang Shuai"
     ],
-    "aliveCount": 33,
-    "matchesSeen": 42
+    "aliveCount": 32,
+    "matchesSeen": 44
   },
   "ATP_SCORE_LOG": {
     "206173": [
