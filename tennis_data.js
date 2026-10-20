@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-20 17:33 UTC
+// Auto-generated 2026-10-20 18:07 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-20 17:33 UTC",
+  "UPDATED": "2026-10-20 18:07 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -201,10 +201,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Grand Prix Auvergne-Rhône-Alpes",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 80.2
     },
@@ -1188,9 +1188,9 @@ window.TENNIS_DATA = {
       "prevListRank": 35,
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 66.1
     },
@@ -3199,7 +3199,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.3
@@ -4088,9 +4088,9 @@ window.TENNIS_DATA = {
       "prevListRank": 120,
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 47.6
     },
@@ -11100,9 +11100,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nishesh Basavareddy",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 59.8,
           "l_score": 47.4,
           "match_score": 59.8
@@ -11113,7 +11113,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Toby Samuel",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 7-6 (7-3)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 58.8,
@@ -11253,15 +11253,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Cameron Norrie",
+          "w": "Benjamin Bonzi",
           "w_logo": "",
-          "l": "Benjamin Bonzi",
+          "l": "Cameron Norrie",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 3-6 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 63.9,
-          "l_score": 50.5,
+          "w_score": 50.5,
+          "l_score": 63.9,
           "match_score": 63.9
         },
         {
@@ -11738,7 +11738,6 @@ window.TENNIS_DATA = {
       "Benjamin Bonzi",
       "Borna Gojo",
       "Brandon Nakashima",
-      "Cameron Norrie",
       "Clement Chidekh",
       "Clement Tabur",
       "Corentin Moutet",
@@ -11780,9 +11779,9 @@ window.TENNIS_DATA = {
       "Tallon Griekspoor",
       "Taylor Fritz",
       "Terence Atmane",
-      "Toby Samuel",
       "Tomas Machac",
       "Tomas Martin Etcheverry",
+      "Tommy Paul",
       "Zangar Nurlanuly",
       "Zizou Bergs"
     ],
@@ -11792,6 +11791,7 @@ window.TENNIS_DATA = {
       "Andrea Guerrieri",
       "Arthur Fery",
       "Botic Van De Zandschulp",
+      "Cameron Norrie",
       "Federico Cina",
       "Hugo Gaston",
       "Jaime Faria",
@@ -11810,11 +11810,12 @@ window.TENNIS_DATA = {
       "Thiago Agustin Tirante",
       "Timofey Skatov",
       "Titouan Droguet",
+      "Toby Samuel",
       "Ugo Humbert",
       "Yannick Hanfmann"
     ],
-    "aliveCount": 55,
-    "matchesSeen": 51
+    "aliveCount": 54,
+    "matchesSeen": 52
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open",
