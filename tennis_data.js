@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-20 00:29 UTC
+// Auto-generated 2026-10-20 10:08 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-20 00:29 UTC",
+  "UPDATED": "2026-10-20 10:08 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -303,10 +303,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Almaty Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 78.9
     },
@@ -3472,9 +3472,9 @@ window.TENNIS_DATA = {
       "prevListRank": 102,
       "tournamentStatus": {
         "tournament": "Almaty Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 51.1
     },
@@ -3882,9 +3882,9 @@ window.TENNIS_DATA = {
       "prevListRank": 114,
       "tournamentStatus": {
         "tournament": "Almaty Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 49.6
     },
@@ -4789,7 +4789,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Almaty Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -5217,10 +5217,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "BNB Ningbo Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 93.2
     },
@@ -5353,10 +5353,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "BNB Ningbo Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.3
     },
@@ -5491,7 +5491,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 85.6
@@ -5863,10 +5863,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "BNB Ningbo Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 76.3
     },
@@ -5933,7 +5933,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 75.8
@@ -6069,7 +6069,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 71.2
@@ -6170,9 +6170,9 @@ window.TENNIS_DATA = {
       "prevListRank": 30,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 69.0
     },
@@ -6205,7 +6205,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 68.8
@@ -6307,7 +6307,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 66.4
@@ -6511,7 +6511,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.9
@@ -6545,7 +6545,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.3
@@ -6750,9 +6750,9 @@ window.TENNIS_DATA = {
       "prevListRank": 47,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 63.2
     },
@@ -6818,9 +6818,9 @@ window.TENNIS_DATA = {
       "prevListRank": 49,
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 61.9
     },
@@ -6955,7 +6955,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.4
@@ -7023,7 +7023,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.2
@@ -7225,10 +7225,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.0
     },
@@ -7294,9 +7294,9 @@ window.TENNIS_DATA = {
       "prevListRank": 63,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.3
     },
@@ -7397,7 +7397,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 57.2
@@ -7431,7 +7431,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.6
@@ -7465,7 +7465,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.0
@@ -7534,9 +7534,9 @@ window.TENNIS_DATA = {
       "prevListRank": 70,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.7
     },
@@ -7568,9 +7568,9 @@ window.TENNIS_DATA = {
       "prevListRank": 71,
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.1
     },
@@ -7636,9 +7636,9 @@ window.TENNIS_DATA = {
       "prevListRank": 73,
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.9
     },
@@ -7773,7 +7773,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.1
@@ -7875,7 +7875,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.4
@@ -7908,9 +7908,9 @@ window.TENNIS_DATA = {
       "prevListRank": 81,
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 52.2
     },
@@ -8315,10 +8315,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
+        "tournament": "Kinoshita Group Japan Open",
         "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 51.4
     },
@@ -8940,9 +8940,9 @@ window.TENNIS_DATA = {
       "prevListRank": 111,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 45.6
     },
@@ -9010,9 +9010,9 @@ window.TENNIS_DATA = {
       "prevListRank": 113,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 44.9
     },
@@ -9183,10 +9183,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "BNB Ningbo Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 43.5
     },
@@ -9639,7 +9639,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 39.7
@@ -9674,9 +9674,9 @@ window.TENNIS_DATA = {
       "prevListRank": 132,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 38.9
     },
@@ -9815,7 +9815,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.8
@@ -10063,7 +10063,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10099,7 +10099,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11057,15 +11057,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Mariano Navone",
+          "w": "Juan Manuel Cerundolo",
           "w_logo": "",
-          "l": "Juan Manuel Cerundolo",
+          "l": "Mariano Navone",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 62.0,
-          "l_score": 57.7,
+          "scheduled": false,
+          "w_score": 57.7,
+          "l_score": 62.0,
           "match_score": 62.0
         },
         {
@@ -11083,15 +11083,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Tallon Griekspoor",
+          "w": "Max Schoenhaus",
           "w_logo": "",
-          "l": "Max Schoenhaus",
+          "l": "Tallon Griekspoor",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 61.5,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 61.5,
           "match_score": 61.5
         },
         {
@@ -11168,15 +11168,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Stefanos Tsitsipas",
+          "w": "Aleksandar Kovacevic",
           "w_logo": "",
-          "l": "Aleksandar Kovacevic",
+          "l": "Stefanos Tsitsipas",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 64.4,
-          "l_score": 49.8,
+          "scheduled": false,
+          "w_score": 49.8,
+          "l_score": 64.4,
           "match_score": 64.4
         },
         {
@@ -11198,24 +11198,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Rinky Hijikata",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-5) 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 51.1,
           "l_score": 46.3,
           "match_score": 51.1
         },
         {
           "round": "R128",
-          "w": "Roman Safiullin",
+          "w": "Sho Shimabukuro",
           "w_logo": "",
-          "l": "Sho Shimabukuro",
+          "l": "Roman Safiullin",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-7 (4-7) 6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.0,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 49.0,
           "match_score": 49.0
         }
       ]
@@ -11499,15 +11499,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Peyton Stearns",
+          "w": "Katerina Siniakova",
           "w_logo": "",
-          "l": "Katerina Siniakova",
+          "l": "Peyton Stearns",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 0-6 4-0 ret",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 69.1,
-          "l_score": 56.8,
+          "scheduled": false,
+          "w_score": 56.8,
+          "l_score": 69.1,
           "match_score": 69.1
         },
         {
@@ -11516,37 +11516,37 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Emerson Jones",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-7 6-0 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.4,
           "l_score": 45.1,
           "match_score": 67.4
         },
         {
           "round": "R128",
-          "w": "Himeno Sakatsume",
+          "w": "Katie Boulter",
           "w_logo": "",
-          "l": "Katie Boulter",
+          "l": "Himeno Sakatsume",
           "l_logo": "",
-          "score": "6-3 3-1",
+          "score": "6-3 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 39.1,
-          "l_score": 64.5,
+          "w_score": 64.5,
+          "l_score": 39.1,
           "match_score": 64.5
         },
         {
           "round": "R128",
-          "w": "Oleksandra Oliynykova",
+          "w": "Mary Stoiana",
           "w_logo": "",
-          "l": "Mary Stoiana",
+          "l": "Oleksandra Oliynykova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 62.0,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 62.0,
           "match_score": 62.0
         },
         {
@@ -11555,37 +11555,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Claire Liu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 60.6,
           "l_score": 45.9,
           "match_score": 60.6
         },
         {
           "round": "R128",
-          "w": "Kimberly Birrell",
+          "w": "Zeynep Sonmez",
           "w_logo": "",
-          "l": "Kayla Day",
+          "l": "Maya Joint",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 58.0,
-          "l_score": 37.0,
-          "match_score": 58.0
-        },
-        {
-          "round": "R128",
-          "w": "Maya Joint",
-          "w_logo": "",
-          "l": "Zeynep Sonmez",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 57.8,
-          "l_score": 56.9,
+          "scheduled": false,
+          "w_score": 56.9,
+          "l_score": 57.8,
           "match_score": 57.8
         },
         {
@@ -11594,12 +11581,25 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zhang Shuai",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 1-6 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 56.8,
           "l_score": null,
           "match_score": 56.8
+        },
+        {
+          "round": "R128",
+          "w": "Antonia Ruzic",
+          "w_logo": "",
+          "l": "Paula Badosa",
+          "l_logo": "",
+          "score": "3-6 6-4 6-3",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 55.6,
+          "l_score": 56.4,
+          "match_score": 56.4
         }
       ]
     },
@@ -11614,9 +11614,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jelena Ostapenko",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 84.1,
           "l_score": 71.9,
           "match_score": 84.1
@@ -11627,9 +11627,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Yulia Putintseva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 7-6 (7-4)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.9,
           "l_score": 54.1,
           "match_score": 75.9
@@ -11640,9 +11640,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anhelina Kalinina",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 71.1,
           "l_score": 61.7,
           "match_score": 71.1
@@ -11666,9 +11666,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alycia Parks",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 64.2,
           "l_score": 56.1,
           "match_score": 64.2
@@ -11688,15 +11688,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Cristina Bucsa",
+          "w": "Polina Kudermetova",
           "w_logo": "",
-          "l": "Polina Kudermetova",
+          "l": "Cristina Bucsa",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-5) 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 56.3,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 56.3,
           "match_score": 56.3
         }
       ]
@@ -11746,6 +11746,7 @@ window.TENNIS_DATA = {
       "Corentin Moutet",
       "Damir Dzumhur",
       "Daniel Altmaier",
+      "Daniil Medvedev",
       "David Goffin",
       "Dino Prizmic",
       "Fabian Marozsan",
@@ -11779,8 +11780,6 @@ window.TENNIS_DATA = {
       "Raphael Collignon",
       "Rei Sakamoto",
       "Remy Bertola",
-      "Rinky Hijikata",
-      "Roman Safiullin",
       "Sebastian Baez",
       "Sho Shimabukuro",
       "Stan Wawrinka",
@@ -11805,12 +11804,14 @@ window.TENNIS_DATA = {
       "Marin Cilic",
       "Matteo Arnaldi",
       "Miomir Kecmanovic",
+      "Rinky Hijikata",
+      "Roman Safiullin",
       "Stefanos Sakellaridis",
       "Thiago Agustin Tirante",
       "Yannick Hanfmann"
     ],
-    "aliveCount": 65,
-    "matchesSeen": 42
+    "aliveCount": 64,
+    "matchesSeen": 43
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open",
@@ -11832,40 +11833,30 @@ window.TENNIS_DATA = {
     "alive": [
       "Alexandra Eala",
       "Aliaksandra Sasnovich",
-      "Alycia Parks",
-      "Anhelina Kalinina",
+      "Anastasia Zakharova",
       "Ann Li",
       "Antonia Ruzic",
       "Ashlyn Krueger",
       "Belinda Bencic",
-      "Claire Liu",
-      "Cristina Bucsa",
       "Daria Snigur",
       "Diana Shnaider",
       "Ekaterina Alexandrova",
-      "Emerson Jones",
-      "Ena Shibahara",
+      "Elena Rybakina",
       "Guo Hanyu",
-      "Himeno Sakatsume",
-      "Iga Swiatek",
+      "Iva Jovic",
       "Jasmine Paolini",
       "Jelena Ostapenko",
       "Katarzyna Kawa",
       "Katerina Siniakova",
       "Katie Boulter",
       "Kayla Day",
-      "Kimberly Birrell",
       "Lanlana Tararudee",
       "Leylah Fernandez",
       "Lilli Tagger",
       "Magda Linette",
       "Marie Bouzkova",
       "Mary Stoiana",
-      "Maya Joint",
       "Moyuka Uchijima",
-      "Oleksandra Oliynykova",
-      "Paula Badosa",
-      "Peyton Stearns",
       "Polina Kudermetova",
       "Sara Bejlek",
       "Sinja Kraus",
@@ -11873,25 +11864,37 @@ window.TENNIS_DATA = {
       "Talia Gibson",
       "Tereza Valentova",
       "Viktorija Golubic",
-      "Yulia Putintseva",
-      "Zeynep Sonmez",
-      "Zhang Shuai"
+      "Zeynep Sonmez"
     ],
     "out": [
+      "Alycia Parks",
+      "Anhelina Kalinina",
       "Catherine McNally",
+      "Claire Liu",
+      "Cristina Bucsa",
       "Daria Kasatkina",
       "Diane Parry",
       "Elise Mertens",
+      "Emerson Jones",
+      "Ena Shibahara",
       "Harriet Dart",
+      "Himeno Sakatsume",
       "Janice Tjen",
       "Kaitlin Quevedo",
       "Kamilla Rakhimova",
       "Liudmila Samsonova",
       "Mai Hontama",
-      "Shi Han"
+      "Maya Joint",
+      "Oleksandra Oliynykova",
+      "Paula Badosa",
+      "Peyton Stearns",
+      "Shi Han",
+      "Sofia Kenin",
+      "Yulia Putintseva",
+      "Zhang Shuai"
     ],
-    "aliveCount": 46,
-    "matchesSeen": 32
+    "aliveCount": 34,
+    "matchesSeen": 42
   },
   "ATP_SCORE_LOG": {
     "206173": [

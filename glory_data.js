@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-20 00:29 UTC",
+  "UPDATED": "2026-10-20 10:08 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -107,6 +107,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-06"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Connor Bedard",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Connor Bedard entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-20"
+    },
+    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:M Jansen",
       "sport": "cricket",
       "detail": "Cricket",
@@ -139,15 +148,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "Erik Karlsson entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-18"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jackson LaCombe",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Jackson LaCombe entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-18"
     },
@@ -519,17 +519,17 @@ window.GLORY_DATA = {
       "Nathan MacKinnon",
       "Connor McDavid",
       "Leon Draisaitl",
+      "Auston Matthews",
       "Jack Eichel",
       "Mark Stone",
       "David Pastrnak",
-      "Auston Matthews",
       "Erik Karlsson",
       "Roman Josi"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
-      "Colorado Avalanche",
       "Florida Panthers",
+      "Colorado Avalanche",
       "St. Louis Blues",
       "Edmonton Oilers",
       "Boston Bruins",
@@ -544,11 +544,11 @@ window.GLORY_DATA = {
       "Lane Hutson",
       "Beckett Sennecke",
       "Owen Power",
-      "Leo Carlsson",
       "Vasily Podkolzin",
-      "Jackson LaCombe",
       "Tim Stützle",
-      "Ivan Demidov"
+      "Ivan Demidov",
+      "Leo Carlsson",
+      "Connor Bedard"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -626,21 +626,21 @@ window.GLORY_DATA = {
       "Matthew Stafford",
       "Jared Goff",
       "Kirk Cousins",
+      "Brock Purdy",
       "Dak Prescott",
       "Trevor Lawrence",
       "Geno Smith",
       "Joe Burrow",
       "Jordan Love",
-      "C.J. Stroud",
-      "Brock Purdy"
+      "C.J. Stroud"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
       "C.J. Stroud",
       "Bryce Young",
       "Drake Maye",
-      "Cam Ward",
+      "Jayden Daniels",
       "Caleb Williams",
-      "Jayden Daniels"
+      "Cam Ward"
     ],
     "tennis:ATP": [
       "Jannik Sinner",

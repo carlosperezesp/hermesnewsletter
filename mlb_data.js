@@ -3511,7 +3511,7 @@ window.MLB_DATA = {
       "last": "Soriano",
       "pos": "SP",
       "teamCode": "LAA",
-      "age": 27,
+      "age": 28,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40973.png",
       "colors": {
         "primary": "#ba0021",
@@ -3527,7 +3527,7 @@ window.MLB_DATA = {
         "so": 169,
         "whip": 1.29
       },
-      "legendScore": 36.7,
+      "legendScore": 37.5,
       "currentScore": 58,
       "battingScore": null,
       "pitchingScore": 58,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-20 00:27 UTC",
+  "LAST_UPDATE": "2026-10-20 10:05 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
