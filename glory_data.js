@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-20 10:08 UTC",
+  "UPDATED": "2026-10-20 11:54 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -33,6 +33,15 @@ window.GLORY_DATA = {
       "text": "George Russell ganó el Singapore Airlines Singapore Grand Prix",
       "weight": 100,
       "firstSeen": "2026-10-10"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Oklahoma City Thunder",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-dinastias",
+      "text": "Oklahoma City Thunder es nuevo nº1 · dinastías",
+      "weight": 92,
+      "firstSeen": "2026-10-20"
     },
     {
       "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Matthew Stafford",
@@ -78,15 +87,6 @@ window.GLORY_DATA = {
       "text": "Paul Seixas es nuevo nº1 · promesas",
       "weight": 92,
       "firstSeen": "2026-10-10"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Boston Celtics",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-dinastias",
-      "text": "Boston Celtics es nuevo nº1 · dinastías",
-      "weight": 92,
-      "firstSeen": "2026-10-09"
     },
     {
       "id": "tennis:in:ATP:Arthur Fils:20261015",
@@ -563,16 +563,16 @@ window.GLORY_DATA = {
       "Joel Embiid"
     ],
     "nba:ROAD_TO_GLORY.teams": [
+      "Oklahoma City Thunder",
       "Boston Celtics",
-      "Golden State Warriors",
       "Denver Nuggets",
+      "Milwaukee Bucks",
+      "Golden State Warriors",
       "Los Angeles Lakers",
       "San Antonio Spurs",
+      "New York Knicks",
       "Minnesota Timberwolves",
-      "Milwaukee Bucks",
-      "Oklahoma City Thunder",
-      "Indiana Pacers",
-      "New York Knicks"
+      "Indiana Pacers"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
       "Victor Wembanyama",

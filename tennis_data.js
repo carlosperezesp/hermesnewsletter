@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-20 10:08 UTC
+// Auto-generated 2026-10-20 11:54 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-20 10:08 UTC",
+  "UPDATED": "2026-10-20 11:54 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -575,10 +575,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Grand Prix Auvergne-Rhône-Alpes",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.4
     },
@@ -1087,7 +1087,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Almaty Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 66.1
@@ -1938,9 +1938,9 @@ window.TENNIS_DATA = {
       "prevListRank": 57,
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 60.0
     },
@@ -1972,9 +1972,9 @@ window.TENNIS_DATA = {
       "prevListRank": 58,
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.7
     },
@@ -3300,9 +3300,9 @@ window.TENNIS_DATA = {
       "prevListRank": 97,
       "tournamentStatus": {
         "tournament": "Almaty Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 52.9
     },
@@ -6000,9 +6000,9 @@ window.TENNIS_DATA = {
       "prevListRank": 25,
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 70.5
     },
@@ -11057,15 +11057,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Juan Manuel Cerundolo",
+          "w": "Mariano Navone",
           "w_logo": "",
-          "l": "Mariano Navone",
+          "l": "Juan Manuel Cerundolo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (12-10) 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 57.7,
-          "l_score": 62.0,
+          "w_score": 62.0,
+          "l_score": 57.7,
           "match_score": 62.0
         },
         {
@@ -11122,15 +11122,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Jan-Lennard Struff",
+          "w": "Marcos Giron",
           "w_logo": "",
-          "l": "Marcos Giron",
+          "l": "Jan-Lennard Struff",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 52.9,
-          "l_score": 51.5,
+          "scheduled": false,
+          "w_score": 51.5,
+          "l_score": 52.9,
           "match_score": 52.9
         },
         {
@@ -11168,28 +11168,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Aleksandar Kovacevic",
+          "w": "Stefanos Tsitsipas",
           "w_logo": "",
-          "l": "Stefanos Tsitsipas",
+          "l": "Aleksandar Kovacevic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (11-9) 3-6 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 49.8,
-          "l_score": 64.4,
+          "w_score": 64.4,
+          "l_score": 49.8,
           "match_score": 64.4
         },
         {
           "round": "R128",
-          "w": "Fabian Marozsan",
+          "w": "Timofey Skatov",
           "w_logo": "",
-          "l": "Timofey Skatov",
+          "l": "Fabian Marozsan",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 56.5,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 56.5,
           "match_score": 56.5
         },
         {
@@ -11292,15 +11292,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Sebastian Baez",
+          "w": "Pierre-Hugues Herbert",
           "w_logo": "",
-          "l": "Pierre-Hugues Herbert",
+          "l": "Sebastian Baez",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 57.5,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 57.5,
           "match_score": 57.5
         },
         {
@@ -11614,7 +11614,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jelena Ostapenko",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 1-1 ret",
           "day": "hoy",
           "scheduled": false,
           "w_score": 84.1,
@@ -11653,9 +11653,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Guo Hanyu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.0,
           "l_score": null,
           "match_score": 67.0
@@ -11679,9 +11679,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Katarzyna Kawa",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 62.9,
           "l_score": 48.9,
           "match_score": 62.9
@@ -11731,7 +11731,6 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Adrian Mannarino",
-      "Aleksandar Kovacevic",
       "Alex Michelsen",
       "Andrey Rublev",
       "Arthur Fery",
@@ -11759,7 +11758,6 @@ window.TENNIS_DATA = {
       "James Duckworth",
       "Jan-Lennard Struff",
       "Jaume Munar",
-      "Juan Manuel Cerundolo",
       "Karen Khachanov",
       "Kyrian Jacquet",
       "Lorenzo Musetti",
@@ -11780,11 +11778,11 @@ window.TENNIS_DATA = {
       "Raphael Collignon",
       "Rei Sakamoto",
       "Remy Bertola",
-      "Sebastian Baez",
       "Sho Shimabukuro",
       "Stan Wawrinka",
       "Stefanos Tsitsipas",
       "Tallon Griekspoor",
+      "Taylor Fritz",
       "Terence Atmane",
       "Timofey Skatov",
       "Titouan Droguet",
@@ -11796,22 +11794,25 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "out": [
+      "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Andrea Guerrieri",
       "Federico Cina",
       "Jaime Faria",
+      "Juan Manuel Cerundolo",
       "Lorenzo Sonego",
       "Marin Cilic",
       "Matteo Arnaldi",
       "Miomir Kecmanovic",
       "Rinky Hijikata",
       "Roman Safiullin",
+      "Sebastian Baez",
       "Stefanos Sakellaridis",
       "Thiago Agustin Tirante",
       "Yannick Hanfmann"
     ],
-    "aliveCount": 64,
-    "matchesSeen": 43
+    "aliveCount": 62,
+    "matchesSeen": 45
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open",
@@ -11845,7 +11846,6 @@ window.TENNIS_DATA = {
       "Guo Hanyu",
       "Iva Jovic",
       "Jasmine Paolini",
-      "Jelena Ostapenko",
       "Katarzyna Kawa",
       "Katerina Siniakova",
       "Katie Boulter",
@@ -11880,6 +11880,7 @@ window.TENNIS_DATA = {
       "Harriet Dart",
       "Himeno Sakatsume",
       "Janice Tjen",
+      "Jelena Ostapenko",
       "Kaitlin Quevedo",
       "Kamilla Rakhimova",
       "Liudmila Samsonova",
@@ -11893,7 +11894,7 @@ window.TENNIS_DATA = {
       "Yulia Putintseva",
       "Zhang Shuai"
     ],
-    "aliveCount": 34,
+    "aliveCount": 33,
     "matchesSeen": 42
   },
   "ATP_SCORE_LOG": {
