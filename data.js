@@ -1907,7 +1907,7 @@ window.NHL_DATA = {
         "p": 6,
         "pm": 6,
         "toi": 29.1,
-        "shots": 24
+        "shots": 25
       },
       "trajectory": [
         38,
@@ -3631,7 +3631,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 4,
         "w": 3,
-        "svpct": 0.897,
+        "svpct": 0.898,
         "gaa": 2.99,
         "so": 0
       },
@@ -16139,9 +16139,9 @@ window.NHL_DATA = {
       "name": "Jonny Brodzinski",
       "pos": "C",
       "teamCode": "WSH",
-      "age": 33,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -24290,9 +24290,9 @@ window.NHL_DATA = {
       "name": "David Reinbacher",
       "pos": "D",
       "teamCode": "MTL",
-      "age": 21,
-      "country": "Austria",
-      "birthCountry": "AUT",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -25874,9 +25874,9 @@ window.NHL_DATA = {
       "name": "Owen Beck",
       "pos": "C",
       "teamCode": "MTL",
-      "age": 22,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -36589,10 +36589,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-21 12:02 UTC",
+  "LAST_UPDATE": "2026-10-21 17:38 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-21T12:02:15Z"
+    "standingsDateTimeUtc": "2026-10-21T17:37:45Z"
   }
 };
