@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-21 18:16 UTC
+// Auto-generated 2026-10-21 23:26 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-21 18:16 UTC",
+  "UPDATED": "2026-10-21 23:26 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -203,7 +203,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 80.2
@@ -1053,7 +1053,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 67.0
@@ -2483,7 +2483,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 58.5
@@ -3199,7 +3199,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 54.3
@@ -11204,9 +11204,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Gauthier Onclin",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 52.9,
           "l_score": null,
           "match_score": 52.9
@@ -11239,11 +11239,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Remy Bertola",
+          "w": "David Goffin",
           "w_logo": "",
-          "l": "David Goffin",
+          "l": "Remy Bertola",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 6-3 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11348,9 +11348,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Benjamin Bonzi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-7 (4-7) 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.3,
           "l_score": 50.5,
           "match_score": 79.3
@@ -11361,7 +11361,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Moise Kouame",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 76.8,
@@ -11774,7 +11774,6 @@ window.TENNIS_DATA = {
       "Felix Balshaw",
       "Flavio Cobolli",
       "Francisco Cerundolo",
-      "Gauthier Onclin",
       "Jacob Fearnley",
       "James Duckworth",
       "Jan-Lennard Struff",
@@ -11792,7 +11791,6 @@ window.TENNIS_DATA = {
       "Nikoloz Basilashvili",
       "Pierre-Hugues Herbert",
       "Raphael Collignon",
-      "Remy Bertola",
       "Sho Shimabukuro",
       "Stan Wawrinka",
       "Stefanos Tsitsipas",
@@ -11815,6 +11813,7 @@ window.TENNIS_DATA = {
       "Clement Tabur",
       "Dino Prizmic",
       "Federico Cina",
+      "Gauthier Onclin",
       "Hamad Medjedovic",
       "Hugo Gaston",
       "Jaime Faria",
@@ -11830,6 +11829,7 @@ window.TENNIS_DATA = {
       "Miomir Kecmanovic",
       "Nishesh Basavareddy",
       "Rei Sakamoto",
+      "Remy Bertola",
       "Rinky Hijikata",
       "Roman Safiullin",
       "Sebastian Baez",
@@ -11843,8 +11843,8 @@ window.TENNIS_DATA = {
       "Yannick Hanfmann",
       "Zangar Nurlanuly"
     ],
-    "aliveCount": 47,
-    "matchesSeen": 62
+    "aliveCount": 45,
+    "matchesSeen": 64
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open",
