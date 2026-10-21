@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-21 00:00 UTC",
+  "UPDATED": "2026-10-21 10:10 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -96,6 +96,33 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Kirill Kaprizov",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Kirill Kaprizov entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:JC Archer",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "JC Archer entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:JNT Seales",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "JNT Seales entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-21"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Connor Bedard",
@@ -220,15 +247,6 @@ window.GLORY_DATA = {
       "detail": "NBA",
       "anchor": "nba-jovenes-promesas",
       "text": "Jalen Duren entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-17"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "David Pastrnak entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-17"
     },
@@ -368,6 +386,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:MJ Henry",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "MJ Henry cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:RA Jadeja",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "RA Jadeja cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Sajid Khan",
       "sport": "cricket",
       "detail": "Cricket",
@@ -493,10 +529,10 @@ window.GLORY_DATA = {
       "Connor McDavid",
       "Leon Draisaitl",
       "Auston Matthews",
-      "Jack Eichel",
       "Mark Stone",
-      "David Pastrnak",
+      "Jack Eichel",
       "Erik Karlsson",
+      "Kirill Kaprizov",
       "Roman Josi"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
@@ -505,8 +541,8 @@ window.GLORY_DATA = {
       "Colorado Avalanche",
       "St. Louis Blues",
       "Edmonton Oilers",
-      "Boston Bruins",
       "Carolina Hurricanes",
+      "Boston Bruins",
       "Minnesota Wild",
       "New York Rangers",
       "Dallas Stars"
@@ -515,12 +551,12 @@ window.GLORY_DATA = {
       "Macklin Celebrini",
       "Matthew Schaefer",
       "Lane Hutson",
-      "Beckett Sennecke",
       "Owen Power",
-      "Vasily Podkolzin",
+      "Leo Carlsson",
+      "Beckett Sennecke",
       "Tim Stützle",
       "Ivan Demidov",
-      "Leo Carlsson",
+      "Vasily Podkolzin",
       "Connor Bedard"
     ],
     "nba:ROAD_TO_GLORY.players": [
@@ -839,9 +875,9 @@ window.GLORY_DATA = {
       "MA Starc",
       "JJ Bumrah",
       "Taijul Islam",
+      "JC Archer",
       "M Jansen",
-      "MJ Henry",
-      "RA Jadeja",
+      "JNT Seales",
       "KA Maharaj",
       "PJ Cummins",
       "JC Tongue",

@@ -1,11 +1,11 @@
-// Auto-generated 2026-10-20 23:59 UTC
+// Auto-generated 2026-10-21 10:10 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-10-20 23:59 UTC",
+  "UPDATED": "2026-10-21 10:10 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-10-20 23:59 UTC"
+    "through": "2026-10-21 10:10 UTC"
   },
   "IMPORTANCE": 6.0,
   "TEAMS": [
@@ -482,7 +482,7 @@ window.FOOTBALL_DATA = {
         "rank": 6,
         "era": "ciclo actual",
         "elo": 2133,
-        "no1Since": "2026-10-20",
+        "no1Since": "2026-10-21",
         "streakYears": 0.0,
         "cycleYears": 3.2,
         "yearsNo1": 3.2,
