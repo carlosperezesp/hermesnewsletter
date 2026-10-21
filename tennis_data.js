@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-21 10:10 UTC
+// Auto-generated 2026-10-21 12:04 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-21 10:10 UTC",
+  "UPDATED": "2026-10-21 12:04 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -3335,7 +3335,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Almaty Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 52.7
@@ -3713,7 +3713,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 50.3
@@ -9081,7 +9081,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 44.7
@@ -11178,7 +11178,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martin Damm",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 72.4,
@@ -11187,15 +11187,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Mariano Navone",
+          "w": "Tallon Griekspoor",
           "w_logo": "",
-          "l": "Tallon Griekspoor",
+          "l": "Mariano Navone",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 62.0,
-          "l_score": 61.5,
+          "scheduled": false,
+          "w_score": 61.5,
+          "l_score": 62.0,
           "match_score": 62.0
         },
         {
@@ -11328,7 +11328,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Facundo Diaz Acosta",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 47.4,
@@ -11688,15 +11688,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Sorana Cirstea",
+          "w": "Sara Bejlek",
           "w_logo": "",
-          "l": "Sara Bejlek",
+          "l": "Sorana Cirstea",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 85.5,
-          "l_score": 64.2,
+          "scheduled": false,
+          "w_score": 64.2,
+          "l_score": 85.5,
           "match_score": 85.5
         },
         {
@@ -11714,15 +11714,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Aliaksandra Sasnovich",
+          "w": "Leylah Fernandez",
           "w_logo": "",
-          "l": "Leylah Fernandez",
+          "l": "Aliaksandra Sasnovich",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-7 (3-7) 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 44.9,
-          "l_score": 67.6,
+          "w_score": 67.6,
+          "l_score": 44.9,
           "match_score": 67.6
         }
       ]
