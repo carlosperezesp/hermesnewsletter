@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-20 23:13 UTC",
+  "UPDATED": "2026-10-21 00:00 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -96,15 +96,6 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
-    },
-    {
-      "id": "tennis:in:ATP:Novak Djokovic:20261001",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Novak Djokovic entra en el top 10 ATP · Leyenda 100.0",
-      "weight": 90,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-10-06"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Connor Bedard",
@@ -368,15 +359,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-07"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Tim Stützle",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Tim Stützle entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-06"
-    },
-    {
       "id": "tennis:out:ATP:Novak Djokovic:20261015",
       "sport": "tennis",
       "detail": "Tenis",
@@ -384,15 +366,6 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
-    },
-    {
-      "id": "tennis:out:ATP:Arthur Fils:20261001",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Arthur Fils sale del top 10 ATP",
-      "weight": 78,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-10-06"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Sajid Khan",
