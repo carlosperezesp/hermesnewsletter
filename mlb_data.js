@@ -4891,7 +4891,7 @@ window.MLB_DATA = {
       "last": "Perdomo",
       "pos": "SS",
       "teamCode": "ARI",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41355.png",
       "colors": {
         "primary": "#a71930",
@@ -4907,7 +4907,7 @@ window.MLB_DATA = {
         "sb": 21,
         "ops": 0.747
       },
-      "legendScore": 32.0,
+      "legendScore": 32.8,
       "currentScore": 51,
       "battingScore": 51,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-22 00:02 UTC",
+  "LAST_UPDATE": "2026-10-22 10:11 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

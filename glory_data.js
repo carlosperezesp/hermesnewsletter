@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-22 00:04 UTC",
+  "UPDATED": "2026-10-22 10:14 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -98,13 +98,22 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Kirill Kaprizov",
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mikko Rantanen",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
-      "text": "Kirill Kaprizov entra en el top-10 · Road to Glory",
+      "text": "Mikko Rantanen entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-10-21"
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-22"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:JC Archer",
@@ -341,15 +350,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-10"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Roman Josi",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Roman Josi entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-09"
-    },
-    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Auston Matthews",
       "sport": "nhl",
       "detail": "NHL",
@@ -523,31 +523,31 @@ window.GLORY_DATA = {
       "Mark Stone",
       "Jack Eichel",
       "Erik Karlsson",
-      "Kirill Kaprizov",
-      "Roman Josi"
+      "Mikko Rantanen",
+      "Matthew Tkachuk"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
-      "Florida Panthers",
       "Colorado Avalanche",
+      "Florida Panthers",
       "St. Louis Blues",
       "Edmonton Oilers",
       "Carolina Hurricanes",
       "Boston Bruins",
-      "Minnesota Wild",
       "New York Rangers",
+      "Minnesota Wild",
       "Dallas Stars"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Macklin Celebrini",
       "Matthew Schaefer",
       "Lane Hutson",
-      "Owen Power",
       "Leo Carlsson",
-      "Beckett Sennecke",
       "Tim Stützle",
+      "Beckett Sennecke",
       "Ivan Demidov",
       "Vasily Podkolzin",
+      "Owen Power",
       "Connor Bedard"
     ],
     "nba:ROAD_TO_GLORY.players": [
@@ -564,15 +564,15 @@ window.GLORY_DATA = {
     ],
     "nba:ROAD_TO_GLORY.teams": [
       "Oklahoma City Thunder",
+      "Los Angeles Lakers",
+      "Minnesota Timberwolves",
+      "Indiana Pacers",
       "Boston Celtics",
       "Denver Nuggets",
       "Milwaukee Bucks",
       "Golden State Warriors",
-      "Los Angeles Lakers",
       "San Antonio Spurs",
-      "New York Knicks",
-      "Minnesota Timberwolves",
-      "Indiana Pacers"
+      "New York Knicks"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
       "Victor Wembanyama",

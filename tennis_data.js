@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-22 00:04 UTC
+// Auto-generated 2026-10-22 10:14 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-22 00:04 UTC",
+  "UPDATED": "2026-10-22 10:14 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -2891,7 +2891,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Almaty Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 52.2
@@ -5559,7 +5559,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 84.2
@@ -6069,7 +6069,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 71.2
@@ -6307,7 +6307,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 66.4
@@ -6511,7 +6511,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 64.9
@@ -6955,7 +6955,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 60.4
@@ -7023,7 +7023,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 60.2
@@ -7397,7 +7397,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 57.2
@@ -7431,7 +7431,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 56.6
@@ -7773,7 +7773,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 55.1
@@ -9639,7 +9639,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 39.7
@@ -9815,7 +9815,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 36.8
@@ -10099,7 +10099,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11211,24 +11211,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tomas Machac",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.9,
           "l_score": 62.5,
           "match_score": 67.9
         },
         {
           "round": "R64",
-          "w": "Mattia Bellucci",
+          "w": "Terence Atmane",
           "w_logo": "",
-          "l": "Terence Atmane",
+          "l": "Mattia Bellucci",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-7 (4-7) 7-6 (7-2) 7-6 (7-5)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.2,
-          "l_score": 51.1,
+          "scheduled": false,
+          "w_score": 51.1,
+          "l_score": 51.2,
           "match_score": 51.2
         }
       ]
@@ -11438,24 +11438,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zeynep Sonmez",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.4,
           "l_score": 56.9,
           "match_score": 67.4
         },
         {
           "round": "R64",
-          "w": "Magda Linette",
+          "w": "Katerina Siniakova",
           "w_logo": "",
-          "l": "Katerina Siniakova",
+          "l": "Magda Linette",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 60.6,
-          "l_score": 56.8,
+          "scheduled": false,
+          "w_score": 56.8,
+          "l_score": 60.6,
           "match_score": 60.6
         },
         {
@@ -11464,24 +11464,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kayla Day",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 ret",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 55.6,
           "l_score": 37.0,
           "match_score": 55.6
         },
         {
           "round": "R64",
-          "w": "Moyuka Uchijima",
+          "w": "Mary Stoiana",
           "w_logo": "",
-          "l": "Mary Stoiana",
+          "l": "Moyuka Uchijima",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 2-6 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 39.9,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 39.9,
           "match_score": 39.9
         }
       ]
@@ -11506,15 +11506,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Belinda Bencic",
+          "w": "Katarzyna Kawa",
           "w_logo": "",
-          "l": "Katarzyna Kawa",
+          "l": "Belinda Bencic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 84.1,
-          "l_score": 48.9,
+          "scheduled": false,
+          "w_score": 48.9,
+          "l_score": 84.1,
           "match_score": 84.1
         },
         {
@@ -11523,9 +11523,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jasmine Paolini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 76.2,
           "l_score": 71.1,
           "match_score": 76.2
@@ -11536,9 +11536,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexandra Eala",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.9,
           "l_score": 68.9,
           "match_score": 75.9
@@ -11746,7 +11746,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai"
     ],
     "aliveCount": 30,
-    "matchesSeen": 47
+    "matchesSeen": 50
   },
   "ATP_SCORE_LOG": {
     "206173": [
