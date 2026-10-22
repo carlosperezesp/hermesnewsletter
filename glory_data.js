@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-21 23:26 UTC",
+  "UPDATED": "2026-10-22 00:04 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -366,15 +366,6 @@ window.GLORY_DATA = {
       "text": "Beckett Sennecke entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-08"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:KA Maharaj",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "KA Maharaj entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-07"
     },
     {
       "id": "tennis:out:ATP:Novak Djokovic:20261015",

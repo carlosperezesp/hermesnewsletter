@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-10-21 23:21 UTC",
+  "UPDATED": "2026-10-22 00:03 UTC",
   "SEASON": 2026,
   "ROUND": 18,
   "TOTAL_ROUNDS": 19,
@@ -975,7 +975,55 @@ window.INDYCAR_DATA = {
       "note": "Ya en zona top 10 histórico · 2 títulos · 31 victorias"
     }
   ],
-  "LAST_RACE": null,
+  "LAST_RACE": {
+    "round": null,
+    "name": "Grand Prix of Monterey",
+    "circuit": "Grand Prix of Monterey",
+    "date": "2026-09-06",
+    "winner": "Scott McLaughlin",
+    "podium": [
+      {
+        "position": 1,
+        "name": "Scott McLaughlin",
+        "country": "NZL",
+        "team": "Team Penske",
+        "logo": "https://flagcdn.com/24x18/nz.png",
+        "primary": "#E31837"
+      },
+      {
+        "position": 2,
+        "name": "Kyle Kirkwood",
+        "country": "USA",
+        "team": "Andretti Global",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "primary": "#003DA5"
+      },
+      {
+        "position": 3,
+        "name": "Alexander Rossi",
+        "country": "USA",
+        "team": "Ed Carpenter Racing",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "primary": "#005EB8"
+      },
+      {
+        "position": 4,
+        "name": "Felix Rosenqvist",
+        "country": "SWE",
+        "team": "Meyer Shank Racing",
+        "logo": "https://flagcdn.com/24x18/se.png",
+        "primary": "#EE2737"
+      },
+      {
+        "position": 5,
+        "name": "David Malukas",
+        "country": "USA",
+        "team": "A. J. Foyt Racing",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "primary": "#C8102E"
+      }
+    ]
+  },
   "CURRENT_CONTENDERS": [
     {
       "id": "scott_dixon",

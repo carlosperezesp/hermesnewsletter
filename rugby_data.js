@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-10-21 23:25 UTC",
+  "UPDATED": "2026-10-22 00:03 UTC",
   "LAST_MATCH": "2026-10-17",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -64,31 +64,6 @@ window.RUGBY_DATA = {
         "awayScore": 19,
         "venue": "Eden Park",
         "city": "Auckland"
-      },
-      {
-        "date": "2026-09-27",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "away": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "homeScore": 42,
-        "awayScore": 38,
-        "venue": "Optus Stadium",
-        "city": "Perth"
       }
     ],
     "upcoming": [
