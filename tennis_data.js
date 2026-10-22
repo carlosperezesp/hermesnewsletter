@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-22 10:14 UTC
+// Auto-generated 2026-10-22 12:08 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-22 10:14 UTC",
+  "UPDATED": "2026-10-22 12:08 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5219,7 +5219,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 93.2
@@ -5865,7 +5865,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 76.3
@@ -5933,7 +5933,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 75.8
@@ -6205,7 +6205,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 68.8
@@ -8701,7 +8701,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 48.8
@@ -10063,7 +10063,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNB Ningbo Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11139,9 +11139,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Raphael Collignon",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 73.9,
           "l_score": 59.8,
           "match_score": 73.9
@@ -11296,9 +11296,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Borna Gojo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 51.5,
           "l_score": 35.0,
           "match_score": 51.5
@@ -11497,9 +11497,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polina Kudermetova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-0 ret",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 93.3,
           "l_score": 35.0,
           "match_score": 93.3
@@ -11536,7 +11536,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexandra Eala",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 75.9,
@@ -11746,7 +11746,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai"
     ],
     "aliveCount": 30,
-    "matchesSeen": 50
+    "matchesSeen": 52
   },
   "ATP_SCORE_LOG": {
     "206173": [
