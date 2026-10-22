@@ -22112,9 +22112,9 @@ window.NHL_DATA = {
       "name": "Travis Mitchell",
       "pos": "D",
       "teamCode": "ANA",
-      "age": 26,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -25478,9 +25478,9 @@ window.NHL_DATA = {
       "name": "Sheldon Dries",
       "pos": "C",
       "teamCode": "DET",
-      "age": 32,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#ffffff"
@@ -25907,9 +25907,9 @@ window.NHL_DATA = {
       "name": "Owen Beck",
       "pos": "C",
       "teamCode": "MTL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -36934,10 +36934,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-22 18:08 UTC",
+  "LAST_UPDATE": "2026-10-22 23:22 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-22T18:08:15Z"
+    "standingsDateTimeUtc": "2026-10-22T23:22:15Z"
   }
 };

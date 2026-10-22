@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-22 18:10 UTC
+// Auto-generated 2026-10-22 23:25 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-22 18:10 UTC",
+  "UPDATED": "2026-10-22 23:25 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -475,7 +475,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 75.8
@@ -917,7 +917,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 69.0
@@ -3849,7 +3849,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 50.6
@@ -4297,7 +4297,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 44.5
@@ -11240,15 +11240,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Stan Wawrinka",
+          "w": "Flavio Cobolli",
           "w_logo": "",
-          "l": "Flavio Cobolli",
+          "l": "Stan Wawrinka",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 41.0,
-          "l_score": 74.4,
+          "w_score": 74.4,
+          "l_score": 41.0,
           "match_score": 74.4
         },
         {
@@ -11283,9 +11283,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kyrian Jacquet",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.2,
           "l_score": 46.3,
           "match_score": 67.2
@@ -11662,7 +11662,7 @@ window.TENNIS_DATA = {
       "Zangar Nurlanuly"
     ],
     "aliveCount": 44,
-    "matchesSeen": 71
+    "matchesSeen": 72
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open",
