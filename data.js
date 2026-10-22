@@ -1440,7 +1440,7 @@ window.NHL_DATA = {
         "p": 15,
         "pm": 3,
         "toi": 19.3,
-        "shots": 21
+        "shots": 22
       },
       "trajectory": [
         40,
@@ -11156,7 +11156,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 8,
         "w": 3,
-        "svpct": 0.863,
+        "svpct": 0.864,
         "gaa": 3.53,
         "so": 0
       },
@@ -18036,7 +18036,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": -2,
         "toi": 16.1,
-        "shots": 15
+        "shots": 14
       },
       "trajectory": [
         37,
@@ -19455,7 +19455,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": -3,
         "toi": 13.5,
-        "shots": 13
+        "shots": 14
       },
       "trajectory": [
         38,
@@ -21551,9 +21551,9 @@ window.NHL_DATA = {
       "name": "Gavin Brindley",
       "pos": "C",
       "teamCode": "COL",
-      "age": 22,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#6f263d",
         "secondary": "#236192"
@@ -25379,9 +25379,9 @@ window.NHL_DATA = {
       "name": "Sam Lafferty",
       "pos": "C",
       "teamCode": "FLA",
-      "age": 31,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -25676,9 +25676,9 @@ window.NHL_DATA = {
       "name": "Cole Schwindt",
       "pos": "RW",
       "teamCode": "FLA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -36934,10 +36934,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-22 12:06 UTC",
+  "LAST_UPDATE": "2026-10-22 17:37 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-22T12:05:30Z"
+    "standingsDateTimeUtc": "2026-10-22T17:36:45Z"
   }
 };
