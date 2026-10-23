@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-22 23:25 UTC",
+  "UPDATED": "2026-10-23 00:03 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -348,24 +348,6 @@ window.GLORY_DATA = {
       "text": "Ivan Demidov entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-10"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Auston Matthews",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Auston Matthews entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-08"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Beckett Sennecke",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Beckett Sennecke entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-08"
     },
     {
       "id": "tennis:out:ATP:Novak Djokovic:20261015",
