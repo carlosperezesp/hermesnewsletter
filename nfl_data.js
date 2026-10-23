@@ -946,7 +946,7 @@ window.NFL_DATA = {
         "rushYds": 211,
         "rushTd": 2
       },
-      "prevRank": 14
+      "prevRank": 8
     },
     {
       "id": 12483,
@@ -972,7 +972,7 @@ window.NFL_DATA = {
         "rushYds": 21,
         "rushTd": 0
       },
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 3915511,
@@ -998,7 +998,7 @@ window.NFL_DATA = {
         "rushYds": 48,
         "rushTd": 0
       },
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 8439,
@@ -1978,7 +1978,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 7.2,
         "note": "Inicio elite — techo altísimo",
-        "prevRank": 3
+        "prevRank": 1
       },
       {
         "id": 4432577,
@@ -1995,7 +1995,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 8.3,
         "note": "De los mejores de su generación",
-        "prevRank": 1
+        "prevRank": 2
       },
       {
         "id": 4685720,
@@ -2012,7 +2012,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 8.9,
         "note": "De los mejores de su generación",
-        "prevRank": 2
+        "prevRank": 3
       },
       {
         "id": 4431611,
@@ -2029,7 +2029,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 21.9,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "id": 4426348,
@@ -2046,7 +2046,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 28.2,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 4688380,
@@ -2080,7 +2080,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-23 10:04 UTC",
+  "LAST_UPDATE": "2026-10-23 11:50 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
