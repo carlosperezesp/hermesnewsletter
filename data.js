@@ -1443,7 +1443,7 @@ window.NHL_DATA = {
         "p": 19,
         "pm": 8,
         "toi": 19.6,
-        "shots": 32
+        "shots": 31
       },
       "trajectory": [
         40,
@@ -3956,6 +3956,37 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8484900,
+      "first": "Cooper",
+      "last": "Black",
+      "name": "Cooper Black",
+      "pos": "G",
+      "teamCode": "FLA",
+      "age": 25,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8484900.png",
+      "score": 61,
+      "stats": {
+        "gp": 1,
+        "w": 0,
+        "svpct": 0.857,
+        "gaa": 3.15,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        61
+      ]
+    },
+    {
       "id": 8479425,
       "first": "Filip",
       "last": "Hronek",
@@ -4413,37 +4444,6 @@ window.NHL_DATA = {
       "legendScore": 41.8
     },
     {
-      "id": 8484900,
-      "first": "Cooper",
-      "last": "Black",
-      "name": "Cooper Black",
-      "pos": "G",
-      "teamCode": "FLA",
-      "age": 25,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8484900.png",
-      "score": 60,
-      "stats": {
-        "gp": 1,
-        "w": 0,
-        "svpct": 0.85,
-        "gaa": 3.15,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        60
-      ]
-    },
-    {
       "id": 8482809,
       "first": "Jackson",
       "last": "Blake",
@@ -4892,7 +4892,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 4,
         "w": 1,
-        "svpct": 0.888,
+        "svpct": 0.886,
         "gaa": 3.09,
         "so": 0
       },
@@ -5704,9 +5704,9 @@ window.NHL_DATA = {
       "name": "Nico Daws",
       "pos": "G",
       "teamCode": "NJD",
-      "age": 25,
-      "country": "Germany",
-      "birthCountry": "DEU",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#111111"
@@ -5716,7 +5716,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 4,
         "w": 2,
-        "svpct": 0.874,
+        "svpct": 0.872,
         "gaa": 2.78,
         "so": 0
       },
@@ -9520,7 +9520,7 @@ window.NHL_DATA = {
         "a": 4,
         "p": 6,
         "pm": -8,
-        "toi": 17.5,
+        "toi": 17.6,
         "shots": 22
       },
       "trajectory": [
@@ -13246,7 +13246,7 @@ window.NHL_DATA = {
         "a": 1,
         "p": 2,
         "pm": -4,
-        "toi": 18.0,
+        "toi": 17.9,
         "shots": 11
       },
       "trajectory": [
@@ -13808,7 +13808,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": -1,
         "toi": 16.1,
-        "shots": 17
+        "shots": 16
       },
       "trajectory": [
         38,
@@ -15608,9 +15608,9 @@ window.NHL_DATA = {
       "name": "Dawson Mercer",
       "pos": "C",
       "teamCode": "NJD",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#111111"
@@ -15789,7 +15789,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": -2,
         "toi": 15.4,
-        "shots": 15
+        "shots": 14
       },
       "trajectory": [
         38,
@@ -23346,7 +23346,7 @@ window.NHL_DATA = {
         "p": 0,
         "pm": 0,
         "toi": 15.1,
-        "shots": 1
+        "shots": 2
       },
       "trajectory": [
         37,
@@ -23693,9 +23693,9 @@ window.NHL_DATA = {
       "name": "Brayden Yager",
       "pos": "C",
       "teamCode": "WPG",
-      "age": 21,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#7b303e"
@@ -37696,10 +37696,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-23 11:50 UTC",
+  "LAST_UPDATE": "2026-10-23 17:25 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-23T11:49:45Z"
+    "standingsDateTimeUtc": "2026-10-23T17:25:30Z"
   }
 };
