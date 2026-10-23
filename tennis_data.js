@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-23 17:59 UTC
+// Auto-generated 2026-10-23 23:11 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-23 17:59 UTC",
+  "UPDATED": "2026-10-23 23:11 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -169,7 +169,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 83.8
@@ -917,7 +917,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 69.0
@@ -1053,7 +1053,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 67.0
@@ -1837,7 +1837,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.5
@@ -2517,7 +2517,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 55.5
@@ -11083,15 +11083,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Alex Michelsen",
+          "w": "Arthur Fils",
           "w_logo": "",
-          "l": "Arthur Fils",
+          "l": "Alex Michelsen",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (14-12)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 64.6,
-          "l_score": 82.9,
+          "w_score": 82.9,
+          "l_score": 64.6,
           "match_score": 82.9
         },
         {
@@ -11122,15 +11122,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Zizou Bergs",
+          "w": "Jan-Lennard Struff",
           "w_logo": "",
-          "l": "Jan-Lennard Struff",
+          "l": "Zizou Bergs",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-6 (8-6)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 58.8,
-          "l_score": 52.9,
+          "scheduled": false,
+          "w_score": 52.9,
+          "l_score": 58.8,
           "match_score": 58.8
         }
       ]
@@ -11218,24 +11218,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Luca Van Assche",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 76.8,
           "l_score": 62.7,
           "match_score": 76.8
         },
         {
           "round": "Quarterfinal",
-          "w": "Brandon Nakashima",
+          "w": "Flavio Cobolli",
           "w_logo": "",
-          "l": "Flavio Cobolli",
+          "l": "Brandon Nakashima",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-4 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 67.2,
-          "l_score": 74.4,
+          "w_score": 74.4,
+          "l_score": 67.2,
           "match_score": 74.4
         },
         {
@@ -11610,7 +11610,7 @@ window.TENNIS_DATA = {
       "Zangar Nurlanuly"
     ],
     "aliveCount": 44,
-    "matchesSeen": 76
+    "matchesSeen": 77
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis",

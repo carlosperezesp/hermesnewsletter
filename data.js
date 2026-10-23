@@ -2929,9 +2929,9 @@ window.NHL_DATA = {
       "name": "Damon Severson",
       "pos": "D",
       "teamCode": "CBJ",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 32,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -3621,7 +3621,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 4,
         "w": 2,
-        "svpct": 0.899,
+        "svpct": 0.9,
         "gaa": 3.26,
         "so": 0
       },
@@ -5495,6 +5495,37 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8478872,
+      "first": "Karel",
+      "last": "Vejmelka",
+      "name": "Karel Vejmelka",
+      "pos": "G",
+      "teamCode": "UTA",
+      "age": 30,
+      "country": "Czechia",
+      "birthCountry": "CZE",
+      "colors": {
+        "primary": "#69b3e7",
+        "secondary": "#010101"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8478872.png",
+      "score": 59,
+      "stats": {
+        "gp": 9,
+        "w": 5,
+        "svpct": 0.874,
+        "gaa": 3.04,
+        "so": 1
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        59
+      ]
+    },
+    {
       "id": 8483431,
       "first": "Logan",
       "last": "Cooley",
@@ -6146,37 +6177,6 @@ window.NHL_DATA = {
         41,
         43,
         45,
-        58
-      ]
-    },
-    {
-      "id": 8478872,
-      "first": "Karel",
-      "last": "Vejmelka",
-      "name": "Karel Vejmelka",
-      "pos": "G",
-      "teamCode": "UTA",
-      "age": 30,
-      "country": "Czechia",
-      "birthCountry": "CZE",
-      "colors": {
-        "primary": "#69b3e7",
-        "secondary": "#010101"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8478872.png",
-      "score": 58,
-      "stats": {
-        "gp": 9,
-        "w": 5,
-        "svpct": 0.872,
-        "gaa": 3.04,
-        "so": 1
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
         58
       ]
     },
@@ -8454,7 +8454,7 @@ window.NHL_DATA = {
         "p": 7,
         "pm": 6,
         "toi": 20.7,
-        "shots": 36
+        "shots": 37
       },
       "trajectory": [
         38,
@@ -8520,7 +8520,7 @@ window.NHL_DATA = {
         "p": 9,
         "pm": 3,
         "toi": 13.9,
-        "shots": 9
+        "shots": 10
       },
       "trajectory": [
         39,
@@ -8987,7 +8987,7 @@ window.NHL_DATA = {
         "p": 8,
         "pm": 2,
         "toi": 14.9,
-        "shots": 17
+        "shots": 18
       },
       "trajectory": [
         38,
@@ -23000,9 +23000,9 @@ window.NHL_DATA = {
       "name": "Justin Dowling",
       "pos": "C",
       "teamCode": "NYR",
-      "age": 36,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -26135,9 +26135,9 @@ window.NHL_DATA = {
       "name": "Zach Dean",
       "pos": "C",
       "teamCode": "STL",
-      "age": 23,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -37696,10 +37696,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-23 17:57 UTC",
+  "LAST_UPDATE": "2026-10-23 23:09 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-23T17:56:30Z"
+    "standingsDateTimeUtc": "2026-10-23T23:08:30Z"
   }
 };

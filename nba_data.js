@@ -283,6 +283,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "CHI",
+      "city": "Chicago Bulls",
+      "shortName": "Chicago",
+      "commonName": "Bulls",
+      "conf": "E",
+      "gp": 2,
+      "w": 1,
+      "l": 1,
+      "winPct": 0.5,
+      "gf": 224,
+      "ga": 260,
+      "gd": -36,
+      "score": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+      "colors": {
+        "primary": "#ce1141",
+        "secondary": "#000000"
+      }
+    },
+    {
       "code": "NO",
       "city": "New Orleans Pelicans",
       "shortName": "New Orleans",
@@ -403,26 +423,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "MIL",
-      "city": "Milwaukee Bucks",
-      "shortName": "Milwaukee",
-      "commonName": "Bucks",
-      "conf": "E",
-      "gp": 1,
-      "w": 0,
-      "l": 1,
-      "winPct": 0.0,
-      "gf": 116,
-      "ga": 128,
-      "gd": -12,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
-      "colors": {
-        "primary": "#00471b",
-        "secondary": "#eee1c6"
-      }
-    },
-    {
       "code": "DEN",
       "city": "Denver Nuggets",
       "shortName": "Denver",
@@ -480,6 +480,26 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#00538c",
         "secondary": "#002b5e"
+      }
+    },
+    {
+      "code": "MIL",
+      "city": "Milwaukee Bucks",
+      "shortName": "Milwaukee",
+      "commonName": "Bucks",
+      "conf": "E",
+      "gp": 2,
+      "w": 0,
+      "l": 2,
+      "winPct": 0.0,
+      "gf": 241,
+      "ga": 260,
+      "gd": -19,
+      "score": 0,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+      "colors": {
+        "primary": "#00471b",
+        "secondary": "#eee1c6"
       }
     },
     {
@@ -580,26 +600,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#1d1160",
         "secondary": "#e56020"
-      }
-    },
-    {
-      "code": "CHI",
-      "city": "Chicago Bulls",
-      "shortName": "Chicago",
-      "commonName": "Bulls",
-      "conf": "E",
-      "gp": 1,
-      "w": 0,
-      "l": 1,
-      "winPct": 0.0,
-      "gf": 92,
-      "ga": 135,
-      "gd": -43,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
-      "colors": {
-        "primary": "#ce1141",
-        "secondary": "#000000"
       }
     }
   ],
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-23 17:57 UTC",
+  "LAST_UPDATE": "2026-10-23 23:09 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
