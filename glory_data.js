@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-23 00:03 UTC",
+  "UPDATED": "2026-10-23 10:07 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -35,6 +35,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-10"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:new1:Connor McDavid",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Connor McDavid es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:Drake Maye",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "Drake Maye es nuevo nº1 · jóvenes promesas",
+      "weight": 92,
+      "firstSeen": "2026-10-23"
+    },
+    {
       "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Oklahoma City Thunder",
       "sport": "nba",
       "detail": "NBA",
@@ -49,15 +67,6 @@ window.GLORY_DATA = {
       "detail": "NFL",
       "anchor": "nfl-road-to-glory",
       "text": "Matthew Stafford es nuevo nº1 · Road to Glory",
-      "weight": 92,
-      "firstSeen": "2026-10-19"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:C.J. Stroud",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-jovenes-promesas",
-      "text": "C.J. Stroud es nuevo nº1 · jóvenes promesas",
       "weight": 92,
       "firstSeen": "2026-10-19"
     },
@@ -98,6 +107,42 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "David Pastrnak entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jackson LaCombe",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Jackson LaCombe entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Brandt Clarke",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Brandt Clarke entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-23"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mikko Rantanen",
       "sport": "nhl",
       "detail": "NHL",
@@ -134,15 +179,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Connor Bedard",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Connor Bedard entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-20"
-    },
-    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:M Jansen",
       "sport": "cricket",
       "detail": "Cricket",
@@ -177,15 +213,6 @@ window.GLORY_DATA = {
       "text": "Erik Karlsson entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-18"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mark Stone",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Mark Stone entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-17"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.players:in:Kawhi Leonard",
@@ -314,15 +341,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:in:Drake Maye",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-jovenes-promesas",
-      "text": "Drake Maye entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:in:Jayden Daniels",
       "sport": "nfl",
       "detail": "NFL",
@@ -357,6 +375,24 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Leo Carlsson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Leo Carlsson cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Vasily Podkolzin",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Vasily Podkolzin cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-23"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:MJ Henry",
@@ -497,40 +533,40 @@ window.GLORY_DATA = {
   ],
   "SNAPSHOTS": {
     "nhl:ROAD_TO_GLORY.players": [
+      "Connor McDavid",
       "Nikita Kucherov",
       "Nathan MacKinnon",
-      "Connor McDavid",
       "Leon Draisaitl",
-      "Auston Matthews",
-      "Mark Stone",
-      "Jack Eichel",
-      "Erik Karlsson",
+      "David Pastrnak",
       "Mikko Rantanen",
+      "Auston Matthews",
+      "Erik Karlsson",
+      "Jack Eichel",
       "Matthew Tkachuk"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
       "Colorado Avalanche",
-      "Florida Panthers",
       "St. Louis Blues",
+      "Florida Panthers",
       "Edmonton Oilers",
-      "Carolina Hurricanes",
       "Boston Bruins",
+      "Carolina Hurricanes",
+      "Dallas Stars",
       "New York Rangers",
-      "Minnesota Wild",
-      "Dallas Stars"
+      "Minnesota Wild"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Macklin Celebrini",
       "Matthew Schaefer",
       "Lane Hutson",
-      "Leo Carlsson",
-      "Tim Stützle",
-      "Beckett Sennecke",
-      "Ivan Demidov",
-      "Vasily Podkolzin",
       "Owen Power",
-      "Connor Bedard"
+      "Cole Hutson",
+      "Ivan Demidov",
+      "Jackson LaCombe",
+      "Tim Stützle",
+      "Brandt Clarke",
+      "Beckett Sennecke"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -617,11 +653,11 @@ window.GLORY_DATA = {
       "C.J. Stroud"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
+      "Drake Maye",
       "C.J. Stroud",
       "Bryce Young",
-      "Drake Maye",
-      "Jayden Daniels",
       "Caleb Williams",
+      "Jayden Daniels",
       "Cam Ward"
     ],
     "tennis:ATP": [

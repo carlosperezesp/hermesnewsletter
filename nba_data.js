@@ -3,6 +3,46 @@
 window.NBA_DATA = {
   "TEAMS": [
     {
+      "code": "OKC",
+      "city": "Oklahoma City Thunder",
+      "shortName": "Oklahoma City",
+      "commonName": "Thunder",
+      "conf": "W",
+      "gp": 2,
+      "w": 2,
+      "l": 0,
+      "winPct": 1.0,
+      "gf": 212,
+      "ga": 188,
+      "gd": 24,
+      "score": 100,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+      "colors": {
+        "primary": "#007ac1",
+        "secondary": "#ef3b24"
+      }
+    },
+    {
+      "code": "PHI",
+      "city": "Philadelphia 76ers",
+      "shortName": "Philadelphia",
+      "commonName": "76ers",
+      "conf": "E",
+      "gp": 2,
+      "w": 2,
+      "l": 0,
+      "winPct": 1.0,
+      "gf": 220,
+      "ga": 206,
+      "gd": 14,
+      "score": 95,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+      "colors": {
+        "primary": "#006bb6",
+        "secondary": "#ed174c"
+      }
+    },
+    {
       "code": "TOR",
       "city": "Toronto Raptors",
       "shortName": "Toronto",
@@ -163,26 +203,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "OKC",
-      "city": "Oklahoma City Thunder",
-      "shortName": "Oklahoma City",
-      "commonName": "Thunder",
-      "conf": "W",
-      "gp": 1,
-      "w": 1,
-      "l": 0,
-      "winPct": 1.0,
-      "gf": 116,
-      "ga": 104,
-      "gd": 12,
-      "score": 100,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-      "colors": {
-        "primary": "#007ac1",
-        "secondary": "#ef3b24"
-      }
-    },
-    {
       "code": "DET",
       "city": "Detroit Pistons",
       "shortName": "Detroit",
@@ -243,26 +263,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "PHI",
-      "city": "Philadelphia 76ers",
-      "shortName": "Philadelphia",
-      "commonName": "76ers",
-      "conf": "E",
-      "gp": 1,
-      "w": 1,
-      "l": 0,
-      "winPct": 1.0,
-      "gf": 106,
-      "ga": 100,
-      "gd": 6,
-      "score": 93,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
-      "colors": {
-        "primary": "#006bb6",
-        "secondary": "#ed174c"
-      }
-    },
-    {
       "code": "IND",
       "city": "Indiana Pacers",
       "shortName": "Indiana",
@@ -280,46 +280,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#002d62",
         "secondary": "#fdbb30"
-      }
-    },
-    {
-      "code": "CLE",
-      "city": "Cleveland Cavaliers",
-      "shortName": "Cleveland",
-      "commonName": "Cavaliers",
-      "conf": "E",
-      "gp": 0,
-      "w": 0,
-      "l": 0,
-      "winPct": 0.0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
-      "colors": {
-        "primary": "#860038",
-        "secondary": "#fdbb30"
-      }
-    },
-    {
-      "code": "DEN",
-      "city": "Denver Nuggets",
-      "shortName": "Denver",
-      "commonName": "Nuggets",
-      "conf": "W",
-      "gp": 0,
-      "w": 0,
-      "l": 0,
-      "winPct": 0.0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-      "colors": {
-        "primary": "#0e2240",
-        "secondary": "#fec524"
       }
     },
     {
@@ -423,6 +383,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "CLE",
+      "city": "Cleveland Cavaliers",
+      "shortName": "Cleveland",
+      "commonName": "Cavaliers",
+      "conf": "E",
+      "gp": 1,
+      "w": 0,
+      "l": 1,
+      "winPct": 0.0,
+      "gf": 106,
+      "ga": 114,
+      "gd": -8,
+      "score": 0,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+      "colors": {
+        "primary": "#860038",
+        "secondary": "#fdbb30"
+      }
+    },
+    {
       "code": "MIL",
       "city": "Milwaukee Bucks",
       "shortName": "Milwaukee",
@@ -440,6 +420,26 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#00471b",
         "secondary": "#eee1c6"
+      }
+    },
+    {
+      "code": "DEN",
+      "city": "Denver Nuggets",
+      "shortName": "Denver",
+      "commonName": "Nuggets",
+      "conf": "W",
+      "gp": 1,
+      "w": 0,
+      "l": 1,
+      "winPct": 0.0,
+      "gf": 84,
+      "ga": 96,
+      "gd": -12,
+      "score": 0,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+      "colors": {
+        "primary": "#0e2240",
+        "secondary": "#fec524"
       }
     },
     {
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-23 00:01 UTC",
+  "LAST_UPDATE": "2026-10-23 10:04 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

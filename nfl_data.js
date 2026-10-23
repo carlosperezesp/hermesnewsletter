@@ -72,6 +72,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "CHI",
+      "city": "Chicago Bears",
+      "shortName": "Chicago",
+      "commonName": "Bears",
+      "conf": "NFC",
+      "div": "NFC North",
+      "gp": 7,
+      "w": 5,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.714,
+      "pf": 180,
+      "pa": 143,
+      "pd": 37,
+      "seed": 5,
+      "score": 61,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+      "colors": {
+        "primary": "#0b162a",
+        "secondary": "#c83803"
+      }
+    },
+    {
       "code": "BUF",
       "city": "Buffalo Bills",
       "shortName": "Buffalo",
@@ -118,29 +141,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "CHI",
-      "city": "Chicago Bears",
-      "shortName": "Chicago",
-      "commonName": "Bears",
-      "conf": "NFC",
-      "div": "NFC North",
-      "gp": 6,
-      "w": 4,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.667,
-      "pf": 150,
-      "pa": 119,
-      "pd": 31,
-      "seed": 6,
-      "score": 57,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-      "colors": {
-        "primary": "#0b162a",
-        "secondary": "#c83803"
-      }
-    },
-    {
       "code": "BAL",
       "city": "Baltimore Ravens",
       "shortName": "Baltimore",
@@ -155,7 +155,7 @@ window.NFL_DATA = {
       "pf": 156,
       "pa": 132,
       "pd": 24,
-      "seed": 8,
+      "seed": 7,
       "score": 57,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
       "colors": {
@@ -170,16 +170,16 @@ window.NFL_DATA = {
       "commonName": "Patriots",
       "conf": "AFC",
       "div": "AFC East",
-      "gp": 6,
+      "gp": 7,
       "w": 4,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "winPct": 0.667,
-      "pf": 136,
-      "pa": 113,
-      "pd": 23,
-      "seed": 5,
-      "score": 56,
+      "winPct": 0.571,
+      "pf": 160,
+      "pa": 143,
+      "pd": 17,
+      "seed": 9,
+      "score": 48,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
       "colors": {
         "primary": "#002244",
@@ -201,7 +201,7 @@ window.NFL_DATA = {
       "pf": 137,
       "pa": 128,
       "pd": 9,
-      "seed": 7,
+      "seed": 6,
       "score": 55,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
       "colors": {
@@ -224,7 +224,7 @@ window.NFL_DATA = {
       "pf": 127,
       "pa": 125,
       "pd": 2,
-      "seed": 5,
+      "seed": 6,
       "score": 54,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
       "colors": {
@@ -247,7 +247,7 @@ window.NFL_DATA = {
       "pf": 114,
       "pa": 125,
       "pd": -11,
-      "seed": 6,
+      "seed": 5,
       "score": 52,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
       "colors": {
@@ -339,7 +339,7 @@ window.NFL_DATA = {
       "pf": 128,
       "pa": 109,
       "pd": 19,
-      "seed": 9,
+      "seed": 8,
       "score": 51,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
       "colors": {
@@ -923,6 +923,32 @@ window.NFL_DATA = {
       "prevRank": 7
     },
     {
+      "id": 4431452,
+      "name": "Drake Maye",
+      "pos": "QB",
+      "teamCode": "NE",
+      "age": 24,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431452.png",
+      "colors": {
+        "primary": "#002244",
+        "secondary": "#c60c30"
+      },
+      "score": 90,
+      "stats": {
+        "type": "passing",
+        "cmp": 141,
+        "att": 214,
+        "pct": 65.9,
+        "yds": 1784,
+        "ypa": 8.3,
+        "td": 13,
+        "int": 8,
+        "rushYds": 211,
+        "rushTd": 2
+      },
+      "prevRank": 14
+    },
+    {
       "id": 12483,
       "name": "Matthew Stafford",
       "pos": "QB",
@@ -997,8 +1023,7 @@ window.NFL_DATA = {
         "int": 5,
         "rushYds": 17,
         "rushTd": 0
-      },
-      "prevRank": 10
+      }
     },
     {
       "id": 4360689,
@@ -1073,31 +1098,6 @@ window.NFL_DATA = {
         "int": 4,
         "rushYds": 240,
         "rushTd": 3
-      }
-    },
-    {
-      "id": 4431452,
-      "name": "Drake Maye",
-      "pos": "QB",
-      "teamCode": "NE",
-      "age": 24,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431452.png",
-      "colors": {
-        "primary": "#002244",
-        "secondary": "#c60c30"
-      },
-      "score": 80,
-      "stats": {
-        "type": "passing",
-        "cmp": 117,
-        "att": 183,
-        "pct": 63.9,
-        "yds": 1463,
-        "ypa": 8.0,
-        "td": 11,
-        "int": 7,
-        "rushYds": 185,
-        "rushTd": 2
       }
     },
     {
@@ -1222,6 +1222,31 @@ window.NFL_DATA = {
         "td": 6,
         "int": 1,
         "rushYds": 144,
+        "rushTd": 1
+      }
+    },
+    {
+      "id": 4431611,
+      "name": "Caleb Williams",
+      "pos": "QB",
+      "teamCode": "CHI",
+      "age": 24,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431611.png",
+      "colors": {
+        "primary": "#0b162a",
+        "secondary": "#c83803"
+      },
+      "score": 68,
+      "stats": {
+        "type": "passing",
+        "cmp": 88,
+        "att": 124,
+        "pct": 71.0,
+        "yds": 1020,
+        "ypa": 8.2,
+        "td": 5,
+        "int": 1,
+        "rushYds": 128,
         "rushTd": 1
       }
     },
@@ -1398,31 +1423,6 @@ window.NFL_DATA = {
         "int": 6,
         "rushYds": 55,
         "rushTd": 0
-      }
-    },
-    {
-      "id": 4431611,
-      "name": "Caleb Williams",
-      "pos": "QB",
-      "teamCode": "CHI",
-      "age": 24,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431611.png",
-      "colors": {
-        "primary": "#0b162a",
-        "secondary": "#c83803"
-      },
-      "score": 56,
-      "stats": {
-        "type": "passing",
-        "cmp": 66,
-        "att": 91,
-        "pct": 72.5,
-        "yds": 712,
-        "ypa": 7.8,
-        "td": 3,
-        "int": 1,
-        "rushYds": 110,
-        "rushTd": 1
       }
     },
     {
@@ -1964,6 +1964,23 @@ window.NFL_DATA = {
     ],
     "youngProspects": [
       {
+        "id": 4431452,
+        "name": "Drake Maye",
+        "pos": "QB",
+        "teamCode": "NE",
+        "colors": {
+          "primary": "#002244",
+          "secondary": "#c60c30"
+        },
+        "age": 24,
+        "currentScore": 90,
+        "projectedScore": 82.8,
+        "threshold": 90.0,
+        "gap": 7.2,
+        "note": "Inicio elite — techo altísimo",
+        "prevRank": 3
+      },
+      {
         "id": 4432577,
         "name": "C.J. Stroud",
         "pos": "QB",
@@ -1998,21 +2015,21 @@ window.NFL_DATA = {
         "prevRank": 2
       },
       {
-        "id": 4431452,
-        "name": "Drake Maye",
+        "id": 4431611,
+        "name": "Caleb Williams",
         "pos": "QB",
-        "teamCode": "NE",
+        "teamCode": "CHI",
         "colors": {
-          "primary": "#002244",
-          "secondary": "#c60c30"
+          "primary": "#0b162a",
+          "secondary": "#c83803"
         },
         "age": 24,
-        "currentScore": 80,
-        "projectedScore": 76.1,
+        "currentScore": 68,
+        "projectedScore": 68.1,
         "threshold": 90.0,
-        "gap": 13.9,
-        "note": "Inicio elite — techo altísimo",
-        "prevRank": 3
+        "gap": 21.9,
+        "note": "Joven con pedigrí — salto a elite pendiente",
+        "prevRank": 5
       },
       {
         "id": 4426348,
@@ -2030,23 +2047,6 @@ window.NFL_DATA = {
         "gap": 28.2,
         "note": "Joven con pedigrí — salto a elite pendiente",
         "prevRank": 4
-      },
-      {
-        "id": 4431611,
-        "name": "Caleb Williams",
-        "pos": "QB",
-        "teamCode": "CHI",
-        "colors": {
-          "primary": "#0b162a",
-          "secondary": "#c83803"
-        },
-        "age": 24,
-        "currentScore": 56,
-        "projectedScore": 60.2,
-        "threshold": 90.0,
-        "gap": 29.8,
-        "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 5
       },
       {
         "id": 4688380,
@@ -2080,7 +2080,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-23 00:01 UTC",
+  "LAST_UPDATE": "2026-10-23 10:04 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
