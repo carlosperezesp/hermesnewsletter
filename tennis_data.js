@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-23 23:11 UTC
+// Auto-generated 2026-10-23 23:55 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-23 23:11 UTC",
+  "UPDATED": "2026-10-23 23:55 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 78.3
@@ -475,7 +475,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 75.8
@@ -1395,7 +1395,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 65.3
@@ -11218,7 +11218,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Luca Van Assche",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-5) 6-7 (7-9) 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 76.8,
@@ -11610,7 +11610,7 @@ window.TENNIS_DATA = {
       "Zangar Nurlanuly"
     ],
     "aliveCount": 44,
-    "matchesSeen": 77
+    "matchesSeen": 78
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis",
