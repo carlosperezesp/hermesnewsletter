@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-24 16:57 UTC",
+  "UPDATED": "2026-10-24 22:31 UTC",
   "EVENTS": [
     {
       "id": "f1:win:MSC Cruises United States Grand Prix:Charles Leclerc",
@@ -113,6 +113,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Leo Carlsson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Leo Carlsson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-24"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
@@ -385,13 +394,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Leo Carlsson",
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Beckett Sennecke",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
-      "text": "Leo Carlsson cae del top-10 · jóvenes promesas",
+      "text": "Beckett Sennecke cae del top-10 · jóvenes promesas",
       "weight": 74,
-      "firstSeen": "2026-10-23"
+      "firstSeen": "2026-10-24"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Vasily Podkolzin",
@@ -574,7 +583,7 @@ window.GLORY_DATA = {
       "Jackson LaCombe",
       "Tim Stützle",
       "Brandt Clarke",
-      "Beckett Sennecke"
+      "Leo Carlsson"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",

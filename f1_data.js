@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-24 16:54 UTC
+// Auto-generated 2026-10-24 22:29 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-10-24 16:54 UTC",
+  "UPDATED": "2026-10-24 22:29 UTC",
   "SEASON": "2026",
   "ROUND": 16,
   "TOTAL_ROUNDS": 25,
@@ -22,7 +22,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 340.0,
-      "lastWeekendPoints": 20.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 54.4,
       "stats": {
@@ -47,7 +47,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 238.0,
-      "lastWeekendPoints": 2.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 38.1,
       "stats": {
@@ -72,7 +72,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 229.0,
-      "lastWeekendPoints": 15.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 36.6,
       "stats": {
@@ -97,7 +97,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 221.0,
-      "lastWeekendPoints": 33.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 35.4,
       "stats": {
@@ -122,7 +122,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 215.0,
-      "lastWeekendPoints": 24.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 34.4,
       "stats": {
@@ -147,7 +147,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 201.0,
-      "lastWeekendPoints": 13.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 32.2,
       "stats": {
@@ -172,7 +172,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 138.0,
-      "lastWeekendPoints": 10.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 22.1,
       "stats": {
@@ -197,7 +197,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 97.0,
-      "lastWeekendPoints": 1.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 15.5,
       "stats": {
@@ -222,7 +222,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 75.0,
-      "lastWeekendPoints": 10.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 12.0,
       "stats": {
@@ -555,9 +555,9 @@ window.F1_DATA = {
     }
   ],
   "LAST_WEEKEND": {
-    "id": "600057445",
-    "name": "Singapore Airlines Singapore Grand Prix",
-    "label": "SGP",
+    "id": "600057446",
+    "name": "MSC Cruises United States Grand Prix",
+    "label": "USA",
     "includesSprint": false
   },
   "LAST_RACE": {

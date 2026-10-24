@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-24 16:57 UTC
+// Auto-generated 2026-10-24 22:31 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-24 16:57 UTC",
+  "UPDATED": "2026-10-24 22:31 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -2517,7 +2517,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 55.5
@@ -11074,7 +11074,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Arthur Fils",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-7 (7-9) 7-6 (7-5)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 52.9,
@@ -11495,7 +11495,7 @@ window.TENNIS_DATA = {
       "Zangar Nurlanuly"
     ],
     "aliveCount": 72,
-    "matchesSeen": 103
+    "matchesSeen": 104
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis",
