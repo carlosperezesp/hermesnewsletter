@@ -1,20 +1,45 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-10-23 23:54 UTC",
-  "LAST_MATCH": "2026-10-17",
+  "UPDATED": "2026-10-24 09:34 UTC",
+  "LAST_MATCH": "2026-10-24",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 362,
+    "incrementalMatches": 363,
     "teams": 162,
-    "matches": 10057,
-    "through": "2026-10-17"
+    "matches": 10058,
+    "through": "2026-10-24"
   },
   "IMPORTANCE": 3.5,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-10-24",
+        "status": "final",
+        "competition": "International Test Match",
+        "home": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Fiji",
+          "teamCode": "FIJ",
+          "colors": {
+            "primary": "#6ecff6",
+            "secondary": "#111111"
+          }
+        },
+        "homeScore": 28,
+        "awayScore": 34,
+        "venue": "Prince Chichibu Memorial Stadium",
+        "city": "Tokyo"
+      },
       {
         "date": "2026-10-17",
         "status": "final",
@@ -67,31 +92,6 @@ window.RUGBY_DATA = {
       }
     ],
     "upcoming": [
-      {
-        "date": "2026-10-24",
-        "status": "scheduled",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "Fiji",
-          "teamCode": "FIJ",
-          "colors": {
-            "primary": "#6ecff6",
-            "secondary": "#111111"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Prince Chichibu Memorial Stadium",
-        "city": "Tokyo"
-      },
       {
         "date": "2026-11-06",
         "status": "scheduled",
@@ -366,6 +366,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Stadio Luigi Ferraris",
         "city": "Genova"
+      },
+      {
+        "date": "2026-11-15",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Scotland",
+          "teamCode": "SCO",
+          "colors": {
+            "primary": "#005eb8",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Scottish Gas Murrayfield",
+        "city": "Edinburgh"
       }
     ]
   },
@@ -389,7 +414,7 @@ window.RUGBY_DATA = {
       "elo": 2705.9,
       "eloRaw": 2705.9,
       "lastMatch": "2026-09-27",
-      "inactiveDays": 20,
+      "inactiveDays": 27,
       "peakElo": 2739.8,
       "peakDate": "2026-09-12",
       "worldCups": 4,
@@ -412,7 +437,7 @@ window.RUGBY_DATA = {
       "elo": 2641.5,
       "eloRaw": 2641.5,
       "lastMatch": "2026-10-17",
-      "inactiveDays": 0,
+      "inactiveDays": 7,
       "peakElo": 2749.6,
       "peakDate": "2016-10-22",
       "worldCups": 3,
@@ -435,7 +460,7 @@ window.RUGBY_DATA = {
       "elo": 2542.3,
       "eloRaw": 2542.3,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 91,
+      "inactiveDays": 98,
       "peakElo": 2684.1,
       "peakDate": "2023-10-07",
       "worldCups": 0,
@@ -458,7 +483,7 @@ window.RUGBY_DATA = {
       "elo": 2521.7,
       "eloRaw": 2521.7,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 91,
+      "inactiveDays": 98,
       "peakElo": 2587.1,
       "peakDate": "2025-03-15",
       "worldCups": 0,
@@ -481,7 +506,7 @@ window.RUGBY_DATA = {
       "elo": 2423.1,
       "eloRaw": 2423.1,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 91,
+      "inactiveDays": 98,
       "peakElo": 2568.0,
       "peakDate": "2019-10-26",
       "worldCups": 1,
@@ -504,7 +529,7 @@ window.RUGBY_DATA = {
       "elo": 2384.1,
       "eloRaw": 2384.1,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 91,
+      "inactiveDays": 98,
       "peakElo": 2384.1,
       "peakDate": "2026-07-18",
       "worldCups": 0,
@@ -527,7 +552,7 @@ window.RUGBY_DATA = {
       "elo": 2287.4,
       "eloRaw": 2287.4,
       "lastMatch": "2026-10-17",
-      "inactiveDays": 0,
+      "inactiveDays": 7,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
@@ -550,7 +575,7 @@ window.RUGBY_DATA = {
       "elo": 2249.3,
       "eloRaw": 2249.3,
       "lastMatch": "2026-09-05",
-      "inactiveDays": 42,
+      "inactiveDays": 49,
       "peakElo": 2354.6,
       "peakDate": "2025-11-16",
       "worldCups": 0,
@@ -570,15 +595,15 @@ window.RUGBY_DATA = {
       "name": "Fiji",
       "teamCode": "FIJ",
       "country": "Fiji",
-      "elo": 2141.7,
-      "eloRaw": 2141.7,
-      "lastMatch": "2026-09-19",
-      "inactiveDays": 28,
+      "elo": 2163.1,
+      "eloRaw": 2163.1,
+      "lastMatch": "2026-10-24",
+      "inactiveDays": 0,
       "peakElo": 2249.9,
       "peakDate": "2025-09-21",
       "worldCups": 0,
       "record": {
-        "w": 183,
+        "w": 184,
         "l": 167,
         "d": 11
       },
@@ -586,7 +611,7 @@ window.RUGBY_DATA = {
         "primary": "#6ecff6",
         "secondary": "#111111"
       },
-      "note": "183V-167D-11E · último 2026-09-19 · raw 2142"
+      "note": "184V-167D-11E · último 2026-10-24 · raw 2163"
     },
     {
       "rank": 10,
@@ -596,7 +621,7 @@ window.RUGBY_DATA = {
       "elo": 2091.9,
       "eloRaw": 2091.9,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 91,
+      "inactiveDays": 98,
       "peakElo": 2470.8,
       "peakDate": "2019-03-16",
       "worldCups": 0,

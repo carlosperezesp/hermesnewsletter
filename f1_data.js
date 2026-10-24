@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-23 23:53 UTC
+// Auto-generated 2026-10-24 09:33 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-10-23 23:53 UTC",
+  "UPDATED": "2026-10-24 09:33 UTC",
   "SEASON": "2026",
   "ROUND": 16,
   "TOTAL_ROUNDS": 25,
@@ -561,25 +561,25 @@ window.F1_DATA = {
     "includesSprint": false
   },
   "LAST_RACE": {
-    "name": "Singapore Airlines Singapore Grand Prix",
-    "date": "2026-10-09",
-    "circuit": "Marina Bay Street Circuit",
+    "name": "MSC Cruises United States Grand Prix",
+    "date": "2026-10-23",
+    "circuit": "Circuit of the Americas",
     "round": 0,
     "state": "post",
     "podium": [
       {
         "position": 1,
-        "name": "George Russell",
-        "team": "mercedes",
-        "time": "",
-        "primary": "#00D2BE"
-      },
-      {
-        "position": 2,
         "name": "Charles Leclerc",
         "team": "ferrari",
         "time": "",
         "primary": "#E8002D"
+      },
+      {
+        "position": 2,
+        "name": "Max Verstappen",
+        "team": "red_bull",
+        "time": "",
+        "primary": "#3671C6"
       },
       {
         "position": 3,

@@ -1,11 +1,11 @@
-// Auto-generated 2026-10-23 23:53 UTC
+// Auto-generated 2026-10-24 09:33 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-10-23 23:53 UTC",
+  "UPDATED": "2026-10-24 09:33 UTC",
   "SEASON": "2026",
-  "ROUND": 17,
+  "ROUND": 18,
   "TOTAL_ROUNDS": 22,
   "MAX_SEASON_PTS": 550,
-  "IMPORTANCE": 9.9,
+  "IMPORTANCE": 9.6,
   "RIDERS": [
     {
       "position": 1,

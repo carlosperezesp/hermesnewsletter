@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-23 23:55 UTC",
+  "UPDATED": "2026-10-24 09:35 UTC",
   "EVENTS": [
+    {
+      "id": "f1:win:MSC Cruises United States Grand Prix:Charles Leclerc",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "Charles Leclerc ganó el MSC Cruises United States Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-10-24"
+    },
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
       "sport": "indycar",
@@ -107,6 +115,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Cale Makar entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-24"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
       "sport": "nhl",
       "detail": "NHL",
@@ -148,15 +165,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "Mikko Rantanen entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-22"
     },
@@ -542,7 +550,7 @@ window.GLORY_DATA = {
       "Auston Matthews",
       "Erik Karlsson",
       "Jack Eichel",
-      "Matthew Tkachuk"
+      "Cale Makar"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -584,8 +592,8 @@ window.GLORY_DATA = {
       "Oklahoma City Thunder",
       "Los Angeles Lakers",
       "Minnesota Timberwolves",
-      "Indiana Pacers",
       "Boston Celtics",
+      "Indiana Pacers",
       "Denver Nuggets",
       "Milwaukee Bucks",
       "Golden State Warriors",
