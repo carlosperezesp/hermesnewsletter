@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-24 22:31 UTC",
+  "UPDATED": "2026-10-24 23:26 UTC",
   "EVENTS": [
     {
       "id": "f1:win:MSC Cruises United States Grand Prix:Charles Leclerc",
@@ -156,15 +156,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Jackson LaCombe entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Brandt Clarke",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Brandt Clarke entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-23"
     },
@@ -394,15 +385,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Beckett Sennecke",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Beckett Sennecke cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-10-24"
-    },
-    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Vasily Podkolzin",
       "sport": "nhl",
       "detail": "NHL",
@@ -582,8 +564,8 @@ window.GLORY_DATA = {
       "Ivan Demidov",
       "Jackson LaCombe",
       "Tim Stützle",
-      "Brandt Clarke",
-      "Leo Carlsson"
+      "Leo Carlsson",
+      "Beckett Sennecke"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
