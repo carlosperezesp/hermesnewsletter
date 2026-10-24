@@ -25509,9 +25509,9 @@ window.NHL_DATA = {
       "name": "Garrett Wilson",
       "pos": "LW",
       "teamCode": "PHI",
-      "age": 35,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -37815,10 +37815,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-24 11:16 UTC",
+  "LAST_UPDATE": "2026-10-24 16:14 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-24T11:16:15Z"
+    "standingsDateTimeUtc": "2026-10-24T16:13:30Z"
   }
 };
