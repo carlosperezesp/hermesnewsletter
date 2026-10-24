@@ -948,7 +948,7 @@ window.NHL_DATA = {
         78
       ],
       "legendScore": 45.9,
-      "prevRank": 8
+      "prevRank": 7
     },
     {
       "id": 8476999,
@@ -980,7 +980,7 @@ window.NHL_DATA = {
         60,
         78
       ],
-      "prevRank": 9
+      "prevRank": 8
     },
     {
       "id": 8479410,
@@ -1015,7 +1015,7 @@ window.NHL_DATA = {
         78
       ],
       "legendScore": 47.6,
-      "prevRank": 10
+      "prevRank": 9
     },
     {
       "id": 8477492,
@@ -1050,7 +1050,7 @@ window.NHL_DATA = {
         76
       ],
       "legendScore": 67.9,
-      "prevRank": 21
+      "prevRank": 10
     },
     {
       "id": 8479323,
@@ -37422,7 +37422,7 @@ window.NHL_DATA = {
         "cups": 1,
         "seasons": 8,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -37815,10 +37815,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-24 09:32 UTC",
+  "LAST_UPDATE": "2026-10-24 11:16 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-24T09:32:00Z"
+    "standingsDateTimeUtc": "2026-10-24T11:16:15Z"
   }
 };

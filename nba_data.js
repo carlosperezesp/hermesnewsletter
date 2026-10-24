@@ -1006,7 +1006,7 @@ window.NBA_DATA = {
           "primary": "#007a33",
           "secondary": "#ba9653"
         },
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "teamCode": "IND",
@@ -1022,7 +1022,7 @@ window.NBA_DATA = {
           "primary": "#002d62",
           "secondary": "#fdbb30"
         },
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "teamCode": "DEN",
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-24 09:32 UTC",
+  "LAST_UPDATE": "2026-10-24 11:16 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
