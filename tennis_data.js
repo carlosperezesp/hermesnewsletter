@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-24 16:17 UTC
+// Auto-generated 2026-10-24 16:57 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-24 16:17 UTC",
+  "UPDATED": "2026-10-24 16:57 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11070,15 +11070,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Arthur Fils",
+          "w": "Jan-Lennard Struff",
           "w_logo": "",
-          "l": "Jan-Lennard Struff",
+          "l": "Arthur Fils",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 82.9,
-          "l_score": 52.9,
+          "scheduled": false,
+          "w_score": 52.9,
+          "l_score": 82.9,
           "match_score": 82.9
         },
         {
@@ -11087,7 +11087,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Francisco Cerundolo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-6 6-3 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 61.5,
@@ -11153,7 +11153,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Flavio Cobolli",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-2 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 76.8,
@@ -11495,7 +11495,7 @@ window.TENNIS_DATA = {
       "Zangar Nurlanuly"
     ],
     "aliveCount": 72,
-    "matchesSeen": 102
+    "matchesSeen": 103
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis",
