@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-25 09:51 UTC
+// Auto-generated 2026-10-25 11:48 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-25 09:51 UTC",
+  "UPDATED": "2026-10-25 11:48 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11012,15 +11012,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Daniil Medvedev",
+          "w": "Nikoloz Basilashvili",
           "w_logo": "",
-          "l": "Nikoloz Basilashvili",
+          "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 77.7,
-          "l_score": 47.4,
+          "scheduled": false,
+          "w_score": 47.4,
+          "l_score": 77.7,
           "match_score": 77.7
         }
       ]
@@ -11142,15 +11142,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Leylah Fernandez",
+          "w": "Elena Rybakina",
           "w_logo": "",
-          "l": "Elena Rybakina",
+          "l": "Leylah Fernandez",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 67.6,
-          "l_score": 93.3,
+          "w_score": 93.3,
+          "l_score": 67.6,
           "match_score": 93.3
         }
       ]
