@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-25 16:51 UTC
+// Auto-generated 2026-10-25 17:15 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-25 16:51 UTC",
+  "UPDATED": "2026-10-25 17:15 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -575,9 +575,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Swiss Indoors Basel",
+        "tournament": "Grand Prix Auvergne-Rhône-Alpes",
         "state": "alive",
-        "round": "R128",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 75.4
@@ -1085,9 +1085,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Swiss Indoors Basel",
+        "tournament": "Almaty Open",
         "state": "alive",
-        "round": "R128",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 66.1
@@ -11303,7 +11303,7 @@ window.TENNIS_DATA = {
       "Zangar Nurlanuly"
     ],
     "aliveCount": 76,
-    "matchesSeen": 107
+    "matchesSeen": 106
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
