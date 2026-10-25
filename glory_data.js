@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-25 17:15 UTC",
+  "UPDATED": "2026-10-25 22:36 UTC",
   "EVENTS": [
     {
       "id": "f1:win:MSC Cruises United States Grand Prix:Charles Leclerc",
@@ -130,15 +130,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Seth Jarvis entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-25"
-    },
-    {
-      "id": "rank:motogp:RIDERS:in:Augusto Fernández",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "anchor": "motogp-mundial",
-      "text": "Augusto Fernández entra en el top-10 · Mundial",
       "weight": 84,
       "firstSeen": "2026-10-25"
     },
@@ -384,15 +375,6 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
-    },
-    {
-      "id": "rank:motogp:RIDERS:out:Fermín Aldeguer",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "anchor": "motogp-mundial",
-      "text": "Fermín Aldeguer cae del top-10 · Mundial",
-      "weight": 74,
-      "firstSeen": "2026-10-25"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:KA Maharaj",
@@ -788,10 +770,10 @@ window.GLORY_DATA = {
       "Pedro Acosta",
       "Ai Ogura",
       "Fabio Di Giannantonio",
-      "Augusto Fernández",
       "Raúl Fernández",
       "Álex Márquez",
-      "Francesco Bagnaia"
+      "Francesco Bagnaia",
+      "Fermín Aldeguer"
     ],
     "motogp:LEGENDS": [
       "Giacomo Agostini",
@@ -892,13 +874,13 @@ window.GLORY_DATA = {
     "cricket:ROAD_TO_GLORY.players": [
       "MA Starc",
       "JJ Bumrah",
-      "JC Archer",
       "M Jansen",
+      "JC Archer",
       "JNT Seales",
       "RA Jadeja",
       "Taijul Islam",
-      "PJ Cummins",
       "JC Tongue",
+      "PJ Cummins",
       "Nauman Ali"
     ],
     "athletics:allTime:100m_m": [

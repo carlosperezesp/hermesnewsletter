@@ -1,8 +1,8 @@
-// Auto-generated 2026-10-25 17:12 UTC
+// Auto-generated 2026-10-25 22:34 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-10-25 17:12 UTC",
+  "UPDATED": "2026-10-25 22:34 UTC",
   "SEASON": "2026",
-  "ROUND": 16,
+  "ROUND": 17,
   "TOTAL_ROUNDS": 25,
   "MAX_SEASON_PTS": 625,
   "IMPORTANCE": 10.0,
@@ -21,12 +21,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 340.0,
-      "lastWeekendPoints": 0.0,
+      "points": 365.0,
+      "lastWeekendPoints": 25.0,
       "wins": 0,
-      "score": 54.4,
+      "score": 58.4,
       "stats": {
-        "pts": 340.0,
+        "pts": 365.0,
         "wins": 0
       },
       "prevRank": 1,
@@ -46,12 +46,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 238.0,
-      "lastWeekendPoints": 0.0,
+      "points": 242.0,
+      "lastWeekendPoints": 4.0,
       "wins": 0,
-      "score": 38.1,
+      "score": 38.7,
       "stats": {
-        "pts": 238.0,
+        "pts": 242.0,
         "wins": 0
       },
       "prevRank": 2,
@@ -71,12 +71,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 229.0,
-      "lastWeekendPoints": 0.0,
+      "points": 241.0,
+      "lastWeekendPoints": 12.0,
       "wins": 0,
-      "score": 36.6,
+      "score": 38.6,
       "stats": {
-        "pts": 229.0,
+        "pts": 241.0,
         "wins": 0
       },
       "prevRank": 3,
@@ -96,12 +96,12 @@ window.F1_DATA = {
         "secondary": "#CC1E4A"
       },
       "team": "",
-      "points": 221.0,
-      "lastWeekendPoints": 0.0,
+      "points": 236.0,
+      "lastWeekendPoints": 15.0,
       "wins": 0,
-      "score": 35.4,
+      "score": 37.8,
       "stats": {
-        "pts": 221.0,
+        "pts": 236.0,
         "wins": 0
       },
       "prevRank": 4,
@@ -121,12 +121,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 215.0,
-      "lastWeekendPoints": 0.0,
+      "points": 233.0,
+      "lastWeekendPoints": 18.0,
       "wins": 0,
-      "score": 34.4,
+      "score": 37.3,
       "stats": {
-        "pts": 215.0,
+        "pts": 233.0,
         "wins": 0
       },
       "prevRank": 5,
@@ -146,12 +146,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 201.0,
-      "lastWeekendPoints": 0.0,
+      "points": 211.0,
+      "lastWeekendPoints": 10.0,
       "wins": 0,
-      "score": 32.2,
+      "score": 33.8,
       "stats": {
-        "pts": 201.0,
+        "pts": 211.0,
         "wins": 0
       },
       "prevRank": 6,
@@ -171,12 +171,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 138.0,
-      "lastWeekendPoints": 0.0,
+      "points": 144.0,
+      "lastWeekendPoints": 6.0,
       "wins": 0,
-      "score": 22.1,
+      "score": 23.0,
       "stats": {
-        "pts": 138.0,
+        "pts": 144.0,
         "wins": 0
       },
       "prevRank": 7,
@@ -196,12 +196,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 97.0,
-      "lastWeekendPoints": 0.0,
+      "points": 105.0,
+      "lastWeekendPoints": 8.0,
       "wins": 0,
-      "score": 15.5,
+      "score": 16.8,
       "stats": {
-        "pts": 97.0,
+        "pts": 105.0,
         "wins": 0
       },
       "prevRank": 8,
@@ -221,12 +221,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 75.0,
-      "lastWeekendPoints": 0.0,
+      "points": 77.0,
+      "lastWeekendPoints": 2.0,
       "wins": 0,
-      "score": 12.0,
+      "score": 12.3,
       "stats": {
-        "pts": 75.0,
+        "pts": 77.0,
         "wins": 0
       },
       "prevRank": 9,
@@ -246,12 +246,12 @@ window.F1_DATA = {
         "secondary": "#FF0000"
       },
       "team": "",
-      "points": 41.0,
-      "lastWeekendPoints": 0.0,
+      "points": 42.0,
+      "lastWeekendPoints": 1.0,
       "wins": 0,
-      "score": 6.6,
+      "score": 6.7,
       "stats": {
-        "pts": 41.0,
+        "pts": 42.0,
         "wins": 0
       },
       "prevRank": 10,
@@ -270,7 +270,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 54.4,
+      "score": 58.4,
       "position": 1,
       "age": 20,
       "note": "Líder del campeonato a los 20"
@@ -286,7 +286,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 22.1,
+      "score": 23.0,
       "position": 7,
       "age": 25,
       "note": "Irrumpe a los 25 (P7)"
@@ -302,7 +302,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 15.5,
+      "score": 16.8,
       "position": 8,
       "age": 22,
       "note": "Irrumpe a los 22 (P8)"
@@ -318,7 +318,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 12.0,
+      "score": 12.3,
       "position": 9,
       "age": 24,
       "note": "Irrumpe a los 24 (P9)"
@@ -519,7 +519,7 @@ window.F1_DATA = {
       "id": "mercedes",
       "primary": "#00D2BE",
       "secondary": "#000000",
-      "points": 578.0
+      "points": 607.0
     },
     {
       "position": 2,
@@ -527,23 +527,23 @@ window.F1_DATA = {
       "id": "ferrari",
       "primary": "#DC0000",
       "secondary": "#FFFFFF",
-      "points": 444.0
+      "points": 474.0
     },
     {
       "position": 3,
-      "name": "McLaren",
-      "id": "mclaren",
-      "primary": "#FF8700",
-      "secondary": "#000000",
-      "points": 339.0
-    },
-    {
-      "position": 4,
       "name": "Red Bull",
       "id": "red_bull",
       "primary": "#00327D",
       "secondary": "#CC1E4A",
-      "points": 332.0
+      "points": 355.0
+    },
+    {
+      "position": 4,
+      "name": "McLaren",
+      "id": "mclaren",
+      "primary": "#FF8700",
+      "secondary": "#000000",
+      "points": 355.0
     },
     {
       "position": 5,
@@ -551,7 +551,7 @@ window.F1_DATA = {
       "id": "racing_bulls",
       "primary": "#6692FF",
       "secondary": "#FFFFFF",
-      "points": 100.0
+      "points": 102.0
     }
   ],
   "LAST_WEEKEND": {

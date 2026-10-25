@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-25 17:15 UTC
+// Auto-generated 2026-10-25 22:36 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-25 17:15 UTC",
+  "UPDATED": "2026-10-25 22:36 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -167,9 +167,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open",
+        "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 83.8
@@ -439,10 +439,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes · Erste Bank Open · Swiss Indoors Basel",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Swiss Indoors Basel",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 76.6
     },
@@ -575,9 +575,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 75.4
@@ -1767,8 +1767,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open",
-        "state": "out",
+        "tournament": "Swiss Indoors Basel",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -1801,10 +1801,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes · Erste Bank Open · Swiss Indoors Basel",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Swiss Indoors Basel",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 61.7
     },
@@ -1937,8 +1937,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open",
-        "state": "out",
+        "tournament": "Swiss Indoors Basel",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2107,10 +2107,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes · Erste Bank Open · Swiss Indoors Basel",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Swiss Indoors Basel",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 60.1
     },
@@ -2515,9 +2515,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open",
+        "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "F",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 55.5
@@ -2787,9 +2787,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Grand Prix Auvergne-Rhône-Alpes",
+        "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 54.2
@@ -3299,8 +3299,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Almaty Open",
-        "state": "out",
+        "tournament": "Swiss Indoors Basel",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3881,8 +3881,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Almaty Open",
-        "state": "out",
+        "tournament": "Swiss Indoors Basel",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3985,10 +3985,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes · Erste Bank Open · Swiss Indoors Basel",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Swiss Indoors Basel",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 48.8
     },
@@ -5183,7 +5183,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5251,7 +5251,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5285,7 +5285,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5319,7 +5319,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5353,7 +5353,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5421,7 +5421,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5455,7 +5455,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5523,7 +5523,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5591,7 +5591,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5625,7 +5625,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5659,7 +5659,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5693,7 +5693,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5761,7 +5761,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5829,7 +5829,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5897,7 +5897,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5965,7 +5965,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6101,7 +6101,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6135,7 +6135,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6237,7 +6237,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6475,7 +6475,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6577,7 +6577,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6613,10 +6613,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Curitiba Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 63.6
     },
@@ -6715,7 +6715,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6783,7 +6783,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6851,7 +6851,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6885,7 +6885,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6919,7 +6919,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6987,7 +6987,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7055,7 +7055,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7089,7 +7089,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7123,7 +7123,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7157,7 +7157,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7225,7 +7225,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7361,7 +7361,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7497,7 +7497,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7601,7 +7601,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7805,10 +7805,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Curitiba Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 55.1
     },
@@ -7975,7 +7975,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8009,7 +8009,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8043,7 +8043,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8111,7 +8111,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8145,7 +8145,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8179,7 +8179,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8213,7 +8213,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8385,7 +8385,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8419,7 +8419,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8455,7 +8455,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8489,7 +8489,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8525,7 +8525,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8627,7 +8627,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8663,7 +8663,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8735,7 +8735,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8769,7 +8769,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8837,7 +8837,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8871,7 +8871,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8905,7 +8905,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9115,10 +9115,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Curitiba Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 44.1
     },
@@ -9217,7 +9217,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9251,7 +9251,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9285,10 +9285,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Curitiba Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.6
     },
@@ -9321,7 +9321,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9357,10 +9357,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Curitiba Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 52.1
     },
@@ -9427,10 +9427,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Curitiba Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 40.8
     },
@@ -9461,7 +9461,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9603,7 +9603,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9707,7 +9707,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9741,7 +9741,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9849,7 +9849,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9921,10 +9921,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Curitiba Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.9
     },
@@ -9955,7 +9955,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9991,7 +9991,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10025,10 +10025,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Curitiba Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.2
     },
@@ -10241,7 +10241,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10277,7 +10277,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10313,7 +10313,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10996,7 +10996,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jan-Lennard Struff",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-3 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 61.5,
@@ -11196,6 +11196,7 @@ window.TENNIS_DATA = {
     "alive": [
       "Adrian Mannarino",
       "Alejandro Tabilo",
+      "Aleksandar Kovacevic",
       "Alex Michelsen",
       "Alex de Minaur",
       "Alexander Bublik",
@@ -11204,6 +11205,7 @@ window.TENNIS_DATA = {
       "Arthur Fery",
       "Arthur Fils",
       "Arthur Rinderknech",
+      "Ben Shelton",
       "Benjamin Bonzi",
       "Borna Gojo",
       "Botic Van De Zandschulp",
@@ -11218,6 +11220,7 @@ window.TENNIS_DATA = {
       "Daniel Merida",
       "Daniil Medvedev",
       "David Goffin",
+      "Denis Shapovalov",
       "Dominic Stricker",
       "Fabian Marozsan",
       "Facundo Diaz Acosta",
@@ -11225,6 +11228,7 @@ window.TENNIS_DATA = {
       "Flavio Cobolli",
       "Frances Tiafoe",
       "Francisco Cerundolo",
+      "Giovanni Mpetshi Perricard",
       "Grigor Dimitrov",
       "Holger Rune",
       "Hubert Hurkacz",
@@ -11236,6 +11240,7 @@ window.TENNIS_DATA = {
       "Jaume Munar",
       "Jerome Kym",
       "Jiri Lehecka",
+      "Juan Manuel Cerundolo",
       "Jurij Rodionov",
       "Karen Khachanov",
       "Kyrian Jacquet",
@@ -11250,14 +11255,18 @@ window.TENNIS_DATA = {
       "Matteo Arnaldi",
       "Matteo Berrettini",
       "Mattia Bellucci",
+      "Mika Brunold",
       "Mikhail Kukushkin",
       "Moise Kouame",
       "Nikoloz Basilashvili",
       "Novak Djokovic",
+      "Nuno Borges",
       "Pierre-Hugues Herbert",
       "Quentin Halys",
       "Rafael Jodar",
       "Raphael Collignon",
+      "Remy Bertola",
+      "Rinky Hijikata",
       "Sho Shimabukuro",
       "Stan Wawrinka",
       "Stefanos Tsitsipas",
@@ -11269,10 +11278,10 @@ window.TENNIS_DATA = {
       "Tommy Paul",
       "Ugo Humbert",
       "Valentin Vacherot",
+      "Yannick Hanfmann",
       "Zizou Bergs"
     ],
     "out": [
-      "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Andrea Guerrieri",
       "Clement Tabur",
@@ -11282,7 +11291,6 @@ window.TENNIS_DATA = {
       "Hamad Medjedovic",
       "Hugo Gaston",
       "Jaime Faria",
-      "Juan Manuel Cerundolo",
       "Lorenzo Sonego",
       "Marcos Giron",
       "Marin Cilic",
@@ -11290,8 +11298,6 @@ window.TENNIS_DATA = {
       "Miomir Kecmanovic",
       "Nishesh Basavareddy",
       "Rei Sakamoto",
-      "Remy Bertola",
-      "Rinky Hijikata",
       "Roman Safiullin",
       "Sebastian Baez",
       "Stefanos Sakellaridis",
@@ -11299,14 +11305,13 @@ window.TENNIS_DATA = {
       "Timofey Skatov",
       "Titouan Droguet",
       "Toby Samuel",
-      "Yannick Hanfmann",
       "Zangar Nurlanuly"
     ],
-    "aliveCount": 76,
-    "matchesSeen": 106
+    "aliveCount": 86,
+    "matchesSeen": 113
   },
   "WTA_TOURNAMENT": {
-    "name": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
+    "name": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open",
     "level": "WTA 250",
     "surface": "",
     "tour": "WTA",
@@ -11337,11 +11342,6 @@ window.TENNIS_DATA = {
         "surface": "Hard"
       },
       {
-        "name": "Queretaro Open",
-        "level": "WTA 250",
-        "surface": ""
-      },
-      {
         "name": "Curitiba Open",
         "level": "WTA 250",
         "surface": ""
@@ -11356,17 +11356,22 @@ window.TENNIS_DATA = {
       "Alevtina Ibragimova",
       "Alexandra Eala",
       "Aliaksandra Sasnovich",
+      "Alice Tubello",
       "Alycia Parks",
+      "Ana Candiotto",
       "Anastasia Zakharova",
       "Anastasiia Sobolieva",
       "Ann Li",
       "Anna Blinkova",
       "Anna Bondar",
       "Antonia Ruzic",
+      "Antonia Vergara Rivera",
       "Ashlyn Krueger",
       "Ayla Aksu",
       "Belinda Bencic",
+      "Berta Bonardi",
       "Carol Young Suh Lee",
+      "Carolina Alves",
       "Caroline Werner",
       "Claire Liu",
       "Cristina Bucsa",
@@ -11375,13 +11380,18 @@ window.TENNIS_DATA = {
       "Daria Kasatkina",
       "Daria Snigur",
       "Dayana Yastremska",
+      "Despina Papamichail",
       "Diana Shnaider",
       "Diane Parry",
+      "Eduarda Gomes",
       "Ekaterina Alexandrova",
       "Elena Rybakina",
       "Elise Mertens",
       "Elizara Yaneva",
       "Elsa Jacquemot",
+      "Fernanda Labrana",
+      "Francesca Jones",
+      "Gabriela Ce",
       "Gabriela Knutson",
       "Harriet Dart",
       "Himeno Sakatsume",
@@ -11389,8 +11399,13 @@ window.TENNIS_DATA = {
       "Iva Jovic",
       "Janice Tjen",
       "Jasmine Paolini",
+      "Jazmin Ortenzi",
       "Jessica Pieri",
       "Jil Teichmann",
+      "Julia Grabher",
+      "Julia Konishi Camargo Silva",
+      "Julia Riera",
+      "Justina Gonzalez Daniele",
       "Kaitlin Quevedo",
       "Katarina Zavatska",
       "Katarzyna Kawa",
@@ -11400,17 +11415,28 @@ window.TENNIS_DATA = {
       "Kayla Day",
       "Lanlana Tararudee",
       "Laura Mair",
+      "Laura Pigossi",
+      "Laura Samson",
       "Leylah Fernandez",
+      "Leyre Romero Gormaz",
       "Lilli Tagger",
       "Lisa Pigato",
       "Lisa Zaar",
+      "Lourdes Ayala",
+      "Lucia Bronzetti",
       "Lucrezia Stefanini",
+      "Luisina Giovannini",
+      "Luiza Fullana",
+      "Luna Maria Cinalli",
       "Magda Linette",
       "Mananchaya Sawangkaew",
+      "Maria Lourdes Carle",
       "Maria Sakkari",
       "Maria Timofeeva",
+      "Maria Urrutia",
       "Marie Bouzkova",
       "Marina Bassols Ribera",
+      "Marjorie Souza",
       "Martyna Kubka",
       "Mary Stoiana",
       "Maya Joint",
@@ -11419,11 +11445,14 @@ window.TENNIS_DATA = {
       "Mika Stojsavljevic",
       "Moyuka Uchijima",
       "Naomi Osaka",
+      "Nauhany Vitoria Leme Da Silva",
       "Nikola Bartunkova",
       "Noma Noha Akugue",
       "Panna Udvardy",
       "Paula Badosa",
       "Polina Kudermetova",
+      "Rebeca Pereira",
+      "Rebeka Masarova",
       "Robin Montgomery",
       "Rositsa Dencheva",
       "Sara Bejlek",
@@ -11432,6 +11461,7 @@ window.TENNIS_DATA = {
       "Simona Waltert",
       "Sinja Kraus",
       "Sofia Kenin",
+      "Solana Sierra",
       "Sorana Cirstea",
       "Susan Bandecchi",
       "Talia Gibson",
@@ -11439,10 +11469,12 @@ window.TENNIS_DATA = {
       "Teodora Kostovic",
       "Tereza Valentova",
       "Venus Williams",
+      "Victoria Bosio",
       "Victoria Jimenez Kasintseva",
       "Viktorija Golubic",
       "Wang Xinyu",
       "Xinran Sun",
+      "Yasmine Kabbaj",
       "Yulia Putintseva",
       "Zeynep Sonmez"
     ],
@@ -11461,8 +11493,8 @@ window.TENNIS_DATA = {
       "Peyton Stearns",
       "Zhang Shuai"
     ],
-    "aliveCount": 92,
-    "matchesSeen": 98
+    "aliveCount": 124,
+    "matchesSeen": 114
   },
   "ATP_SCORE_LOG": {
     "206173": [

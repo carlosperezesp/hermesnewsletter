@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-25 17:13 UTC
+// Auto-generated 2026-10-25 22:34 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-10-25 17:13 UTC",
+  "UPDATED": "2026-10-25 22:34 UTC",
   "SEASON": "2026",
   "ROUND": 17,
   "TOTAL_ROUNDS": 22,
@@ -110,23 +110,6 @@ window.MOTOGP_DATA = {
       "age": 28
     },
     {
-      "position": 6,
-      "name": "Augusto Fernández",
-      "country": "ESP",
-      "bike": "",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "points": 6.0,
-      "score": 1.1,
-      "stats": {
-        "pts": 6.0
-      },
-      "seasonPct": 1.1,
-      "prevRank": 7,
-      "age": null
-    },
-    {
       "position": 7,
       "name": "Raúl Fernández",
       "country": "ESP",
@@ -176,6 +159,23 @@ window.MOTOGP_DATA = {
       "seasonPct": 30.2,
       "prevRank": 10,
       "age": 29
+    },
+    {
+      "position": 10,
+      "name": "Fermín Aldeguer",
+      "country": "ESP",
+      "bike": "Ducati",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "primary": "#CC0000",
+      "secondary": "#FFD200",
+      "points": 125.0,
+      "score": 22.7,
+      "stats": {
+        "pts": 125.0
+      },
+      "seasonPct": 22.7,
+      "prevRank": null,
+      "age": 21
     }
   ],
   "PROSPECTS": [
