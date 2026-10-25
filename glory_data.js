@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-24 23:26 UTC",
+  "UPDATED": "2026-10-25 09:51 UTC",
   "EVENTS": [
     {
       "id": "f1:win:MSC Cruises United States Grand Prix:Charles Leclerc",
@@ -35,21 +35,22 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-11"
     },
     {
-      "id": "f1:win:Singapore Airlines Singapore Grand Prix:George Russell",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "George Russell ganó el Singapore Airlines Singapore Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-10-10"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:new1:Connor McDavid",
+      "id": "rank:nhl:ROAD_TO_GLORY.players:new1:Nikita Kucherov",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
-      "text": "Connor McDavid es nuevo nº1 · Road to Glory",
+      "text": "Nikita Kucherov es nuevo nº1 · Road to Glory",
       "weight": 92,
-      "firstSeen": "2026-10-23"
+      "firstSeen": "2026-10-25"
+    },
+    {
+      "id": "rank:motogp:RIDERS:new1:Marc Márquez",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "anchor": "motogp-mundial",
+      "text": "Marc Márquez es nuevo nº1 · Mundial",
+      "weight": 92,
+      "firstSeen": "2026-10-25"
     },
     {
       "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:Drake Maye",
@@ -97,15 +98,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-17"
     },
     {
-      "id": "rank:cycling:CURRENT_PROSPECTS:new1:Paul Seixas",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "anchor": "cycling-promesas",
-      "text": "Paul Seixas es nuevo nº1 · promesas",
-      "weight": 92,
-      "firstSeen": "2026-10-10"
-    },
-    {
       "id": "tennis:in:ATP:Arthur Fils:20261015",
       "sport": "tennis",
       "detail": "Tenis",
@@ -113,6 +105,51 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Roman Josi",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Roman Josi entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-25"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jake Sanderson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Jake Sanderson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-25"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Seth Jarvis",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Seth Jarvis entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-25"
+    },
+    {
+      "id": "rank:motogp:RIDERS:in:Augusto Fernández",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "anchor": "motogp-mundial",
+      "text": "Augusto Fernández entra en el top-10 · Mundial",
+      "weight": 84,
+      "firstSeen": "2026-10-25"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:RA Jadeja",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "RA Jadeja entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-25"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Leo Carlsson",
@@ -124,38 +161,11 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-24"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Cale Makar entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-24"
-    },
-    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "David Pastrnak entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jackson LaCombe",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Jackson LaCombe entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-23"
     },
@@ -367,15 +377,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-11"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Ivan Demidov",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Ivan Demidov entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-10"
-    },
-    {
       "id": "tennis:out:ATP:Novak Djokovic:20261015",
       "sport": "tennis",
       "detail": "Tenis",
@@ -383,6 +384,24 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "rank:motogp:RIDERS:out:Fermín Aldeguer",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "anchor": "motogp-mundial",
+      "text": "Fermín Aldeguer cae del top-10 · Mundial",
+      "weight": 74,
+      "firstSeen": "2026-10-25"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:KA Maharaj",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "KA Maharaj cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-25"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Vasily Podkolzin",
@@ -399,15 +418,6 @@ window.GLORY_DATA = {
       "detail": "Cricket",
       "anchor": "cricket-road-to-glory",
       "text": "MJ Henry cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:out:RA Jadeja",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "RA Jadeja cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-10-21"
     },
@@ -532,40 +542,40 @@ window.GLORY_DATA = {
   ],
   "SNAPSHOTS": {
     "nhl:ROAD_TO_GLORY.players": [
-      "Connor McDavid",
       "Nikita Kucherov",
+      "Connor McDavid",
       "Nathan MacKinnon",
       "Leon Draisaitl",
       "David Pastrnak",
-      "Mikko Rantanen",
       "Auston Matthews",
+      "Mikko Rantanen",
       "Erik Karlsson",
       "Jack Eichel",
-      "Cale Makar"
+      "Roman Josi"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
       "Colorado Avalanche",
-      "St. Louis Blues",
       "Florida Panthers",
-      "Edmonton Oilers",
+      "St. Louis Blues",
       "Boston Bruins",
       "Carolina Hurricanes",
+      "Edmonton Oilers",
+      "Minnesota Wild",
       "Dallas Stars",
-      "New York Rangers",
-      "Minnesota Wild"
+      "New York Rangers"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Macklin Celebrini",
       "Matthew Schaefer",
       "Lane Hutson",
+      "Jake Sanderson",
       "Owen Power",
-      "Cole Hutson",
-      "Ivan Demidov",
-      "Jackson LaCombe",
+      "Seth Jarvis",
       "Tim Stützle",
       "Leo Carlsson",
-      "Beckett Sennecke"
+      "Beckett Sennecke",
+      "Ivan Demidov"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -584,11 +594,11 @@ window.GLORY_DATA = {
       "Los Angeles Lakers",
       "Minnesota Timberwolves",
       "Boston Celtics",
-      "Indiana Pacers",
       "Denver Nuggets",
+      "Indiana Pacers",
+      "San Antonio Spurs",
       "Milwaukee Bucks",
       "Golden State Warriors",
-      "San Antonio Spurs",
       "New York Knicks"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
@@ -772,16 +782,16 @@ window.GLORY_DATA = {
       "Kyle Larson"
     ],
     "motogp:RIDERS": [
-      "Jorge Martín",
       "Marc Márquez",
+      "Jorge Martín",
       "Marco Bezzecchi",
-      "Ai Ogura",
       "Pedro Acosta",
+      "Ai Ogura",
       "Fabio Di Giannantonio",
+      "Augusto Fernández",
       "Raúl Fernández",
       "Álex Márquez",
-      "Francesco Bagnaia",
-      "Fermín Aldeguer"
+      "Francesco Bagnaia"
     ],
     "motogp:LEGENDS": [
       "Giacomo Agostini",
@@ -882,11 +892,11 @@ window.GLORY_DATA = {
     "cricket:ROAD_TO_GLORY.players": [
       "MA Starc",
       "JJ Bumrah",
-      "Taijul Islam",
       "JC Archer",
       "M Jansen",
       "JNT Seales",
-      "KA Maharaj",
+      "RA Jadeja",
+      "Taijul Islam",
       "PJ Cummins",
       "JC Tongue",
       "Nauman Ali"

@@ -1350,7 +1350,7 @@ window.MLB_DATA = {
       "last": "Devers",
       "pos": "1B",
       "teamCode": "SF",
-      "age": 29,
+      "age": 30,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33859.png",
       "colors": {
         "primary": "#fd5a1e",
@@ -1366,7 +1366,7 @@ window.MLB_DATA = {
         "sb": 0,
         "ops": 0.865
       },
-      "legendScore": 47.1,
+      "legendScore": 47.9,
       "currentScore": 74,
       "battingScore": 74,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-24 23:24 UTC",
+  "LAST_UPDATE": "2026-10-25 09:49 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

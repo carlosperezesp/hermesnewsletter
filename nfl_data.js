@@ -911,8 +911,8 @@ window.NFL_DATA = {
       "stats": {
         "type": "passing",
         "cmp": 135,
-        "att": 226,
-        "pct": 59.7,
+        "att": 225,
+        "pct": 60.0,
         "yds": 1684,
         "ypa": 7.5,
         "td": 11,
@@ -2080,7 +2080,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-24 23:24 UTC",
+  "LAST_UPDATE": "2026-10-25 09:49 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
