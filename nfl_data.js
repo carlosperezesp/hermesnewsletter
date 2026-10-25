@@ -118,6 +118,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "PIT",
+      "city": "Pittsburgh Steelers",
+      "shortName": "Pittsburgh",
+      "commonName": "Steelers",
+      "conf": "AFC",
+      "div": "AFC North",
+      "gp": 7,
+      "w": 5,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.714,
+      "pf": 153,
+      "pa": 138,
+      "pd": 15,
+      "seed": 3,
+      "score": 59,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+      "colors": {
+        "primary": "#101820",
+        "secondary": "#ffb612"
+      }
+    },
+    {
       "code": "JAX",
       "city": "Jacksonville Jaguars",
       "shortName": "Jacksonville",
@@ -132,7 +155,7 @@ window.NFL_DATA = {
       "pf": 154,
       "pa": 104,
       "pd": 50,
-      "seed": 3,
+      "seed": 4,
       "score": 60,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
       "colors": {
@@ -184,29 +207,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#002244",
         "secondary": "#c60c30"
-      }
-    },
-    {
-      "code": "PIT",
-      "city": "Pittsburgh Steelers",
-      "shortName": "Pittsburgh",
-      "commonName": "Steelers",
-      "conf": "AFC",
-      "div": "AFC North",
-      "gp": 6,
-      "w": 4,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.667,
-      "pf": 137,
-      "pa": 128,
-      "pd": 9,
-      "seed": 6,
-      "score": 55,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-      "colors": {
-        "primary": "#101820",
-        "secondary": "#ffb612"
       }
     },
     {
@@ -270,7 +270,7 @@ window.NFL_DATA = {
       "pf": 106,
       "pa": 122,
       "pd": -16,
-      "seed": 4,
+      "seed": 6,
       "score": 51,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
       "colors": {
@@ -454,7 +454,7 @@ window.NFL_DATA = {
       "pf": 135,
       "pa": 138,
       "pd": -3,
-      "seed": 14,
+      "seed": 13,
       "score": 26,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
       "colors": {
@@ -477,7 +477,7 @@ window.NFL_DATA = {
       "pf": 151,
       "pa": 159,
       "pd": -8,
-      "seed": 12,
+      "seed": 11,
       "score": 26,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
       "colors": {
@@ -555,29 +555,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "NO",
-      "city": "New Orleans Saints",
-      "shortName": "New Orleans",
-      "commonName": "Saints",
-      "conf": "NFC",
-      "div": "NFC South",
-      "gp": 6,
-      "w": 2,
-      "l": 4,
-      "t": 0,
-      "winPct": 0.333,
-      "pf": 152,
-      "pa": 178,
-      "pd": -26,
-      "seed": 10,
-      "score": 23,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
-      "colors": {
-        "primary": "#d3bc8d",
-        "secondary": "#101820"
-      }
-    },
-    {
       "code": "PHI",
       "city": "Philadelphia Eagles",
       "shortName": "Philadelphia",
@@ -592,12 +569,35 @@ window.NFL_DATA = {
       "pf": 106,
       "pa": 137,
       "pd": -31,
-      "seed": 11,
+      "seed": 10,
       "score": 23,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
       "colors": {
         "primary": "#004c54",
         "secondary": "#a5acaf"
+      }
+    },
+    {
+      "code": "NO",
+      "city": "New Orleans Saints",
+      "shortName": "New Orleans",
+      "commonName": "Saints",
+      "conf": "NFC",
+      "div": "NFC South",
+      "gp": 7,
+      "w": 2,
+      "l": 5,
+      "t": 0,
+      "winPct": 0.286,
+      "pf": 162,
+      "pa": 194,
+      "pd": -32,
+      "seed": 14,
+      "score": 19,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+      "colors": {
+        "primary": "#d3bc8d",
+        "secondary": "#101820"
       }
     },
     {
@@ -615,7 +615,7 @@ window.NFL_DATA = {
       "pf": 126,
       "pa": 178,
       "pd": -52,
-      "seed": 13,
+      "seed": 12,
       "score": 20,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
       "colors": {
@@ -2080,7 +2080,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-25 11:46 UTC",
+  "LAST_UPDATE": "2026-10-25 16:48 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

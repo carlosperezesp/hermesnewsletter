@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-25 11:48 UTC
+// Auto-generated 2026-10-25 16:51 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-25 11:48 UTC",
+  "UPDATED": "2026-10-25 16:51 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -167,9 +167,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Swiss Indoors Basel",
+        "tournament": "BNP Paribas Fortis European Open",
         "state": "alive",
-        "round": "R128",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 83.8
@@ -405,10 +405,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes · Erste Bank Open · Swiss Indoors Basel",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Erste Bank Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 76.6
     },
@@ -745,10 +745,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Swiss Indoors Basel",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes · Erste Bank Open · Swiss Indoors Basel",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 72.3
     },
@@ -949,10 +949,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes · Erste Bank Open · Swiss Indoors Basel",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Erste Bank Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 68.2
     },
@@ -1427,7 +1427,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Almaty Open",
+        "tournament": "Erste Bank Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -1631,10 +1631,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open · Almaty Open · Grand Prix Auvergne-Rhône-Alpes · Grand Prix Auvergne-Rhône-Alpes · Erste Bank Open · Swiss Indoors Basel",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Erste Bank Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 63.2
     },
@@ -3607,9 +3607,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Almaty Open",
+        "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 50.4
@@ -3917,8 +3917,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Grand Prix Auvergne-Rhône-Alpes",
-        "state": "out",
+        "tournament": "Erste Bank Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3951,7 +3951,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "BNP Paribas Fortis European Open",
+        "tournament": "Erste Bank Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7703,10 +7703,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Valle D'Aosta Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 55.6
     },
@@ -8077,10 +8077,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Valle D'Aosta Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 52.3
     },
@@ -8281,10 +8281,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Valle D'Aosta Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.4
     },
@@ -8559,10 +8559,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Valle D'Aosta Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 49.5
     },
@@ -9495,10 +9495,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Valle D'Aosta Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 40.3
     },
@@ -9567,10 +9567,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Valle D'Aosta Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 40.0
     },
@@ -9885,10 +9885,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Valle D'Aosta Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.5
     },
@@ -10205,10 +10205,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Valle D'Aosta Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -10996,9 +10996,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jan-Lennard Struff",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.5,
           "l_score": 52.9,
           "match_score": 61.5
@@ -11012,15 +11012,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Nikoloz Basilashvili",
+          "w": "Daniil Medvedev",
           "w_logo": "",
-          "l": "Daniil Medvedev",
+          "l": "Nikoloz Basilashvili",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (6-8) 6-1 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 47.4,
-          "l_score": 77.7,
+          "w_score": 77.7,
+          "l_score": 47.4,
           "match_score": 77.7
         }
       ]
@@ -11036,9 +11036,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Taylor Fritz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 76.8,
           "l_score": 73.6,
           "match_score": 76.8
@@ -11195,12 +11195,13 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Adrian Mannarino",
-      "Alejandro Davidovich Fokina",
       "Alejandro Tabilo",
       "Alex Michelsen",
+      "Alex de Minaur",
       "Alexander Bublik",
       "Alexander Zverev",
       "Andrey Rublev",
+      "Arthur Fery",
       "Arthur Fils",
       "Arthur Rinderknech",
       "Benjamin Bonzi",
@@ -11227,7 +11228,9 @@ window.TENNIS_DATA = {
       "Grigor Dimitrov",
       "Holger Rune",
       "Hubert Hurkacz",
+      "Ignacio Buse",
       "Jacob Fearnley",
+      "Jakub Mensik",
       "James Duckworth",
       "Jan-Lennard Struff",
       "Jaume Munar",
@@ -11240,6 +11243,7 @@ window.TENNIS_DATA = {
       "Lorenzo Musetti",
       "Luca Van Assche",
       "Luciano Darderi",
+      "Lukas Neumayer",
       "Mariano Navone",
       "Martin Damm",
       "Martin Landaluce",
@@ -11271,7 +11275,6 @@ window.TENNIS_DATA = {
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Andrea Guerrieri",
-      "Arthur Fery",
       "Clement Tabur",
       "Dino Prizmic",
       "Federico Cina",
@@ -11299,8 +11302,8 @@ window.TENNIS_DATA = {
       "Yannick Hanfmann",
       "Zangar Nurlanuly"
     ],
-    "aliveCount": 72,
-    "matchesSeen": 104
+    "aliveCount": 76,
+    "matchesSeen": 107
   },
   "WTA_TOURNAMENT": {
     "name": "Kinoshita Group Japan Open · BNB Ningbo Open · Río Ladies Open by MundoTênis Tours · Guangzhou Open · Toray Pan Pacific Open Tennis · Queretaro Open · Curitiba Open · Valle D'Aosta Ladies Open",
@@ -11355,14 +11358,20 @@ window.TENNIS_DATA = {
       "Aliaksandra Sasnovich",
       "Alycia Parks",
       "Anastasia Zakharova",
+      "Anastasiia Sobolieva",
       "Ann Li",
+      "Anna Blinkova",
       "Anna Bondar",
       "Antonia Ruzic",
       "Ashlyn Krueger",
+      "Ayla Aksu",
       "Belinda Bencic",
       "Carol Young Suh Lee",
+      "Caroline Werner",
       "Claire Liu",
       "Cristina Bucsa",
+      "Dalma Galfi",
+      "Danka Kovinic",
       "Daria Kasatkina",
       "Daria Snigur",
       "Dayana Yastremska",
@@ -11371,36 +11380,52 @@ window.TENNIS_DATA = {
       "Ekaterina Alexandrova",
       "Elena Rybakina",
       "Elise Mertens",
+      "Elizara Yaneva",
+      "Elsa Jacquemot",
+      "Gabriela Knutson",
       "Harriet Dart",
       "Himeno Sakatsume",
+      "Isabella Maria Serban",
       "Iva Jovic",
       "Janice Tjen",
       "Jasmine Paolini",
+      "Jessica Pieri",
       "Jil Teichmann",
       "Kaitlin Quevedo",
+      "Katarina Zavatska",
       "Katarzyna Kawa",
       "Katerina Siniakova",
       "Katie Boulter",
       "Katie Volynets",
       "Kayla Day",
       "Lanlana Tararudee",
+      "Laura Mair",
       "Leylah Fernandez",
       "Lilli Tagger",
+      "Lisa Pigato",
+      "Lisa Zaar",
+      "Lucrezia Stefanini",
       "Magda Linette",
       "Mananchaya Sawangkaew",
       "Maria Sakkari",
       "Maria Timofeeva",
       "Marie Bouzkova",
+      "Marina Bassols Ribera",
+      "Martyna Kubka",
       "Mary Stoiana",
       "Maya Joint",
       "Mia Pohankova",
+      "Mia Ristic",
       "Mika Stojsavljevic",
       "Moyuka Uchijima",
       "Naomi Osaka",
       "Nikola Bartunkova",
+      "Noma Noha Akugue",
       "Panna Udvardy",
       "Paula Badosa",
       "Polina Kudermetova",
+      "Robin Montgomery",
+      "Rositsa Dencheva",
       "Sara Bejlek",
       "Sara Sorribes Tormo",
       "Shi Han",
@@ -11408,11 +11433,13 @@ window.TENNIS_DATA = {
       "Sinja Kraus",
       "Sofia Kenin",
       "Sorana Cirstea",
+      "Susan Bandecchi",
       "Talia Gibson",
       "Tatiana Prozorova",
       "Teodora Kostovic",
       "Tereza Valentova",
       "Venus Williams",
+      "Victoria Jimenez Kasintseva",
       "Viktorija Golubic",
       "Wang Xinyu",
       "Xinran Sun",
@@ -11434,8 +11461,8 @@ window.TENNIS_DATA = {
       "Peyton Stearns",
       "Zhang Shuai"
     ],
-    "aliveCount": 68,
-    "matchesSeen": 86
+    "aliveCount": 92,
+    "matchesSeen": 98
   },
   "ATP_SCORE_LOG": {
     "206173": [
