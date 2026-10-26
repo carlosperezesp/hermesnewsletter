@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-25 23:23 UTC",
+  "UPDATED": "2026-10-26 11:10 UTC",
   "EVENTS": [
     {
       "id": "f1:win:MSC Cruises United States Grand Prix:Charles Leclerc",
@@ -19,20 +19,22 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Ryan Blaney ganó en Echopark Speedway",
-      "weight": 100,
-      "firstSeen": "2026-10-11"
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Matthew Schaefer",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Matthew Schaefer es nuevo nº1 · jóvenes promesas",
+      "weight": 92,
+      "firstSeen": "2026-10-26"
     },
     {
-      "id": "motogp:win:Indonesian motorcycle Grand Prix:Marc Márquez",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Marc Márquez ganó el Indonesian motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-10-11"
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:C.J. Stroud",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "C.J. Stroud es nuevo nº1 · jóvenes promesas",
+      "weight": 92,
+      "firstSeen": "2026-10-26"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:new1:Nikita Kucherov",
@@ -51,15 +53,6 @@ window.GLORY_DATA = {
       "text": "Marc Márquez es nuevo nº1 · Mundial",
       "weight": 92,
       "firstSeen": "2026-10-25"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:Drake Maye",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-jovenes-promesas",
-      "text": "Drake Maye es nuevo nº1 · jóvenes promesas",
-      "weight": 92,
-      "firstSeen": "2026-10-23"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Oklahoma City Thunder",
@@ -359,15 +352,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matthew Schaefer",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Matthew Schaefer entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-11"
-    },
-    {
       "id": "tennis:out:ATP:Novak Djokovic:20261015",
       "sport": "tennis",
       "detail": "Tenis",
@@ -532,8 +516,8 @@ window.GLORY_DATA = {
       "Auston Matthews",
       "Mikko Rantanen",
       "Erik Karlsson",
-      "Jack Eichel",
-      "Roman Josi"
+      "Roman Josi",
+      "Jack Eichel"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -548,8 +532,8 @@ window.GLORY_DATA = {
       "New York Rangers"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
-      "Macklin Celebrini",
       "Matthew Schaefer",
+      "Macklin Celebrini",
       "Lane Hutson",
       "Jake Sanderson",
       "Owen Power",
@@ -575,9 +559,9 @@ window.GLORY_DATA = {
       "Oklahoma City Thunder",
       "Los Angeles Lakers",
       "Minnesota Timberwolves",
+      "Indiana Pacers",
       "Boston Celtics",
       "Denver Nuggets",
-      "Indiana Pacers",
       "San Antonio Spurs",
       "Milwaukee Bucks",
       "Golden State Warriors",
@@ -635,21 +619,21 @@ window.GLORY_DATA = {
       "Matthew Stafford",
       "Jared Goff",
       "Kirk Cousins",
-      "Brock Purdy",
-      "Dak Prescott",
-      "Trevor Lawrence",
-      "Geno Smith",
       "Joe Burrow",
+      "Geno Smith",
+      "Brock Purdy",
       "Jordan Love",
-      "C.J. Stroud"
+      "Dak Prescott",
+      "C.J. Stroud",
+      "Trevor Lawrence"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
-      "Drake Maye",
       "C.J. Stroud",
+      "Drake Maye",
       "Bryce Young",
       "Caleb Williams",
-      "Jayden Daniels",
-      "Cam Ward"
+      "Cam Ward",
+      "Jayden Daniels"
     ],
     "tennis:ATP": [
       "Jannik Sinner",
@@ -668,8 +652,8 @@ window.GLORY_DATA = {
       "Elena Rybakina",
       "Mirra Andreeva",
       "Coco Gauff",
-      "Elina Svitolina",
       "Iga Swiatek",
+      "Elina Svitolina",
       "Marta Kostyuk",
       "Jessica Pegula",
       "Karolina Muchova",
