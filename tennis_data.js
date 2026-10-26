@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-26 19:33 UTC
+// Auto-generated 2026-10-26 23:55 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-26 19:33 UTC",
+  "UPDATED": "2026-10-26 23:55 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -237,7 +237,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 78.8
@@ -441,7 +441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 75.3
@@ -645,7 +645,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 73.2
@@ -1324,9 +1324,9 @@ window.TENNIS_DATA = {
       "prevListRank": 39,
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 62.7
     },
@@ -1837,7 +1837,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 59.0
@@ -9292,9 +9292,9 @@ window.TENNIS_DATA = {
       "prevListRank": 121,
       "tournamentStatus": {
         "tournament": "Curitiba Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 42.8
     },
@@ -10964,7 +10964,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Luca Van Assche",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 73.2,
@@ -11036,9 +11036,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Dominic Stricker",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 7-5 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 78.6,
           "l_score": null,
           "match_score": 78.6
@@ -11305,15 +11305,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Lucia Bronzetti",
+          "w": "Luisina Giovannini",
           "w_logo": "",
-          "l": "Luisina Giovannini",
+          "l": "Lucia Bronzetti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (8-6) 1-6 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.8,
           "match_score": 42.8
         },
         {
@@ -11348,9 +11348,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nauhany Vitoria Leme Da Silva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11403,32 +11403,6 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Elizara Yaneva",
-          "w_logo": "",
-          "l": "Jessica Pieri",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 40.2,
-          "l_score": null,
-          "match_score": 40.2
-        },
-        {
-          "round": "R128",
-          "w": "Noma Noha Akugue",
-          "w_logo": "",
-          "l": "Danka Kovinic",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 35.0,
-          "l_score": null,
-          "match_score": 35.0
-        },
-        {
-          "round": "R128",
           "w": "Ayla Aksu",
           "w_logo": "",
           "l": "Lisa Zaar",
@@ -11446,7 +11420,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Rositsa Dencheva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 3-6 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11507,7 +11481,6 @@ window.TENNIS_DATA = {
       "Daniel Merida",
       "Daniil Medvedev",
       "Denis Shapovalov",
-      "Dominic Stricker",
       "Flavio Cobolli",
       "Frances Tiafoe",
       "Francisco Cerundolo",
@@ -11524,7 +11497,6 @@ window.TENNIS_DATA = {
       "Karen Khachanov",
       "Learner Tien",
       "Lorenzo Musetti",
-      "Luca Van Assche",
       "Luciano Darderi",
       "Martin Landaluce",
       "Matteo Berrettini",
@@ -11544,8 +11516,10 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "out": [
+      "Dominic Stricker",
       "Jacob Fearnley",
       "Juan Manuel Cerundolo",
+      "Luca Van Assche",
       "Lukas Neumayer",
       "Mariano Navone",
       "Matteo Arnaldi",
@@ -11554,8 +11528,8 @@ window.TENNIS_DATA = {
       "Tomas Machac",
       "Tomas Martin Etcheverry"
     ],
-    "aliveCount": 55,
-    "matchesSeen": 32
+    "aliveCount": 53,
+    "matchesSeen": 34
   },
   "WTA_TOURNAMENT": {
     "name": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open",
@@ -11664,7 +11638,6 @@ window.TENNIS_DATA = {
       "Linda Klimovicova",
       "Lisa Pigato",
       "Lourdes Ayala",
-      "Lucia Bronzetti",
       "Lucrezia Stefanini",
       "Luisina Giovannini",
       "Luna Maria Cinalli",
@@ -11695,7 +11668,6 @@ window.TENNIS_DATA = {
       "Rebeca Pereira",
       "Rebeka Masarova",
       "Robin Montgomery",
-      "Rositsa Dencheva",
       "Sara Sorribes Tormo",
       "Selena Janicijevic",
       "Shi Han",
@@ -11729,16 +11701,18 @@ window.TENNIS_DATA = {
       "Julia Konishi Camargo Silva",
       "Laura Samson",
       "Lisa Zaar",
+      "Lucia Bronzetti",
       "Luiza Fullana",
       "Mika Stojsavljevic",
       "Moyuka Uchijima",
       "Panna Udvardy",
+      "Rositsa Dencheva",
       "Tatiana Prozorova",
       "Teodora Kostovic",
       "Victoria Bosio",
       "Wang Xinyu"
     ],
-    "aliveCount": 128,
+    "aliveCount": 126,
     "matchesSeen": 77
   },
   "ATP_SCORE_LOG": {

@@ -1591,7 +1591,7 @@ window.MLB_DATA = {
       "last": "Messick",
       "pos": "SP",
       "teamCode": "CLE",
-      "age": 25,
+      "age": 26,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png",
       "colors": {
         "primary": "#e31937",
@@ -1607,7 +1607,7 @@ window.MLB_DATA = {
         "so": 193,
         "whip": 1.06
       },
-      "legendScore": 42.1,
+      "legendScore": 42.9,
       "currentScore": 71,
       "battingScore": null,
       "pitchingScore": 71,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-26 19:31 UTC",
+  "LAST_UPDATE": "2026-10-26 23:53 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
