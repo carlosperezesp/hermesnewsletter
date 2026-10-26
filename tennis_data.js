@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-26 11:10 UTC
+// Auto-generated 2026-10-26 13:22 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-26 11:10 UTC",
+  "UPDATED": "2026-10-26 13:22 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10178,9 +10178,9 @@ window.TENNIS_DATA = {
       "prevListRank": 146,
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 35.0
     },
@@ -10973,15 +10973,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Matteo Berrettini",
+          "w": "Tomas Martin Etcheverry",
           "w_logo": "",
-          "l": "Tomas Martin Etcheverry",
+          "l": "Matteo Berrettini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 64.7,
-          "l_score": 63.0,
+          "scheduled": false,
+          "w_score": 63.0,
+          "l_score": 64.7,
           "match_score": 64.7
         },
         {
@@ -11045,15 +11045,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Valentin Vacherot",
+          "w": "Mariano Navone",
           "w_logo": "",
-          "l": "Mariano Navone",
+          "l": "Valentin Vacherot",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 71.8,
-          "l_score": 62.3,
+          "scheduled": false,
+          "w_score": 62.3,
+          "l_score": 71.8,
           "match_score": 71.8
         },
         {
@@ -11062,9 +11062,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mika Brunold",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 59.0,
           "l_score": null,
           "match_score": 59.0
@@ -11200,11 +11200,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Tatiana Prozorova",
+          "w": "Harriet Dart",
           "w_logo": "",
-          "l": "Harriet Dart",
+          "l": "Tatiana Prozorova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 2-6 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 35.0,
@@ -11706,7 +11706,6 @@ window.TENNIS_DATA = {
       "Susan Bandecchi",
       "Talia Gibson",
       "Tamara Zidansek",
-      "Tatiana Prozorova",
       "Tatjana Maria",
       "Tereza Valentova",
       "Venus Williams",
@@ -11726,10 +11725,11 @@ window.TENNIS_DATA = {
       "Mika Stojsavljevic",
       "Moyuka Uchijima",
       "Panna Udvardy",
+      "Tatiana Prozorova",
       "Teodora Kostovic",
       "Wang Xinyu"
     ],
-    "aliveCount": 128,
+    "aliveCount": 127,
     "matchesSeen": 71
   },
   "ATP_SCORE_LOG": {

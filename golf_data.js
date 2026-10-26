@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-26 11:08 UTC
+// Auto-generated 2026-10-26 13:20 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-10-26 11:08 UTC",
+  "UPDATED": "2026-10-26 13:20 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -122,7 +122,7 @@ window.GOLF_DATA = {
       "country": "New Zealand",
       "score": "-10",
       "today": "-2",
-      "nivel": 75,
+      "nivel": 76,
       "legend": 5.7
     },
     "podium": [
@@ -133,7 +133,7 @@ window.GOLF_DATA = {
         "country": "New Zealand",
         "score": "-10",
         "today": "-2",
-        "nivel": 75,
+        "nivel": 76,
         "legend": 5.7
       },
       {
@@ -502,7 +502,7 @@ window.GOLF_DATA = {
         "primary": "#003478",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 76,
+      "activeScore": 77,
       "age": 24,
       "note": "Top del circuito a los 24"
     },
@@ -518,7 +518,7 @@ window.GOLF_DATA = {
         "primary": "#C60C30",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 71,
+      "activeScore": 72,
       "age": 25,
       "note": "Top del circuito a los 25"
     },
@@ -1088,7 +1088,7 @@ window.GOLF_DATA = {
         "primary": "#00247D",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 75,
+      "activeScore": 76,
       "legendScore": 5.7,
       "stats": {
         "majors": 1,

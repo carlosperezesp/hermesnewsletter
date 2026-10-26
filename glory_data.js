@@ -1,7 +1,23 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-26 11:10 UTC",
+  "UPDATED": "2026-10-26 13:22 UTC",
   "EVENTS": [
+    {
+      "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "text": "Ryan Blaney ganó en Echopark Speedway",
+      "weight": 100,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "motogp:win:Indonesian motorcycle Grand Prix:Marc Márquez",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Marc Márquez ganó el Indonesian motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-10-26"
+    },
     {
       "id": "f1:win:MSC Cruises United States Grand Prix:Charles Leclerc",
       "sport": "f1",

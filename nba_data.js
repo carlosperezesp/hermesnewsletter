@@ -1006,7 +1006,7 @@ window.NBA_DATA = {
           "primary": "#002d62",
           "secondary": "#fdbb30"
         },
-        "prevRank": 6
+        "prevRank": 4
       },
       {
         "teamCode": "BOS",
@@ -1022,7 +1022,7 @@ window.NBA_DATA = {
           "primary": "#007a33",
           "secondary": "#ba9653"
         },
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "teamCode": "DEN",
@@ -1038,7 +1038,7 @@ window.NBA_DATA = {
           "primary": "#0e2240",
           "secondary": "#fec524"
         },
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "teamCode": "SA",
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-26 11:07 UTC",
+  "LAST_UPDATE": "2026-10-26 13:19 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

@@ -764,7 +764,7 @@ window.NFL_DATA = {
         "rushYds": 15,
         "rushTd": 0
       },
-      "prevRank": 2
+      "prevRank": 1
     },
     {
       "id": 14880,
@@ -790,7 +790,7 @@ window.NFL_DATA = {
         "rushYds": 4,
         "rushTd": 0
       },
-      "prevRank": 3
+      "prevRank": 2
     },
     {
       "id": 3915511,
@@ -816,7 +816,7 @@ window.NFL_DATA = {
         "rushYds": 60,
         "rushTd": 0
       },
-      "prevRank": 10
+      "prevRank": 3
     },
     {
       "id": 4361741,
@@ -842,7 +842,7 @@ window.NFL_DATA = {
         "rushYds": 161,
         "rushTd": 1
       },
-      "prevRank": 1
+      "prevRank": 4
     },
     {
       "id": 4432577,
@@ -894,7 +894,7 @@ window.NFL_DATA = {
         "rushYds": 18,
         "rushTd": 0
       },
-      "prevRank": 9
+      "prevRank": 6
     },
     {
       "id": 4036378,
@@ -946,7 +946,7 @@ window.NFL_DATA = {
         "rushYds": 23,
         "rushTd": 0
       },
-      "prevRank": 11
+      "prevRank": 8
     },
     {
       "id": 4360310,
@@ -972,7 +972,7 @@ window.NFL_DATA = {
         "rushYds": 70,
         "rushTd": 0
       },
-      "prevRank": 4
+      "prevRank": 9
     },
     {
       "id": 4685720,
@@ -998,7 +998,7 @@ window.NFL_DATA = {
         "rushYds": 34,
         "rushTd": 0
       },
-      "prevRank": 6
+      "prevRank": 10
     },
     {
       "id": 4360689,
@@ -1857,7 +1857,7 @@ window.NFL_DATA = {
         "gap": 16.2,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 8
+        "prevRank": 4
       },
       {
         "id": 15864,
@@ -1874,7 +1874,7 @@ window.NFL_DATA = {
         "gap": 17.4,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 7
+        "prevRank": 5
       },
       {
         "id": 4361741,
@@ -1891,7 +1891,7 @@ window.NFL_DATA = {
         "gap": 20.5,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 4
+        "prevRank": 6
       },
       {
         "id": 4036378,
@@ -1908,7 +1908,7 @@ window.NFL_DATA = {
         "gap": 22.0,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 9
+        "prevRank": 7
       },
       {
         "id": 2577417,
@@ -1925,7 +1925,7 @@ window.NFL_DATA = {
         "gap": 22.7,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 5
+        "prevRank": 8
       },
       {
         "id": 4432577,
@@ -1942,7 +1942,7 @@ window.NFL_DATA = {
         "gap": 23.1,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 4360310,
@@ -1959,7 +1959,7 @@ window.NFL_DATA = {
         "gap": 24.7,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 6
+        "prevRank": 10
       }
     ],
     "youngProspects": [
@@ -1978,7 +1978,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 8.9,
         "note": "De los mejores de su generación",
-        "prevRank": 2
+        "prevRank": 1
       },
       {
         "id": 4431452,
@@ -1995,7 +1995,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 12.6,
         "note": "Inicio elite — techo altísimo",
-        "prevRank": 1
+        "prevRank": 2
       },
       {
         "id": 4685720,
@@ -2046,7 +2046,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 30.5,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 6
+        "prevRank": 5
       },
       {
         "id": 4426348,
@@ -2063,7 +2063,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 30.8,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 5
+        "prevRank": 6
       }
     ]
   },
@@ -2080,7 +2080,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-26 11:07 UTC",
+  "LAST_UPDATE": "2026-10-26 13:19 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
