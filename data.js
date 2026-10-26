@@ -1004,7 +1004,7 @@ window.NHL_DATA = {
         "a": 4,
         "p": 5,
         "pm": -2,
-        "toi": 19.1,
+        "toi": 19.3,
         "shots": 8
       },
       "trajectory": [
@@ -3950,7 +3950,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 1,
         "w": 1,
-        "svpct": 0.857,
+        "svpct": 0.862,
         "gaa": 4.03,
         "so": 0
       },
@@ -5036,9 +5036,9 @@ window.NHL_DATA = {
       "name": "Spencer Martin",
       "pos": "G",
       "teamCode": "NYR",
-      "age": 31,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -5766,7 +5766,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 9,
         "w": 3,
-        "svpct": 0.89,
+        "svpct": 0.891,
         "gaa": 3.48,
         "so": 0
       },
@@ -6364,7 +6364,7 @@ window.NHL_DATA = {
         "p": 9,
         "pm": 0,
         "toi": 20.6,
-        "shots": 34
+        "shots": 35
       },
       "trajectory": [
         39,
@@ -6530,8 +6530,8 @@ window.NHL_DATA = {
         "a": 8,
         "p": 11,
         "pm": 0,
-        "toi": 20.8,
-        "shots": 23
+        "toi": 20.9,
+        "shots": 24
       },
       "trajectory": [
         39,
@@ -7191,7 +7191,7 @@ window.NHL_DATA = {
         "p": 9,
         "pm": 5,
         "toi": 18.1,
-        "shots": 21
+        "shots": 22
       },
       "trajectory": [
         39,
@@ -9453,7 +9453,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 2,
         "pm": 4,
-        "toi": 18.7,
+        "toi": 18.8,
         "shots": 3
       },
       "trajectory": [
@@ -9486,7 +9486,7 @@ window.NHL_DATA = {
         "a": 6,
         "p": 8,
         "pm": 5,
-        "toi": 17.2,
+        "toi": 17.1,
         "shots": 17
       },
       "trajectory": [
@@ -10048,7 +10048,7 @@ window.NHL_DATA = {
         "a": 5,
         "p": 7,
         "pm": -2,
-        "toi": 19.6,
+        "toi": 19.7,
         "shots": 22
       },
       "trajectory": [
@@ -10483,7 +10483,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 3,
         "pm": 2,
-        "toi": 21.4,
+        "toi": 21.5,
         "shots": 14
       },
       "trajectory": [
@@ -10683,7 +10683,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 4,
         "pm": 0,
-        "toi": 20.1,
+        "toi": 20.2,
         "shots": 11
       },
       "trajectory": [
@@ -10914,7 +10914,7 @@ window.NHL_DATA = {
         "a": 4,
         "p": 8,
         "pm": -4,
-        "toi": 16.1,
+        "toi": 16.0,
         "shots": 29
       },
       "trajectory": [
@@ -12977,7 +12977,7 @@ window.NHL_DATA = {
         "a": 1,
         "p": 2,
         "pm": 6,
-        "toi": 21.0,
+        "toi": 20.9,
         "shots": 16
       },
       "trajectory": [
@@ -14485,9 +14485,9 @@ window.NHL_DATA = {
       "name": "Alexander Holtz",
       "pos": "RW",
       "teamCode": "VGK",
-      "age": 24,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -15127,7 +15127,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 2,
         "pm": 3,
-        "toi": 20.6,
+        "toi": 20.7,
         "shots": 9
       },
       "trajectory": [
@@ -16052,7 +16052,7 @@ window.NHL_DATA = {
         "a": 4,
         "p": 5,
         "pm": 1,
-        "toi": 13.6,
+        "toi": 13.5,
         "shots": 25
       },
       "trajectory": [
@@ -16943,7 +16943,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 2,
         "pm": -1,
-        "toi": 17.4,
+        "toi": 17.2,
         "shots": 20
       },
       "trajectory": [
@@ -18956,7 +18956,7 @@ window.NHL_DATA = {
         "a": 4,
         "p": 4,
         "pm": 0,
-        "toi": 15.1,
+        "toi": 15.0,
         "shots": 11
       },
       "trajectory": [
@@ -23048,7 +23048,7 @@ window.NHL_DATA = {
         "a": 0,
         "p": 0,
         "pm": -3,
-        "toi": 14.7,
+        "toi": 14.6,
         "shots": 5
       },
       "trajectory": [
@@ -26828,9 +26828,9 @@ window.NHL_DATA = {
       "name": "Taylor Makar",
       "pos": "LW",
       "teamCode": "COL",
-      "age": 25,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#6f263d",
         "secondary": "#236192"
@@ -37690,10 +37690,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-26 13:19 UTC",
+  "LAST_UPDATE": "2026-10-26 18:51 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-26T13:18:30Z"
+    "standingsDateTimeUtc": "2026-10-26T18:50:30Z"
   }
 };
