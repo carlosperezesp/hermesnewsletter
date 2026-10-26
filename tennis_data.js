@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-26 18:54 UTC
+// Auto-generated 2026-10-26 19:33 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-26 18:54 UTC",
+  "UPDATED": "2026-10-26 19:33 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1394,9 +1394,9 @@ window.TENNIS_DATA = {
       "prevListRank": 41,
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 62.8
     },
@@ -8773,10 +8773,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Valle D'Aosta Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 47.2
     },
@@ -9679,10 +9679,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Valle D'Aosta Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 40.1
     },
@@ -10964,9 +10964,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Luca Van Assche",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 73.2,
           "l_score": 62.9,
           "match_score": 73.2
@@ -10986,15 +10986,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Matteo Arnaldi",
+          "w": "Luciano Darderi",
           "w_logo": "",
-          "l": "Luciano Darderi",
+          "l": "Matteo Arnaldi",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 62.8,
-          "l_score": 63.4,
+          "w_score": 63.4,
+          "l_score": 62.8,
           "match_score": 63.4
         },
         {
@@ -11387,7 +11387,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Luiza Fullana",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (8-6)",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11527,7 +11527,6 @@ window.TENNIS_DATA = {
       "Luca Van Assche",
       "Luciano Darderi",
       "Martin Landaluce",
-      "Matteo Arnaldi",
       "Matteo Berrettini",
       "Nikoloz Basilashvili",
       "Novak Djokovic",
@@ -11549,12 +11548,13 @@ window.TENNIS_DATA = {
       "Juan Manuel Cerundolo",
       "Lukas Neumayer",
       "Mariano Navone",
+      "Matteo Arnaldi",
       "Mika Brunold",
       "Quentin Halys",
       "Tomas Machac",
       "Tomas Martin Etcheverry"
     ],
-    "aliveCount": 56,
+    "aliveCount": 55,
     "matchesSeen": 32
   },
   "WTA_TOURNAMENT": {
@@ -11591,10 +11591,12 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Adriana Reami",
+      "Adrienn Nagy",
       "Alexandra Eala",
       "Aliaksandra Sasnovich",
       "Alice Rame",
       "Alice Tubello",
+      "Alina Charaeva",
       "Alycia Parks",
       "Ana Candiotto",
       "Ana Grubor",
@@ -11626,10 +11628,13 @@ window.TENNIS_DATA = {
       "Elizara Yaneva",
       "Elsa Jacquemot",
       "Emiliana Arango",
+      "Enola Chiesa",
+      "Erika Andreeva",
       "Fiona Ferro",
       "Francesca Jones",
       "Gabriela Ce",
       "Gabriela Knutson",
+      "Gaia Maduzzi",
       "Harriet Dart",
       "Himeno Sakatsume",
       "Isabella Maria Serban",
@@ -11656,12 +11661,12 @@ window.TENNIS_DATA = {
       "Leylah Fernandez",
       "Leyre Romero Gormaz",
       "Lilli Tagger",
+      "Linda Klimovicova",
       "Lisa Pigato",
       "Lourdes Ayala",
       "Lucia Bronzetti",
       "Lucrezia Stefanini",
       "Luisina Giovannini",
-      "Luiza Fullana",
       "Luna Maria Cinalli",
       "Magda Linette",
       "Mananchaya Sawangkaew",
@@ -11683,6 +11688,7 @@ window.TENNIS_DATA = {
       "Nauhany Vitoria Leme Da Silva",
       "Nikola Bartunkova",
       "Noma Noha Akugue",
+      "Oksana Selekhmeteva",
       "Paula Badosa",
       "Polina Kudermetova",
       "Polona Hercog",
@@ -11708,6 +11714,7 @@ window.TENNIS_DATA = {
       "Victoria Jimenez Kasintseva",
       "Xinran Sun",
       "Yasmine Kabbaj",
+      "Yelyzaveta Kotliar",
       "Yulia Putintseva",
       "Zeynep Sonmez",
       "Zuzanna Pawlikowska"
@@ -11722,6 +11729,7 @@ window.TENNIS_DATA = {
       "Julia Konishi Camargo Silva",
       "Laura Samson",
       "Lisa Zaar",
+      "Luiza Fullana",
       "Mika Stojsavljevic",
       "Moyuka Uchijima",
       "Panna Udvardy",
@@ -11730,8 +11738,8 @@ window.TENNIS_DATA = {
       "Victoria Bosio",
       "Wang Xinyu"
     ],
-    "aliveCount": 121,
-    "matchesSeen": 72
+    "aliveCount": 128,
+    "matchesSeen": 77
   },
   "ATP_SCORE_LOG": {
     "206173": [
