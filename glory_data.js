@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-26 23:55 UTC",
+  "UPDATED": "2026-10-27 00:38 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -116,6 +116,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:Mohammed Siraj",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "Mohammed Siraj entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:KA Maharaj",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "KA Maharaj entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-27"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Roman Josi",
       "sport": "nhl",
       "detail": "NHL",
@@ -139,15 +157,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Seth Jarvis entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-25"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:RA Jadeja",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "RA Jadeja entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-25"
     },
@@ -332,42 +341,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-14"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Owen Power",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Owen Power entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Jordan Love",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Jordan Love entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Trevor Lawrence",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Trevor Lawrence entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:in:Jayden Daniels",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-jovenes-promesas",
-      "text": "Jayden Daniels entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "tennis:out:ATP:Novak Djokovic:20261015",
       "sport": "tennis",
       "detail": "Tenis",
@@ -377,13 +350,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:out:KA Maharaj",
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:Nauman Ali",
       "sport": "cricket",
       "detail": "Cricket",
       "anchor": "cricket-road-to-glory",
-      "text": "KA Maharaj cae del top-10 · Road to Glory",
+      "text": "Nauman Ali cae del top-10 · Road to Glory",
       "weight": 74,
-      "firstSeen": "2026-10-25"
+      "firstSeen": "2026-10-27"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Vasily Podkolzin",
@@ -492,15 +465,6 @@ window.GLORY_DATA = {
       "text": "Jalen Green cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-10-17"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:out:BA Carse",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "BA Carse cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-10-12"
     }
   ],
   "REPORTS": [],
@@ -877,11 +841,11 @@ window.GLORY_DATA = {
       "M Jansen",
       "JC Archer",
       "JNT Seales",
-      "RA Jadeja",
+      "Mohammed Siraj",
       "Taijul Islam",
       "JC Tongue",
       "PJ Cummins",
-      "Nauman Ali"
+      "KA Maharaj"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",

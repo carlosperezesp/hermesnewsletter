@@ -785,7 +785,7 @@ window.NHL_DATA = {
       "name": "Leon Draisaitl",
       "pos": "C",
       "teamCode": "EDM",
-      "age": 30,
+      "age": 31,
       "country": "Germany",
       "birthCountry": "DEU",
       "colors": {
@@ -9936,7 +9936,7 @@ window.NHL_DATA = {
       "name": "Rasmus Andersson",
       "pos": "D",
       "teamCode": "VGK",
-      "age": 29,
+      "age": 30,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -12664,7 +12664,7 @@ window.NHL_DATA = {
       "name": "Rasmus Ristolainen",
       "pos": "D",
       "teamCode": "PHI",
-      "age": 31,
+      "age": 32,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -23363,7 +23363,7 @@ window.NHL_DATA = {
       "name": "Dawson Mercer",
       "pos": "C",
       "teamCode": "WPG",
-      "age": 24,
+      "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -37176,7 +37176,7 @@ window.NHL_DATA = {
           "primary": "#041e42",
           "secondary": "#ff4c00"
         },
-        "age": 30,
+        "age": 31,
         "careerScore": 64.5,
         "threshold": 93.1,
         "gap": 28.6,
@@ -37690,10 +37690,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-26 23:53 UTC",
+  "LAST_UPDATE": "2026-10-27 00:35 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-26T23:53:00Z"
+    "standingsDateTimeUtc": "2026-10-27T00:34:45Z"
   }
 };
