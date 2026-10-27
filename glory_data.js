@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-27 00:38 UTC",
+  "UPDATED": "2026-10-27 10:36 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -114,6 +114,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jackson LaCombe",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Jackson LaCombe entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-27"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:Mohammed Siraj",
@@ -350,6 +359,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Ivan Demidov",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Ivan Demidov cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-27"
+    },
+    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Nauman Ali",
       "sport": "cricket",
       "detail": "Cricket",
@@ -496,8 +514,8 @@ window.GLORY_DATA = {
       "Auston Matthews",
       "Mikko Rantanen",
       "Erik Karlsson",
-      "Roman Josi",
-      "Jack Eichel"
+      "Jack Eichel",
+      "Roman Josi"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -514,14 +532,14 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
       "Macklin Celebrini",
-      "Lane Hutson",
       "Jake Sanderson",
+      "Lane Hutson",
       "Owen Power",
+      "Leo Carlsson",
+      "Jackson LaCombe",
       "Seth Jarvis",
       "Tim Stützle",
-      "Leo Carlsson",
-      "Beckett Sennecke",
-      "Ivan Demidov"
+      "Beckett Sennecke"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -538,13 +556,13 @@ window.GLORY_DATA = {
     "nba:ROAD_TO_GLORY.teams": [
       "Oklahoma City Thunder",
       "Los Angeles Lakers",
+      "Boston Celtics",
       "Minnesota Timberwolves",
       "Indiana Pacers",
-      "Boston Celtics",
-      "Denver Nuggets",
-      "San Antonio Spurs",
-      "Milwaukee Bucks",
       "Golden State Warriors",
+      "Denver Nuggets",
+      "Milwaukee Bucks",
+      "San Antonio Spurs",
       "New York Knicks"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
@@ -599,11 +617,11 @@ window.GLORY_DATA = {
       "Matthew Stafford",
       "Jared Goff",
       "Kirk Cousins",
+      "Dak Prescott",
       "Joe Burrow",
       "Geno Smith",
       "Brock Purdy",
       "Jordan Love",
-      "Dak Prescott",
       "C.J. Stroud",
       "Trevor Lawrence"
     ],

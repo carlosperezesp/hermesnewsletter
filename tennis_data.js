@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-27 00:38 UTC
+// Auto-generated 2026-10-27 10:36 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-27 00:38 UTC",
+  "UPDATED": "2026-10-27 10:36 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5221,10 +5221,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Toray Pan Pacific Open Tennis",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 93.3
     },
@@ -5494,9 +5494,9 @@ window.TENNIS_DATA = {
       "prevListRank": 10,
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 85.5
     },
@@ -5733,7 +5733,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 79.0
@@ -5801,7 +5801,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 77.3
@@ -5901,10 +5901,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Toray Pan Pacific Open Tennis",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.9
     },
@@ -6072,9 +6072,9 @@ window.TENNIS_DATA = {
       "prevListRank": 27,
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 71.1
     },
@@ -6243,7 +6243,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 67.6
@@ -6311,7 +6311,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 67.0
@@ -6344,9 +6344,9 @@ window.TENNIS_DATA = {
       "prevListRank": 35,
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 67.0
     },
@@ -6378,9 +6378,9 @@ window.TENNIS_DATA = {
       "prevListRank": 36,
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 67.4
     },
@@ -6412,9 +6412,9 @@ window.TENNIS_DATA = {
       "prevListRank": 37,
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 66.0
     },
@@ -6480,9 +6480,9 @@ window.TENNIS_DATA = {
       "prevListRank": 39,
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 65.5
     },
@@ -7333,7 +7333,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 57.6
@@ -7367,7 +7367,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 57.8
@@ -7434,9 +7434,9 @@ window.TENNIS_DATA = {
       "prevListRank": 67,
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.8
     },
@@ -7469,7 +7469,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.9
@@ -7502,9 +7502,9 @@ window.TENNIS_DATA = {
       "prevListRank": 69,
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.6
     },
@@ -7573,7 +7573,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.8
@@ -7641,7 +7641,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.3
@@ -7845,7 +7845,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.4
@@ -7913,7 +7913,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.1
@@ -8217,10 +8217,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Toray Pan Pacific Open Tennis",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 51.5
     },
@@ -8707,7 +8707,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 49.4
@@ -8808,9 +8808,9 @@ window.TENNIS_DATA = {
       "prevListRank": 107,
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.0
     },
@@ -9017,7 +9017,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 44.9
@@ -9156,9 +9156,9 @@ window.TENNIS_DATA = {
       "prevListRank": 117,
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 44.2
     },
@@ -9190,9 +9190,9 @@ window.TENNIS_DATA = {
       "prevListRank": 118,
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 43.7
     },
@@ -9716,9 +9716,9 @@ window.TENNIS_DATA = {
       "prevListRank": 133,
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 39.1
     },
@@ -9787,7 +9787,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 37.4
@@ -10000,9 +10000,9 @@ window.TENNIS_DATA = {
       "prevListRank": 141,
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 35.0
     },
@@ -10109,7 +10109,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11536,24 +11536,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anastasia Zakharova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (8-6) 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.4,
           "l_score": 43.7,
           "match_score": 61.4
         },
         {
           "round": "R128",
-          "w": "Lilli Tagger",
+          "w": "Venus Williams",
           "w_logo": "",
-          "l": "Venus Williams",
+          "l": "Lilli Tagger",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 60.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 60.7,
           "match_score": 60.7
         },
         {
@@ -11562,24 +11562,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sara Sorribes Tormo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 4-6 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 56.8,
           "l_score": null,
           "match_score": 56.8
         },
         {
           "round": "R128",
-          "w": "Antonia Ruzic",
+          "w": "Claire Liu",
           "w_logo": "",
-          "l": "Claire Liu",
+          "l": "Antonia Ruzic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 7-6 (7-5) 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 56.5,
-          "l_score": 45.3,
+          "scheduled": false,
+          "w_score": 45.3,
+          "l_score": 56.5,
           "match_score": 56.5
         },
         {
@@ -11588,9 +11588,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Katie Volynets",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 1-6 7-6 (9-7)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 56.2,
           "l_score": 46.9,
           "match_score": 56.2
@@ -11601,9 +11601,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polina Kudermetova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 54.2,
           "l_score": 35.0,
           "match_score": 54.2
@@ -11614,24 +11614,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sofia Kenin",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-7 (5-7) 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.5,
           "l_score": null,
           "match_score": 48.5
         },
         {
           "round": "R128",
-          "w": "Simona Waltert",
+          "w": "Jil Teichmann",
           "w_logo": "",
-          "l": "Jil Teichmann",
+          "l": "Simona Waltert",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 44.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 44.2,
           "match_score": 44.2
         }
       ]
@@ -11643,15 +11643,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Sorana Cirstea",
+          "w": "Maya Joint",
           "w_logo": "",
-          "l": "Maya Joint",
+          "l": "Sorana Cirstea",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-6 (7-4)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 85.7,
-          "l_score": 57.2,
+          "scheduled": false,
+          "w_score": 57.2,
+          "l_score": 85.7,
           "match_score": 85.7
         },
         {
@@ -11660,9 +11660,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jasmine Paolini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-6 (7-4)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.2,
           "l_score": 71.1,
           "match_score": 79.2
@@ -11673,24 +11673,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Himeno Sakatsume",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 68.5,
           "l_score": 39.1,
           "match_score": 68.5
         },
         {
           "round": "R128",
-          "w": "Diane Parry",
+          "w": "Cristina Bucsa",
           "w_logo": "",
-          "l": "Cristina Bucsa",
+          "l": "Diane Parry",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 67.0,
-          "l_score": 55.8,
+          "scheduled": false,
+          "w_score": 55.8,
+          "l_score": 67.0,
           "match_score": 67.0
         },
         {
@@ -11699,50 +11699,50 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ann Li",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.0,
           "l_score": 66.6,
           "match_score": 67.0
         },
         {
           "round": "R128",
-          "w": "Nikola Bartunkova",
+          "w": "Aliaksandra Sasnovich",
           "w_logo": "",
-          "l": "Aliaksandra Sasnovich",
+          "l": "Nikola Bartunkova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-7 (5-7) 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 66.0,
-          "l_score": 44.9,
+          "scheduled": false,
+          "w_score": 44.9,
+          "l_score": 66.0,
           "match_score": 66.0
         },
         {
           "round": "R128",
-          "w": "Maria Sakkari",
+          "w": "Yulia Putintseva",
           "w_logo": "",
-          "l": "Yulia Putintseva",
+          "l": "Maria Sakkari",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 3-6 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.7,
-          "l_score": 53.9,
+          "scheduled": false,
+          "w_score": 53.9,
+          "l_score": 65.7,
           "match_score": 65.7
         },
         {
           "round": "R128",
-          "w": "Tereza Valentova",
+          "w": "Mia Pohankova",
           "w_logo": "",
-          "l": "Mia Pohankova",
+          "l": "Tereza Valentova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 56.9,
-          "l_score": 37.4,
+          "scheduled": false,
+          "w_score": 37.4,
+          "l_score": 56.9,
           "match_score": 56.9
         }
       ]
@@ -11917,15 +11917,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Lucrezia Stefanini",
+          "w": "Isabella Maria Serban",
           "w_logo": "",
-          "l": "Isabella Maria Serban",
+          "l": "Lucrezia Stefanini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 40.6,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 40.6,
           "match_score": 40.6
         },
         {
@@ -12041,22 +12041,9 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Alice Rame",
-          "w_logo": "",
-          "l": "Nadia Podoroska",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
           "w": "Alicia Herrero Linana",
           "w_logo": "",
-          "l": "TBD",
+          "l": "Victoria Rodriguez",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
@@ -12067,13 +12054,26 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Ana Grubor",
+          "w": "Carmen Andreea Herea",
           "w_logo": "",
-          "l": "Selena Janicijevic",
+          "l": "Marian Gomez Pezuela Cano",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "por jugar",
           "day": "hoy",
-          "scheduled": false,
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Diletta Cherubini",
+          "w_logo": "",
+          "l": "Mell Reasco Gonzalez",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -12208,21 +12208,19 @@ window.TENNIS_DATA = {
       "Aliaksandra Sasnovich",
       "Alice Rame",
       "Alice Tubello",
+      "Alicia Herrero Linana",
       "Alina Charaeva",
       "Alycia Parks",
       "Ana Candiotto",
-      "Ana Grubor",
-      "Anastasia Zakharova",
       "Anastasiia Sobolieva",
-      "Ann Li",
       "Anna Blinkova",
       "Anna Bondar",
-      "Antonia Ruzic",
       "Antonia Vergara Rivera",
       "Ayla Aksu",
       "Berta Bonardi",
       "Bianca Andreescu",
       "Carlota Garibay Romero",
+      "Carmen Andreea Herea",
       "Carole Monnet",
       "Carolina Alves",
       "Caroline Werner",
@@ -12230,10 +12228,12 @@ window.TENNIS_DATA = {
       "Cristina Bucsa",
       "Dalma Galfi",
       "Danka Kovinic",
+      "Dasha Plekhanova",
       "Dayana Yastremska",
-      "Diane Parry",
+      "Diana Shnaider",
       "Diletta Cherubini",
       "Ekaterina Alexandrova",
+      "Elena Rybakina",
       "Elise Mertens",
       "Elizabeth Mandlik",
       "Elizara Yaneva",
@@ -12247,10 +12247,8 @@ window.TENNIS_DATA = {
       "Gabriela Knutson",
       "Gaia Maduzzi",
       "Harriet Dart",
-      "Himeno Sakatsume",
       "Isabella Maria Serban",
       "Janice Tjen",
-      "Jasmine Paolini",
       "Jazmin Ortenzi",
       "Jessica Pieri",
       "Jil Teichmann",
@@ -12258,10 +12256,10 @@ window.TENNIS_DATA = {
       "Julia Riera",
       "Justina Gonzalez Daniele",
       "Kaitlin Quevedo",
+      "Kamilla Rakhimova",
       "Katarina Zavatska",
       "Katerina Siniakova",
       "Katherine Hui",
-      "Katie Volynets",
       "Katrina Scott",
       "Kimberly Birrell",
       "Lan Mi",
@@ -12281,9 +12279,9 @@ window.TENNIS_DATA = {
       "Magda Linette",
       "Mananchaya Sawangkaew",
       "Maria Lourdes Carle",
-      "Maria Sakkari",
       "Maria Timofeeva",
       "Maria Urrutia",
+      "Marian Gomez Pezuela Cano",
       "Marina Bassols Ribera",
       "Marjorie Souza",
       "Martina Capurro Taborda",
@@ -12293,34 +12291,31 @@ window.TENNIS_DATA = {
       "Mell Reasco Gonzalez",
       "Mia Pohankova",
       "Mia Ristic",
+      "Miriam Bulgaru",
       "Nadia Podoroska",
       "Naomi Osaka",
       "Nauhany Vitoria Leme Da Silva",
-      "Nikola Bartunkova",
       "Noma Noha Akugue",
       "Oksana Selekhmeteva",
       "Paula Badosa",
-      "Polina Kudermetova",
       "Polona Hercog",
       "Rebeca Pereira",
       "Rebeka Masarova",
       "Robin Montgomery",
-      "Sara Sorribes Tormo",
       "Selena Janicijevic",
       "Shi Han",
-      "Simona Waltert",
       "Sinja Kraus",
+      "Sofia Costoulas",
       "Sofia Johnson",
-      "Sofia Kenin",
       "Solana Sierra",
-      "Sorana Cirstea",
       "Susan Bandecchi",
       "Talia Gibson",
       "Tamara Zidansek",
       "Tatjana Maria",
-      "Tereza Valentova",
+      "Valeriya Strakhova",
       "Venus Williams",
       "Victoria Jimenez Kasintseva",
+      "Victoria Rodriguez",
       "Xinran Sun",
       "Yasmine Kabbaj",
       "Yelyzaveta Kotliar",
@@ -12330,28 +12325,44 @@ window.TENNIS_DATA = {
     ],
     "out": [
       "Alevtina Ibragimova",
+      "Ana Grubor",
+      "Anastasia Zakharova",
+      "Ann Li",
+      "Antonia Ruzic",
       "Carol Young Suh Lee",
       "Daria Kasatkina",
       "Daria Snigur",
       "Despina Papamichail",
+      "Diane Parry",
       "Eduarda Gomes",
       "Fernanda Labrana",
+      "Himeno Sakatsume",
+      "Jasmine Paolini",
       "Julia Konishi Camargo Silva",
+      "Katie Volynets",
       "Laura Samson",
       "Lisa Zaar",
       "Lucia Bronzetti",
       "Luiza Fullana",
+      "Maria Sakkari",
       "Mika Stojsavljevic",
       "Moyuka Uchijima",
+      "Nikola Bartunkova",
       "Panna Udvardy",
+      "Polina Kudermetova",
       "Rositsa Dencheva",
+      "Sara Sorribes Tormo",
+      "Simona Waltert",
+      "Sofia Kenin",
+      "Sorana Cirstea",
       "Tatiana Prozorova",
       "Teodora Kostovic",
+      "Tereza Valentova",
       "Victoria Bosio",
       "Wang Xinyu"
     ],
-    "aliveCount": 125,
-    "matchesSeen": 78
+    "aliveCount": 120,
+    "matchesSeen": 92
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -394,6 +394,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "DAL",
+      "city": "Dallas Cowboys",
+      "shortName": "Dallas",
+      "commonName": "Cowboys",
+      "conf": "NFC",
+      "div": "NFC East",
+      "gp": 7,
+      "w": 3,
+      "l": 4,
+      "t": 0,
+      "winPct": 0.429,
+      "pf": 189,
+      "pa": 180,
+      "pd": 9,
+      "seed": 11,
+      "score": 35,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#869397"
+      }
+    },
+    {
       "code": "ATL",
       "city": "Atlanta Falcons",
       "shortName": "Atlanta",
@@ -477,7 +500,7 @@ window.NFL_DATA = {
       "pf": 162,
       "pa": 151,
       "pd": 11,
-      "seed": 13,
+      "seed": 12,
       "score": 24,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
       "colors": {
@@ -506,29 +529,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#03202f",
         "secondary": "#a71930"
-      }
-    },
-    {
-      "code": "DAL",
-      "city": "Dallas Cowboys",
-      "shortName": "Dallas",
-      "commonName": "Cowboys",
-      "conf": "NFC",
-      "div": "NFC East",
-      "gp": 6,
-      "w": 2,
-      "l": 4,
-      "t": 0,
-      "winPct": 0.333,
-      "pf": 151,
-      "pa": 159,
-      "pd": -8,
-      "seed": 12,
-      "score": 26,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-      "colors": {
-        "primary": "#003594",
-        "secondary": "#869397"
       }
     },
     {
@@ -578,29 +578,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "PHI",
-      "city": "Philadelphia Eagles",
-      "shortName": "Philadelphia",
-      "commonName": "Eagles",
-      "conf": "NFC",
-      "div": "NFC East",
-      "gp": 6,
-      "w": 2,
-      "l": 4,
-      "t": 0,
-      "winPct": 0.333,
-      "pf": 106,
-      "pa": 137,
-      "pd": -31,
-      "seed": 11,
-      "score": 23,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
-      "colors": {
-        "primary": "#004c54",
-        "secondary": "#a5acaf"
-      }
-    },
-    {
       "code": "NO",
       "city": "New Orleans Saints",
       "shortName": "New Orleans",
@@ -615,12 +592,35 @@ window.NFL_DATA = {
       "pf": 162,
       "pa": 194,
       "pd": -32,
-      "seed": 14,
+      "seed": 13,
       "score": 19,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
       "colors": {
         "primary": "#d3bc8d",
         "secondary": "#101820"
+      }
+    },
+    {
+      "code": "PHI",
+      "city": "Philadelphia Eagles",
+      "shortName": "Philadelphia",
+      "commonName": "Eagles",
+      "conf": "NFC",
+      "div": "NFC East",
+      "gp": 7,
+      "w": 2,
+      "l": 5,
+      "t": 0,
+      "winPct": 0.286,
+      "pf": 127,
+      "pa": 175,
+      "pd": -48,
+      "seed": 15,
+      "score": 17,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+      "colors": {
+        "primary": "#004c54",
+        "secondary": "#a5acaf"
       }
     },
     {
@@ -638,7 +638,7 @@ window.NFL_DATA = {
       "pf": 142,
       "pa": 208,
       "pd": -66,
-      "seed": 15,
+      "seed": 14,
       "score": 15,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
       "colors": {
@@ -923,6 +923,32 @@ window.NFL_DATA = {
       "prevRank": 7
     },
     {
+      "id": 2577417,
+      "name": "Dak Prescott",
+      "pos": "QB",
+      "teamCode": "DAL",
+      "age": 33,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#869397"
+      },
+      "score": 89,
+      "stats": {
+        "type": "passing",
+        "cmp": 178,
+        "att": 273,
+        "pct": 65.2,
+        "yds": 1851,
+        "ypa": 6.8,
+        "td": 13,
+        "int": 5,
+        "rushYds": 81,
+        "rushTd": 0
+      },
+      "prevRank": 14
+    },
+    {
       "id": 8439,
       "name": "Aaron Rodgers",
       "pos": "QB",
@@ -997,8 +1023,7 @@ window.NFL_DATA = {
         "int": 4,
         "rushYds": 34,
         "rushTd": 0
-      },
-      "prevRank": 10
+      }
     },
     {
       "id": 4360689,
@@ -1073,31 +1098,6 @@ window.NFL_DATA = {
         "int": 8,
         "rushYds": 211,
         "rushTd": 2
-      }
-    },
-    {
-      "id": 2577417,
-      "name": "Dak Prescott",
-      "pos": "QB",
-      "teamCode": "DAL",
-      "age": 33,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png",
-      "colors": {
-        "primary": "#003594",
-        "secondary": "#869397"
-      },
-      "score": 78,
-      "stats": {
-        "type": "passing",
-        "cmp": 163,
-        "att": 246,
-        "pct": 66.3,
-        "yds": 1639,
-        "ypa": 6.7,
-        "td": 10,
-        "int": 5,
-        "rushYds": 73,
-        "rushTd": 0
       }
     },
     {
@@ -1626,6 +1626,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 4685201,
+      "name": "Tanner McKee",
+      "pos": "QB",
+      "teamCode": "PHI",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685201.png",
+      "colors": {
+        "primary": "#004c54",
+        "secondary": "#a5acaf"
+      },
+      "score": 43,
+      "stats": {
+        "type": "passing",
+        "cmp": 49,
+        "att": 80,
+        "pct": 61.2,
+        "yds": 426,
+        "ypa": 5.3,
+        "td": 2,
+        "int": 1,
+        "rushYds": 1,
+        "rushTd": 0
+      }
+    },
+    {
       "id": 4596472,
       "name": "Jalon Daniels",
       "pos": "QB",
@@ -1843,6 +1868,23 @@ window.NFL_DATA = {
         "prevRank": 3
       },
       {
+        "id": 2577417,
+        "name": "Dak Prescott",
+        "pos": "QB",
+        "teamCode": "DAL",
+        "colors": {
+          "primary": "#003594",
+          "secondary": "#869397"
+        },
+        "age": 33,
+        "careerScore": 74.7,
+        "threshold": 90.0,
+        "gap": 15.3,
+        "rings": 0,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": 8
+      },
+      {
         "id": 3915511,
         "name": "Joe Burrow",
         "pos": "QB",
@@ -1909,23 +1951,6 @@ window.NFL_DATA = {
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
         "prevRank": 7
-      },
-      {
-        "id": 2577417,
-        "name": "Dak Prescott",
-        "pos": "QB",
-        "teamCode": "DAL",
-        "colors": {
-          "primary": "#003594",
-          "secondary": "#869397"
-        },
-        "age": 33,
-        "careerScore": 67.3,
-        "threshold": 90.0,
-        "gap": 22.7,
-        "rings": 0,
-        "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 8
       },
       {
         "id": 4432577,
@@ -2080,7 +2105,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-27 00:35 UTC",
+  "LAST_UPDATE": "2026-10-27 10:34 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
