@@ -4536,7 +4536,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 2,
         "w": 1,
-        "svpct": 0.889,
+        "svpct": 0.886,
         "gaa": 2.89,
         "so": 0
       },
@@ -5028,7 +5028,7 @@ window.NHL_DATA = {
         "p": 11,
         "pm": 0,
         "toi": 20.6,
-        "shots": 38
+        "shots": 37
       },
       "trajectory": [
         39,
@@ -7076,37 +7076,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8477465,
-      "first": "Tristan",
-      "last": "Jarry",
-      "name": "Tristan Jarry",
-      "pos": "G",
-      "teamCode": "EDM",
-      "age": 31,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#ff4c00"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8477465.png",
-      "score": 58,
-      "stats": {
-        "gp": 5,
-        "w": 2,
-        "svpct": 0.869,
-        "gaa": 3.53,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        58
-      ]
-    },
-    {
       "id": 8483482,
       "first": "Tristan",
       "last": "Luneau",
@@ -7772,6 +7741,37 @@ window.NHL_DATA = {
         57
       ],
       "legendScore": 47.8
+    },
+    {
+      "id": 8477465,
+      "first": "Tristan",
+      "last": "Jarry",
+      "name": "Tristan Jarry",
+      "pos": "G",
+      "teamCode": "EDM",
+      "age": 31,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#ff4c00"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8477465.png",
+      "score": 57,
+      "stats": {
+        "gp": 5,
+        "w": 2,
+        "svpct": 0.868,
+        "gaa": 3.53,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        57
+      ]
     },
     {
       "id": 8477932,
@@ -23091,7 +23091,7 @@ window.NHL_DATA = {
         "p": 1,
         "pm": -2,
         "toi": 11.8,
-        "shots": 8
+        "shots": 7
       },
       "trajectory": [
         37,
@@ -26078,9 +26078,9 @@ window.NHL_DATA = {
       "name": "Jacob Gaucher",
       "pos": "C",
       "teamCode": "PHI",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -38121,10 +38121,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-27 12:26 UTC",
+  "LAST_UPDATE": "2026-10-27 18:15 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-27T12:26:15Z"
+    "standingsDateTimeUtc": "2026-10-27T18:14:45Z"
   }
 };
