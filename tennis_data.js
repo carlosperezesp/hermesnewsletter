@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-27 10:36 UTC
+// Auto-generated 2026-10-27 12:28 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-27 10:36 UTC",
+  "UPDATED": "2026-10-27 12:28 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6857,7 +6857,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.6
@@ -6993,7 +6993,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.2
@@ -9539,7 +9539,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Valle D'Aosta Ladies Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.6
@@ -11181,15 +11181,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Hubert Hurkacz",
+          "w": "Zizou Bergs",
           "w_logo": "",
-          "l": "Zizou Bergs",
+          "l": "Hubert Hurkacz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.6,
-          "l_score": 59.0,
+          "scheduled": false,
+          "w_score": 59.0,
+          "l_score": 65.6,
           "match_score": 65.6
         },
         {
@@ -11545,15 +11545,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Venus Williams",
+          "w": "Lilli Tagger",
           "w_logo": "",
-          "l": "Lilli Tagger",
+          "l": "Venus Williams",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 60.7,
+          "w_score": 60.7,
+          "l_score": null,
           "match_score": 60.7
         },
         {
@@ -11891,15 +11891,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Marina Bassols Ribera",
+          "w": "Victoria Jimenez Kasintseva",
           "w_logo": "",
-          "l": "Victoria Jimenez Kasintseva",
+          "l": "Marina Bassols Ribera",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 49.7,
           "match_score": 49.7
         },
         {
@@ -11917,15 +11917,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Isabella Maria Serban",
+          "w": "Lucrezia Stefanini",
           "w_logo": "",
-          "l": "Lucrezia Stefanini",
+          "l": "Isabella Maria Serban",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 40.6,
+          "w_score": 40.6,
+          "l_score": null,
           "match_score": 40.6
         },
         {
@@ -11934,9 +11934,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jessica Pieri",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 40.2,
           "l_score": null,
           "match_score": 40.2
@@ -12227,7 +12227,6 @@ window.TENNIS_DATA = {
       "Claire Liu",
       "Cristina Bucsa",
       "Dalma Galfi",
-      "Danka Kovinic",
       "Dasha Plekhanova",
       "Dayana Yastremska",
       "Diana Shnaider",
@@ -12247,7 +12246,6 @@ window.TENNIS_DATA = {
       "Gabriela Knutson",
       "Gaia Maduzzi",
       "Harriet Dart",
-      "Isabella Maria Serban",
       "Janice Tjen",
       "Jazmin Ortenzi",
       "Jessica Pieri",
@@ -12313,7 +12311,6 @@ window.TENNIS_DATA = {
       "Tamara Zidansek",
       "Tatjana Maria",
       "Valeriya Strakhova",
-      "Venus Williams",
       "Victoria Jimenez Kasintseva",
       "Victoria Rodriguez",
       "Xinran Sun",
@@ -12330,6 +12327,7 @@ window.TENNIS_DATA = {
       "Ann Li",
       "Antonia Ruzic",
       "Carol Young Suh Lee",
+      "Danka Kovinic",
       "Daria Kasatkina",
       "Daria Snigur",
       "Despina Papamichail",
@@ -12337,6 +12335,7 @@ window.TENNIS_DATA = {
       "Eduarda Gomes",
       "Fernanda Labrana",
       "Himeno Sakatsume",
+      "Isabella Maria Serban",
       "Jasmine Paolini",
       "Julia Konishi Camargo Silva",
       "Katie Volynets",
@@ -12358,11 +12357,12 @@ window.TENNIS_DATA = {
       "Tatiana Prozorova",
       "Teodora Kostovic",
       "Tereza Valentova",
+      "Venus Williams",
       "Victoria Bosio",
       "Wang Xinyu"
     ],
-    "aliveCount": 120,
-    "matchesSeen": 92
+    "aliveCount": 117,
+    "matchesSeen": 94
   },
   "ATP_SCORE_LOG": {
     "206173": [

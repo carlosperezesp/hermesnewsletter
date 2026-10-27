@@ -946,7 +946,7 @@ window.NFL_DATA = {
         "rushYds": 81,
         "rushTd": 0
       },
-      "prevRank": 14
+      "prevRank": 8
     },
     {
       "id": 8439,
@@ -972,7 +972,7 @@ window.NFL_DATA = {
         "rushYds": 23,
         "rushTd": 0
       },
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 4360310,
@@ -998,7 +998,7 @@ window.NFL_DATA = {
         "rushYds": 70,
         "rushTd": 0
       },
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 4685720,
@@ -1882,7 +1882,7 @@ window.NFL_DATA = {
         "gap": 15.3,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 8
+        "prevRank": 4
       },
       {
         "id": 3915511,
@@ -1899,7 +1899,7 @@ window.NFL_DATA = {
         "gap": 16.2,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 15864,
@@ -1916,7 +1916,7 @@ window.NFL_DATA = {
         "gap": 17.4,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "id": 4361741,
@@ -1933,7 +1933,7 @@ window.NFL_DATA = {
         "gap": 20.5,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "id": 4036378,
@@ -1950,7 +1950,7 @@ window.NFL_DATA = {
         "gap": 22.0,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 4432577,
@@ -2105,7 +2105,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-27 10:34 UTC",
+  "LAST_UPDATE": "2026-10-27 12:26 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
