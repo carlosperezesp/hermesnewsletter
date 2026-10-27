@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-27 18:18 UTC
+// Auto-generated 2026-10-27 18:58 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-27 18:18 UTC",
+  "UPDATED": "2026-10-27 18:58 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -712,9 +712,9 @@ window.TENNIS_DATA = {
       "prevListRank": 21,
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 72.4
     },
@@ -11096,15 +11096,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Francisco Cerundolo",
+          "w": "Cameron Norrie",
           "w_logo": "",
-          "l": "Cameron Norrie",
+          "l": "Francisco Cerundolo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 72.6,
-          "l_score": 63.9,
+          "w_score": 63.9,
+          "l_score": 72.6,
           "match_score": 72.6
         },
         {
@@ -12071,9 +12071,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Marian Gomez Pezuela Cano",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -12117,7 +12117,6 @@ window.TENNIS_DATA = {
       "Denis Shapovalov",
       "Flavio Cobolli",
       "Frances Tiafoe",
-      "Francisco Cerundolo",
       "Grigor Dimitrov",
       "Holger Rune",
       "Hubert Hurkacz",
@@ -12151,6 +12150,7 @@ window.TENNIS_DATA = {
       "Arthur Rinderknech",
       "Botic Van De Zandschulp",
       "Dominic Stricker",
+      "Francisco Cerundolo",
       "Giovanni Mpetshi Perricard",
       "Ignacio Buse",
       "Jacob Fearnley",
@@ -12166,7 +12166,7 @@ window.TENNIS_DATA = {
       "Tomas Martin Etcheverry",
       "Zizou Bergs"
     ],
-    "aliveCount": 45,
+    "aliveCount": 44,
     "matchesSeen": 39
   },
   "WTA_TOURNAMENT": {
