@@ -1523,7 +1523,7 @@ window.NHL_DATA = {
       "name": "Jack Eichel",
       "pos": "C",
       "teamCode": "VGK",
-      "age": 29,
+      "age": 30,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -5802,7 +5802,7 @@ window.NHL_DATA = {
       "name": "Alex Laferriere",
       "pos": "RW",
       "teamCode": "LAK",
-      "age": 24,
+      "age": 25,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -11032,7 +11032,7 @@ window.NHL_DATA = {
       "name": "Artyom Levshunov",
       "pos": "D",
       "teamCode": "CHI",
-      "age": 20,
+      "age": 21,
       "country": "Belarus",
       "birthCountry": "BLR",
       "colors": {
@@ -11057,7 +11057,7 @@ window.NHL_DATA = {
         45,
         52
       ],
-      "legendScore": 50.1
+      "legendScore": 48.1
     },
     {
       "id": 8484203,
@@ -21095,7 +21095,7 @@ window.NHL_DATA = {
       "name": "Cole Smith",
       "pos": "RW",
       "teamCode": "CHI",
-      "age": 30,
+      "age": 31,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -37702,7 +37702,7 @@ window.NHL_DATA = {
           "primary": "#b4975a",
           "secondary": "#333f48"
         },
-        "age": 29,
+        "age": 30,
         "careerScore": 57.9,
         "threshold": 93.1,
         "gap": 35.2,
@@ -38121,10 +38121,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-27 23:47 UTC",
+  "LAST_UPDATE": "2026-10-28 00:33 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-27T23:46:45Z"
+    "standingsDateTimeUtc": "2026-10-28T00:33:00Z"
   }
 };
