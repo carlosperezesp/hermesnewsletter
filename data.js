@@ -26072,9 +26072,9 @@ window.NHL_DATA = {
       "name": "Dylan Hryckowian",
       "pos": "RW",
       "teamCode": "DAL",
-      "age": 22,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#006847",
         "secondary": "#8f8f8c"
@@ -37995,10 +37995,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-28 18:29 UTC",
+  "LAST_UPDATE": "2026-10-28 19:03 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-28T18:28:45Z"
+    "standingsDateTimeUtc": "2026-10-28T19:03:15Z"
   }
 };

@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-28 18:32 UTC
+// Auto-generated 2026-10-28 19:05 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-28 18:32 UTC",
+  "UPDATED": "2026-10-28 19:05 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -67,7 +67,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 90.7
@@ -1565,7 +1565,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 60.8
@@ -3643,7 +3643,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 47.4
@@ -4122,9 +4122,9 @@ window.TENNIS_DATA = {
       "prevListRank": 121,
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 44.5
     },
@@ -11126,7 +11126,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jakub Mensik",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 48.5,
@@ -11139,7 +11139,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jurij Rodionov",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-3) 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 48.0,
@@ -12058,9 +12058,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Linda Klimovicova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -12191,7 +12191,6 @@ window.TENNIS_DATA = {
       "Jan-Lennard Struff",
       "Jerome Kym",
       "Jiri Lehecka",
-      "Jurij Rodionov",
       "Learner Tien",
       "Lorenzo Musetti",
       "Luciano Darderi",
@@ -12222,6 +12221,7 @@ window.TENNIS_DATA = {
       "Ignacio Buse",
       "Jacob Fearnley",
       "Juan Manuel Cerundolo",
+      "Jurij Rodionov",
       "Karen Khachanov",
       "Luca Van Assche",
       "Lukas Neumayer",
@@ -12238,8 +12238,8 @@ window.TENNIS_DATA = {
       "Yannick Hanfmann",
       "Zizou Bergs"
     ],
-    "aliveCount": 34,
-    "matchesSeen": 46
+    "aliveCount": 33,
+    "matchesSeen": 47
   },
   "WTA_TOURNAMENT": {
     "name": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open",
