@@ -3605,7 +3605,7 @@ window.NHL_DATA = {
         "p": 5,
         "pm": 0,
         "toi": 24.7,
-        "shots": 27
+        "shots": 28
       },
       "trajectory": [
         38,
@@ -5088,7 +5088,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": 1,
         "toi": 23.8,
-        "shots": 14
+        "shots": 15
       },
       "trajectory": [
         38,
@@ -8721,7 +8721,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 4,
         "w": 1,
-        "svpct": 0.845,
+        "svpct": 0.846,
         "gaa": 4.11,
         "so": 0
       },
@@ -10580,7 +10580,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": 3,
         "toi": 20.6,
-        "shots": 4
+        "shots": 5
       },
       "trajectory": [
         38,
@@ -12809,7 +12809,7 @@ window.NHL_DATA = {
         "a": 3,
         "p": 4,
         "pm": -5,
-        "toi": 16.5,
+        "toi": 16.4,
         "shots": 14
       },
       "trajectory": [
@@ -14620,9 +14620,9 @@ window.NHL_DATA = {
       "name": "Luca Cagnoni",
       "pos": "D",
       "teamCode": "SJS",
-      "age": 21,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#006d75",
         "secondary": "#ea7200"
@@ -15362,7 +15362,7 @@ window.NHL_DATA = {
         "p": 5,
         "pm": -1,
         "toi": 17.7,
-        "shots": 17
+        "shots": 18
       },
       "trajectory": [
         38,
@@ -15857,7 +15857,40 @@ window.NHL_DATA = {
         "p": 4,
         "pm": 0,
         "toi": 16.7,
-        "shots": 24
+        "shots": 23
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        48
+      ]
+    },
+    {
+      "id": 8480355,
+      "first": "Mark",
+      "last": "Kastelic",
+      "name": "Mark Kastelic",
+      "pos": "C",
+      "teamCode": "BOS",
+      "age": 27,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#ffb81c",
+        "secondary": "#111111"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8480355.png",
+      "score": 48,
+      "stats": {
+        "gp": 13,
+        "g": 2,
+        "a": 4,
+        "p": 6,
+        "pm": 3,
+        "toi": 11.3,
+        "shots": 17
       },
       "trajectory": [
         38,
@@ -17119,39 +17152,6 @@ window.NHL_DATA = {
         40,
         42,
         44,
-        47
-      ]
-    },
-    {
-      "id": 8480355,
-      "first": "Mark",
-      "last": "Kastelic",
-      "name": "Mark Kastelic",
-      "pos": "C",
-      "teamCode": "BOS",
-      "age": 27,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#ffb81c",
-        "secondary": "#111111"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8480355.png",
-      "score": 47,
-      "stats": {
-        "gp": 13,
-        "g": 2,
-        "a": 4,
-        "p": 6,
-        "pm": 3,
-        "toi": 11.3,
-        "shots": 16
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
         47
       ]
     },
@@ -37995,10 +37995,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-28 13:12 UTC",
+  "LAST_UPDATE": "2026-10-28 18:29 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-28T13:12:15Z"
+    "standingsDateTimeUtc": "2026-10-28T18:28:45Z"
   }
 };
