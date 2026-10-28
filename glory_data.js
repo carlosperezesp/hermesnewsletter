@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-28 00:35 UTC",
+  "UPDATED": "2026-10-28 11:24 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -116,6 +116,33 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Ivan Demidov",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Ivan Demidov entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-28"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jackson LaCombe",
       "sport": "nhl",
       "detail": "NHL",
@@ -161,15 +188,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-25"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Seth Jarvis",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Seth Jarvis entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-25"
-    },
-    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Leo Carlsson",
       "sport": "nhl",
       "detail": "NHL",
@@ -186,15 +204,6 @@ window.GLORY_DATA = {
       "text": "David Pastrnak entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mikko Rantanen",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Mikko Rantanen entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-22"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:JC Archer",
@@ -359,13 +368,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Ivan Demidov",
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Tim Stützle",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
-      "text": "Ivan Demidov cae del top-10 · jóvenes promesas",
+      "text": "Tim Stützle cae del top-10 · jóvenes promesas",
       "weight": 74,
-      "firstSeen": "2026-10-27"
+      "firstSeen": "2026-10-28"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Nauman Ali",
@@ -512,19 +521,19 @@ window.GLORY_DATA = {
       "Leon Draisaitl",
       "David Pastrnak",
       "Auston Matthews",
-      "Mikko Rantanen",
       "Erik Karlsson",
+      "Matthew Tkachuk",
       "Jack Eichel",
       "Roman Josi"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
-      "Colorado Avalanche",
       "Florida Panthers",
+      "Colorado Avalanche",
       "St. Louis Blues",
-      "Boston Bruins",
       "Carolina Hurricanes",
       "Edmonton Oilers",
+      "Boston Bruins",
       "Minnesota Wild",
       "Dallas Stars",
       "New York Rangers"
@@ -532,14 +541,14 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
       "Macklin Celebrini",
-      "Jake Sanderson",
       "Lane Hutson",
       "Owen Power",
-      "Leo Carlsson",
       "Jackson LaCombe",
-      "Seth Jarvis",
-      "Tim Stützle",
-      "Beckett Sennecke"
+      "Jake Sanderson",
+      "Leo Carlsson",
+      "Beckett Sennecke",
+      "Ivan Demidov",
+      "Cole Hutson"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -555,14 +564,14 @@ window.GLORY_DATA = {
     ],
     "nba:ROAD_TO_GLORY.teams": [
       "Oklahoma City Thunder",
-      "Los Angeles Lakers",
       "Boston Celtics",
+      "Los Angeles Lakers",
       "Minnesota Timberwolves",
+      "San Antonio Spurs",
       "Indiana Pacers",
       "Golden State Warriors",
       "Denver Nuggets",
       "Milwaukee Bucks",
-      "San Antonio Spurs",
       "New York Knicks"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
