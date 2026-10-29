@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-28 19:05 UTC",
+  "UPDATED": "2026-10-29 00:02 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -330,33 +330,6 @@ window.GLORY_DATA = {
       "text": "Jalen Duren entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-17"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:PJ Cummins",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "PJ Cummins entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-14"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Jack Eichel",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Jack Eichel entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-14"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Lane Hutson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Lane Hutson entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-14"
     },
     {
       "id": "tennis:out:ATP:Novak Djokovic:20261015",

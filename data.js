@@ -2709,7 +2709,7 @@ window.NHL_DATA = {
       "name": "Mikko Rantanen",
       "pos": "RW",
       "teamCode": "DAL",
-      "age": 29,
+      "age": 30,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -3391,7 +3391,7 @@ window.NHL_DATA = {
       "name": "Vince Dunn",
       "pos": "D",
       "teamCode": "SEA",
-      "age": 29,
+      "age": 30,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -18977,7 +18977,7 @@ window.NHL_DATA = {
       "name": "Dmitry Kulikov",
       "pos": "D",
       "teamCode": "FLA",
-      "age": 35,
+      "age": 36,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -23432,9 +23432,9 @@ window.NHL_DATA = {
       "name": "Avery Hayes",
       "pos": "RW",
       "teamCode": "PIT",
-      "age": 24,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -37995,10 +37995,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-28 19:03 UTC",
+  "LAST_UPDATE": "2026-10-29 00:00 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-28T19:03:15Z"
+    "standingsDateTimeUtc": "2026-10-29T00:00:00Z"
   }
 };
