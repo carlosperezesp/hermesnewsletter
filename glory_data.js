@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-29 01:05 UTC",
+  "UPDATED": "2026-10-29 11:34 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -33,6 +33,15 @@ window.GLORY_DATA = {
       "text": "Scott McLaughlin ganó en Grand Prix of Monterey",
       "weight": 100,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Los Angeles Lakers",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-dinastias",
+      "text": "Los Angeles Lakers es nuevo nº1 · dinastías",
+      "weight": 92,
+      "firstSeen": "2026-10-29"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Matthew Schaefer",
@@ -71,15 +80,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-25"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Oklahoma City Thunder",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-dinastias",
-      "text": "Oklahoma City Thunder es nuevo nº1 · dinastías",
-      "weight": 92,
-      "firstSeen": "2026-10-20"
-    },
-    {
       "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Matthew Stafford",
       "sport": "nfl",
       "detail": "NFL",
@@ -116,6 +116,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Tim Stützle",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Tim Stützle entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-29"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
       "sport": "nhl",
       "detail": "NHL",
@@ -130,15 +139,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Ivan Demidov entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-28"
     },
@@ -341,15 +341,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Tim Stützle",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Tim Stützle cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-10-28"
-    },
-    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Nauman Ali",
       "sport": "cricket",
       "detail": "Cricket",
@@ -501,11 +492,11 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
-      "Florida Panthers",
       "Colorado Avalanche",
+      "Florida Panthers",
       "St. Louis Blues",
-      "Carolina Hurricanes",
       "Edmonton Oilers",
+      "Carolina Hurricanes",
       "Boston Bruins",
       "Minnesota Wild",
       "Dallas Stars",
@@ -515,13 +506,13 @@ window.GLORY_DATA = {
       "Matthew Schaefer",
       "Macklin Celebrini",
       "Lane Hutson",
-      "Owen Power",
       "Jackson LaCombe",
+      "Owen Power",
       "Jake Sanderson",
       "Leo Carlsson",
       "Beckett Sennecke",
       "Ivan Demidov",
-      "Cole Hutson"
+      "Tim Stützle"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -536,16 +527,16 @@ window.GLORY_DATA = {
       "Joel Embiid"
     ],
     "nba:ROAD_TO_GLORY.teams": [
-      "Oklahoma City Thunder",
-      "Boston Celtics",
       "Los Angeles Lakers",
+      "Boston Celtics",
+      "Oklahoma City Thunder",
       "Minnesota Timberwolves",
       "San Antonio Spurs",
-      "Indiana Pacers",
-      "Golden State Warriors",
       "Denver Nuggets",
-      "Milwaukee Bucks",
-      "New York Knicks"
+      "Golden State Warriors",
+      "New York Knicks",
+      "Indiana Pacers",
+      "Milwaukee Bucks"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
       "Victor Wembanyama",

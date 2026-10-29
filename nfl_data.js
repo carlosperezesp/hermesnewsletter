@@ -1655,7 +1655,7 @@ window.NFL_DATA = {
       "name": "Jalon Daniels",
       "pos": "QB",
       "teamCode": "TB",
-      "age": 23,
+      "age": 24,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596472.png",
       "colors": {
         "primary": "#d50a0a",
@@ -2105,7 +2105,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-29 01:03 UTC",
+  "LAST_UPDATE": "2026-10-29 11:31 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
