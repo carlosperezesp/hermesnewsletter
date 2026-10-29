@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-29 11:34 UTC
+// Auto-generated 2026-10-29 13:23 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-29 11:34 UTC",
+  "UPDATED": "2026-10-29 13:23 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7333,7 +7333,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 57.6
@@ -8707,7 +8707,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 49.4
@@ -11083,15 +11083,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Tommy Paul",
+          "w": "Luciano Darderi",
           "w_logo": "",
-          "l": "Luciano Darderi",
+          "l": "Tommy Paul",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 79.3,
-          "l_score": 63.4,
+          "scheduled": false,
+          "w_score": 63.4,
+          "l_score": 79.3,
           "match_score": 79.3
         },
         {
@@ -11100,9 +11100,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Cameron Norrie",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 77.7,
           "l_score": 63.9,
           "match_score": 77.7
@@ -11595,9 +11595,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lilli Tagger",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.4,
           "l_score": 60.7,
           "match_score": 61.4
@@ -11608,7 +11608,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anna Bondar",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 48.5,
@@ -11794,15 +11794,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Marina Bassols Ribera",
+          "w": "Erika Andreeva",
           "w_logo": "",
-          "l": "Erika Andreeva",
+          "l": "Marina Bassols Ribera",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 49.7,
           "match_score": 49.7
         },
         {
@@ -12161,7 +12161,7 @@ window.TENNIS_DATA = {
       "Zuzanna Pawlikowska"
     ],
     "aliveCount": 79,
-    "matchesSeen": 123
+    "matchesSeen": 124
   },
   "ATP_SCORE_LOG": {
     "206173": [
