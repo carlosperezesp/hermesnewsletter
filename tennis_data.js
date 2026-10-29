@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-29 18:40 UTC
+// Auto-generated 2026-10-29 19:13 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-29 18:40 UTC",
+  "UPDATED": "2026-10-29 19:13 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 76.8
@@ -11109,15 +11109,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Lorenzo Musetti",
+          "w": "Arthur Fery",
           "w_logo": "",
-          "l": "Arthur Fery",
+          "l": "Lorenzo Musetti",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 5-7 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 76.8,
-          "l_score": 46.1,
+          "w_score": 46.1,
+          "l_score": 76.8,
           "match_score": 76.8
         },
         {
