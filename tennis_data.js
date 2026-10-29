@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-29 13:23 UTC
+// Auto-generated 2026-10-29 18:40 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-29 13:23 UTC",
+  "UPDATED": "2026-10-29 18:40 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -67,7 +67,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 90.7
@@ -169,7 +169,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 82.9
@@ -203,7 +203,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 79.3
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 77.9
@@ -305,7 +305,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 77.7
@@ -577,7 +577,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 73.6
@@ -781,7 +781,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 71.7
@@ -1053,7 +1053,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.6
@@ -1189,7 +1189,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 63.9
@@ -1223,7 +1223,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 63.4
@@ -2143,7 +2143,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 56.9
@@ -2789,7 +2789,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 51.5
@@ -3575,7 +3575,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 47.7
@@ -3643,7 +3643,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 47.4
@@ -6857,7 +6857,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 60.6
@@ -6993,7 +6993,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 60.2
@@ -7709,7 +7709,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Valle D'Aosta Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 55.8
@@ -7811,7 +7811,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Curitiba Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 55.3
@@ -8497,7 +8497,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Valle D'Aosta Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 49.7
@@ -8913,7 +8913,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Valle D'Aosta Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 45.7
@@ -9123,7 +9123,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Curitiba Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 44.3
@@ -9399,7 +9399,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Curitiba Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 41.1
@@ -9539,7 +9539,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Valle D'Aosta Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 40.6
@@ -9611,7 +9611,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Valle D'Aosta Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 40.2
@@ -9681,7 +9681,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Valle D'Aosta Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 40.1
@@ -10215,7 +10215,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Valle D'Aosta Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11061,37 +11061,37 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nikoloz Basilashvili",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 7-6 (13-11)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.7,
           "l_score": 48.0,
           "match_score": 90.7
         },
         {
           "round": "R64",
-          "w": "Alexander Zverev",
+          "w": "Tallon Griekspoor",
           "w_logo": "",
-          "l": "Tallon Griekspoor",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 86.7,
-          "l_score": 62.8,
-          "match_score": 86.7
-        },
-        {
-          "round": "R64",
-          "w": "Luciano Darderi",
-          "w_logo": "",
-          "l": "Tommy Paul",
+          "l": "Alexander Zverev",
           "l_logo": "",
           "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 63.4,
-          "l_score": 79.3,
+          "w_score": 62.8,
+          "l_score": 86.7,
+          "match_score": 86.7
+        },
+        {
+          "round": "R64",
+          "w": "Tommy Paul",
+          "w_logo": "",
+          "l": "Luciano Darderi",
+          "l_logo": "",
+          "score": "6-1 6-1",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 79.3,
+          "l_score": 63.4,
           "match_score": 79.3
         },
         {
@@ -11100,7 +11100,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Cameron Norrie",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-3 7-6 (7-1)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 77.7,
@@ -11113,9 +11113,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Arthur Fery",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 76.8,
           "l_score": 46.1,
           "match_score": 76.8
@@ -11142,15 +11142,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Novak Djokovic",
+          "w": "Jan-Lennard Struff",
           "w_logo": "",
-          "l": "Jan-Lennard Struff",
+          "l": "Novak Djokovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 86.0,
-          "l_score": 54.1,
+          "scheduled": false,
+          "w_score": 54.1,
+          "l_score": 86.0,
           "match_score": 86.0
         },
         {
@@ -11159,24 +11159,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alex Michelsen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-3 7-6 (7-5)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 83.2,
           "l_score": 65.0,
           "match_score": 83.2
         },
         {
           "round": "R64",
-          "w": "Rafael Jodar",
+          "w": "Valentin Vacherot",
           "w_logo": "",
-          "l": "Valentin Vacherot",
+          "l": "Rafael Jodar",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 2-6 7-6 (7-5)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 77.9,
-          "l_score": 71.8,
+          "w_score": 71.8,
+          "l_score": 77.9,
           "match_score": 77.9
         },
         {
@@ -11198,9 +11198,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daniel Altmaier",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 73.8,
           "l_score": 52.1,
           "match_score": 73.8
@@ -11211,9 +11211,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Denis Shapovalov",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 73.7,
           "l_score": 56.3,
           "match_score": 73.7
@@ -11591,15 +11591,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Magda Linette",
+          "w": "Lilli Tagger",
           "w_logo": "",
-          "l": "Lilli Tagger",
+          "l": "Magda Linette",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 61.4,
-          "l_score": 60.7,
+          "w_score": 60.7,
+          "l_score": 61.4,
           "match_score": 61.4
         },
         {
@@ -11713,9 +11713,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Yasmine Kabbaj",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 44.3,
           "l_score": null,
           "match_score": 44.3
@@ -11726,9 +11726,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Marjorie Souza",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 41.3,
           "l_score": null,
           "match_score": 41.3
@@ -11739,9 +11739,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maria Lourdes Carle",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -11755,15 +11755,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Susan Bandecchi",
+          "w": "Elsa Jacquemot",
           "w_logo": "",
-          "l": "Elsa Jacquemot",
+          "l": "Susan Bandecchi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-7 (3-7) 6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 55.8,
-          "l_score": 45.7,
+          "scheduled": false,
+          "w_score": 45.7,
+          "l_score": 55.8,
           "match_score": 55.8
         },
         {
@@ -11781,41 +11781,41 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Anna Blinkova",
+          "w": "Katarina Zavatska",
           "w_logo": "",
-          "l": "Katarina Zavatska",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.6,
-          "l_score": null,
-          "match_score": 51.6
-        },
-        {
-          "round": "R64",
-          "w": "Erika Andreeva",
-          "w_logo": "",
-          "l": "Marina Bassols Ribera",
+          "l": "Anna Blinkova",
           "l_logo": "",
           "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
-          "l_score": 49.7,
+          "l_score": 51.6,
+          "match_score": 51.6
+        },
+        {
+          "round": "R64",
+          "w": "Marina Bassols Ribera",
+          "w_logo": "",
+          "l": "Erika Andreeva",
+          "l_logo": "",
+          "score": "6-4 7-6 (9-7)",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 49.7,
+          "l_score": null,
           "match_score": 49.7
         },
         {
           "round": "R64",
-          "w": "Lucrezia Stefanini",
+          "w": "Ayla Aksu",
           "w_logo": "",
-          "l": "Ayla Aksu",
+          "l": "Lucrezia Stefanini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 40.6,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 40.6,
           "match_score": 40.6
         }
       ]
@@ -11966,7 +11966,7 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "aliveCount": 32,
-    "matchesSeen": 48
+    "matchesSeen": 52
   },
   "WTA_TOURNAMENT": {
     "name": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open",
@@ -12161,7 +12161,7 @@ window.TENNIS_DATA = {
       "Zuzanna Pawlikowska"
     ],
     "aliveCount": 79,
-    "matchesSeen": 124
+    "matchesSeen": 130
   },
   "ATP_SCORE_LOG": {
     "206173": [

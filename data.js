@@ -3801,7 +3801,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 8,
         "w": 5,
-        "svpct": 0.897,
+        "svpct": 0.898,
         "gaa": 2.93,
         "so": 0
       },
@@ -5321,7 +5321,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 8,
         "w": 5,
-        "svpct": 0.886,
+        "svpct": 0.887,
         "gaa": 3.11,
         "so": 0
       },
@@ -9588,7 +9588,7 @@ window.NHL_DATA = {
         "p": 5,
         "pm": 4,
         "toi": 19.7,
-        "shots": 17
+        "shots": 18
       },
       "trajectory": [
         38,
@@ -17840,7 +17840,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": 1,
         "toi": 14.8,
-        "shots": 28
+        "shots": 29
       },
       "trajectory": [
         38,
@@ -19276,9 +19276,9 @@ window.NHL_DATA = {
       "name": "Carson Soucy",
       "pos": "D",
       "teamCode": "CBJ",
-      "age": 32,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -22510,9 +22510,9 @@ window.NHL_DATA = {
       "name": "Jared Wright",
       "pos": "RW",
       "teamCode": "LAK",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -25414,9 +25414,9 @@ window.NHL_DATA = {
       "name": "Cameron Crotty",
       "pos": "D",
       "teamCode": "OTT",
-      "age": 27,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c52032",
         "secondary": "#c2912c"
@@ -26305,9 +26305,9 @@ window.NHL_DATA = {
       "name": "Jacob Gaucher",
       "pos": "C",
       "teamCode": "PHI",
-      "age": 25,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -37973,10 +37973,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-29 13:20 UTC",
+  "LAST_UPDATE": "2026-10-29 18:38 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-29T13:19:30Z"
+    "standingsDateTimeUtc": "2026-10-29T18:37:45Z"
   }
 };
