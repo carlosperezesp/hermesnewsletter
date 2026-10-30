@@ -2830,7 +2830,7 @@ window.NHL_DATA = {
         "p": 14,
         "pm": 0,
         "toi": 21.2,
-        "shots": 55
+        "shots": 56
       },
       "trajectory": [
         40,
@@ -3928,7 +3928,7 @@ window.NHL_DATA = {
         "p": 16,
         "pm": -5,
         "toi": 18.1,
-        "shots": 31
+        "shots": 32
       },
       "trajectory": [
         40,
@@ -4283,7 +4283,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 4,
         "w": 3,
-        "svpct": 0.887,
+        "svpct": 0.888,
         "gaa": 2.98,
         "so": 0
       },
@@ -6086,7 +6086,7 @@ window.NHL_DATA = {
         "p": 12,
         "pm": 9,
         "toi": 20.1,
-        "shots": 50
+        "shots": 51
       },
       "trajectory": [
         39,
@@ -8152,7 +8152,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 5,
         "w": 3,
-        "svpct": 0.857,
+        "svpct": 0.855,
         "gaa": 3.2,
         "so": 0
       },
@@ -9748,7 +9748,7 @@ window.NHL_DATA = {
         "p": 6,
         "pm": -4,
         "toi": 17.2,
-        "shots": 26
+        "shots": 25
       },
       "trajectory": [
         38,
@@ -11874,7 +11874,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": 0,
         "toi": 20.8,
-        "shots": 10
+        "shots": 9
       },
       "trajectory": [
         38,
@@ -12777,7 +12777,7 @@ window.NHL_DATA = {
         "p": 7,
         "pm": 3,
         "toi": 10.1,
-        "shots": 15
+        "shots": 14
       },
       "trajectory": [
         38,
@@ -13175,7 +13175,7 @@ window.NHL_DATA = {
         "p": 7,
         "pm": 3,
         "toi": 13.7,
-        "shots": 22
+        "shots": 21
       },
       "trajectory": [
         38,
@@ -19889,7 +19889,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": -3,
         "toi": 13.2,
-        "shots": 18
+        "shots": 19
       },
       "trajectory": [
         38,
@@ -20170,9 +20170,9 @@ window.NHL_DATA = {
       "name": "Axel Sandin-Pellikka",
       "pos": "D",
       "teamCode": "DET",
-      "age": 21,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#ffffff"
@@ -22694,7 +22694,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": -2,
         "toi": 10.8,
-        "shots": 8
+        "shots": 9
       },
       "trajectory": [
         38,
@@ -27232,9 +27232,9 @@ window.NHL_DATA = {
       "name": "Matthew Seminoff",
       "pos": "RW",
       "teamCode": "DAL",
-      "age": 22,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#006847",
         "secondary": "#8f8f8c"
@@ -38380,10 +38380,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-30 13:12 UTC",
+  "LAST_UPDATE": "2026-10-30 18:12 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-30T13:11:30Z"
+    "standingsDateTimeUtc": "2026-10-30T18:11:30Z"
   }
 };
