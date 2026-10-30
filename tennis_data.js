@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-30 00:00 UTC
+// Auto-generated 2026-10-30 01:12 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-30 00:00 UTC",
+  "UPDATED": "2026-10-30 01:12 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11740,9 +11740,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Diletta Cherubini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.7,
           "l_score": null,
           "match_score": 48.7

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-30 00:00 UTC",
+  "UPDATED": "2026-10-30 01:12 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",

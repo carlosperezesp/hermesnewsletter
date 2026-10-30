@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-10-29 23:59 UTC",
+  "UPDATED": "2026-10-30 01:11 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1678,
+    "matches": 1676,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 985
+        "matches": 983
       },
       {
         "name": "IPL",
@@ -1668,7 +1668,7 @@ window.CRICKET_DATA = {
         {
           "id": "virandeep-singh",
           "name": "Virandeep Singh",
-          "role": "Bowler",
+          "role": "All-rounder",
           "country": "Malaysia",
           "teamCode": "MAL",
           "colors": {
@@ -1676,12 +1676,12 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 89.7,
-          "batting": 33.5,
-          "bowling": 55.9,
-          "overall": 89.7,
-          "runs": 905,
-          "wickets": 59
+          "score": 88.9,
+          "batting": 33.9,
+          "bowling": 54.2,
+          "overall": 88.9,
+          "runs": 888,
+          "wickets": 57
         },
         {
           "id": "bilal-zalmai",
@@ -2252,7 +2252,7 @@ window.CRICKET_DATA = {
         {
           "id": "virandeep-singh",
           "name": "Virandeep Singh",
-          "role": "Bowler",
+          "role": "All-rounder",
           "country": "Malaysia",
           "teamCode": "MAL",
           "colors": {
@@ -2260,12 +2260,12 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 85.7,
-          "batting": 33.5,
-          "bowling": 46.1,
-          "overall": 85.7,
-          "runs": 905,
-          "wickets": 59
+          "score": 84.9,
+          "batting": 33.9,
+          "bowling": 44.7,
+          "overall": 84.9,
+          "runs": 888,
+          "wickets": 57
         },
         {
           "id": "bilal-zalmai",

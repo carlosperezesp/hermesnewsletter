@@ -1489,7 +1489,7 @@ window.NHL_DATA = {
       "name": "Cale Makar",
       "pos": "D",
       "teamCode": "COL",
-      "age": 27,
+      "age": 28,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -3558,7 +3558,7 @@ window.NHL_DATA = {
       "name": "Artemi Panarin",
       "pos": "LW",
       "teamCode": "LAK",
-      "age": 34,
+      "age": 35,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -5929,7 +5929,7 @@ window.NHL_DATA = {
       "name": "Tage Thompson",
       "pos": "C",
       "teamCode": "BUF",
-      "age": 28,
+      "age": 29,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -11664,7 +11664,7 @@ window.NHL_DATA = {
       "name": "Dennis Gilbert",
       "pos": "D",
       "teamCode": "BUF",
-      "age": 29,
+      "age": 30,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -13931,7 +13931,7 @@ window.NHL_DATA = {
       "name": "Jesper Boqvist",
       "pos": "C",
       "teamCode": "NJD",
-      "age": 27,
+      "age": 28,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -37973,10 +37973,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-29 23:57 UTC",
+  "LAST_UPDATE": "2026-10-30 01:09 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-29T23:56:45Z"
+    "standingsDateTimeUtc": "2026-10-30T01:08:45Z"
   }
 };
