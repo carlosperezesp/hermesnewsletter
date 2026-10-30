@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-30 11:26 UTC
+// Auto-generated 2026-10-30 13:14 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-30 11:26 UTC",
+  "UPDATED": "2026-10-30 13:14 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8947,7 +8947,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 45.9
@@ -10109,7 +10109,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11087,9 +11087,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Adrian Mannarino",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 77.7,
           "l_score": 48.5,
           "match_score": 77.7
@@ -11487,15 +11487,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Lilli Tagger",
+          "w": "Shi Han",
           "w_logo": "",
-          "l": "Shi Han",
+          "l": "Lilli Tagger",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 60.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 60.7,
           "match_score": 60.7
         },
         {
@@ -11526,15 +11526,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Claire Liu",
+          "w": "Xinran Sun",
           "w_logo": "",
-          "l": "Xinran Sun",
+          "l": "Claire Liu",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 7-6 (7-2)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 45.3,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 45.3,
           "match_score": 45.3
         }
       ]
@@ -11677,15 +11677,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Marina Bassols Ribera",
+          "w": "Alina Charaeva",
           "w_logo": "",
-          "l": "Alina Charaeva",
+          "l": "Marina Bassols Ribera",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.7,
-          "l_score": 39.8,
+          "scheduled": false,
+          "w_score": 39.8,
+          "l_score": 49.7,
           "match_score": 49.7
         },
         {
@@ -11707,9 +11707,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ayla Aksu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -12062,7 +12062,7 @@ window.TENNIS_DATA = {
       "Zuzanna Pawlikowska"
     ],
     "aliveCount": 79,
-    "matchesSeen": 138
+    "matchesSeen": 139
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -764,7 +764,7 @@ window.NFL_DATA = {
         "rushYds": 10,
         "rushTd": 0
       },
-      "prevRank": 7
+      "prevRank": 1
     },
     {
       "id": 3046779,
@@ -790,7 +790,7 @@ window.NFL_DATA = {
         "rushYds": 15,
         "rushTd": 0
       },
-      "prevRank": 1
+      "prevRank": 2
     },
     {
       "id": 14880,
@@ -816,7 +816,7 @@ window.NFL_DATA = {
         "rushYds": 4,
         "rushTd": 0
       },
-      "prevRank": 2
+      "prevRank": 3
     },
     {
       "id": 3915511,
@@ -842,7 +842,7 @@ window.NFL_DATA = {
         "rushYds": 60,
         "rushTd": 0
       },
-      "prevRank": 3
+      "prevRank": 4
     },
     {
       "id": 4361741,
@@ -868,7 +868,7 @@ window.NFL_DATA = {
         "rushYds": 161,
         "rushTd": 1
       },
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 4432577,
@@ -894,7 +894,7 @@ window.NFL_DATA = {
         "rushYds": 80,
         "rushTd": 0
       },
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "id": 12483,
@@ -920,7 +920,7 @@ window.NFL_DATA = {
         "rushYds": 18,
         "rushTd": 0
       },
-      "prevRank": 6
+      "prevRank": 7
     },
     {
       "id": 4685720,
@@ -946,7 +946,7 @@ window.NFL_DATA = {
         "rushYds": 34,
         "rushTd": 0
       },
-      "prevRank": 11
+      "prevRank": 8
     },
     {
       "id": 2577417,
@@ -972,7 +972,7 @@ window.NFL_DATA = {
         "rushYds": 81,
         "rushTd": 0
       },
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 8439,
@@ -998,7 +998,7 @@ window.NFL_DATA = {
         "rushYds": 23,
         "rushTd": 0
       },
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 4360310,
@@ -1882,7 +1882,7 @@ window.NFL_DATA = {
         "gap": 15.3,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 8
+        "prevRank": 4
       },
       {
         "id": 2577417,
@@ -1899,7 +1899,7 @@ window.NFL_DATA = {
         "gap": 16.0,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 3915511,
@@ -1916,7 +1916,7 @@ window.NFL_DATA = {
         "gap": 16.9,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "id": 15864,
@@ -1933,7 +1933,7 @@ window.NFL_DATA = {
         "gap": 18.1,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "id": 4361741,
@@ -1950,7 +1950,7 @@ window.NFL_DATA = {
         "gap": 21.2,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 4432577,
@@ -1984,7 +1984,7 @@ window.NFL_DATA = {
         "gap": 24.7,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "youngProspects": [
@@ -2020,7 +2020,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 11.6,
         "note": "De los mejores de su generación",
-        "prevRank": 3
+        "prevRank": 2
       },
       {
         "id": 4431452,
@@ -2037,7 +2037,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 13.2,
         "note": "Inicio elite — techo altísimo",
-        "prevRank": 2
+        "prevRank": 3
       },
       {
         "id": 4431611,
@@ -2071,7 +2071,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 30.8,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 6
+        "prevRank": 5
       },
       {
         "id": 4688380,
@@ -2088,7 +2088,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 31.1,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 5
+        "prevRank": 6
       }
     ]
   },
@@ -2105,7 +2105,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-30 11:24 UTC",
+  "LAST_UPDATE": "2026-10-30 13:12 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
