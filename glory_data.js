@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-30 01:12 UTC",
+  "UPDATED": "2026-10-30 11:26 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -116,6 +116,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Jacoby Brissett",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Jacoby Brissett entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-30"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Tim Stützle",
       "sport": "nhl",
       "detail": "NHL",
@@ -130,15 +148,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Ivan Demidov",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Ivan Demidov entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-28"
     },
@@ -341,6 +350,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:out:Trevor Lawrence",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Trevor Lawrence cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-30"
+    },
+    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Nauman Ali",
       "sport": "cricket",
       "detail": "Cricket",
@@ -486,17 +504,17 @@ window.GLORY_DATA = {
       "David Pastrnak",
       "Auston Matthews",
       "Erik Karlsson",
+      "Roman Josi",
       "Matthew Tkachuk",
-      "Jack Eichel",
-      "Roman Josi"
+      "Jack Eichel"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
       "Colorado Avalanche",
       "Florida Panthers",
       "St. Louis Blues",
-      "Edmonton Oilers",
       "Carolina Hurricanes",
+      "Edmonton Oilers",
       "Boston Bruins",
       "Minnesota Wild",
       "Dallas Stars",
@@ -505,13 +523,13 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
       "Macklin Celebrini",
-      "Lane Hutson",
       "Jackson LaCombe",
+      "Lane Hutson",
+      "Leo Carlsson",
       "Owen Power",
       "Jake Sanderson",
-      "Leo Carlsson",
       "Beckett Sennecke",
-      "Ivan Demidov",
+      "Cole Hutson",
       "Tim Stützle"
     ],
     "nba:ROAD_TO_GLORY.players": [
@@ -590,21 +608,21 @@ window.GLORY_DATA = {
       "Matthew Stafford",
       "Jared Goff",
       "Kirk Cousins",
+      "Jordan Love",
       "Dak Prescott",
       "Joe Burrow",
       "Geno Smith",
       "Brock Purdy",
-      "Jordan Love",
       "C.J. Stroud",
-      "Trevor Lawrence"
+      "Jacoby Brissett"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
       "C.J. Stroud",
-      "Drake Maye",
       "Bryce Young",
+      "Drake Maye",
       "Caleb Williams",
-      "Cam Ward",
-      "Jayden Daniels"
+      "Jayden Daniels",
+      "Cam Ward"
     ],
     "tennis:ATP": [
       "Jannik Sinner",
