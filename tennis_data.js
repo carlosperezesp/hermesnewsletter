@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-30 18:15 UTC
+// Auto-generated 2026-10-30 18:50 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-30 18:15 UTC",
+  "UPDATED": "2026-10-30 18:50 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7811,7 +7811,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Curitiba Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.3
@@ -9123,7 +9123,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Curitiba Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 44.3
@@ -9931,7 +9931,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Curitiba Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -10143,7 +10143,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Curitiba Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11133,7 +11133,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jerome Kym",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 73.8,
@@ -11605,15 +11605,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Solana Sierra",
+          "w": "Julia Riera",
           "w_logo": "",
-          "l": "Julia Riera",
+          "l": "Solana Sierra",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "1-6 6-4 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 55.3,
-          "l_score": 44.3,
+          "w_score": 44.3,
+          "l_score": 55.3,
           "match_score": 55.3
         },
         {
@@ -11635,7 +11635,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Leyre Romero Gormaz",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "1-6 6-4 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 35.0,
@@ -12062,7 +12062,7 @@ window.TENNIS_DATA = {
       "Zuzanna Pawlikowska"
     ],
     "aliveCount": 79,
-    "matchesSeen": 142
+    "matchesSeen": 143
   },
   "ATP_SCORE_LOG": {
     "206173": [
