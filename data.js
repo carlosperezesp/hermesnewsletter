@@ -4824,9 +4824,9 @@ window.NHL_DATA = {
       "name": "Michal Postava",
       "pos": "G",
       "teamCode": "DET",
-      "age": 24,
-      "country": "Czechia",
-      "birthCountry": "CZE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#ffffff"
@@ -8374,9 +8374,9 @@ window.NHL_DATA = {
       "name": "Dylan Larkin",
       "pos": "C",
       "teamCode": "DET",
-      "age": 30,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#ffffff"
@@ -17857,9 +17857,9 @@ window.NHL_DATA = {
       "name": "Travis Mitchell",
       "pos": "D",
       "teamCode": "ANA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 26,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -26800,9 +26800,9 @@ window.NHL_DATA = {
       "name": "Sheldon Dries",
       "pos": "C",
       "teamCode": "DET",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 32,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#ce1126",
         "secondary": "#ffffff"
@@ -37973,10 +37973,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-29 19:10 UTC",
+  "LAST_UPDATE": "2026-10-29 23:57 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-29T19:10:15Z"
+    "standingsDateTimeUtc": "2026-10-29T23:56:45Z"
   }
 };
