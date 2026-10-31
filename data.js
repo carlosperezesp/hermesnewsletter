@@ -20404,9 +20404,9 @@ window.NHL_DATA = {
       "name": "Daniil But",
       "pos": "LW",
       "teamCode": "UTA",
-      "age": 21,
-      "country": "Russia",
-      "birthCountry": "RUS",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#69b3e7",
         "secondary": "#010101"
@@ -23209,9 +23209,9 @@ window.NHL_DATA = {
       "name": "Gavin Brindley",
       "pos": "C",
       "teamCode": "COL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#6f263d",
         "secondary": "#236192"
@@ -38441,10 +38441,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-31 12:47 UTC",
+  "LAST_UPDATE": "2026-10-31 17:21 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-31T12:47:15Z"
+    "standingsDateTimeUtc": "2026-10-31T17:21:00Z"
   }
 };

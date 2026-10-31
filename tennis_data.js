@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-31 12:49 UTC
+// Auto-generated 2026-10-31 17:24 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-31 12:49 UTC",
+  "UPDATED": "2026-10-31 17:24 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -305,7 +305,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 77.7
@@ -577,7 +577,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Swiss Indoors Basel",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 73.6
@@ -8253,7 +8253,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Valle D'Aosta Ladies Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 51.7
@@ -9123,7 +9123,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Curitiba Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 44.3
@@ -10143,7 +10143,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Curitiba Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10215,7 +10215,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Valle D'Aosta Ladies Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11009,24 +11009,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 7-6 (7-2)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.7,
           "l_score": 77.7,
           "match_score": 90.7
         },
         {
           "round": "Semifinal",
-          "w": "Alexander Zverev",
+          "w": "Alex de Minaur",
           "w_logo": "",
-          "l": "Alex de Minaur",
+          "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 86.7,
-          "l_score": 75.0,
+          "scheduled": false,
+          "w_score": 75.0,
+          "l_score": 86.7,
           "match_score": 86.7
         }
       ]
@@ -11038,28 +11038,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Jiri Lehecka",
+          "w": "Jan-Lennard Struff",
           "w_logo": "",
-          "l": "Jan-Lennard Struff",
+          "l": "Jiri Lehecka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 73.8,
-          "l_score": 54.1,
+          "scheduled": false,
+          "w_score": 54.1,
+          "l_score": 73.8,
           "match_score": 73.8
         },
         {
           "round": "Semifinal",
-          "w": "Taylor Fritz",
+          "w": "Valentin Vacherot",
           "w_logo": "",
-          "l": "Valentin Vacherot",
+          "l": "Taylor Fritz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-5) 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 73.7,
-          "l_score": 71.8,
+          "scheduled": false,
+          "w_score": 71.8,
+          "l_score": 73.7,
           "match_score": 73.7
         }
       ]
@@ -11436,15 +11436,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Julia Riera",
+          "w": "Julia Grabher",
           "w_logo": "",
-          "l": "Julia Grabher",
+          "l": "Julia Riera",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 44.3,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 44.3,
           "match_score": 44.3
         },
         {
@@ -11453,9 +11453,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nauhany Vitoria Leme Da Silva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11469,28 +11469,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Anna Blinkova",
+          "w": "Noma Noha Akugue",
           "w_logo": "",
-          "l": "Noma Noha Akugue",
+          "l": "Anna Blinkova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.6,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 51.6,
           "match_score": 51.6
         },
         {
           "round": "Semifinal",
-          "w": "Elsa Jacquemot",
+          "w": "Alina Charaeva",
           "w_logo": "",
-          "l": "Alina Charaeva",
+          "l": "Elsa Jacquemot",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 4-6 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 45.7,
-          "l_score": 39.8,
+          "scheduled": false,
+          "w_score": 39.8,
+          "l_score": 45.7,
           "match_score": 45.7
         }
       ]
@@ -11850,7 +11850,7 @@ window.TENNIS_DATA = {
       "Zuzanna Pawlikowska"
     ],
     "aliveCount": 109,
-    "matchesSeen": 172
+    "matchesSeen": 174
   },
   "ATP_SCORE_LOG": {
     "206173": [
