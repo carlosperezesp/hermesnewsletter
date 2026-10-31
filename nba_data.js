@@ -103,6 +103,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "POR",
+      "city": "Portland Trail Blazers",
+      "shortName": "Portland",
+      "commonName": "Trail Blazers",
+      "conf": "W",
+      "gp": 5,
+      "w": 4,
+      "l": 1,
+      "winPct": 0.8,
+      "gf": 603,
+      "ga": 546,
+      "gd": 57,
+      "score": 86,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+      "colors": {
+        "primary": "#e03a3e",
+        "secondary": "#000000"
+      }
+    },
+    {
       "code": "BOS",
       "city": "Boston Celtics",
       "shortName": "Boston",
@@ -199,26 +219,6 @@ window.NBA_DATA = {
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
       "colors": {
         "primary": "#ce1141",
-        "secondary": "#000000"
-      }
-    },
-    {
-      "code": "POR",
-      "city": "Portland Trail Blazers",
-      "shortName": "Portland",
-      "commonName": "Trail Blazers",
-      "conf": "W",
-      "gp": 4,
-      "w": 3,
-      "l": 1,
-      "winPct": 0.75,
-      "gf": 491,
-      "ga": 456,
-      "gd": 35,
-      "score": 77,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
-      "colors": {
-        "primary": "#e03a3e",
         "secondary": "#000000"
       }
     },
@@ -483,26 +483,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "UTAH",
-      "city": "Utah Jazz",
-      "shortName": "Utah",
-      "commonName": "Jazz",
-      "conf": "W",
-      "gp": 5,
-      "w": 1,
-      "l": 4,
-      "winPct": 0.2,
-      "gf": 562,
-      "ga": 601,
-      "gd": -39,
-      "score": 2,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
-      "colors": {
-        "primary": "#002b5e",
-        "secondary": "#00471b"
-      }
-    },
-    {
       "code": "PHX",
       "city": "Phoenix Suns",
       "shortName": "Phoenix",
@@ -540,6 +520,26 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#00471b",
         "secondary": "#eee1c6"
+      }
+    },
+    {
+      "code": "UTAH",
+      "city": "Utah Jazz",
+      "shortName": "Utah",
+      "commonName": "Jazz",
+      "conf": "W",
+      "gp": 6,
+      "w": 1,
+      "l": 5,
+      "winPct": 0.167,
+      "gf": 652,
+      "ga": 713,
+      "gd": -61,
+      "score": 0,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+      "colors": {
+        "primary": "#002b5e",
+        "secondary": "#00471b"
       }
     },
     {
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-31 17:54 UTC",
+  "LAST_UPDATE": "2026-10-31 23:24 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

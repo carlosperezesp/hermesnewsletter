@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-31 17:56 UTC",
+  "UPDATED": "2026-10-31 23:26 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Mexico City Grand Prix:Charles Leclerc",
@@ -124,13 +124,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Connor Bedard",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
-      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
+      "text": "Connor Bedard entra en el top-10 · jóvenes promesas",
       "weight": 84,
-      "firstSeen": "2026-10-30"
+      "firstSeen": "2026-10-31"
     },
     {
       "id": "rank:nfl:ROAD_TO_GLORY.players:in:Jacoby Brissett",
@@ -512,8 +512,8 @@ window.GLORY_DATA = {
       "David Pastrnak",
       "Auston Matthews",
       "Erik Karlsson",
-      "Roman Josi",
       "Matthew Tkachuk",
+      "Roman Josi",
       "Jack Eichel"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
@@ -521,8 +521,8 @@ window.GLORY_DATA = {
       "Florida Panthers",
       "Colorado Avalanche",
       "St. Louis Blues",
-      "Carolina Hurricanes",
       "Edmonton Oilers",
+      "Carolina Hurricanes",
       "Boston Bruins",
       "Minnesota Wild",
       "Dallas Stars",
@@ -530,15 +530,15 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
-      "Macklin Celebrini",
       "Jackson LaCombe",
+      "Jake Sanderson",
+      "Macklin Celebrini",
       "Lane Hutson",
       "Leo Carlsson",
+      "Tim Stützle",
       "Owen Power",
-      "Jake Sanderson",
-      "Beckett Sennecke",
-      "Cole Hutson",
-      "Tim Stützle"
+      "Connor Bedard",
+      "Beckett Sennecke"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",

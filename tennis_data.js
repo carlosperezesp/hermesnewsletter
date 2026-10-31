@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-31 17:56 UTC
+// Auto-generated 2026-10-31 23:26 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-31 17:56 UTC",
+  "UPDATED": "2026-10-31 23:26 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -67,7 +67,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 90.7
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 86.7
@@ -441,7 +441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 75.3
@@ -11022,7 +11022,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 1-6 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 75.0,
@@ -11038,15 +11038,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Jan-Lennard Struff",
+          "w": "Jiri Lehecka",
           "w_logo": "",
-          "l": "Jiri Lehecka",
+          "l": "Jan-Lennard Struff",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 7-5 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 54.1,
-          "l_score": 73.8,
+          "w_score": 73.8,
+          "l_score": 54.1,
           "match_score": 73.8
         },
         {
@@ -11625,7 +11625,7 @@ window.TENNIS_DATA = {
       "Yannick Hanfmann"
     ],
     "aliveCount": 53,
-    "matchesSeen": 78
+    "matchesSeen": 80
   },
   "WTA_TOURNAMENT": {
     "name": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open · Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami",
