@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-31 00:55 UTC
+// Auto-generated 2026-10-31 10:58 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-31 00:55 UTC",
+  "UPDATED": "2026-10-31 10:58 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5493,8 +5493,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Toray Pan Pacific Open Tennis",
-        "state": "out",
+        "tournament": "Prudential Hong Kong Tennis Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -5903,7 +5903,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 75.9
@@ -6207,9 +6207,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Toray Pan Pacific Open Tennis",
+        "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 68.9
@@ -6241,9 +6241,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Toray Pan Pacific Open Tennis",
+        "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 67.6
@@ -6445,10 +6445,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open · Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Prudential Hong Kong Tennis Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 64.5
     },
@@ -6753,10 +6753,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open · Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Prudential Hong Kong Tennis Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.0
     },
@@ -7263,7 +7263,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "Toray Pan Pacific Open Tennis",
+        "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7365,9 +7365,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Toray Pan Pacific Open Tennis",
+        "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 57.8
@@ -7433,8 +7433,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Toray Pan Pacific Open Tennis",
-        "state": "out",
+        "tournament": "Prudential Hong Kong Tennis Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7467,7 +7467,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open",
+        "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7501,8 +7501,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open",
-        "state": "out",
+        "tournament": "Prudential Hong Kong Tennis Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7537,9 +7537,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open",
+        "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 56.4
@@ -7571,7 +7571,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open",
+        "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7605,9 +7605,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Toray Pan Pacific Open Tennis",
+        "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 56.1
@@ -7775,10 +7775,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open · Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Prudential Hong Kong Tennis Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 54.3
     },
@@ -8049,7 +8049,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Queretaro Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 52.1
@@ -8219,7 +8219,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 51.5
@@ -8673,7 +8673,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Queretaro Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -8705,9 +8705,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open",
+        "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 49.4
@@ -9051,7 +9051,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open",
+        "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -9259,7 +9259,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Queretaro Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 42.9
@@ -9679,9 +9679,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Valle D'Aosta Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 40.1
@@ -9787,7 +9787,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Toray Pan Pacific Open Tennis",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 37.4
@@ -10071,10 +10071,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open · Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Prudential Hong Kong Tennis Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -10249,10 +10249,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open · Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Prudential Hong Kong Tennis Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -11387,9 +11387,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Xinran Sun",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -11407,9 +11407,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mia Pohankova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 7-6 (9-7)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.9,
           "l_score": 37.4,
           "match_score": 75.9
@@ -11420,9 +11420,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kamilla Rakhimova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 68.5,
           "l_score": 51.6,
           "match_score": 68.5
@@ -11506,24 +11506,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alicia Herrero Linana",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.7,
           "l_score": null,
           "match_score": 48.7
         },
         {
           "round": "Quarterfinal",
-          "w": "Elizabeth Mandlik",
+          "w": "Fiona Ferro",
           "w_logo": "",
-          "l": "Fiona Ferro",
+          "l": "Elizabeth Mandlik",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-7 (5-7) 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 43.0,
+          "w_score": 43.0,
+          "l_score": null,
           "match_score": 43.0
         }
       ]
@@ -11674,6 +11674,7 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Adithya Karunaratne",
       "Adriana Reami",
       "Alexandra Eala",
       "Aliaksandra Sasnovich",
@@ -11683,6 +11684,7 @@ window.TENNIS_DATA = {
       "Alycia Parks",
       "Anna Blinkova",
       "Anna Bondar",
+      "Antonia Ruzic",
       "Antonia Vergara Rivera",
       "Ayla Aksu",
       "Bianca Andreescu",
@@ -11714,6 +11716,7 @@ window.TENNIS_DATA = {
       "Kamilla Rakhimova",
       "Katarina Zavatska",
       "Katerina Siniakova",
+      "Katie Boulter",
       "Leylah Fernandez",
       "Leyre Romero Gormaz",
       "Lilli Tagger",
@@ -11723,6 +11726,7 @@ window.TENNIS_DATA = {
       "Lucrezia Stefanini",
       "Luisina Giovannini",
       "Luna Maria Cinalli",
+      "Maddison Inglis",
       "Magda Linette",
       "Maria Lourdes Carle",
       "Maria Timofeeva",
@@ -11730,6 +11734,7 @@ window.TENNIS_DATA = {
       "Marjorie Souza",
       "Martina Colmegna",
       "Martyna Kubka",
+      "Mary Stoiana",
       "Maya Joint",
       "Mia Pohankova",
       "Miriam Bulgaru",
@@ -11738,17 +11743,24 @@ window.TENNIS_DATA = {
       "Nauhany Vitoria Leme Da Silva",
       "Noma Noha Akugue",
       "Oksana Selekhmeteva",
+      "Oleksandra Oliynykova",
       "Paula Badosa",
       "Polona Hercog",
       "Selena Janicijevic",
       "Shi Han",
       "Sinja Kraus",
+      "Sofia Kenin",
       "Solana Sierra",
+      "Sorana Cirstea",
       "Susan Bandecchi",
       "Talia Gibson",
       "Tamara Zidansek",
       "Tatjana Maria",
+      "Tereza Valentova",
       "Valeriya Strakhova",
+      "Venus Williams",
+      "Viktorija Golubic",
+      "Wang Xinyu",
       "Xinran Sun",
       "Yasmine Kabbaj",
       "Yulia Putintseva",
@@ -11763,7 +11775,6 @@ window.TENNIS_DATA = {
       "Anastasia Zakharova",
       "Anastasiia Sobolieva",
       "Ann Li",
-      "Antonia Ruzic",
       "Berta Bonardi",
       "Carlota Garibay Romero",
       "Carol Young Suh Lee",
@@ -11820,21 +11831,16 @@ window.TENNIS_DATA = {
       "Simona Waltert",
       "Sofia Costoulas",
       "Sofia Johnson",
-      "Sofia Kenin",
-      "Sorana Cirstea",
       "Tatiana Prozorova",
       "Teodora Kostovic",
-      "Tereza Valentova",
-      "Venus Williams",
       "Victoria Bosio",
       "Victoria Jimenez Kasintseva",
       "Victoria Rodriguez",
-      "Wang Xinyu",
       "Yelyzaveta Kotliar",
       "Zuzanna Pawlikowska"
     ],
-    "aliveCount": 79,
-    "matchesSeen": 144
+    "aliveCount": 91,
+    "matchesSeen": 159
   },
   "ATP_SCORE_LOG": {
     "206173": [

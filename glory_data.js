@@ -1,12 +1,20 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-31 00:55 UTC",
+  "UPDATED": "2026-10-31 10:58 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Mexico City Grand Prix:Charles Leclerc",
       "sport": "f1",
       "detail": "F1",
       "text": "Charles Leclerc ganó el Mexico City Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
+      "sport": "indycar",
+      "detail": "IndyCar",
+      "text": "Scott McLaughlin ganó en Grand Prix of Monterey",
       "weight": 100,
       "firstSeen": "2026-10-31"
     },
@@ -35,13 +43,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-24"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Los Angeles Lakers",
+      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Boston Celtics",
       "sport": "nba",
       "detail": "NBA",
       "anchor": "nba-dinastias",
-      "text": "Los Angeles Lakers es nuevo nº1 · dinastías",
+      "text": "Boston Celtics es nuevo nº1 · dinastías",
       "weight": 92,
-      "firstSeen": "2026-10-29"
+      "firstSeen": "2026-10-31"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Matthew Schaefer",
@@ -510,8 +518,8 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
-      "Colorado Avalanche",
       "Florida Panthers",
+      "Colorado Avalanche",
       "St. Louis Blues",
       "Carolina Hurricanes",
       "Edmonton Oilers",
@@ -545,13 +553,13 @@ window.GLORY_DATA = {
       "Joel Embiid"
     ],
     "nba:ROAD_TO_GLORY.teams": [
-      "Los Angeles Lakers",
       "Boston Celtics",
       "Oklahoma City Thunder",
+      "Los Angeles Lakers",
       "Minnesota Timberwolves",
-      "San Antonio Spurs",
       "Denver Nuggets",
       "Golden State Warriors",
+      "San Antonio Spurs",
       "New York Knicks",
       "Indiana Pacers",
       "Milwaukee Bucks"
