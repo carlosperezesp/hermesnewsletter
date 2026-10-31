@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-30 23:48 UTC
+// Auto-generated 2026-10-31 00:53 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-10-30 23:48 UTC",
+  "UPDATED": "2026-10-31 00:53 UTC",
   "SEASON": "2026",
   "ROUND": 17,
   "TOTAL_ROUNDS": 25,
@@ -561,9 +561,9 @@ window.F1_DATA = {
     "includesSprint": false
   },
   "LAST_RACE": {
-    "name": "MSC Cruises United States Grand Prix",
-    "date": "2026-10-23",
-    "circuit": "Circuit of the Americas",
+    "name": "Mexico City Grand Prix",
+    "date": "2026-10-30",
+    "circuit": "Autodromo Hermanos Rodriguez",
     "round": 0,
     "state": "post",
     "podium": [
@@ -576,17 +576,17 @@ window.F1_DATA = {
       },
       {
         "position": 2,
-        "name": "Max Verstappen",
-        "team": "red_bull",
+        "name": "Kimi Antonelli",
+        "team": "mercedes",
         "time": "",
-        "primary": "#3671C6"
+        "primary": "#00D2BE"
       },
       {
         "position": 3,
-        "name": "Lando Norris",
-        "team": "mclaren",
+        "name": "Frederik Vesti",
+        "team": "",
         "time": "",
-        "primary": "#FF8000"
+        "primary": "#555555"
       }
     ]
   },

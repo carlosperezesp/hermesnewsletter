@@ -97,19 +97,41 @@ window.NHL_DATA = {
       "commonName": "Golden Knights",
       "conf": "W",
       "div": "Pacific",
-      "gp": 14,
+      "gp": 15,
       "w": 9,
-      "l": 4,
+      "l": 5,
       "ot": 1,
       "pts": 19,
-      "gf": 51,
-      "ga": 39,
-      "gd": 12,
-      "score": 60,
+      "gf": 53,
+      "ga": 44,
+      "gd": 9,
+      "score": 57,
       "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
+      }
+    },
+    {
+      "code": "NJD",
+      "city": "New Jersey Devils",
+      "shortName": "New Jersey",
+      "commonName": "Devils",
+      "conf": "E",
+      "div": "Metro",
+      "gp": 14,
+      "w": 9,
+      "l": 5,
+      "ot": 0,
+      "pts": 18,
+      "gf": 48,
+      "ga": 40,
+      "gd": 8,
+      "score": 56,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#111111"
       }
     },
     {
@@ -242,28 +264,6 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
-      }
-    },
-    {
-      "code": "NJD",
-      "city": "New Jersey Devils",
-      "shortName": "New Jersey",
-      "commonName": "Devils",
-      "conf": "E",
-      "div": "Metro",
-      "gp": 13,
-      "w": 8,
-      "l": 5,
-      "ot": 0,
-      "pts": 16,
-      "gf": 43,
-      "ga": 38,
-      "gd": 5,
-      "score": 55,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#111111"
       }
     },
     {
@@ -19741,7 +19741,7 @@ window.NHL_DATA = {
       "name": "Nick Foligno",
       "pos": "LW",
       "teamCode": "MIN",
-      "age": 38,
+      "age": 39,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -37996,9 +37996,9 @@ window.NHL_DATA = {
         "city": "Vegas Golden Knights",
         "era": "2018–present",
         "cups": 2,
-        "dynastyScore": 71.0,
+        "dynastyScore": 69.3,
         "threshold": 89.7,
-        "gap": 18.7,
+        "gap": 20.4,
         "note": "2023 & 2025 Cups · fastest expansion dynasty · 2026 Finals",
         "needs": "1–2 more Cups + sustained regular-season excellence",
         "colors": {
@@ -38380,10 +38380,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-30 23:47 UTC",
+  "LAST_UPDATE": "2026-10-31 00:52 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-30T23:46:45Z"
+    "standingsDateTimeUtc": "2026-10-31T00:52:30Z"
   }
 };

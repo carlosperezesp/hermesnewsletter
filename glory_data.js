@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-30 23:50 UTC",
+  "UPDATED": "2026-10-31 00:55 UTC",
   "EVENTS": [
+    {
+      "id": "f1:win:Mexico City Grand Prix:Charles Leclerc",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "Charles Leclerc ganó el Mexico City Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-10-31"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
       "sport": "nascar",
@@ -25,14 +33,6 @@ window.GLORY_DATA = {
       "text": "Charles Leclerc ganó el MSC Cruises United States Grand Prix",
       "weight": 100,
       "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
-      "sport": "indycar",
-      "detail": "IndyCar",
-      "text": "Scott McLaughlin ganó en Grand Prix of Monterey",
-      "weight": 100,
-      "firstSeen": "2026-10-16"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Los Angeles Lakers",
