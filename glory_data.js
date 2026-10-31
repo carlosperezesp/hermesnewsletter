@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-31 10:58 UTC",
+  "UPDATED": "2026-10-31 12:49 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Mexico City Grand Prix:Charles Leclerc",

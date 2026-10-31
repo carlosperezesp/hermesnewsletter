@@ -846,7 +846,7 @@ window.NHL_DATA = {
         85
       ],
       "legendScore": 53.7,
-      "prevRank": 10
+      "prevRank": 4
     },
     {
       "id": 8477934,
@@ -881,7 +881,7 @@ window.NHL_DATA = {
         83
       ],
       "legendScore": 65.4,
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 8484170,
@@ -913,7 +913,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "id": 8485366,
@@ -948,7 +948,7 @@ window.NHL_DATA = {
         82
       ],
       "legendScore": 43.7,
-      "prevRank": 6
+      "prevRank": 7
     },
     {
       "id": 8476999,
@@ -980,7 +980,7 @@ window.NHL_DATA = {
         60,
         81
       ],
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "id": 8479410,
@@ -1015,7 +1015,7 @@ window.NHL_DATA = {
         81
       ],
       "legendScore": 48.8,
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 8474600,
@@ -1050,7 +1050,7 @@ window.NHL_DATA = {
         81
       ],
       "legendScore": 58.2,
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 8479323,
@@ -38082,7 +38082,7 @@ window.NHL_DATA = {
           "primary": "#041e42",
           "secondary": "#c8102e"
         },
-        "prevRank": 3
+        "prevRank": 2
       },
       {
         "teamCode": "COL",
@@ -38098,7 +38098,7 @@ window.NHL_DATA = {
           "primary": "#6f263d",
           "secondary": "#236192"
         },
-        "prevRank": 2
+        "prevRank": 3
       },
       {
         "teamCode": "STL",
@@ -38441,10 +38441,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-31 10:55 UTC",
+  "LAST_UPDATE": "2026-10-31 12:47 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-31T10:55:15Z"
+    "standingsDateTimeUtc": "2026-10-31T12:47:15Z"
   }
 };
