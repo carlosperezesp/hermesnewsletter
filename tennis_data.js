@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-01 18:33 UTC
+// Auto-generated 2026-11-01 23:38 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-01 18:33 UTC",
+  "UPDATED": "2026-11-01 23:38 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7809,9 +7809,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Curitiba Open",
+        "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 55.3
@@ -9929,9 +9929,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Curitiba Open",
+        "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -11242,15 +11242,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Tatjana Maria",
+          "w": "Bianca Andreescu",
           "w_logo": "",
-          "l": "Bianca Andreescu",
+          "l": "Tatjana Maria",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 52.0,
-          "l_score": 48.7,
+          "scheduled": false,
+          "w_score": 48.7,
+          "l_score": 52.0,
           "match_score": 52.0
         },
         {
@@ -11465,7 +11465,7 @@ window.TENNIS_DATA = {
       "Carmen Andreea Herea",
       "Carol Young Suh Lee",
       "Carole Monnet",
-      "Caroline Dolehide",
+      "Carolina Alves",
       "Claire Liu",
       "Cristina Bucsa",
       "Dayana Yastremska",
@@ -11539,7 +11539,9 @@ window.TENNIS_DATA = {
       "Mai Hontama",
       "Mananchaya Sawangkaew",
       "Maria Camila Torres Murcia",
+      "Maria Herazo Gonzalez",
       "Maria Lourdes Carle",
+      "Maria Paulina Perez Garcia",
       "Maria Sakkari",
       "Maria Timofeeva",
       "Marina Bassols Ribera",
@@ -11614,7 +11616,6 @@ window.TENNIS_DATA = {
       "Ann Li",
       "Berta Bonardi",
       "Carlota Garibay Romero",
-      "Carolina Alves",
       "Caroline Werner",
       "Dalma Galfi",
       "Danka Kovinic",
@@ -11656,8 +11657,8 @@ window.TENNIS_DATA = {
       "Yelyzaveta Kotliar",
       "Zuzanna Pawlikowska"
     ],
-    "aliveCount": 159,
-    "matchesSeen": 207
+    "aliveCount": 161,
+    "matchesSeen": 211
   },
   "ATP_SCORE_LOG": {
     "206173": [

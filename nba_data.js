@@ -63,6 +63,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "BOS",
+      "city": "Boston Celtics",
+      "shortName": "Boston",
+      "commonName": "Celtics",
+      "conf": "E",
+      "gp": 6,
+      "w": 5,
+      "l": 1,
+      "winPct": 0.833,
+      "gf": 712,
+      "ga": 655,
+      "gd": 57,
+      "score": 85,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+      "colors": {
+        "primary": "#007a33",
+        "secondary": "#ba9653"
+      }
+    },
+    {
       "code": "DET",
       "city": "Detroit Pistons",
       "shortName": "Detroit",
@@ -120,26 +140,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#e03a3e",
         "secondary": "#000000"
-      }
-    },
-    {
-      "code": "BOS",
-      "city": "Boston Celtics",
-      "shortName": "Boston",
-      "commonName": "Celtics",
-      "conf": "E",
-      "gp": 5,
-      "w": 4,
-      "l": 1,
-      "winPct": 0.8,
-      "gf": 604,
-      "ga": 558,
-      "gd": 46,
-      "score": 82,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
-      "colors": {
-        "primary": "#007a33",
-        "secondary": "#ba9653"
       }
     },
     {
@@ -448,14 +448,14 @@ window.NBA_DATA = {
       "shortName": "Orlando",
       "commonName": "Magic",
       "conf": "E",
-      "gp": 5,
+      "gp": 6,
       "w": 2,
-      "l": 3,
-      "winPct": 0.4,
-      "gf": 549,
-      "ga": 592,
-      "gd": -43,
-      "score": 17,
+      "l": 4,
+      "winPct": 0.333,
+      "gf": 646,
+      "ga": 700,
+      "gd": -54,
+      "score": 11,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
       "colors": {
         "primary": "#0077c0",
@@ -949,9 +949,9 @@ window.NBA_DATA = {
         "city": "Boston Celtics",
         "era": "2022–present",
         "rings": 1,
-        "dynastyScore": 67.1,
+        "dynastyScore": 68.8,
         "threshold": 89.4,
-        "gap": 22.3,
+        "gap": 20.6,
         "note": "2024 Champions · Tatum/Brown core",
         "needs": "1–2 more titles + sustained regular-season excellence",
         "colors": {
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-01 18:31 UTC",
+  "LAST_UPDATE": "2026-11-01 23:36 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

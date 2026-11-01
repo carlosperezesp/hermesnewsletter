@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-01 18:33 UTC",
+  "UPDATED": "2026-11-01 23:38 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -112,6 +112,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-01"
     },
     {
       "id": "rank:motogp:RIDERS:in:Enea Bastianini",
@@ -312,6 +321,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Beckett Sennecke",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Beckett Sennecke cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-11-01"
+    },
+    {
       "id": "rank:motogp:RIDERS:out:Fermín Aldeguer",
       "sport": "motogp",
       "detail": "MotoGP",
@@ -430,8 +448,8 @@ window.GLORY_DATA = {
       "Colorado Avalanche",
       "Florida Panthers",
       "St. Louis Blues",
-      "Edmonton Oilers",
       "Carolina Hurricanes",
+      "Edmonton Oilers",
       "Boston Bruins",
       "Minnesota Wild",
       "Dallas Stars",
@@ -446,8 +464,8 @@ window.GLORY_DATA = {
       "Leo Carlsson",
       "Tim Stützle",
       "Owen Power",
-      "Connor Bedard",
-      "Beckett Sennecke"
+      "Cole Hutson",
+      "Connor Bedard"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -679,9 +697,9 @@ window.GLORY_DATA = {
     ],
     "f1:DRIVERS": [
       "Kimi Antonelli",
-      "George Russell",
-      "Lewis Hamilton",
       "Max Verstappen",
+      "Lewis Hamilton",
+      "George Russell",
       "Charles Leclerc",
       "Lando Norris",
       "Oscar Piastri",

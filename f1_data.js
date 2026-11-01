@@ -1,8 +1,8 @@
-// Auto-generated 2026-11-01 18:31 UTC
+// Auto-generated 2026-11-01 23:36 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-11-01 18:31 UTC",
+  "UPDATED": "2026-11-01 23:36 UTC",
   "SEASON": "2026",
-  "ROUND": 17,
+  "ROUND": 18,
   "TOTAL_ROUNDS": 25,
   "MAX_SEASON_PTS": 625,
   "IMPORTANCE": 10.0,
@@ -21,12 +21,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 365.0,
-      "lastWeekendPoints": 0.0,
+      "points": 380.0,
+      "lastWeekendPoints": 15.0,
       "wins": 0,
-      "score": 58.4,
+      "score": 60.8,
       "stats": {
-        "pts": 365.0,
+        "pts": 380.0,
         "wins": 0
       },
       "prevRank": 1,
@@ -34,28 +34,28 @@ window.F1_DATA = {
     },
     {
       "position": 2,
-      "name": "George Russell",
+      "name": "Max Verstappen",
       "nationality": "",
-      "country": "GBR",
-      "teamCode": "mercedes",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
-      "primary": "#00D2BE",
-      "secondary": "#000000",
+      "country": "NED",
+      "teamCode": "red_bull",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "primary": "#00327D",
+      "secondary": "#CC1E4A",
       "colors": {
-        "primary": "#00D2BE",
-        "secondary": "#000000"
+        "primary": "#00327D",
+        "secondary": "#CC1E4A"
       },
       "team": "",
-      "points": 242.0,
-      "lastWeekendPoints": 0.0,
+      "points": 261.0,
+      "lastWeekendPoints": 25.0,
       "wins": 0,
-      "score": 38.7,
+      "score": 41.8,
       "stats": {
-        "pts": 242.0,
+        "pts": 261.0,
         "wins": 0
       },
-      "prevRank": 2,
-      "age": 28
+      "prevRank": 4,
+      "age": 29
     },
     {
       "position": 3,
@@ -71,12 +71,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 241.0,
-      "lastWeekendPoints": 0.0,
+      "points": 259.0,
+      "lastWeekendPoints": 18.0,
       "wins": 0,
-      "score": 38.6,
+      "score": 41.4,
       "stats": {
-        "pts": 241.0,
+        "pts": 259.0,
         "wins": 0
       },
       "prevRank": 3,
@@ -84,28 +84,28 @@ window.F1_DATA = {
     },
     {
       "position": 4,
-      "name": "Max Verstappen",
+      "name": "George Russell",
       "nationality": "",
-      "country": "NED",
-      "teamCode": "red_bull",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
-      "primary": "#00327D",
-      "secondary": "#CC1E4A",
+      "country": "GBR",
+      "teamCode": "mercedes",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "primary": "#00D2BE",
+      "secondary": "#000000",
       "colors": {
-        "primary": "#00327D",
-        "secondary": "#CC1E4A"
+        "primary": "#00D2BE",
+        "secondary": "#000000"
       },
       "team": "",
-      "points": 236.0,
-      "lastWeekendPoints": 0.0,
+      "points": 250.0,
+      "lastWeekendPoints": 8.0,
       "wins": 0,
-      "score": 37.8,
+      "score": 40.0,
       "stats": {
-        "pts": 236.0,
+        "pts": 250.0,
         "wins": 0
       },
-      "prevRank": 4,
-      "age": 29
+      "prevRank": 2,
+      "age": 28
     },
     {
       "position": 5,
@@ -121,12 +121,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 233.0,
-      "lastWeekendPoints": 0.0,
+      "points": 245.0,
+      "lastWeekendPoints": 12.0,
       "wins": 0,
-      "score": 37.3,
+      "score": 39.2,
       "stats": {
-        "pts": 233.0,
+        "pts": 245.0,
         "wins": 0
       },
       "prevRank": 5,
@@ -146,12 +146,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 211.0,
-      "lastWeekendPoints": 0.0,
+      "points": 221.0,
+      "lastWeekendPoints": 10.0,
       "wins": 0,
-      "score": 33.8,
+      "score": 35.4,
       "stats": {
-        "pts": 211.0,
+        "pts": 221.0,
         "wins": 0
       },
       "prevRank": 6,
@@ -171,12 +171,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 144.0,
-      "lastWeekendPoints": 0.0,
+      "points": 150.0,
+      "lastWeekendPoints": 6.0,
       "wins": 0,
-      "score": 23.0,
+      "score": 24.0,
       "stats": {
-        "pts": 144.0,
+        "pts": 150.0,
         "wins": 0
       },
       "prevRank": 7,
@@ -221,12 +221,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 77.0,
-      "lastWeekendPoints": 0.0,
+      "points": 79.0,
+      "lastWeekendPoints": 2.0,
       "wins": 0,
-      "score": 12.3,
+      "score": 12.6,
       "stats": {
-        "pts": 77.0,
+        "pts": 79.0,
         "wins": 0
       },
       "prevRank": 9,
@@ -246,12 +246,12 @@ window.F1_DATA = {
         "secondary": "#FF0000"
       },
       "team": "",
-      "points": 42.0,
-      "lastWeekendPoints": 0.0,
+      "points": 43.0,
+      "lastWeekendPoints": 1.0,
       "wins": 0,
-      "score": 6.7,
+      "score": 6.9,
       "stats": {
-        "pts": 42.0,
+        "pts": 43.0,
         "wins": 0
       },
       "prevRank": 10,
@@ -270,7 +270,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 58.4,
+      "score": 60.8,
       "position": 1,
       "age": 20,
       "note": "Líder del campeonato a los 20"
@@ -286,7 +286,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 23.0,
+      "score": 24.0,
       "position": 7,
       "age": 25,
       "note": "Irrumpe a los 25 (P7)"
@@ -318,7 +318,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 12.3,
+      "score": 12.6,
       "position": 9,
       "age": 24,
       "note": "Irrumpe a los 24 (P9)"
@@ -334,7 +334,7 @@ window.F1_DATA = {
         "secondary": "#FF0000"
       },
       "team": "",
-      "score": 4.3,
+      "score": 5.0,
       "position": 12,
       "age": 23,
       "note": "Irrumpe a los 23 (P12)"
@@ -519,7 +519,7 @@ window.F1_DATA = {
       "id": "mercedes",
       "primary": "#00D2BE",
       "secondary": "#000000",
-      "points": 607.0
+      "points": 630.0
     },
     {
       "position": 2,
@@ -527,7 +527,7 @@ window.F1_DATA = {
       "id": "ferrari",
       "primary": "#DC0000",
       "secondary": "#FFFFFF",
-      "points": 474.0
+      "points": 504.0
     },
     {
       "position": 3,
@@ -535,7 +535,7 @@ window.F1_DATA = {
       "id": "red_bull",
       "primary": "#00327D",
       "secondary": "#CC1E4A",
-      "points": 355.0
+      "points": 380.0
     },
     {
       "position": 4,
@@ -543,7 +543,7 @@ window.F1_DATA = {
       "id": "mclaren",
       "primary": "#FF8700",
       "secondary": "#000000",
-      "points": 355.0
+      "points": 371.0
     },
     {
       "position": 5,
@@ -551,7 +551,7 @@ window.F1_DATA = {
       "id": "racing_bulls",
       "primary": "#6692FF",
       "secondary": "#FFFFFF",
-      "points": 102.0
+      "points": 104.0
     }
   ],
   "LAST_WEEKEND": {
