@@ -10791,9 +10791,9 @@ window.NHL_DATA = {
       "name": "Ville Heinola",
       "pos": "D",
       "teamCode": "VGK",
-      "age": 25,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -10815,8 +10815,7 @@ window.NHL_DATA = {
         42,
         44,
         54
-      ],
-      "legendScore": 46.2
+      ]
     },
     {
       "id": 8479576,
@@ -13988,9 +13987,9 @@ window.NHL_DATA = {
       "name": "Dennis Gilbert",
       "pos": "D",
       "teamCode": "BUF",
-      "age": 30,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#003087",
         "secondary": "#ffb81c"
@@ -23601,9 +23600,9 @@ window.NHL_DATA = {
       "name": "Gavin Brindley",
       "pos": "C",
       "teamCode": "COL",
-      "age": 22,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#6f263d",
         "secondary": "#236192"
@@ -24987,9 +24986,9 @@ window.NHL_DATA = {
       "name": "Rutger McGroarty",
       "pos": "RW",
       "teamCode": "PIT",
-      "age": 22,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -38759,10 +38758,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-01 13:37 UTC",
+  "LAST_UPDATE": "2026-11-01 18:05 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-01T13:37:00Z"
+    "standingsDateTimeUtc": "2026-11-01T18:05:00Z"
   }
 };

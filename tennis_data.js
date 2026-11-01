@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-01 13:40 UTC
+// Auto-generated 2026-11-01 18:08 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-01 13:40 UTC",
+  "UPDATED": "2026-11-01 18:08 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -235,7 +235,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Swiss Indoors Basel",
+        "tournament": "Rolex Paris Masters",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -441,7 +441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Erste Bank Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 75.3
@@ -575,9 +575,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Swiss Indoors Basel",
+        "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 73.6
@@ -1221,7 +1221,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Erste Bank Open",
+        "tournament": "Rolex Paris Masters",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -1359,10 +1359,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Erste Bank Open · Swiss Indoors Basel · Rolex Paris Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Paris Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.9
     },
@@ -1461,8 +1461,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Erste Bank Open",
-        "state": "out",
+        "tournament": "Rolex Paris Masters",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -1937,8 +1937,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Swiss Indoors Basel",
-        "state": "out",
+        "tournament": "Rolex Paris Masters",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2039,10 +2039,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Erste Bank Open · Swiss Indoors Basel · Rolex Paris Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Paris Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 57.5
     },
@@ -2889,10 +2889,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Erste Bank Open · Swiss Indoors Basel · Rolex Paris Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Paris Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.2
     },
@@ -3027,10 +3027,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Erste Bank Open · Swiss Indoors Basel · Rolex Paris Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Paris Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.2
     },
@@ -3197,10 +3197,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Erste Bank Open · Swiss Indoors Basel · Rolex Paris Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Paris Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.5
     },
@@ -3745,10 +3745,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Erste Bank Open · Swiss Indoors Basel · Rolex Paris Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Paris Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 46.3
     },
@@ -3881,8 +3881,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Swiss Indoors Basel",
-        "state": "out",
+        "tournament": "Rolex Paris Masters",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6583,8 +6583,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Curitiba Open",
-        "state": "out",
+        "tournament": "Reto Win Tennis Cali Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6855,7 +6855,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open",
+        "tournament": "Chennai Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -8115,10 +8115,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open · Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Chennai Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.8
     },
@@ -8495,9 +8495,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Valle D'Aosta Ladies Open",
+        "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 49.7
@@ -8601,10 +8601,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open · Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Reto Win Tennis Cali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 48.9
     },
@@ -8671,9 +8671,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Queretaro Open",
+        "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "F",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -9121,9 +9121,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Curitiba Open",
+        "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 44.3
@@ -9291,8 +9291,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Curitiba Open",
-        "state": "out",
+        "tournament": "Reto Win Tennis Cali Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -9327,10 +9327,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open · Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Reto Win Tennis Cali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.3
     },
@@ -9503,8 +9503,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Queretaro Open",
-        "state": "out",
+        "tournament": "Reto Win Tennis Cali Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -9999,8 +9999,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Guangzhou Open",
-        "state": "out",
+        "tournament": "Chennai Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -10141,9 +10141,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Curitiba Open",
+        "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "F",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10285,7 +10285,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Queretaro Open",
+        "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -10957,7 +10957,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alex de Minaur",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 90.7,
@@ -10973,15 +10973,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Jiri Lehecka",
+          "w": "Valentin Vacherot",
           "w_logo": "",
-          "l": "Valentin Vacherot",
+          "l": "Jiri Lehecka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 73.8,
-          "l_score": 71.8,
+          "scheduled": false,
+          "w_score": 71.8,
+          "l_score": 73.8,
           "match_score": 73.8
         }
       ]
@@ -11202,15 +11202,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Julia Grabher",
+          "w": "Alice Tubello",
           "w_logo": "",
-          "l": "Alice Tubello",
+          "l": "Julia Grabher",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 7-6 (7-5) 7-6 (7-2)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 35.0,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 35.0,
           "match_score": 35.0
         }
       ]
@@ -11226,9 +11226,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Noma Noha Akugue",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 39.8,
           "l_score": 35.0,
           "match_score": 39.8
@@ -11309,6 +11309,7 @@ window.TENNIS_DATA = {
       "Alejandro Davidovich Fokina",
       "Alejandro Tabilo",
       "Alex Michelsen",
+      "Alex Molcan",
       "Alex de Minaur",
       "Alexander Blockx",
       "Alexander Zverev",
@@ -11318,6 +11319,7 @@ window.TENNIS_DATA = {
       "Arthur Gea",
       "Arthur Rinderknech",
       "Ben Shelton",
+      "Benjamin Bonzi",
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
       "Cameron Norrie",
@@ -11336,23 +11338,30 @@ window.TENNIS_DATA = {
       "Jan-Lennard Struff",
       "Jerome Kym",
       "Jiri Lehecka",
+      "Juan Manuel Cerundolo",
       "Karen Khachanov",
+      "Kyrian Jacquet",
       "Learner Tien",
       "Lorenzo Musetti",
+      "Lorenzo Sonego",
       "Luca Van Assche",
       "Luciano Darderi",
       "Mariano Navone",
       "Matteo Arnaldi",
       "Matteo Berrettini",
+      "Mattia Bellucci",
       "Moise Kouame",
       "Nikoloz Basilashvili",
       "Novak Djokovic",
       "Nuno Borges",
       "Quentin Halys",
       "Rafael Jodar",
+      "Rinky Hijikata",
       "Stefanos Tsitsipas",
       "Tallon Griekspoor",
       "Taylor Fritz",
+      "Titouan Droguet",
+      "Tomas Machac",
       "Tomas Martin Etcheverry",
       "Tommy Paul",
       "Ugo Humbert",
@@ -11366,19 +11375,16 @@ window.TENNIS_DATA = {
       "Giovanni Mpetshi Perricard",
       "Grigor Dimitrov",
       "Jacob Fearnley",
-      "Juan Manuel Cerundolo",
       "Jurij Rodionov",
       "Lukas Neumayer",
       "Martin Landaluce",
       "Mika Brunold",
       "Remy Bertola",
-      "Rinky Hijikata",
       "Stan Wawrinka",
-      "Tomas Machac",
       "Yannick Hanfmann"
     ],
-    "aliveCount": 53,
-    "matchesSeen": 80
+    "aliveCount": 62,
+    "matchesSeen": 86
   },
   "WTA_TOURNAMENT": {
     "name": "Guangzhou Open · Toray Pan Pacific Open Tennis · Curitiba Open · Valle D'Aosta Ladies Open · Queretaro Open · Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
@@ -11446,6 +11452,7 @@ window.TENNIS_DATA = {
       "Alice Tubello",
       "Alicia Herrero Linana",
       "Alina Charaeva",
+      "Aliona Falei",
       "Alycia Parks",
       "Anastasia Zakharova",
       "Angella Okutoyi",
@@ -11458,9 +11465,11 @@ window.TENNIS_DATA = {
       "Carmen Andreea Herea",
       "Carol Young Suh Lee",
       "Carole Monnet",
+      "Caroline Dolehide",
       "Claire Liu",
       "Cristina Bucsa",
       "Dayana Yastremska",
+      "Despina Papamichail",
       "Diana Martynov",
       "Diana Shnaider",
       "Diletta Cherubini",
@@ -11472,6 +11481,7 @@ window.TENNIS_DATA = {
       "Elizabeth Mandlik",
       "Elizara Yaneva",
       "Elsa Jacquemot",
+      "Elvina Kalieva",
       "Erika Andreeva",
       "Farah Heddar",
       "Fiona Ferro",
@@ -11481,10 +11491,12 @@ window.TENNIS_DATA = {
       "Gina Feistel",
       "Harriet Dart",
       "Himeno Sakatsume",
+      "Irene Burillo",
       "Isabella Shinikova",
       "Jahnie Van Zyl",
       "Janice Tjen",
       "Jazmin Ortenzi",
+      "Jeline Vandromme",
       "Jian Ibrahim",
       "Jil Teichmann",
       "Joanna Garland",
@@ -11503,14 +11515,20 @@ window.TENNIS_DATA = {
       "Kristina Kroitor",
       "Kristina Novak",
       "Ksenia Zaytseva",
+      "Kyoka Okamura",
       "Lamis Alhussein Abdel Aziz",
+      "Laura Pigossi",
+      "Laura Samson",
+      "Leolia Jeanjean",
       "Leylah Fernandez",
       "Leyre Romero Gormaz",
       "Lilli Tagger",
+      "Linda Fruhvirtova",
       "Linda Klimovicova",
       "Lisa Pigato",
       "Liudmila Samsonova",
       "Lourdes Ayala",
+      "Lucia Bronzetti",
       "Lucrezia Stefanini",
       "Luisina Giovannini",
       "Luna Maria Cinalli",
@@ -11520,6 +11538,7 @@ window.TENNIS_DATA = {
       "Magda Linette",
       "Mai Hontama",
       "Mananchaya Sawangkaew",
+      "Maria Camila Torres Murcia",
       "Maria Lourdes Carle",
       "Maria Sakkari",
       "Maria Timofeeva",
@@ -11529,6 +11548,7 @@ window.TENNIS_DATA = {
       "Martyna Kubka",
       "Mary Stoiana",
       "Maya Joint",
+      "Mei Yamaguchi",
       "Mia Pohankova",
       "Miriam Bulgaru",
       "Moyuka Uchijima",
@@ -11541,8 +11561,11 @@ window.TENNIS_DATA = {
       "Panna Udvardy",
       "Paula Badosa",
       "Polina Iatcenko",
+      "Polina Kudermetova",
       "Polona Hercog",
       "Rebecca Sramkova",
+      "Rebeka Masarova",
+      "Renata Zarazua",
       "Robin Montgomery",
       "Sahaja Yamalapalli",
       "Sandra Samir",
@@ -11550,6 +11573,7 @@ window.TENNIS_DATA = {
       "Shi Han",
       "Simona Waltert",
       "Sinja Kraus",
+      "Sofia Costoulas",
       "Sofia Kenin",
       "Sofya Lansere",
       "Solana Sierra",
@@ -11564,16 +11588,21 @@ window.TENNIS_DATA = {
       "Tereza Valentova",
       "Tiphanie Lemaitre",
       "Vaishnavi Adkar",
+      "Valentina Mediorreal Arias",
       "Valeriya Strakhova",
       "Venus Williams",
+      "Viktoria Morvayova",
       "Viktorija Golubic",
       "Wang Xinyu",
       "Warona Mdlulwa",
+      "Weronika Falkowska",
       "Wozuko Mdlulwa",
       "Xinran Sun",
       "Yasmine Kabbaj",
       "Yulia Putintseva",
-      "Zeynep Sonmez"
+      "Yuliana Lizarazo",
+      "Zeynep Sonmez",
+      "Zhibek Kulambayeva"
     ],
     "out": [
       "Adrienn Nagy",
@@ -11592,7 +11621,6 @@ window.TENNIS_DATA = {
       "Daria Kasatkina",
       "Daria Snigur",
       "Dasha Plekhanova",
-      "Despina Papamichail",
       "Diane Parry",
       "Eduarda Gomes",
       "Emiliana Arango",
@@ -11609,11 +11637,7 @@ window.TENNIS_DATA = {
       "Lan Mi",
       "Lanlana Tararudee",
       "Laura Mair",
-      "Laura Pigossi",
-      "Laura Samson",
-      "Leolia Jeanjean",
       "Lisa Zaar",
-      "Lucia Bronzetti",
       "Luiza Fullana",
       "Maria Urrutia",
       "Marian Gomez Pezuela Cano",
@@ -11622,12 +11646,9 @@ window.TENNIS_DATA = {
       "Mia Ristic",
       "Mika Stojsavljevic",
       "Nikola Bartunkova",
-      "Polina Kudermetova",
       "Rebeca Pereira",
-      "Rebeka Masarova",
       "Rositsa Dencheva",
       "Sara Sorribes Tormo",
-      "Sofia Costoulas",
       "Sofia Johnson",
       "Victoria Bosio",
       "Victoria Jimenez Kasintseva",
@@ -11635,8 +11656,8 @@ window.TENNIS_DATA = {
       "Yelyzaveta Kotliar",
       "Zuzanna Pawlikowska"
     ],
-    "aliveCount": 136,
-    "matchesSeen": 190
+    "aliveCount": 159,
+    "matchesSeen": 207
   },
   "ATP_SCORE_LOG": {
     "206173": [
