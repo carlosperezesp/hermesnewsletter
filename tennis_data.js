@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-01 11:53 UTC
+// Auto-generated 2026-11-01 13:40 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-01 11:53 UTC",
+  "UPDATED": "2026-11-01 13:40 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6991,9 +6991,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Chennai Open",
+        "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 60.2
@@ -9537,7 +9537,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Valle D'Aosta Ladies Open",
+        "tournament": "Chennai Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -9999,8 +9999,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Chennai Open",
-        "state": "alive",
+        "tournament": "Guangzhou Open",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -10107,9 +10107,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Chennai Open",
+        "tournament": "Guangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10957,9 +10957,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alex de Minaur",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.7,
           "l_score": 75.0,
           "match_score": 90.7
@@ -11541,7 +11541,6 @@ window.TENNIS_DATA = {
       "Panna Udvardy",
       "Paula Badosa",
       "Polina Iatcenko",
-      "Polina Kudermetova",
       "Polona Hercog",
       "Rebecca Sramkova",
       "Robin Montgomery",
@@ -11623,6 +11622,7 @@ window.TENNIS_DATA = {
       "Mia Ristic",
       "Mika Stojsavljevic",
       "Nikola Bartunkova",
+      "Polina Kudermetova",
       "Rebeca Pereira",
       "Rebeka Masarova",
       "Rositsa Dencheva",
@@ -11635,8 +11635,8 @@ window.TENNIS_DATA = {
       "Yelyzaveta Kotliar",
       "Zuzanna Pawlikowska"
     ],
-    "aliveCount": 137,
-    "matchesSeen": 191
+    "aliveCount": 136,
+    "matchesSeen": 190
   },
   "ATP_SCORE_LOG": {
     "206173": [

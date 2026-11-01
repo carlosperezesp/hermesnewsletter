@@ -913,7 +913,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 11
+      "prevRank": 6
     },
     {
       "id": 8479410,
@@ -1018,7 +1018,7 @@ window.NHL_DATA = {
         81
       ],
       "legendScore": 58.0,
-      "prevRank": 23
+      "prevRank": 9
     },
     {
       "id": 8474578,
@@ -1053,7 +1053,7 @@ window.NHL_DATA = {
         80
       ],
       "legendScore": 59.9,
-      "prevRank": 19
+      "prevRank": 10
     },
     {
       "id": 8481605,
@@ -38400,7 +38400,7 @@ window.NHL_DATA = {
           "primary": "#6f263d",
           "secondary": "#236192"
         },
-        "prevRank": 3
+        "prevRank": 2
       },
       {
         "teamCode": "FLA",
@@ -38416,7 +38416,7 @@ window.NHL_DATA = {
           "primary": "#041e42",
           "secondary": "#c8102e"
         },
-        "prevRank": 2
+        "prevRank": 3
       },
       {
         "teamCode": "STL",
@@ -38566,7 +38566,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.5,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 5
+        "prevRank": 2
       },
       {
         "id": 8481605,
@@ -38584,7 +38584,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.9,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 2
+        "prevRank": 3
       },
       {
         "id": 8482105,
@@ -38602,7 +38602,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.9,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "id": 8484801,
@@ -38620,7 +38620,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.9,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 8484153,
@@ -38759,10 +38759,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-01 11:50 UTC",
+  "LAST_UPDATE": "2026-11-01 13:37 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-01T11:50:15Z"
+    "standingsDateTimeUtc": "2026-11-01T13:37:00Z"
   }
 };
