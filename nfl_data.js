@@ -1580,7 +1580,7 @@ window.NFL_DATA = {
       "name": "Marcus Mariota",
       "pos": "QB",
       "teamCode": "WSH",
-      "age": 32,
+      "age": 33,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2576980.png",
       "colors": {
         "primary": "#5a1414",
@@ -2105,7 +2105,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-01 00:13 UTC",
+  "LAST_UPDATE": "2026-11-01 11:50 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

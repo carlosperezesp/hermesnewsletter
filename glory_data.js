@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-01 00:15 UTC",
+  "UPDATED": "2026-11-01 11:53 UTC",
   "EVENTS": [
+    {
+      "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Pedro Acosta ganó el Malaysian motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-11-01"
+    },
     {
       "id": "f1:win:Mexico City Grand Prix:Charles Leclerc",
       "sport": "f1",
@@ -104,6 +112,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "rank:motogp:RIDERS:in:Enea Bastianini",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "anchor": "motogp-mundial",
+      "text": "Enea Bastianini entra en el top-10 · Mundial",
+      "weight": 84,
+      "firstSeen": "2026-11-01"
     },
     {
       "id": "rank:sumo:BANZUKE:in:Churanoumi",
@@ -295,6 +312,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "rank:motogp:RIDERS:out:Fermín Aldeguer",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "anchor": "motogp-mundial",
+      "text": "Fermín Aldeguer cae del top-10 · Mundial",
+      "weight": 74,
+      "firstSeen": "2026-11-01"
+    },
+    {
       "id": "rank:sumo:BANZUKE:out:Hakunofuji",
       "sport": "sumo",
       "detail": "Sumo",
@@ -401,8 +427,8 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
-      "Florida Panthers",
       "Colorado Avalanche",
+      "Florida Panthers",
       "St. Louis Blues",
       "Edmonton Oilers",
       "Carolina Hurricanes",
@@ -413,10 +439,10 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
+      "Lane Hutson",
       "Jackson LaCombe",
       "Jake Sanderson",
       "Macklin Celebrini",
-      "Lane Hutson",
       "Leo Carlsson",
       "Tim Stützle",
       "Owen Power",
@@ -437,12 +463,12 @@ window.GLORY_DATA = {
     ],
     "nba:ROAD_TO_GLORY.teams": [
       "Boston Celtics",
-      "Oklahoma City Thunder",
       "Los Angeles Lakers",
-      "Minnesota Timberwolves",
+      "Oklahoma City Thunder",
       "Denver Nuggets",
-      "Golden State Warriors",
       "San Antonio Spurs",
+      "Minnesota Timberwolves",
+      "Golden State Warriors",
       "New York Knicks",
       "Indiana Pacers",
       "Milwaukee Bucks"
@@ -637,7 +663,7 @@ window.GLORY_DATA = {
       "Raúl Fernández",
       "Álex Márquez",
       "Francesco Bagnaia",
-      "Fermín Aldeguer"
+      "Enea Bastianini"
     ],
     "motogp:LEGENDS": [
       "Giacomo Agostini",

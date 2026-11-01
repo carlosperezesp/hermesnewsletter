@@ -1,11 +1,11 @@
-// Auto-generated 2026-11-01 00:13 UTC
+// Auto-generated 2026-11-01 11:51 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-11-01 00:13 UTC",
+  "UPDATED": "2026-11-01 11:51 UTC",
   "SEASON": "2026",
   "ROUND": 18,
   "TOTAL_ROUNDS": 22,
   "MAX_SEASON_PTS": 550,
-  "IMPORTANCE": 9.4,
+  "IMPORTANCE": 9.2,
   "RIDERS": [
     {
       "position": 1,
@@ -15,12 +15,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 374.0,
-      "score": 68.0,
+      "points": 399.0,
+      "score": 72.5,
       "stats": {
-        "pts": 374.0
+        "pts": 399.0
       },
-      "seasonPct": 68.0,
+      "seasonPct": 72.5,
       "prevRank": 1,
       "age": 33
     },
@@ -49,12 +49,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 322.0,
-      "score": 58.5,
+      "points": 332.0,
+      "score": 60.4,
       "stats": {
-        "pts": 322.0
+        "pts": 332.0
       },
-      "seasonPct": 58.5,
+      "seasonPct": 60.4,
       "prevRank": 3,
       "age": 28
     },
@@ -66,12 +66,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#E86825",
       "secondary": "#000000",
-      "points": 275.0,
-      "score": 50.0,
+      "points": 295.0,
+      "score": 53.6,
       "stats": {
-        "pts": 275.0
+        "pts": 295.0
       },
-      "seasonPct": 50.0,
+      "seasonPct": 53.6,
       "prevRank": 4,
       "age": 22
     },
@@ -83,12 +83,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/jp.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 265.0,
-      "score": 48.2,
+      "points": 278.0,
+      "score": 50.5,
       "stats": {
-        "pts": 265.0
+        "pts": 278.0
       },
-      "seasonPct": 48.2,
+      "seasonPct": 50.5,
       "prevRank": 5,
       "age": 25
     },
@@ -100,12 +100,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 257.0,
-      "score": 46.7,
+      "points": 265.0,
+      "score": 48.2,
       "stats": {
-        "pts": 257.0
+        "pts": 265.0
       },
-      "seasonPct": 46.7,
+      "seasonPct": 48.2,
       "prevRank": 6,
       "age": 28
     },
@@ -134,12 +134,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 181.0,
-      "score": 32.9,
+      "points": 197.0,
+      "score": 35.8,
       "stats": {
-        "pts": 181.0
+        "pts": 197.0
       },
-      "seasonPct": 32.9,
+      "seasonPct": 35.8,
       "prevRank": 8,
       "age": 30
     },
@@ -151,31 +151,31 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 170.0,
-      "score": 30.9,
+      "points": 173.0,
+      "score": 31.5,
       "stats": {
-        "pts": 170.0
+        "pts": 173.0
       },
-      "seasonPct": 30.9,
+      "seasonPct": 31.5,
       "prevRank": 9,
       "age": 29
     },
     {
       "position": 10,
-      "name": "Fermín Aldeguer",
-      "country": "ESP",
-      "bike": "Ducati",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "primary": "#CC0000",
-      "secondary": "#FFD200",
-      "points": 125.0,
-      "score": 22.7,
+      "name": "Enea Bastianini",
+      "country": "ITA",
+      "bike": "KTM",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "primary": "#E86825",
+      "secondary": "#000000",
+      "points": 134.0,
+      "score": 24.4,
       "stats": {
-        "pts": 125.0
+        "pts": 134.0
       },
-      "seasonPct": 22.7,
-      "prevRank": 10,
-      "age": 21
+      "seasonPct": 24.4,
+      "prevRank": null,
+      "age": 29
     }
   ],
   "PROSPECTS": [
@@ -186,7 +186,7 @@ window.MOTOGP_DATA = {
       "primary": "#E86825",
       "secondary": "#000000",
       "bike": "KTM",
-      "score": 50.0,
+      "score": 53.6,
       "position": 4,
       "age": 22,
       "note": "Top 4 a los 22"
@@ -198,7 +198,7 @@ window.MOTOGP_DATA = {
       "primary": "#003366",
       "secondary": "#E8002D",
       "bike": "Aprilia",
-      "score": 48.2,
+      "score": 50.5,
       "position": 5,
       "age": 25,
       "note": "Top 5 a los 25"
@@ -211,9 +211,9 @@ window.MOTOGP_DATA = {
       "secondary": "#FFD200",
       "bike": "Ducati",
       "score": 22.7,
-      "position": 10,
+      "position": 11,
       "age": 21,
-      "note": "Irrumpe a los 21 (P10)"
+      "note": "Irrumpe a los 21 (P11)"
     }
   ],
   "LEGEND_CHASE": [
@@ -282,15 +282,23 @@ window.MOTOGP_DATA = {
     }
   ],
   "LAST_RACE": {
-    "round": 17,
-    "name": "Indonesian motorcycle Grand Prix",
-    "winner": "Marc Márquez",
+    "round": 19,
+    "name": "Malaysian motorcycle Grand Prix",
+    "winner": "Pedro Acosta",
     "country": "SPA",
-    "bike": "Ducati",
-    "primary": "#CC0000",
+    "bike": "KTM",
+    "primary": "#E86825",
     "podium": [
       {
         "pos": 1,
+        "name": "Pedro Acosta",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "bike": "KTM",
+        "primary": "#E86825"
+      },
+      {
+        "pos": 2,
         "name": "Marc Márquez",
         "country": "SPA",
         "logo": "https://flagcdn.com/24x18/es.png",
@@ -298,20 +306,12 @@ window.MOTOGP_DATA = {
         "primary": "#CC0000"
       },
       {
-        "pos": 2,
-        "name": "Ai Ogura",
-        "country": "JPN",
-        "logo": "https://flagcdn.com/24x18/jp.png",
-        "bike": "Aprilia",
-        "primary": "#003366"
-      },
-      {
         "pos": 3,
-        "name": "Fabio Di Giannantonio",
+        "name": "Marco Bezzecchi",
         "country": "ITA",
         "logo": "https://flagcdn.com/24x18/it.png",
-        "bike": "Ducati",
-        "primary": "#CC0000"
+        "bike": "Aprilia",
+        "primary": "#003366"
       }
     ]
   },
