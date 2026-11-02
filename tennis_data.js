@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-02 21:57 UTC
+// Auto-generated 2026-11-02 22:30 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-02 21:57 UTC",
+  "UPDATED": "2026-11-02 22:30 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7777,7 +7777,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.3
@@ -9891,7 +9891,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -11306,7 +11306,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polona Hercog",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-0 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 36.1,
@@ -11589,7 +11589,6 @@ window.TENNIS_DATA = {
       "Paula Badosa",
       "Polina Iatcenko",
       "Polina Kudermetova",
-      "Polona Hercog",
       "Rada Zolotareva",
       "Rebecca Sramkova",
       "Rebeka Masarova",
@@ -11628,6 +11627,7 @@ window.TENNIS_DATA = {
       "Lucia Bronzetti",
       "Maria Camila Torres Murcia",
       "Maria Paulina Perez Garcia",
+      "Polona Hercog",
       "Sandra Samir",
       "Selena Janicijevic",
       "Tatiana Prozorova",
@@ -11636,8 +11636,8 @@ window.TENNIS_DATA = {
       "Warona Mdlulwa",
       "Yuliana Lizarazo"
     ],
-    "aliveCount": 113,
-    "matchesSeen": 67
+    "aliveCount": 112,
+    "matchesSeen": 68
   },
   "ATP_SCORE_LOG": {
     "206173": [
