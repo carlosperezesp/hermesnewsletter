@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-02 00:53 UTC
+// Auto-generated 2026-11-02 13:31 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-11-02 00:53 UTC",
+  "UPDATED": "2026-11-02 13:31 UTC",
   "SEASON": "2026",
   "ROUND": 18,
   "TOTAL_ROUNDS": 25,
@@ -171,12 +171,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 150.0,
-      "lastWeekendPoints": 6.0,
+      "points": 144.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
-      "score": 24.0,
+      "score": 23.0,
       "stats": {
-        "pts": 150.0,
+        "pts": 144.0,
         "wins": 0
       },
       "prevRank": 7,
@@ -196,12 +196,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 105.0,
-      "lastWeekendPoints": 0.0,
+      "points": 107.0,
+      "lastWeekendPoints": 2.0,
       "wins": 0,
-      "score": 16.8,
+      "score": 17.1,
       "stats": {
-        "pts": 105.0,
+        "pts": 107.0,
         "wins": 0
       },
       "prevRank": 8,
@@ -221,12 +221,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 79.0,
-      "lastWeekendPoints": 2.0,
+      "points": 83.0,
+      "lastWeekendPoints": 6.0,
       "wins": 0,
-      "score": 12.6,
+      "score": 13.3,
       "stats": {
-        "pts": 79.0,
+        "pts": 83.0,
         "wins": 0
       },
       "prevRank": 9,
@@ -246,12 +246,12 @@ window.F1_DATA = {
         "secondary": "#FF0000"
       },
       "team": "",
-      "points": 43.0,
-      "lastWeekendPoints": 1.0,
+      "points": 42.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
-      "score": 6.9,
+      "score": 6.7,
       "stats": {
-        "pts": 43.0,
+        "pts": 42.0,
         "wins": 0
       },
       "prevRank": 10,
@@ -286,7 +286,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 24.0,
+      "score": 23.0,
       "position": 7,
       "age": 25,
       "note": "Irrumpe a los 25 (P7)"
@@ -302,7 +302,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 16.8,
+      "score": 17.1,
       "position": 8,
       "age": 22,
       "note": "Irrumpe a los 22 (P8)"
@@ -318,7 +318,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 12.6,
+      "score": 13.3,
       "position": 9,
       "age": 24,
       "note": "Irrumpe a los 24 (P9)"
@@ -334,7 +334,7 @@ window.F1_DATA = {
         "secondary": "#FF0000"
       },
       "team": "",
-      "score": 5.0,
+      "score": 4.3,
       "position": 12,
       "age": 23,
       "note": "Irrumpe a los 23 (P12)"
@@ -535,7 +535,7 @@ window.F1_DATA = {
       "id": "red_bull",
       "primary": "#00327D",
       "secondary": "#CC1E4A",
-      "points": 380.0
+      "points": 382.0
     },
     {
       "position": 4,
@@ -543,7 +543,7 @@ window.F1_DATA = {
       "id": "mclaren",
       "primary": "#FF8700",
       "secondary": "#000000",
-      "points": 371.0
+      "points": 365.0
     },
     {
       "position": 5,
@@ -551,7 +551,7 @@ window.F1_DATA = {
       "id": "racing_bulls",
       "primary": "#6692FF",
       "secondary": "#FFFFFF",
-      "points": 104.0
+      "points": 108.0
     }
   ],
   "LAST_WEEKEND": {

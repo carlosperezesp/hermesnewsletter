@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-02 00:54 UTC",
+  "UPDATED": "2026-11-02 13:33 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -51,6 +51,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-24"
     },
     {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Kirk Cousins",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Kirk Cousins es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:Drake Maye",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "Drake Maye es nuevo nº1 · jóvenes promesas",
+      "weight": 92,
+      "firstSeen": "2026-11-02"
+    },
+    {
       "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Boston Celtics",
       "sport": "nba",
       "detail": "NBA",
@@ -65,15 +83,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Matthew Schaefer es nuevo nº1 · jóvenes promesas",
-      "weight": 92,
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:C.J. Stroud",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-jovenes-promesas",
-      "text": "C.J. Stroud es nuevo nº1 · jóvenes promesas",
       "weight": 92,
       "firstSeen": "2026-10-26"
     },
@@ -96,15 +105,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-25"
     },
     {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Matthew Stafford",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Matthew Stafford es nuevo nº1 · Road to Glory",
-      "weight": 92,
-      "firstSeen": "2026-10-19"
-    },
-    {
       "id": "tennis:in:ATP:Arthur Fils:20261015",
       "sport": "tennis",
       "detail": "Tenis",
@@ -112,6 +112,24 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Trevor Lawrence",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Trevor Lawrence entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Josh Allen",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Josh Allen entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-02"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
@@ -175,15 +193,6 @@ window.GLORY_DATA = {
       "text": "Connor Bedard entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-31"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Jacoby Brissett",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Jacoby Brissett entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-30"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Tim Stützle",
@@ -285,15 +294,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-20"
     },
     {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:in:C.J. Stroud",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "C.J. Stroud entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-19"
-    },
-    {
       "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:in:Caleb Williams",
       "sport": "nfl",
       "detail": "NFL",
@@ -355,15 +355,6 @@ window.GLORY_DATA = {
       "text": "Kotoshoho cae del top-10 · banzuke",
       "weight": 74,
       "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:out:Trevor Lawrence",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Trevor Lawrence cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-10-30"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Nauman Ali",
@@ -448,15 +439,15 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
-      "Lane Hutson",
-      "Jackson LaCombe",
       "Jake Sanderson",
       "Macklin Celebrini",
+      "Lane Hutson",
       "Leo Carlsson",
-      "Tim Stützle",
-      "Owen Power",
+      "Jackson LaCombe",
+      "Connor Bedard",
       "Cole Hutson",
-      "Connor Bedard"
+      "Tim Stützle",
+      "Owen Power"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -474,10 +465,10 @@ window.GLORY_DATA = {
       "Boston Celtics",
       "Los Angeles Lakers",
       "Oklahoma City Thunder",
+      "Golden State Warriors",
       "Denver Nuggets",
       "San Antonio Spurs",
       "Minnesota Timberwolves",
-      "Golden State Warriors",
       "New York Knicks",
       "Milwaukee Bucks",
       "Indiana Pacers"
@@ -531,24 +522,24 @@ window.GLORY_DATA = {
       "James Wood"
     ],
     "nfl:ROAD_TO_GLORY.players": [
+      "Kirk Cousins",
       "Matthew Stafford",
       "Jared Goff",
-      "Kirk Cousins",
-      "Jordan Love",
-      "Dak Prescott",
       "Joe Burrow",
+      "Dak Prescott",
       "Geno Smith",
+      "Jordan Love",
+      "Trevor Lawrence",
       "Brock Purdy",
-      "C.J. Stroud",
-      "Jacoby Brissett"
+      "Josh Allen"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
+      "Drake Maye",
       "C.J. Stroud",
       "Bryce Young",
-      "Drake Maye",
+      "Cam Ward",
       "Caleb Williams",
-      "Jayden Daniels",
-      "Cam Ward"
+      "Jayden Daniels"
     ],
     "tennis:ATP": [
       "Jannik Sinner",
@@ -567,12 +558,12 @@ window.GLORY_DATA = {
       "Elena Rybakina",
       "Mirra Andreeva",
       "Coco Gauff",
-      "Iga Swiatek",
       "Elina Svitolina",
+      "Iga Swiatek",
       "Marta Kostyuk",
       "Jessica Pegula",
-      "Karolina Muchova",
-      "Sorana Cirstea"
+      "Sorana Cirstea",
+      "Karolina Muchova"
     ],
     "tennis:ATP_LEGENDS": [
       "Novak Djokovic",
