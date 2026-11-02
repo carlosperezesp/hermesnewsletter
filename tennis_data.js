@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-02 13:33 UTC
+// Auto-generated 2026-11-02 16:19 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-02 13:33 UTC",
+  "UPDATED": "2026-11-02 16:19 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -237,7 +237,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 78.6
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 77.9
@@ -406,9 +406,9 @@ window.TENNIS_DATA = {
       "prevListRank": 12,
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.1
     },
@@ -1120,9 +1120,9 @@ window.TENNIS_DATA = {
       "prevListRank": 33,
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 64.5
     },
@@ -1189,7 +1189,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 63.9
@@ -1394,9 +1394,9 @@ window.TENNIS_DATA = {
       "prevListRank": 41,
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 62.8
     },
@@ -1938,9 +1938,9 @@ window.TENNIS_DATA = {
       "prevListRank": 57,
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.6
     },
@@ -2006,9 +2006,9 @@ window.TENNIS_DATA = {
       "prevListRank": 59,
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.5
     },
@@ -10927,9 +10927,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Juan Manuel Cerundolo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 78.6,
           "l_score": 57.6,
           "match_score": 78.6
@@ -10940,7 +10940,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alejandro Tabilo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 77.9,
@@ -10992,9 +10992,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Matteo Arnaldi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 1-6 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.9,
           "l_score": 62.8,
           "match_score": 63.9
@@ -11279,9 +11279,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Leolia Jeanjean",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.8,
           "l_score": 40.6,
           "match_score": 42.8
@@ -11305,9 +11305,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maria Camila Torres Murcia",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11351,7 +11351,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Warona Mdlulwa",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11364,9 +11364,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Diana Martynov",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11377,7 +11377,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jahnie Van Zyl",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11401,7 +11401,6 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Alejandro Davidovich Fokina",
-      "Alejandro Tabilo",
       "Alex Michelsen",
       "Alex Molcan",
       "Alexander Zverev",
@@ -11409,6 +11408,7 @@ window.TENNIS_DATA = {
       "Arthur Fery",
       "Arthur Gea",
       "Arthur Rinderknech",
+      "Ben Shelton",
       "Benjamin Bonzi",
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
@@ -11422,14 +11422,12 @@ window.TENNIS_DATA = {
       "Ignacio Buse",
       "Jan-Lennard Struff",
       "Jiri Lehecka",
-      "Juan Manuel Cerundolo",
       "Karen Khachanov",
       "Kyrian Jacquet",
       "Learner Tien",
       "Lorenzo Musetti",
       "Lorenzo Sonego",
       "Luca Van Assche",
-      "Matteo Arnaldi",
       "Matteo Berrettini",
       "Mattia Bellucci",
       "Moise Kouame",
@@ -11437,7 +11435,6 @@ window.TENNIS_DATA = {
       "Quentin Halys",
       "Rafael Jodar",
       "Rinky Hijikata",
-      "Sebastian Baez",
       "Stefanos Tsitsipas",
       "Taylor Fritz",
       "Titouan Droguet",
@@ -11448,13 +11445,17 @@ window.TENNIS_DATA = {
       "Valentin Vacherot"
     ],
     "out": [
+      "Alejandro Tabilo",
       "Hubert Hurkacz",
+      "Juan Manuel Cerundolo",
       "Luciano Darderi",
       "Mariano Navone",
+      "Matteo Arnaldi",
+      "Sebastian Baez",
       "Zizou Bergs"
     ],
-    "aliveCount": 46,
-    "matchesSeen": 26
+    "aliveCount": 43,
+    "matchesSeen": 28
   },
   "WTA_TOURNAMENT": {
     "name": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
@@ -11518,7 +11519,6 @@ window.TENNIS_DATA = {
       "Himeno Sakatsume",
       "Irene Burillo",
       "Isabella Shinikova",
-      "Jahnie Van Zyl",
       "Janice Tjen",
       "Jazmin Ortenzi",
       "Jeline Vandromme",
@@ -11553,6 +11553,7 @@ window.TENNIS_DATA = {
       "Maaya Rajeshwaran Revathi",
       "Maayan Laron",
       "Maddison Inglis",
+      "Madhurima Sawant",
       "Magda Linette",
       "Mai Hontama",
       "Mananchaya Sawangkaew",
@@ -11600,10 +11601,8 @@ window.TENNIS_DATA = {
       "Tiphanie Lemaitre",
       "Vaishnavi Adkar",
       "Valentina Mediorreal Arias",
-      "Victoria Milovanova",
       "Viktoria Morvayova",
       "Wang Xinyu",
-      "Warona Mdlulwa",
       "Weronika Falkowska",
       "Wozuko Mdlulwa",
       "Yasmine Kabbaj",
@@ -11615,12 +11614,14 @@ window.TENNIS_DATA = {
       "Adithya Karunaratne",
       "Carol Young Suh Lee",
       "Dune Vaissaud",
+      "Jahnie Van Zyl",
       "Katie Volynets",
       "Tatiana Prozorova",
       "Venus Williams",
-      "Viktorija Golubic"
+      "Viktorija Golubic",
+      "Warona Mdlulwa"
     ],
-    "aliveCount": 121,
+    "aliveCount": 119,
     "matchesSeen": 65
   },
   "ATP_SCORE_LOG": {

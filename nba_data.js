@@ -1006,7 +1006,7 @@ window.NBA_DATA = {
           "primary": "#1d428a",
           "secondary": "#ffc72c"
         },
-        "prevRank": 7
+        "prevRank": 4
       },
       {
         "teamCode": "DEN",
@@ -1022,7 +1022,7 @@ window.NBA_DATA = {
           "primary": "#0e2240",
           "secondary": "#fec524"
         },
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "teamCode": "SA",
@@ -1038,7 +1038,7 @@ window.NBA_DATA = {
           "primary": "#c4ced4",
           "secondary": "#000000"
         },
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "teamCode": "MIN",
@@ -1054,7 +1054,7 @@ window.NBA_DATA = {
           "primary": "#0c2340",
           "secondary": "#236192"
         },
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "teamCode": "NY",
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-02 13:30 UTC",
+  "LAST_UPDATE": "2026-11-02 16:17 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
