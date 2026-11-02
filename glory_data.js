@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-02 16:19 UTC",
+  "UPDATED": "2026-11-02 21:57 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -103,6 +103,15 @@ window.GLORY_DATA = {
       "text": "Marc Márquez es nuevo nº1 · Mundial",
       "weight": 92,
       "firstSeen": "2026-10-25"
+    },
+    {
+      "id": "tennis:in:ATP:Rafael Jodar:20261029",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Rafael Jodar entra en el top 10 ATP",
+      "weight": 90,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-11-02"
     },
     {
       "id": "tennis:in:ATP:Arthur Fils:20261015",
@@ -301,6 +310,15 @@ window.GLORY_DATA = {
       "text": "Caleb Williams entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "tennis:out:ATP:Felix Auger Aliassime:20261029",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Felix Auger Aliassime sale del top 10 ATP",
+      "weight": 78,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-11-02"
     },
     {
       "id": "tennis:out:ATP:Novak Djokovic:20261015",
