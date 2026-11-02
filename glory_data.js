@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-01 23:38 UTC",
+  "UPDATED": "2026-11-02 00:54 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -303,15 +303,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-19"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Erik Karlsson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Erik Karlsson entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-18"
-    },
-    {
       "id": "tennis:out:ATP:Novak Djokovic:20261015",
       "sport": "tennis",
       "detail": "Tenis",
@@ -488,8 +479,8 @@ window.GLORY_DATA = {
       "Minnesota Timberwolves",
       "Golden State Warriors",
       "New York Knicks",
-      "Indiana Pacers",
-      "Milwaukee Bucks"
+      "Milwaukee Bucks",
+      "Indiana Pacers"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
       "Victor Wembanyama",

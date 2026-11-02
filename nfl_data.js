@@ -95,6 +95,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "DEN",
+      "city": "Denver Broncos",
+      "shortName": "Denver",
+      "commonName": "Broncos",
+      "conf": "AFC",
+      "div": "AFC West",
+      "gp": 8,
+      "w": 6,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.75,
+      "pf": 172,
+      "pa": 165,
+      "pd": 7,
+      "seed": 2,
+      "score": 61,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+      "colors": {
+        "primary": "#fb4f14",
+        "secondary": "#002244"
+      }
+    },
+    {
       "code": "JAX",
       "city": "Jacksonville Jaguars",
       "shortName": "Jacksonville",
@@ -141,29 +164,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "KC",
-      "city": "Kansas City Chiefs",
-      "shortName": "Kansas City",
-      "commonName": "Chiefs",
-      "conf": "AFC",
-      "div": "AFC West",
-      "gp": 6,
-      "w": 5,
-      "l": 1,
-      "t": 0,
-      "winPct": 0.833,
-      "pf": 143,
-      "pa": 103,
-      "pd": 40,
-      "seed": 2,
-      "score": 72,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-      "colors": {
-        "primary": "#e31837",
-        "secondary": "#ffb612"
-      }
-    },
-    {
       "code": "CHI",
       "city": "Chicago Bears",
       "shortName": "Chicago",
@@ -184,6 +184,29 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#0b162a",
         "secondary": "#c83803"
+      }
+    },
+    {
+      "code": "KC",
+      "city": "Kansas City Chiefs",
+      "shortName": "Kansas City",
+      "commonName": "Chiefs",
+      "conf": "AFC",
+      "div": "AFC West",
+      "gp": 7,
+      "w": 5,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.714,
+      "pf": 167,
+      "pa": 131,
+      "pd": 36,
+      "seed": 5,
+      "score": 61,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+      "colors": {
+        "primary": "#e31837",
+        "secondary": "#ffb612"
       }
     },
     {
@@ -210,6 +233,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "NE",
+      "city": "New England Patriots",
+      "shortName": "New England",
+      "commonName": "Patriots",
+      "conf": "AFC",
+      "div": "AFC East",
+      "gp": 8,
+      "w": 5,
+      "l": 3,
+      "t": 0,
+      "winPct": 0.625,
+      "pf": 184,
+      "pa": 162,
+      "pd": 22,
+      "seed": 7,
+      "score": 52,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+      "colors": {
+        "primary": "#002244",
+        "secondary": "#c60c30"
+      }
+    },
+    {
       "code": "GB",
       "city": "Green Bay Packers",
       "shortName": "Green Bay",
@@ -233,29 +279,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "DEN",
-      "city": "Denver Broncos",
-      "shortName": "Denver",
-      "commonName": "Broncos",
-      "conf": "AFC",
-      "div": "AFC West",
-      "gp": 7,
-      "w": 5,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.714,
-      "pf": 144,
-      "pa": 141,
-      "pd": 3,
-      "seed": 5,
-      "score": 57,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-      "colors": {
-        "primary": "#fb4f14",
-        "secondary": "#002244"
-      }
-    },
-    {
       "code": "CLE",
       "city": "Cleveland Browns",
       "shortName": "Cleveland",
@@ -270,7 +293,7 @@ window.NFL_DATA = {
       "pf": 139,
       "pa": 173,
       "pd": -34,
-      "seed": 7,
+      "seed": 8,
       "score": 47,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
       "colors": {
@@ -302,26 +325,26 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "NE",
-      "city": "New England Patriots",
-      "shortName": "New England",
-      "commonName": "Patriots",
-      "conf": "AFC",
-      "div": "AFC East",
-      "gp": 7,
+      "code": "LAR",
+      "city": "Los Angeles Rams",
+      "shortName": "Los Angeles",
+      "commonName": "Rams",
+      "conf": "NFC",
+      "div": "NFC West",
+      "gp": 8,
       "w": 4,
-      "l": 3,
+      "l": 4,
       "t": 0,
-      "winPct": 0.571,
-      "pf": 160,
-      "pa": 143,
-      "pd": 17,
-      "seed": 8,
-      "score": 48,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+      "winPct": 0.5,
+      "pf": 194,
+      "pa": 168,
+      "pd": 26,
+      "seed": 9,
+      "score": 43,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
       "colors": {
-        "primary": "#002244",
-        "secondary": "#c60c30"
+        "primary": "#003594",
+        "secondary": "#ffd100"
       }
     },
     {
@@ -414,29 +437,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#d50a0a",
         "secondary": "#ff7900"
-      }
-    },
-    {
-      "code": "LAR",
-      "city": "Los Angeles Rams",
-      "shortName": "Los Angeles",
-      "commonName": "Rams",
-      "conf": "NFC",
-      "div": "NFC West",
-      "gp": 7,
-      "w": 3,
-      "l": 4,
-      "t": 0,
-      "winPct": 0.429,
-      "pf": 170,
-      "pa": 159,
-      "pd": 11,
-      "seed": 9,
-      "score": 36,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
-      "colors": {
-        "primary": "#003594",
-        "secondary": "#ffd100"
       }
     },
     {
@@ -699,16 +699,16 @@ window.NFL_DATA = {
       "commonName": "Dolphins",
       "conf": "AFC",
       "div": "AFC East",
-      "gp": 6,
+      "gp": 7,
       "w": 1,
-      "l": 5,
+      "l": 6,
       "t": 0,
-      "winPct": 0.167,
-      "pf": 98,
-      "pa": 157,
-      "pd": -59,
+      "winPct": 0.143,
+      "pf": 117,
+      "pa": 181,
+      "pd": -64,
       "seed": 14,
-      "score": 5,
+      "score": 4,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
       "colors": {
         "primary": "#008e97",
@@ -722,14 +722,14 @@ window.NFL_DATA = {
       "commonName": "Chargers",
       "conf": "AFC",
       "div": "AFC West",
-      "gp": 6,
+      "gp": 7,
       "w": 0,
-      "l": 6,
+      "l": 7,
       "t": 0,
       "winPct": 0.0,
-      "pf": 90,
-      "pa": 151,
-      "pd": -61,
+      "pf": 99,
+      "pa": 175,
+      "pd": -76,
       "seed": 16,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
@@ -2105,7 +2105,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-01 23:36 UTC",
+  "LAST_UPDATE": "2026-11-02 00:52 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

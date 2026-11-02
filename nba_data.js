@@ -428,14 +428,14 @@ window.NBA_DATA = {
       "shortName": "Indiana",
       "commonName": "Pacers",
       "conf": "E",
-      "gp": 6,
+      "gp": 7,
       "w": 2,
-      "l": 4,
-      "winPct": 0.333,
-      "gf": 700,
-      "ga": 719,
-      "gd": -19,
-      "score": 22,
+      "l": 5,
+      "winPct": 0.286,
+      "gf": 790,
+      "ga": 817,
+      "gd": -27,
+      "score": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
       "colors": {
         "primary": "#002d62",
@@ -480,6 +480,26 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#c8102e",
         "secondary": "#1d428a"
+      }
+    },
+    {
+      "code": "BKN",
+      "city": "Brooklyn Nets",
+      "shortName": "Brooklyn",
+      "commonName": "Nets",
+      "conf": "E",
+      "gp": 6,
+      "w": 1,
+      "l": 5,
+      "winPct": 0.167,
+      "gf": 649,
+      "ga": 696,
+      "gd": -47,
+      "score": 0,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#ffffff"
       }
     },
     {
@@ -560,26 +580,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#ce1141",
         "secondary": "#000000"
-      }
-    },
-    {
-      "code": "BKN",
-      "city": "Brooklyn Nets",
-      "shortName": "Brooklyn",
-      "commonName": "Nets",
-      "conf": "E",
-      "gp": 5,
-      "w": 0,
-      "l": 5,
-      "winPct": 0.0,
-      "gf": 551,
-      "ga": 606,
-      "gd": -55,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#ffffff"
       }
     },
     {
@@ -1073,22 +1073,6 @@ window.NBA_DATA = {
         "prevRank": 8
       },
       {
-        "teamCode": "IND",
-        "city": "Indiana Pacers",
-        "era": "2024–present",
-        "rings": 0,
-        "dynastyScore": 22.1,
-        "threshold": 89.4,
-        "gap": 67.3,
-        "note": "2025 NBA Finals · Haliburton era",
-        "needs": "Needs at least one title + sustained dominance",
-        "colors": {
-          "primary": "#002d62",
-          "secondary": "#fdbb30"
-        },
-        "prevRank": 9
-      },
-      {
         "teamCode": "MIL",
         "city": "Milwaukee Bucks",
         "era": "2019–present",
@@ -1103,6 +1087,22 @@ window.NBA_DATA = {
           "secondary": "#eee1c6"
         },
         "prevRank": 10
+      },
+      {
+        "teamCode": "IND",
+        "city": "Indiana Pacers",
+        "era": "2024–present",
+        "rings": 0,
+        "dynastyScore": 18.8,
+        "threshold": 89.4,
+        "gap": 70.6,
+        "note": "2025 NBA Finals · Haliburton era",
+        "needs": "Needs at least one title + sustained dominance",
+        "colors": {
+          "primary": "#002d62",
+          "secondary": "#fdbb30"
+        },
+        "prevRank": 9
       }
     ],
     "youngProspects": []
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-01 23:36 UTC",
+  "LAST_UPDATE": "2026-11-02 00:52 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

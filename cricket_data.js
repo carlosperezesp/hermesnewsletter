@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-11-01 23:38 UTC",
+  "UPDATED": "2026-11-02 00:54 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1674,
+    "matches": 1672,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 982
+        "matches": 980
       },
       {
         "name": "IPL",
@@ -1676,12 +1676,12 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 89.6,
-          "batting": 34.3,
-          "bowling": 54.5,
-          "overall": 89.6,
-          "runs": 867,
-          "wickets": 57
+          "score": 90.2,
+          "batting": 35.2,
+          "bowling": 53.8,
+          "overall": 90.2,
+          "runs": 866,
+          "wickets": 56
         },
         {
           "id": "bilal-zalmai",
@@ -2260,12 +2260,12 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 85.6,
-          "batting": 34.3,
-          "bowling": 44.9,
-          "overall": 85.6,
-          "runs": 867,
-          "wickets": 57
+          "score": 86.2,
+          "batting": 35.2,
+          "bowling": 44.4,
+          "overall": 86.2,
+          "runs": 866,
+          "wickets": 56
         },
         {
           "id": "bilal-zalmai",
