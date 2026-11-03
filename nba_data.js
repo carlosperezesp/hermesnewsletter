@@ -123,6 +123,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "OKC",
+      "city": "Oklahoma City Thunder",
+      "shortName": "Oklahoma City",
+      "commonName": "Thunder",
+      "conf": "W",
+      "gp": 7,
+      "w": 5,
+      "l": 2,
+      "winPct": 0.714,
+      "gf": 756,
+      "ga": 754,
+      "gd": 2,
+      "score": 59,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+      "colors": {
+        "primary": "#007ac1",
+        "secondary": "#ef3b24"
+      }
+    },
+    {
       "code": "MIN",
       "city": "Minnesota Timberwolves",
       "shortName": "Minnesota",
@@ -188,14 +208,14 @@ window.NBA_DATA = {
       "shortName": "Cleveland",
       "commonName": "Cavaliers",
       "conf": "E",
-      "gp": 6,
+      "gp": 7,
       "w": 4,
-      "l": 2,
-      "winPct": 0.667,
-      "gf": 726,
-      "ga": 696,
-      "gd": 30,
-      "score": 64,
+      "l": 3,
+      "winPct": 0.571,
+      "gf": 838,
+      "ga": 813,
+      "gd": 25,
+      "score": 53,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
       "colors": {
         "primary": "#860038",
@@ -243,23 +263,23 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "OKC",
-      "city": "Oklahoma City Thunder",
-      "shortName": "Oklahoma City",
-      "commonName": "Thunder",
-      "conf": "W",
-      "gp": 6,
+      "code": "WSH",
+      "city": "Washington Wizards",
+      "shortName": "Washington",
+      "commonName": "Wizards",
+      "conf": "E",
+      "gp": 7,
       "w": 4,
-      "l": 2,
-      "winPct": 0.667,
-      "gf": 639,
-      "ga": 642,
-      "gd": -3,
-      "score": 54,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+      "l": 3,
+      "winPct": 0.571,
+      "gf": 766,
+      "ga": 752,
+      "gd": 14,
+      "score": 50,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
       "colors": {
-        "primary": "#007ac1",
-        "secondary": "#ef3b24"
+        "primary": "#002b5e",
+        "secondary": "#e31837"
       }
     },
     {
@@ -300,26 +320,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#e03a3e",
         "secondary": "#c1d32f"
-      }
-    },
-    {
-      "code": "WSH",
-      "city": "Washington Wizards",
-      "shortName": "Washington",
-      "commonName": "Wizards",
-      "conf": "E",
-      "gp": 6,
-      "w": 3,
-      "l": 3,
-      "winPct": 0.5,
-      "gf": 663,
-      "ga": 658,
-      "gd": 5,
-      "score": 42,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
-      "colors": {
-        "primary": "#002b5e",
-        "secondary": "#e31837"
       }
     },
     {
@@ -448,14 +448,14 @@ window.NBA_DATA = {
       "shortName": "Orlando",
       "commonName": "Magic",
       "conf": "E",
-      "gp": 6,
+      "gp": 7,
       "w": 2,
-      "l": 4,
-      "winPct": 0.333,
-      "gf": 646,
-      "ga": 700,
-      "gd": -54,
-      "score": 11,
+      "l": 5,
+      "winPct": 0.286,
+      "gf": 740,
+      "ga": 803,
+      "gd": -63,
+      "score": 7,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
       "colors": {
         "primary": "#0077c0",
@@ -981,9 +981,9 @@ window.NBA_DATA = {
         "city": "Oklahoma City Thunder",
         "era": "2023–present",
         "rings": 1,
-        "dynastyScore": 51.7,
+        "dynastyScore": 54.5,
         "threshold": 89.4,
-        "gap": 37.7,
+        "gap": 34.9,
         "note": "2025 Champions · SGA Finals MVP · dynasty begins",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-03 02:19 UTC",
+  "LAST_UPDATE": "2026-11-03 02:57 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

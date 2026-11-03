@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-03 02:22 UTC",
+  "UPDATED": "2026-11-03 02:59 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",

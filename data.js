@@ -47,6 +47,28 @@ window.NHL_DATA = {
       }
     },
     {
+      "code": "BOS",
+      "city": "Boston Bruins",
+      "shortName": "Boston",
+      "commonName": "Bruins",
+      "conf": "E",
+      "div": "Atlantic",
+      "gp": 16,
+      "w": 11,
+      "l": 4,
+      "ot": 1,
+      "pts": 23,
+      "gf": 58,
+      "ga": 38,
+      "gd": 20,
+      "score": 63,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+      "colors": {
+        "primary": "#ffb81c",
+        "secondary": "#111111"
+      }
+    },
+    {
       "code": "MIN",
       "city": "Minnesota Wild",
       "shortName": "Minnesota",
@@ -69,25 +91,25 @@ window.NHL_DATA = {
       }
     },
     {
-      "code": "BOS",
-      "city": "Boston Bruins",
-      "shortName": "Boston",
-      "commonName": "Bruins",
-      "conf": "E",
-      "div": "Atlantic",
-      "gp": 15,
-      "w": 10,
-      "l": 4,
-      "ot": 1,
-      "pts": 21,
+      "code": "VGK",
+      "city": "Vegas Golden Knights",
+      "shortName": "Vegas",
+      "commonName": "Golden Knights",
+      "conf": "W",
+      "div": "Pacific",
+      "gp": 16,
+      "w": 9,
+      "l": 5,
+      "ot": 2,
+      "pts": 20,
       "gf": 55,
-      "ga": 36,
-      "gd": 19,
-      "score": 62,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+      "ga": 47,
+      "gd": 8,
+      "score": 56,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
       "colors": {
-        "primary": "#ffb81c",
-        "secondary": "#111111"
+        "primary": "#b4975a",
+        "secondary": "#333f48"
       }
     },
     {
@@ -110,28 +132,6 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
-      }
-    },
-    {
-      "code": "VGK",
-      "city": "Vegas Golden Knights",
-      "shortName": "Vegas",
-      "commonName": "Golden Knights",
-      "conf": "W",
-      "div": "Pacific",
-      "gp": 15,
-      "w": 9,
-      "l": 5,
-      "ot": 1,
-      "pts": 19,
-      "gf": 53,
-      "ga": 44,
-      "gd": 9,
-      "score": 57,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
-      "colors": {
-        "primary": "#b4975a",
-        "secondary": "#333f48"
       }
     },
     {
@@ -201,28 +201,6 @@ window.NHL_DATA = {
       }
     },
     {
-      "code": "FLA",
-      "city": "Florida Panthers",
-      "shortName": "Florida",
-      "commonName": "Panthers",
-      "conf": "E",
-      "div": "Atlantic",
-      "gp": 14,
-      "w": 8,
-      "l": 4,
-      "ot": 2,
-      "pts": 18,
-      "gf": 44,
-      "ga": 39,
-      "gd": 5,
-      "score": 56,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      }
-    },
-    {
       "code": "TBL",
       "city": "Tampa Bay Lightning",
       "shortName": "Tampa Bay",
@@ -242,6 +220,28 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#002868",
         "secondary": "#ffffff"
+      }
+    },
+    {
+      "code": "FLA",
+      "city": "Florida Panthers",
+      "shortName": "Florida",
+      "commonName": "Panthers",
+      "conf": "E",
+      "div": "Atlantic",
+      "gp": 15,
+      "w": 8,
+      "l": 5,
+      "ot": 2,
+      "pts": 18,
+      "gf": 47,
+      "ga": 44,
+      "gd": 3,
+      "score": 54,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
       }
     },
     {
@@ -308,6 +308,28 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#006847",
         "secondary": "#8f8f8c"
+      }
+    },
+    {
+      "code": "DET",
+      "city": "Detroit Red Wings",
+      "shortName": "Detroit",
+      "commonName": "Red Wings",
+      "conf": "E",
+      "div": "Atlantic",
+      "gp": 15,
+      "w": 7,
+      "l": 5,
+      "ot": 3,
+      "pts": 17,
+      "gf": 46,
+      "ga": 46,
+      "gd": 0,
+      "score": 52,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
       }
     },
     {
@@ -440,28 +462,6 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
-      }
-    },
-    {
-      "code": "DET",
-      "city": "Detroit Red Wings",
-      "shortName": "Detroit",
-      "commonName": "Red Wings",
-      "conf": "E",
-      "div": "Atlantic",
-      "gp": 14,
-      "w": 6,
-      "l": 5,
-      "ot": 3,
-      "pts": 15,
-      "gf": 41,
-      "ga": 43,
-      "gd": -2,
-      "score": 50,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
       }
     },
     {
@@ -2209,10 +2209,10 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8480193.png",
       "score": 70,
       "stats": {
-        "gp": 4,
-        "w": 1,
-        "svpct": 0.94,
-        "gaa": 1.4,
+        "gp": 5,
+        "w": 2,
+        "svpct": 0.927,
+        "gaa": 1.75,
         "so": 1
       },
       "trajectory": [
@@ -3537,37 +3537,6 @@ window.NHL_DATA = {
       "legendScore": 52.1
     },
     {
-      "id": 8474593,
-      "first": "Jacob",
-      "last": "Markstrom",
-      "name": "Jacob Markstrom",
-      "pos": "G",
-      "teamCode": "FLA",
-      "age": 36,
-      "country": "Sweden",
-      "birthCountry": "SWE",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8474593.png",
-      "score": 65,
-      "stats": {
-        "gp": 6,
-        "w": 3,
-        "svpct": 0.897,
-        "gaa": 2.21,
-        "so": 1
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        65
-      ]
-    },
-    {
       "id": 8480027,
       "first": "Jason",
       "last": "Robertson",
@@ -4191,6 +4160,37 @@ window.NHL_DATA = {
         43,
         45,
         47,
+        63
+      ]
+    },
+    {
+      "id": 8474593,
+      "first": "Jacob",
+      "last": "Markstrom",
+      "name": "Jacob Markstrom",
+      "pos": "G",
+      "teamCode": "FLA",
+      "age": 36,
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8474593.png",
+      "score": 63,
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "svpct": 0.89,
+        "gaa": 2.5,
+        "so": 1
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
         63
       ]
     },
@@ -38164,9 +38164,9 @@ window.NHL_DATA = {
         "city": "Vegas Golden Knights",
         "era": "2018–present",
         "cups": 2,
-        "dynastyScore": 69.3,
+        "dynastyScore": 68.8,
         "threshold": 89.7,
-        "gap": 20.4,
+        "gap": 20.9,
         "note": "2023 & 2025 Cups · fastest expansion dynasty · 2026 Finals",
         "needs": "1–2 more Cups + sustained regular-season excellence",
         "colors": {
@@ -38196,9 +38196,9 @@ window.NHL_DATA = {
         "city": "Florida Panthers",
         "era": "2022–present",
         "cups": 1,
-        "dynastyScore": 55.8,
+        "dynastyScore": 54.7,
         "threshold": 89.7,
-        "gap": 33.9,
+        "gap": 35.0,
         "note": "2024 Cup · 2022–present contender",
         "needs": "2–3 more Cups + another dominant era",
         "colors": {
@@ -38260,9 +38260,9 @@ window.NHL_DATA = {
         "city": "Boston Bruins",
         "era": "2019–present",
         "cups": 0,
-        "dynastyScore": 46.1,
+        "dynastyScore": 46.7,
         "threshold": 89.7,
-        "gap": 43.6,
+        "gap": 43.0,
         "note": "Consistent 100+ point seasons",
         "needs": "Needs at least one Cup + years of dominance",
         "colors": {
@@ -38548,10 +38548,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-03 02:19 UTC",
+  "LAST_UPDATE": "2026-11-03 02:57 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-03T02:18:30Z"
+    "standingsDateTimeUtc": "2026-11-03T02:57:15Z"
   }
 };

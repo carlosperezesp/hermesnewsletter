@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-03 02:22 UTC
+// Auto-generated 2026-11-03 02:59 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-03 02:22 UTC",
+  "UPDATED": "2026-11-03 02:59 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -2695,7 +2695,7 @@ window.TENNIS_DATA = {
     {
       "id": "144895",
       "name": "Corentin Moutet",
-      "rank": 110,
+      "rank": 111,
       "prevRank": 103,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
@@ -3413,7 +3413,7 @@ window.TENNIS_DATA = {
     {
       "id": "207686",
       "name": "Alexander Shevchenko",
-      "rank": 107,
+      "rank": 108,
       "prevRank": 109,
       "country": "KAZ",
       "logo": "https://flagcdn.com/24x18/kz.png",
@@ -4339,7 +4339,7 @@ window.TENNIS_DATA = {
     {
       "id": "200384",
       "name": "Hugo Gaston",
-      "rank": 108,
+      "rank": 109,
       "prevRank": 110,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
@@ -4373,7 +4373,7 @@ window.TENNIS_DATA = {
     {
       "id": "106198",
       "name": "Hugo Dellien",
-      "rank": 111,
+      "rank": 107,
       "prevRank": 119,
       "country": "BOL",
       "logo": "https://flagcdn.com/24x18/bo.png",
@@ -4585,7 +4585,7 @@ window.TENNIS_DATA = {
     {
       "id": "205734",
       "name": "Thiago Seyboth Wild",
-      "rank": 109,
+      "rank": 110,
       "prevRank": 111,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
