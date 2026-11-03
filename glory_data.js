@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-02 22:30 UTC",
+  "UPDATED": "2026-11-03 02:22 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -112,15 +112,6 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "tennis:in:ATP:Arthur Fils:20261015",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Arthur Fils entra en el top 10 ATP",
-      "weight": 90,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-10-19"
     },
     {
       "id": "rank:nfl:ROAD_TO_GLORY.players:in:Trevor Lawrence",
@@ -303,15 +294,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-20"
     },
     {
-      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:in:Caleb Williams",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-jovenes-promesas",
-      "text": "Caleb Williams entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-19"
-    },
-    {
       "id": "tennis:out:ATP:Felix Auger Aliassime:20261029",
       "sport": "tennis",
       "detail": "Tenis",
@@ -319,15 +301,6 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "tennis:out:ATP:Novak Djokovic:20261015",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Novak Djokovic sale del top 10 ATP",
-      "weight": 78,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-10-19"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Beckett Sennecke",

@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-02 22:30 UTC
+// Auto-generated 2026-11-03 02:22 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-02 22:30 UTC",
+  "UPDATED": "2026-11-03 02:22 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1496,9 +1496,9 @@ window.TENNIS_DATA = {
       "prevListRank": 44,
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 62.0
     },
@@ -6260,7 +6260,7 @@ window.TENNIS_DATA = {
       "secondary": "#FFFFFF",
       "activeScore": 68.3,
       "legendScore": 31.6,
-      "age": 24,
+      "age": 25,
       "surface": {
         "hard": 0.5,
         "clay": 0.6,
@@ -10889,48 +10889,6 @@ window.TENNIS_DATA = {
   ],
   "ATP_RECENT": [
     {
-      "name": "Erste Bank Open",
-      "level": "ATP 500",
-      "surface": "Hard",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Carlos Alcaraz",
-          "w_logo": "",
-          "l": "Alex de Minaur",
-          "l_logo": "",
-          "score": "6-1 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 90.9,
-          "l_score": 75.2,
-          "match_score": 90.9
-        }
-      ]
-    },
-    {
-      "name": "Swiss Indoors Basel",
-      "level": "ATP 500",
-      "surface": "Hard",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Valentin Vacherot",
-          "w_logo": "",
-          "l": "Jiri Lehecka",
-          "l_logo": "",
-          "score": "2-6 6-3 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 72.4,
-          "l_score": 74.6,
-          "match_score": 74.6
-        }
-      ]
-    }
-  ],
-  "ATP_TODAY": [
-    {
       "name": "Rolex Paris Masters",
       "level": "Masters 1000",
       "surface": "Hard",
@@ -10942,7 +10900,7 @@ window.TENNIS_DATA = {
           "l": "Juan Manuel Cerundolo",
           "l_logo": "",
           "score": "6-3 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 79.0,
           "l_score": 57.7,
@@ -10955,7 +10913,7 @@ window.TENNIS_DATA = {
           "l": "Alejandro Tabilo",
           "l_logo": "",
           "score": "6-2 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 78.2,
           "l_score": 64.5,
@@ -10968,7 +10926,7 @@ window.TENNIS_DATA = {
           "l": "Hubert Hurkacz",
           "l_logo": "",
           "score": "7-6 (7-3) 7-6 (12-10)",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 77.2,
           "l_score": 65.5,
@@ -10981,7 +10939,7 @@ window.TENNIS_DATA = {
           "l": "Denis Shapovalov",
           "l_logo": "",
           "score": "6-3 6-7 (6-8) 1-4 ret",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 68.0,
           "l_score": 56.5,
@@ -10994,7 +10952,7 @@ window.TENNIS_DATA = {
           "l": "Zizou Bergs",
           "l_logo": "",
           "score": "6-2 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 66.6,
           "l_score": 58.9,
@@ -11007,7 +10965,7 @@ window.TENNIS_DATA = {
           "l": "Luciano Darderi",
           "l_logo": "",
           "score": "6-2 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 46.7,
           "l_score": 63.8,
@@ -11015,15 +10973,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Botic Van De Zandschulp",
+          "w": "Ugo Humbert",
           "w_logo": "",
-          "l": "Ugo Humbert",
+          "l": "Botic Van De Zandschulp",
           "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
+          "score": "7-6 (7-5) 6-7 (9-11) 6-3",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 62.1,
-          "l_score": 63.5,
+          "w_score": 63.5,
+          "l_score": 62.1,
           "match_score": 63.5
         },
         {
@@ -11033,7 +10991,7 @@ window.TENNIS_DATA = {
           "l": "Matteo Arnaldi",
           "l_logo": "",
           "score": "6-4 1-6 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 63.4,
           "l_score": 62.9,
@@ -11042,135 +11000,120 @@ window.TENNIS_DATA = {
       ]
     }
   ],
-  "WTA_RECENT": [
+  "ATP_TODAY": [
     {
-      "name": "Guangzhou Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Harriet Dart",
-          "w_logo": "",
-          "l": "Lilli Tagger",
-          "l_logo": "",
-          "score": "4-6 6-3 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 35.0,
-          "l_score": 60.7,
-          "match_score": 60.7
-        }
-      ]
-    },
-    {
-      "name": "Toray Pan Pacific Open Tennis",
-      "level": "WTA 500",
+      "name": "Rolex Paris Masters",
+      "level": "Masters 1000",
       "surface": "Hard",
       "matches": [
         {
-          "round": "F",
-          "w": "Diana Shnaider",
+          "round": "R128",
+          "w": "Novak Djokovic",
           "w_logo": "",
-          "l": "Leylah Fernandez",
+          "l": "Valentin Vacherot",
           "l_logo": "",
-          "score": "6-4 5-7 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 76.1,
-          "l_score": 69.1,
-          "match_score": 76.1
-        }
-      ]
-    },
-    {
-      "name": "Curitiba Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Alice Tubello",
-          "w_logo": "",
-          "l": "Julia Grabher",
-          "l_logo": "",
-          "score": "3-6 7-6 (7-5) 7-6 (7-2)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 35.0,
-          "match_score": 35.0
-        }
-      ]
-    },
-    {
-      "name": "Valle D'Aosta Ladies Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Alina Charaeva",
-          "w_logo": "",
-          "l": "Noma Noha Akugue",
-          "l_logo": "",
-          "score": "6-3 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 42.1,
-          "l_score": 35.0,
-          "match_score": 42.1
-        }
-      ]
-    },
-    {
-      "name": "Queretaro Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Bianca Andreescu",
-          "w_logo": "",
-          "l": "Tatjana Maria",
-          "l_logo": "",
-          "score": "6-1 2-6 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 48.7,
-          "l_score": 52.5,
-          "match_score": 52.5
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 86.3,
+          "l_score": 72.4,
+          "match_score": 86.3
         },
         {
-          "round": "Semifinal",
-          "w": "Tatjana Maria",
+          "round": "R128",
+          "w": "Tommy Paul",
           "w_logo": "",
-          "l": "Fiona Ferro",
+          "l": "Holger Rune",
           "l_logo": "",
-          "score": "7-5 3-6 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 52.5,
-          "l_score": 43.5,
-          "match_score": 52.5
-        },
-        {
-          "round": "Semifinal",
-          "w": "Bianca Andreescu",
-          "w_logo": "",
-          "l": "Carole Monnet",
-          "l_logo": "",
-          "score": "6-3 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 48.7,
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 79.5,
           "l_score": null,
-          "match_score": 48.7
+          "match_score": 79.5
+        },
+        {
+          "round": "R64",
+          "w": "Casper Ruud",
+          "w_logo": "",
+          "l": "Rafael Jodar",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 79.0,
+          "l_score": 78.2,
+          "match_score": 79.0
+        },
+        {
+          "round": "R64",
+          "w": "Ben Shelton",
+          "w_logo": "",
+          "l": "Cameron Norrie",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 75.2,
+          "l_score": 63.4,
+          "match_score": 75.2
+        },
+        {
+          "round": "R128",
+          "w": "Jiri Lehecka",
+          "w_logo": "",
+          "l": "Alex Michelsen",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 74.6,
+          "l_score": 65.0,
+          "match_score": 74.6
+        },
+        {
+          "round": "R128",
+          "w": "Taylor Fritz",
+          "w_logo": "",
+          "l": "Benjamin Bonzi",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 73.9,
+          "l_score": 51.1,
+          "match_score": 73.9
+        },
+        {
+          "round": "R128",
+          "w": "Learner Tien",
+          "w_logo": "",
+          "l": "Stefanos Tsitsipas",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 73.2,
+          "l_score": 65.1,
+          "match_score": 73.2
+        },
+        {
+          "round": "R128",
+          "w": "Andrey Rublev",
+          "w_logo": "",
+          "l": "Tomas Martin Etcheverry",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 72.8,
+          "l_score": 62.8,
+          "match_score": 72.8
         }
       ]
     }
   ],
-  "WTA_TODAY": [
+  "WTA_RECENT": [
     {
       "name": "Prudential Hong Kong Tennis Open",
       "level": "WTA 250",
@@ -11183,7 +11126,7 @@ window.TENNIS_DATA = {
           "l": "Viktorija Golubic",
           "l_logo": "",
           "score": "6-2 7-6 (7-2)",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 65.7,
           "l_score": 53.4,
@@ -11196,7 +11139,7 @@ window.TENNIS_DATA = {
           "l": "Carol Young Suh Lee",
           "l_logo": "",
           "score": "6-1 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 65.7,
           "l_score": null,
@@ -11209,7 +11152,7 @@ window.TENNIS_DATA = {
           "l": "Katie Volynets",
           "l_logo": "",
           "score": "6-3 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 44.9,
           "l_score": 47.4,
@@ -11222,7 +11165,7 @@ window.TENNIS_DATA = {
           "l": "Tatiana Prozorova",
           "l_logo": "",
           "score": "6-2 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 45.3,
           "l_score": 35.0,
@@ -11235,7 +11178,7 @@ window.TENNIS_DATA = {
           "l": "Venus Williams",
           "l_logo": "",
           "score": "6-2 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
@@ -11248,7 +11191,7 @@ window.TENNIS_DATA = {
           "l": "Adithya Karunaratne",
           "l_logo": "",
           "score": "6-1 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11268,7 +11211,7 @@ window.TENNIS_DATA = {
           "l": "Yuliana Lizarazo",
           "l_logo": "",
           "score": "6-4 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 63.7,
           "l_score": null,
@@ -11281,7 +11224,7 @@ window.TENNIS_DATA = {
           "l": "Selena Janicijevic",
           "l_logo": "",
           "score": "6-4 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 55.3,
           "l_score": null,
@@ -11294,7 +11237,7 @@ window.TENNIS_DATA = {
           "l": "Lucia Bronzetti",
           "l_logo": "",
           "score": "6-7 (2-7) 6-4 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 40.6,
           "l_score": 42.8,
@@ -11307,7 +11250,7 @@ window.TENNIS_DATA = {
           "l": "Polona Hercog",
           "l_logo": "",
           "score": "6-0 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 36.1,
           "l_score": null,
@@ -11320,7 +11263,7 @@ window.TENNIS_DATA = {
           "l": "Maria Paulina Perez Garcia",
           "l_logo": "",
           "score": "6-1 6-0",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11333,7 +11276,7 @@ window.TENNIS_DATA = {
           "l": "Maria Camila Torres Murcia",
           "l_logo": "",
           "score": "6-3 6-0",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11353,7 +11296,7 @@ window.TENNIS_DATA = {
           "l": "Sandra Samir",
           "l_logo": "",
           "score": "7-5 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11366,7 +11309,7 @@ window.TENNIS_DATA = {
           "l": "Dune Vaissaud",
           "l_logo": "",
           "score": "6-0 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11379,7 +11322,7 @@ window.TENNIS_DATA = {
           "l": "Warona Mdlulwa",
           "l_logo": "",
           "score": "6-1 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11392,8 +11335,454 @@ window.TENNIS_DATA = {
           "l": "Jahnie Van Zyl",
           "l_logo": "",
           "score": "7-5 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    }
+  ],
+  "WTA_TODAY": [
+    {
+      "name": "Prudential Hong Kong Tennis Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Sorana Cirstea",
+          "w_logo": "",
+          "l": "Maria Timofeeva",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 85.8,
+          "l_score": 45.1,
+          "match_score": 85.8
+        },
+        {
+          "round": "R128",
+          "w": "Alexandra Eala",
+          "w_logo": "",
+          "l": "Alycia Parks",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 69.2,
+          "l_score": 56.8,
+          "match_score": 69.2
+        },
+        {
+          "round": "R128",
+          "w": "Liudmila Samsonova",
+          "w_logo": "",
+          "l": "Alexandra Shubladze",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 63.8,
+          "l_score": 51.8,
+          "match_score": 63.8
+        },
+        {
+          "round": "R128",
+          "w": "Oleksandra Oliynykova",
+          "w_logo": "",
+          "l": "Talia Gibson",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 62.0,
+          "l_score": 58.8,
+          "match_score": 62.0
+        },
+        {
+          "round": "R128",
+          "w": "Maya Joint",
+          "w_logo": "",
+          "l": "Maddison Inglis",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 57.8,
+          "l_score": 35.0,
+          "match_score": 57.8
+        },
+        {
+          "round": "R128",
+          "w": "Tereza Valentova",
+          "w_logo": "",
+          "l": "Himeno Sakatsume",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 57.1,
+          "l_score": 39.1,
+          "match_score": 57.1
+        },
+        {
+          "round": "R128",
+          "w": "Paula Badosa",
+          "w_logo": "",
+          "l": "Elena Pridankina",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 57.0,
+          "l_score": null,
+          "match_score": 57.0
+        },
+        {
+          "round": "R128",
+          "w": "Zeynep Sonmez",
+          "w_logo": "",
+          "l": "Dayana Yastremska",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 56.4,
+          "l_score": 55.9,
+          "match_score": 56.4
+        }
+      ]
+    },
+    {
+      "name": "Chennai Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Magda Linette",
+          "w_logo": "",
+          "l": "Aliona Falei",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 61.8,
+          "l_score": null,
+          "match_score": 61.8
+        },
+        {
+          "round": "R128",
+          "w": "Jil Teichmann",
+          "w_logo": "",
+          "l": "Joanna Garland",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 57.9,
+          "l_score": null,
+          "match_score": 57.9
+        },
+        {
+          "round": "R128",
+          "w": "Panna Udvardy",
+          "w_logo": "",
+          "l": "Robin Montgomery",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 53.1,
+          "l_score": null,
+          "match_score": 53.1
+        },
+        {
+          "round": "R128",
+          "w": "Jeline Vandromme",
+          "w_logo": "",
+          "l": "Kyoka Okamura",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 51.8,
+          "l_score": null,
+          "match_score": 51.8
+        },
+        {
+          "round": "R128",
+          "w": "Teodora Kostovic",
+          "w_logo": "",
+          "l": "Oksana Selekhmeteva",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 51.8,
+          "l_score": 47.2,
+          "match_score": 51.8
+        },
+        {
+          "round": "R128",
+          "w": "Janice Tjen",
+          "w_logo": "",
+          "l": "Katherine Hui",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 50.7,
+          "l_score": null,
+          "match_score": 50.7
+        },
+        {
+          "round": "R128",
+          "w": "Katarzyna Kawa",
+          "w_logo": "",
+          "l": "Maaya Rajeshwaran Revathi",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 48.9,
+          "l_score": null,
+          "match_score": 48.9
+        },
+        {
+          "round": "R128",
+          "w": "Rebecca Sramkova",
+          "w_logo": "",
+          "l": "Moyuka Uchijima",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 48.0,
+          "l_score": 39.9,
+          "match_score": 48.0
+        }
+      ]
+    },
+    {
+      "name": "Reto Win Tennis Cali Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Marina Bassols Ribera",
+          "w_logo": "",
+          "l": "Sofia Costoulas",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 49.7,
+          "l_score": null,
+          "match_score": 49.7
+        },
+        {
+          "round": "R128",
+          "w": "Bianca Andreescu",
+          "w_logo": "",
+          "l": "Tamara Zidansek",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 48.7,
+          "l_score": 35.0,
+          "match_score": 48.7
+        },
+        {
+          "round": "R128",
+          "w": "Renata Zarazua",
+          "w_logo": "",
+          "l": "Katrina Scott",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 48.6,
+          "l_score": null,
+          "match_score": 48.6
+        },
+        {
+          "round": "R128",
+          "w": "Julia Riera",
+          "w_logo": "",
+          "l": "Valentina Mediorreal Arias",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 44.3,
+          "l_score": null,
+          "match_score": 44.3
+        },
+        {
+          "round": "R128",
+          "w": "Elvina Kalieva",
+          "w_logo": "",
+          "l": "Irene Burillo",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 42.3,
+          "l_score": null,
+          "match_score": 42.3
+        },
+        {
+          "round": "R128",
+          "w": "Julia Grabher",
+          "w_logo": "",
+          "l": "Laura Pigossi",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 35.0,
+          "l_score": null,
+          "match_score": 35.0
+        },
+        {
+          "round": "R128",
+          "w": "Alice Tubello",
+          "w_logo": "",
+          "l": "Rebeka Masarova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Despina Papamichail",
+          "w_logo": "",
+          "l": "Maria Lourdes Carle",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Angola Ladies Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Anna Blinkova",
+          "w_logo": "",
+          "l": "Farah Heddar",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 48.1,
+          "l_score": null,
+          "match_score": 48.1
+        },
+        {
+          "round": "R128",
+          "w": "Martyna Kubka",
+          "w_logo": "",
+          "l": "Darja Suvirdjonkova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 36.5,
+          "l_score": null,
+          "match_score": 36.5
+        },
+        {
+          "round": "R128",
+          "w": "Ana Sofia Sanchez",
+          "w_logo": "",
+          "l": "Li Zongyu",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Angella Okutoyi",
+          "w_logo": "",
+          "l": "Sofya Lansere",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Ksenia Zaytseva",
+          "w_logo": "",
+          "l": "Jian Ibrahim",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Lamis Alhussein Abdel Aziz",
+          "w_logo": "",
+          "l": "Tiphanie Lemaitre",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Linda Klimovicova",
+          "w_logo": "",
+          "l": "Gina Feistel",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Maayan Laron",
+          "w_logo": "",
+          "l": "Justina Mikulskyte",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11425,7 +11814,6 @@ window.TENNIS_DATA = {
       "Arthur Rinderknech",
       "Ben Shelton",
       "Benjamin Bonzi",
-      "Botic Van De Zandschulp",
       "Brandon Nakashima",
       "Cameron Norrie",
       "Casper Ruud",
@@ -11457,6 +11845,7 @@ window.TENNIS_DATA = {
     ],
     "out": [
       "Alejandro Tabilo",
+      "Botic Van De Zandschulp",
       "Denis Shapovalov",
       "Hubert Hurkacz",
       "Juan Manuel Cerundolo",
@@ -11469,7 +11858,7 @@ window.TENNIS_DATA = {
       "Titouan Droguet",
       "Zizou Bergs"
     ],
-    "aliveCount": 40,
+    "aliveCount": 39,
     "matchesSeen": 29
   },
   "WTA_TOURNAMENT": {
@@ -11642,10 +12031,6 @@ window.TENNIS_DATA = {
   "ATP_SCORE_LOG": {
     "206173": [
       [
-        "20261017",
-        100.0
-      ],
-      [
         "20261018",
         100.0
       ],
@@ -11707,15 +12092,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        100.0
+      ],
+      [
+        "20261103",
         100.0
       ]
     ],
     "207989": [
       [
-        "20261017",
-        90.9
-      ],
-      [
         "20261018",
         90.9
       ],
@@ -11778,13 +12163,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         90.9
+      ],
+      [
+        "20261103",
+        90.9
       ]
     ],
     "100644": [
-      [
-        "20261017",
-        87.5
-      ],
       [
         "20261018",
         87.5
@@ -11848,13 +12233,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         86.9
+      ],
+      [
+        "20261103",
+        86.9
       ]
     ],
     "104925": [
-      [
-        "20261017",
-        87.3
-      ],
       [
         "20261018",
         87.3
@@ -11918,13 +12303,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         86.3
+      ],
+      [
+        "20261103",
+        86.3
       ]
     ],
     "209950": [
-      [
-        "20261017",
-        83.8
-      ],
       [
         "20261018",
         83.8
@@ -11988,13 +12373,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         83.4
+      ],
+      [
+        "20261103",
+        83.4
       ]
     ],
     "126205": [
-      [
-        "20261017",
-        80.2
-      ],
       [
         "20261018",
         80.2
@@ -12058,13 +12443,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         79.5
+      ],
+      [
+        "20261103",
+        79.5
       ]
     ],
     "134770": [
-      [
-        "20261017",
-        80.0
-      ],
       [
         "20261018",
         80.0
@@ -12128,13 +12513,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         79.0
+      ],
+      [
+        "20261103",
+        79.0
       ]
     ],
     "212588": [
-      [
-        "20261017",
-        79.1
-      ],
       [
         "20261018",
         79.1
@@ -12198,13 +12583,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         78.2
+      ],
+      [
+        "20261103",
+        78.2
       ]
     ],
     "106421": [
-      [
-        "20261017",
-        78.9
-      ],
       [
         "20261018",
         78.9
@@ -12268,13 +12653,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         77.9
+      ],
+      [
+        "20261103",
+        77.9
       ]
     ],
     "207518": [
-      [
-        "20261017",
-        78.3
-      ],
       [
         "20261018",
         78.3
@@ -12338,13 +12723,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         77.2
+      ],
+      [
+        "20261103",
+        77.2
       ]
     ],
     "200000": [
-      [
-        "20261017",
-        77.6
-      ],
       [
         "20261018",
         77.6
@@ -12407,15 +12792,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        75.3
+      ],
+      [
+        "20261103",
         75.3
       ]
     ],
     "210097": [
       [
-        "20261017",
-        76.6
-      ],
-      [
         "20261018",
         76.6
       ],
@@ -12477,15 +12862,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        75.2
+      ],
+      [
+        "20261103",
         75.2
       ]
     ],
     "200282": [
       [
-        "20261017",
-        76.6
-      ],
-      [
         "20261018",
         76.6
       ],
@@ -12548,13 +12933,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         75.2
+      ],
+      [
+        "20261103",
+        75.2
       ]
     ],
     "208103": [
-      [
-        "20261017",
-        75.9
-      ],
       [
         "20261018",
         75.9
@@ -12618,13 +13003,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         74.6
+      ],
+      [
+        "20261103",
+        74.6
       ]
     ],
     "207925": [
-      [
-        "20261017",
-        75.8
-      ],
       [
         "20261018",
         75.8
@@ -12688,13 +13073,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         74.5
+      ],
+      [
+        "20261103",
+        74.5
       ]
     ],
     "126207": [
-      [
-        "20261017",
-        75.4
-      ],
       [
         "20261018",
         75.4
@@ -12758,13 +13143,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         74.2
+      ],
+      [
+        "20261103",
+        74.2
       ]
     ],
     "126203": [
-      [
-        "20261017",
-        75.4
-      ],
       [
         "20261018",
         75.4
@@ -12828,13 +13213,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         73.9
+      ],
+      [
+        "20261103",
+        73.9
       ]
     ],
     "210530": [
-      [
-        "20261017",
-        74.9
-      ],
       [
         "20261018",
         74.9
@@ -12897,15 +13282,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        73.2
+      ],
+      [
+        "20261103",
         73.2
       ]
     ],
     "126094": [
       [
-        "20261017",
-        74.2
-      ],
-      [
         "20261018",
         74.2
       ],
@@ -12967,15 +13352,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        72.8
+      ],
+      [
+        "20261103",
         72.8
       ]
     ],
     "122330": [
       [
-        "20261017",
-        74.8
-      ],
-      [
         "20261018",
         74.8
       ],
@@ -13038,13 +13423,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         72.8
+      ],
+      [
+        "20261103",
+        72.8
       ]
     ],
     "202103": [
-      [
-        "20261017",
-        74.1
-      ],
       [
         "20261018",
         74.1
@@ -13107,15 +13492,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        72.6
+      ],
+      [
+        "20261103",
         72.6
       ]
     ],
     "200473": [
       [
-        "20261017",
-        75.4
-      ],
-      [
         "20261018",
         75.4
       ],
@@ -13178,13 +13563,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         72.4
+      ],
+      [
+        "20261103",
+        72.4
       ]
     ],
     "200221": [
-      [
-        "20261017",
-        72.3
-      ],
       [
         "20261018",
         72.3
@@ -13247,15 +13632,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        71.7
+      ],
+      [
+        "20261103",
         71.7
       ]
     ],
     "210696": [
       [
-        "20261017",
-        73.1
-      ],
-      [
         "20261018",
         73.1
       ],
@@ -13317,15 +13702,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        71.5
+      ],
+      [
+        "20261103",
         71.5
       ]
     ],
     "211663": [
       [
-        "20261017",
-        73.3
-      ],
-      [
         "20261018",
         73.3
       ],
@@ -13388,13 +13773,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         70.3
+      ],
+      [
+        "20261103",
+        70.3
       ]
     ],
     "111575": [
-      [
-        "20261017",
-        69.6
-      ],
       [
         "20261018",
         69.6
@@ -13458,13 +13843,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         68.0
+      ],
+      [
+        "20261103",
+        68.0
       ]
     ],
     "206909": [
-      [
-        "20261017",
-        69.0
-      ],
       [
         "20261018",
         69.0
@@ -13528,13 +13913,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         67.2
+      ],
+      [
+        "20261103",
+        67.2
       ]
     ],
     "209860": [
-      [
-        "20261017",
-        68.2
-      ],
       [
         "20261018",
         68.2
@@ -13598,13 +13983,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         66.6
+      ],
+      [
+        "20261103",
+        66.6
       ]
     ],
     "128034": [
-      [
-        "20261017",
-        67.0
-      ],
       [
         "20261018",
         67.0
@@ -13668,13 +14053,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         65.5
+      ],
+      [
+        "20261103",
+        65.5
       ]
     ],
     "126610": [
-      [
-        "20261017",
-        67.1
-      ],
       [
         "20261018",
         67.1
@@ -13738,13 +14123,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         65.4
+      ],
+      [
+        "20261103",
+        65.4
       ]
     ],
     "126774": [
-      [
-        "20261017",
-        66.1
-      ],
       [
         "20261018",
         66.1
@@ -13807,15 +14192,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        65.1
+      ],
+      [
+        "20261103",
         65.1
       ]
     ],
     "210506": [
       [
-        "20261017",
-        67.0
-      ],
-      [
         "20261018",
         67.0
       ],
@@ -13877,15 +14262,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        65.0
+      ],
+      [
+        "20261103",
         65.0
       ]
     ],
     "126214": [
       [
-        "20261017",
-        66.6
-      ],
-      [
         "20261018",
         66.6
       ],
@@ -13948,13 +14333,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         64.5
+      ],
+      [
+        "20261103",
+        64.5
       ]
     ],
     "202058": [
-      [
-        "20261017",
-        65.9
-      ],
       [
         "20261018",
         65.9
@@ -14018,13 +14403,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         63.9
+      ],
+      [
+        "20261103",
+        63.9
       ]
     ],
     "209260": [
-      [
-        "20261017",
-        65.9
-      ],
       [
         "20261018",
         65.9
@@ -14088,13 +14473,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         63.8
+      ],
+      [
+        "20261103",
+        63.8
       ]
     ],
     "200005": [
-      [
-        "20261017",
-        66.3
-      ],
       [
         "20261018",
         66.3
@@ -14158,13 +14543,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         63.5
+      ],
+      [
+        "20261103",
+        63.5
       ]
     ],
     "111815": [
-      [
-        "20261017",
-        66.1
-      ],
       [
         "20261018",
         66.1
@@ -14228,13 +14613,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         63.4
+      ],
+      [
+        "20261103",
+        63.4
       ]
     ],
     "144684": [
-      [
-        "20261017",
-        64.4
-      ],
       [
         "20261018",
         64.4
@@ -14298,13 +14683,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         63.3
+      ],
+      [
+        "20261103",
+        63.3
       ]
     ],
     "208286": [
-      [
-        "20261017",
-        64.8
-      ],
       [
         "20261018",
         64.8
@@ -14367,15 +14752,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        62.9
+      ],
+      [
+        "20261103",
         62.9
       ]
     ],
     "209414": [
       [
-        "20261017",
-        65.3
-      ],
-      [
         "20261018",
         65.3
       ],
@@ -14437,15 +14822,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        62.9
+      ],
+      [
+        "20261103",
         62.9
       ]
     ],
     "207830": [
       [
-        "20261017",
-        64.4
-      ],
-      [
         "20261018",
         64.4
       ],
@@ -14508,13 +14893,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         62.9
+      ],
+      [
+        "20261103",
+        62.9
       ]
     ],
     "144869": [
-      [
-        "20261017",
-        65.0
-      ],
       [
         "20261018",
         65.0
@@ -14577,15 +14962,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        62.8
+      ],
+      [
+        "20261103",
         62.8
       ]
     ],
     "134868": [
       [
-        "20261017",
-        64.0
-      ],
-      [
         "20261018",
         64.0
       ],
@@ -14648,13 +15033,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         62.8
+      ],
+      [
+        "20261103",
+        62.8
       ]
     ],
     "122298": [
-      [
-        "20261017",
-        63.8
-      ],
       [
         "20261018",
         63.8
@@ -14718,13 +15103,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         62.1
+      ],
+      [
+        "20261103",
+        62.1
       ]
     ],
     "208363": [
-      [
-        "20261017",
-        64.1
-      ],
       [
         "20261018",
         64.1
@@ -14788,13 +15173,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         61.7
+      ],
+      [
+        "20261103",
+        61.7
       ]
     ],
     "210084": [
-      [
-        "20261017",
-        63.2
-      ],
       [
         "20261018",
         63.2
@@ -14858,13 +15243,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         60.9
+      ],
+      [
+        "20261103",
+        60.9
       ]
     ],
     "209226": [
-      [
-        "20261017",
-        63.5
-      ],
       [
         "20261018",
         63.5
@@ -14928,13 +15313,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         60.7
+      ],
+      [
+        "20261103",
+        60.7
       ]
     ],
     "209098": [
-      [
-        "20261017",
-        62.4
-      ],
       [
         "20261018",
         62.4
@@ -14998,13 +15383,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         60.2
+      ],
+      [
+        "20261103",
+        60.2
       ]
     ],
     "209920": [
-      [
-        "20261017",
-        62.8
-      ],
       [
         "20261018",
         62.8
@@ -15068,13 +15453,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         59.9
+      ],
+      [
+        "20261103",
+        59.9
       ]
     ],
     "144719": [
-      [
-        "20261017",
-        63.8
-      ],
       [
         "20261018",
         63.8
@@ -15138,13 +15523,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         59.6
+      ],
+      [
+        "20261103",
+        59.6
       ]
     ],
     "132686": [
-      [
-        "20261017",
-        61.7
-      ],
       [
         "20261018",
         61.7
@@ -15207,15 +15592,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        59.5
+      ],
+      [
+        "20261103",
         59.5
       ]
     ],
     "105870": [
       [
-        "20261017",
-        62.0
-      ],
-      [
         "20261018",
         62.0
       ],
@@ -15278,13 +15663,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         59.5
+      ],
+      [
+        "20261103",
+        59.5
       ]
     ],
     "200267": [
-      [
-        "20261017",
-        61.5
-      ],
       [
         "20261018",
         61.5
@@ -15348,13 +15733,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         58.9
+      ],
+      [
+        "20261103",
+        58.9
       ]
     ],
     "210338": [
-      [
-        "20261017",
-        59.9
-      ],
       [
         "20261018",
         59.9
@@ -15418,13 +15803,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         58.8
+      ],
+      [
+        "20261103",
+        58.8
       ]
     ],
     "126239": [
-      [
-        "20261017",
-        65.0
-      ],
       [
         "20261018",
         65.0
@@ -15488,13 +15873,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         58.7
+      ],
+      [
+        "20261103",
+        58.7
       ]
     ],
     "200240": [
-      [
-        "20261017",
-        59.7
-      ],
       [
         "20261018",
         59.7
@@ -15558,13 +15943,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         57.9
+      ],
+      [
+        "20261103",
+        57.9
       ]
     ],
     "120770": [
-      [
-        "20261017",
-        60.0
-      ],
       [
         "20261018",
         60.0
@@ -15627,15 +16012,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        57.7
+      ],
+      [
+        "20261103",
         57.7
       ]
     ],
     "207678": [
       [
-        "20261017",
-        60.0
-      ],
-      [
         "20261018",
         60.0
       ],
@@ -15698,13 +16083,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         57.7
+      ],
+      [
+        "20261103",
+        57.7
       ]
     ],
     "202104": [
-      [
-        "20261017",
-        59.7
-      ],
       [
         "20261018",
         59.7
@@ -15768,13 +16153,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         57.2
+      ],
+      [
+        "20261103",
+        57.2
       ]
     ],
     "111460": [
-      [
-        "20261017",
-        59.3
-      ],
       [
         "20261018",
         59.3
@@ -15837,15 +16222,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        57.0
+      ],
+      [
+        "20261103",
         57.0
       ]
     ],
     "206681": [
       [
-        "20261017",
-        59.3
-      ],
-      [
         "20261018",
         59.3
       ],
@@ -15908,13 +16293,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         57.0
+      ],
+      [
+        "20261103",
+        57.0
       ]
     ],
     "133430": [
-      [
-        "20261017",
-        60.1
-      ],
       [
         "20261018",
         60.1
@@ -15978,13 +16363,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         56.5
+      ],
+      [
+        "20261103",
+        56.5
       ]
     ],
     "208169": [
-      [
-        "20261017",
-        59.7
-      ],
       [
         "20261018",
         59.7
@@ -16048,13 +16433,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         56.4
+      ],
+      [
+        "20261103",
+        56.4
       ]
     ],
     "210262": [
-      [
-        "20261017",
-        57.5
-      ],
       [
         "20261018",
         57.5
@@ -16118,13 +16503,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         55.2
+      ],
+      [
+        "20261103",
+        55.2
       ]
     ],
     "105526": [
-      [
-        "20261017",
-        55.5
-      ],
       [
         "20261018",
         55.5
@@ -16188,13 +16573,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         55.1
+      ],
+      [
+        "20261103",
+        55.1
       ]
     ],
     "126504": [
-      [
-        "20261017",
-        57.5
-      ],
       [
         "20261018",
         57.5
@@ -16258,13 +16643,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         54.9
+      ],
+      [
+        "20261103",
+        54.9
       ]
     ],
     "200059": [
-      [
-        "20261017",
-        57.4
-      ],
       [
         "20261018",
         57.4
@@ -16328,13 +16713,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         54.8
+      ],
+      [
+        "20261103",
+        54.8
       ]
     ],
     "211776": [
-      [
-        "20261017",
-        56.6
-      ],
       [
         "20261018",
         56.6
@@ -16398,13 +16783,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         54.6
+      ],
+      [
+        "20261103",
+        54.6
       ]
     ],
     "208882": [
-      [
-        "20261017",
-        58.8
-      ],
       [
         "20261018",
         58.8
@@ -16468,13 +16853,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         54.5
+      ],
+      [
+        "20261103",
+        54.5
       ]
     ],
     "209279": [
-      [
-        "20261017",
-        53.9
-      ],
       [
         "20261018",
         53.9
@@ -16538,13 +16923,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         54.1
+      ],
+      [
+        "20261103",
+        54.1
       ]
     ],
     "200175": [
-      [
-        "20261017",
-        56.5
-      ],
       [
         "20261018",
         56.5
@@ -16608,13 +16993,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         53.8
+      ],
+      [
+        "20261103",
+        53.8
       ]
     ],
     "105227": [
-      [
-        "20261017",
-        58.2
-      ],
       [
         "20261018",
         58.2
@@ -16678,13 +17063,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         53.7
+      ],
+      [
+        "20261103",
+        53.7
       ]
     ],
     "202385": [
-      [
-        "20261017",
-        55.7
-      ],
       [
         "20261018",
         55.7
@@ -16748,13 +17133,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         53.6
+      ],
+      [
+        "20261103",
+        53.6
       ]
     ],
     "111794": [
-      [
-        "20261017",
-        57.6
-      ],
       [
         "20261018",
         57.6
@@ -16818,13 +17203,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         53.5
+      ],
+      [
+        "20261103",
+        53.5
       ]
     ],
     "208260": [
-      [
-        "20261017",
-        55.1
-      ],
       [
         "20261018",
         55.1
@@ -16888,13 +17273,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         53.2
+      ],
+      [
+        "20261103",
+        53.2
       ]
     ],
     "200116": [
-      [
-        "20261017",
-        56.0
-      ],
       [
         "20261018",
         56.0
@@ -16957,15 +17342,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        52.8
+      ],
+      [
+        "20261103",
         52.8
       ]
     ],
     "209976": [
       [
-        "20261017",
-        55.0
-      ],
-      [
         "20261018",
         55.0
       ],
@@ -17028,13 +17413,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         52.8
+      ],
+      [
+        "20261103",
+        52.8
       ]
     ],
     "105807": [
-      [
-        "20261017",
-        56.5
-      ],
       [
         "20261018",
         56.5
@@ -17098,13 +17483,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         52.7
+      ],
+      [
+        "20261103",
+        52.7
       ]
     ],
     "105916": [
-      [
-        "20261017",
-        55.4
-      ],
       [
         "20261018",
         55.4
@@ -17168,13 +17553,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         52.6
+      ],
+      [
+        "20261103",
+        52.6
       ]
     ],
     "144895": [
-      [
-        "20261017",
-        58.5
-      ],
       [
         "20261018",
         58.5
@@ -17238,13 +17623,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         52.5
+      ],
+      [
+        "20261103",
+        52.5
       ]
     ],
     "208597": [
-      [
-        "20261017",
-        53.5
-      ],
       [
         "20261018",
         53.5
@@ -17307,15 +17692,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        52.4
+      ],
+      [
+        "20261103",
         52.4
       ]
     ],
     "208010": [
       [
-        "20261017",
-        55.2
-      ],
-      [
         "20261018",
         55.2
       ],
@@ -17378,13 +17763,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         52.4
+      ],
+      [
+        "20261103",
+        52.4
       ]
     ],
     "127157": [
-      [
-        "20261017",
-        54.2
-      ],
       [
         "20261018",
         54.2
@@ -17448,6 +17833,10 @@ window.TENNIS_DATA = {
       [
         "20261102",
         51.7
+      ],
+      [
+        "20261103",
+        51.7
       ]
     ],
     "213608": [
@@ -17458,13 +17847,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         51.6
+      ],
+      [
+        "20261103",
+        51.6
       ]
     ],
     "208233": [
-      [
-        "20261017",
-        52.2
-      ],
       [
         "20261018",
         52.2
@@ -17527,15 +17916,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        51.5
+      ],
+      [
+        "20261103",
         51.5
       ]
     ],
     "106218": [
       [
-        "20261017",
-        54.4
-      ],
-      [
         "20261018",
         54.4
       ],
@@ -17597,15 +17986,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        51.5
+      ],
+      [
+        "20261103",
         51.5
       ]
     ],
     "126127": [
       [
-        "20261017",
-        54.3
-      ],
-      [
         "20261018",
         54.3
       ],
@@ -17667,15 +18056,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        51.1
+      ],
+      [
+        "20261103",
         51.1
       ]
     ],
     "200615": [
       [
-        "20261017",
-        54.0
-      ],
-      [
         "20261018",
         54.0
       ],
@@ -17738,13 +18127,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         51.1
+      ],
+      [
+        "20261103",
+        51.1
       ]
     ],
     "209147": [
-      [
-        "20261017",
-        53.9
-      ],
       [
         "20261018",
         53.9
@@ -17808,13 +18197,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         51.0
+      ],
+      [
+        "20261103",
+        51.0
       ]
     ],
     "206736": [
-      [
-        "20261017",
-        53.7
-      ],
       [
         "20261018",
         53.7
@@ -17878,13 +18267,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         50.8
+      ],
+      [
+        "20261103",
+        50.8
       ]
     ],
     "208024": [
-      [
-        "20261017",
-        53.7
-      ],
       [
         "20261018",
         53.7
@@ -17947,6 +18336,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        50.8
+      ],
+      [
+        "20261103",
         50.8
       ]
     ],
@@ -18010,13 +18403,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         50.8
+      ],
+      [
+        "20261103",
+        50.8
       ]
     ],
     "200624": [
-      [
-        "20261017",
-        53.8
-      ],
       [
         "20261018",
         53.8
@@ -18079,15 +18472,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        50.4
+      ],
+      [
+        "20261103",
         50.4
       ]
     ],
     "207411": [
       [
-        "20261017",
-        53.9
-      ],
-      [
         "20261018",
         53.9
       ],
@@ -18150,13 +18543,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         50.4
+      ],
+      [
+        "20261103",
+        50.4
       ]
     ],
     "105173": [
-      [
-        "20261017",
-        50.4
-      ],
       [
         "20261018",
         50.4
@@ -18220,13 +18613,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         50.2
+      ],
+      [
+        "20261103",
+        50.2
       ]
     ],
     "207494": [
-      [
-        "20261017",
-        53.0
-      ],
       [
         "20261018",
         53.0
@@ -18289,15 +18682,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        50.0
+      ],
+      [
+        "20261103",
         50.0
       ]
     ],
     "132283": [
       [
-        "20261017",
-        54.3
-      ],
-      [
         "20261018",
         54.3
       ],
@@ -18359,15 +18752,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        49.8
+      ],
+      [
+        "20261103",
         49.8
       ]
     ],
     "206499": [
       [
-        "20261017",
-        52.9
-      ],
-      [
         "20261018",
         52.9
       ],
@@ -18429,15 +18822,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        49.6
+      ],
+      [
+        "20261103",
         49.6
       ]
     ],
     "105777": [
       [
-        "20261017",
-        52.2
-      ],
-      [
         "20261018",
         52.2
       ],
@@ -18499,15 +18892,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        49.4
+      ],
+      [
+        "20261103",
         49.4
       ]
     ],
     "207680": [
       [
-        "20261017",
-        52.7
-      ],
-      [
         "20261018",
         52.7
       ],
@@ -18569,15 +18962,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        49.3
+      ],
+      [
+        "20261103",
         49.3
       ]
     ],
     "207686": [
       [
-        "20261017",
-        52.2
-      ],
-      [
         "20261018",
         52.2
       ],
@@ -18639,15 +19032,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        49.2
+      ],
+      [
+        "20261103",
         49.2
       ]
     ],
     "105477": [
       [
-        "20261017",
-        52.3
-      ],
-      [
         "20261018",
         52.3
       ],
@@ -18709,15 +19102,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        49.1
+      ],
+      [
+        "20261103",
         49.1
       ]
     ],
     "126128": [
       [
-        "20261017",
-        51.1
-      ],
-      [
         "20261018",
         51.1
       ],
@@ -18779,15 +19172,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        49.0
+      ],
+      [
+        "20261103",
         49.0
       ]
     ],
     "105932": [
       [
-        "20261017",
-        50.6
-      ],
-      [
         "20261018",
         50.6
       ],
@@ -18850,13 +19243,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         49.0
+      ],
+      [
+        "20261103",
+        49.0
       ]
     ],
     "210116": [
-      [
-        "20261017",
-        52.3
-      ],
       [
         "20261018",
         52.3
@@ -18919,15 +19312,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        48.7
+      ],
+      [
+        "20261103",
         48.7
       ]
     ],
     "124186": [
       [
-        "20261017",
-        51.8
-      ],
-      [
         "20261018",
         51.8
       ],
@@ -18990,13 +19383,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         48.7
+      ],
+      [
+        "20261103",
+        48.7
       ]
     ],
     "210319": [
-      [
-        "20261017",
-        50.7
-      ],
       [
         "20261018",
         50.7
@@ -19060,13 +19453,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         47.8
+      ],
+      [
+        "20261103",
+        47.8
       ]
     ],
     "210460": [
-      [
-        "20261017",
-        50.6
-      ],
       [
         "20261018",
         50.6
@@ -19130,13 +19523,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         47.5
+      ],
+      [
+        "20261103",
+        47.5
       ]
     ],
     "102093": [
-      [
-        "20261017",
-        50.3
-      ],
       [
         "20261018",
         50.3
@@ -19200,13 +19593,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         47.4
+      ],
+      [
+        "20261103",
+        47.4
       ]
     ],
     "208021": [
-      [
-        "20261017",
-        50.6
-      ],
       [
         "20261018",
         50.6
@@ -19269,15 +19662,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        47.0
+      ],
+      [
+        "20261103",
         47.0
       ]
     ],
     "207681": [
       [
-        "20261017",
-        50.2
-      ],
-      [
         "20261018",
         50.2
       ],
@@ -19340,13 +19733,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         47.0
+      ],
+      [
+        "20261103",
+        47.0
       ]
     ],
     "208014": [
-      [
-        "20261017",
-        49.6
-      ],
       [
         "20261018",
         49.6
@@ -19410,13 +19803,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         46.7
+      ],
+      [
+        "20261103",
+        46.7
       ]
     ],
     "207182": [
-      [
-        "20261017",
-        49.8
-      ],
       [
         "20261018",
         49.8
@@ -19480,13 +19873,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         46.6
+      ],
+      [
+        "20261103",
+        46.6
       ]
     ],
     "209259": [
-      [
-        "20261017",
-        48.3
-      ],
       [
         "20261018",
         48.3
@@ -19550,13 +19943,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         46.5
+      ],
+      [
+        "20261103",
+        46.5
       ]
     ],
     "106000": [
-      [
-        "20261017",
-        48.0
-      ],
       [
         "20261018",
         48.0
@@ -19620,13 +20013,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         46.1
+      ],
+      [
+        "20261103",
+        46.1
       ]
     ],
     "207985": [
-      [
-        "20261017",
-        48.4
-      ],
       [
         "20261018",
         48.4
@@ -19690,13 +20083,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         45.9
+      ],
+      [
+        "20261103",
+        45.9
       ]
     ],
     "105902": [
-      [
-        "20261017",
-        49.4
-      ],
       [
         "20261018",
         49.4
@@ -19759,15 +20152,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        45.5
+      ],
+      [
+        "20261103",
         45.5
       ]
     ],
     "208659": [
       [
-        "20261017",
-        48.8
-      ],
-      [
         "20261018",
         48.8
       ],
@@ -19829,15 +20222,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        45.5
+      ],
+      [
+        "20261103",
         45.5
       ]
     ],
     "200443": [
       [
-        "20261017",
-        48.4
-      ],
-      [
         "20261018",
         48.4
       ],
@@ -19900,13 +20293,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         45.2
+      ],
+      [
+        "20261103",
+        45.2
       ]
     ],
     "210389": [
-      [
-        "20261017",
-        47.6
-      ],
       [
         "20261018",
         47.6
@@ -19970,13 +20363,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         44.7
+      ],
+      [
+        "20261103",
+        44.7
       ]
     ],
     "200514": [
-      [
-        "20261017",
-        47.8
-      ],
       [
         "20261018",
         47.8
@@ -20039,6 +20432,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        44.5
+      ],
+      [
+        "20261103",
         44.5
       ]
     ],
@@ -20102,13 +20499,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         42.7
+      ],
+      [
+        "20261103",
+        42.7
       ]
     ],
     "126846": [
-      [
-        "20261017",
-        45.7
-      ],
       [
         "20261018",
         45.7
@@ -20171,6 +20568,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        42.3
+      ],
+      [
+        "20261103",
         42.3
       ]
     ],
@@ -20234,13 +20635,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         42.3
+      ],
+      [
+        "20261103",
+        42.3
       ]
     ],
     "210012": [
-      [
-        "20261017",
-        44.8
-      ],
       [
         "20261018",
         44.8
@@ -20304,13 +20705,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         42.1
+      ],
+      [
+        "20261103",
+        42.1
       ]
     ],
     "124116": [
-      [
-        "20261017",
-        44.1
-      ],
       [
         "20261018",
         44.1
@@ -20373,15 +20774,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        40.6
+      ],
+      [
+        "20261103",
         40.6
       ]
     ],
     "208316": [
       [
-        "20261017",
-        43.0
-      ],
-      [
         "20261018",
         43.0
       ],
@@ -20443,15 +20844,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        39.3
+      ],
+      [
+        "20261103",
         39.3
       ]
     ],
     "200384": [
       [
-        "20261017",
-        43.8
-      ],
-      [
         "20261018",
         43.8
       ],
@@ -20513,15 +20914,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        38.9
+      ],
+      [
+        "20261103",
         38.9
       ]
     ],
     "106198": [
       [
-        "20261017",
-        42.5
-      ],
-      [
         "20261018",
         42.5
       ],
@@ -20583,15 +20984,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        38.8
+      ],
+      [
+        "20261103",
         38.8
       ]
     ],
     "210748": [
       [
-        "20261017",
-        42.2
-      ],
-      [
         "20261018",
         42.2
       ],
@@ -20653,6 +21054,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        38.6
+      ],
+      [
+        "20261103",
         38.6
       ]
     ],
@@ -20692,13 +21097,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         38.0
+      ],
+      [
+        "20261103",
+        38.0
       ]
     ],
     "144750": [
-      [
-        "20261017",
-        40.7
-      ],
       [
         "20261018",
         40.7
@@ -20762,13 +21167,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         37.9
+      ],
+      [
+        "20261103",
+        37.9
       ]
     ],
     "208852": [
-      [
-        "20261017",
-        40.6
-      ],
       [
         "20261018",
         40.6
@@ -20832,13 +21237,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         37.5
+      ],
+      [
+        "20261103",
+        37.5
       ]
     ],
     "202261": [
-      [
-        "20261017",
-        40.3
-      ],
       [
         "20261018",
         40.3
@@ -20902,13 +21307,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         36.9
+      ],
+      [
+        "20261103",
+        36.9
       ]
     ],
     "205734": [
-      [
-        "20261017",
-        38.1
-      ],
       [
         "20261018",
         38.1
@@ -20972,13 +21377,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         35.2
+      ],
+      [
+        "20261103",
+        35.2
       ]
     ],
     "207352": [
-      [
-        "20261017",
-        35.0
-      ],
       [
         "20261018",
         35.0
@@ -21041,15 +21446,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "200436": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -21111,15 +21516,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "208361": [
       [
-        "20261017",
-        35.8
-      ],
-      [
         "20261018",
         35.8
       ],
@@ -21181,15 +21586,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "123828": [
       [
-        "20261017",
-        37.3
-      ],
-      [
         "20261018",
         37.3
       ],
@@ -21251,15 +21656,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "208013": [
       [
-        "20261017",
-        36.2
-      ],
-      [
         "20261018",
         36.2
       ],
@@ -21321,15 +21726,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "200711": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -21391,15 +21796,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "200647": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -21461,15 +21866,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "210536": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -21531,15 +21936,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "124079": [
       [
-        "20261017",
-        37.2
-      ],
-      [
         "20261018",
         37.2
       ],
@@ -21601,15 +22006,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "208278": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -21671,6 +22076,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
@@ -21710,13 +22119,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         35.0
+      ],
+      [
+        "20261103",
+        35.0
       ]
     ],
     "127339": [
-      [
-        "20261017",
-        35.0
-      ],
       [
         "20261018",
         35.0
@@ -21779,6 +22188,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
@@ -21842,6 +22255,10 @@ window.TENNIS_DATA = {
       [
         "20261102",
         35.0
+      ],
+      [
+        "20261103",
+        35.0
       ]
     ],
     "210464": [
@@ -21879,6 +22296,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
@@ -21918,16 +22339,16 @@ window.TENNIS_DATA = {
       [
         "20261102",
         35.0
+      ],
+      [
+        "20261103",
+        35.0
       ]
     ]
   },
   "WTA_SCORE_LOG": {
     "214544": [
       [
-        "20261017",
-        100.0
-      ],
-      [
         "20261018",
         100.0
       ],
@@ -21989,15 +22410,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        100.0
+      ],
+      [
+        "20261103",
         100.0
       ]
     ],
     "214981": [
       [
-        "20261017",
-        93.2
-      ],
-      [
         "20261018",
         93.2
       ],
@@ -22059,15 +22480,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        93.3
+      ],
+      [
+        "20261103",
         93.3
       ]
     ],
     "259799": [
       [
-        "20261017",
-        92.1
-      ],
-      [
         "20261018",
         92.1
       ],
@@ -22130,13 +22551,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         92.2
+      ],
+      [
+        "20261103",
+        92.2
       ]
     ],
     "221103": [
-      [
-        "20261017",
-        91.0
-      ],
       [
         "20261018",
         91.0
@@ -22200,13 +22621,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         91.2
+      ],
+      [
+        "20261103",
+        91.2
       ]
     ],
     "202494": [
-      [
-        "20261017",
-        90.4
-      ],
       [
         "20261018",
         90.4
@@ -22269,15 +22690,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        90.4
+      ],
+      [
+        "20261103",
         90.4
       ]
     ],
     "216347": [
       [
-        "20261017",
-        90.3
-      ],
-      [
         "20261018",
         90.3
       ],
@@ -22339,15 +22760,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        90.4
+      ],
+      [
+        "20261103",
         90.4
       ]
     ],
     "216146": [
       [
-        "20261017",
-        90.4
-      ],
-      [
         "20261018",
         90.4
       ],
@@ -22410,13 +22831,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         90.4
+      ],
+      [
+        "20261103",
+        90.4
       ]
     ],
     "202468": [
-      [
-        "20261017",
-        89.9
-      ],
       [
         "20261018",
         89.9
@@ -22480,13 +22901,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         89.8
+      ],
+      [
+        "20261103",
+        89.8
       ]
     ],
     "201514": [
-      [
-        "20261017",
-        85.6
-      ],
       [
         "20261018",
         85.6
@@ -22550,13 +22971,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         85.8
+      ],
+      [
+        "20261103",
+        85.8
       ]
     ],
     "214096": [
-      [
-        "20261017",
-        85.6
-      ],
       [
         "20261018",
         85.6
@@ -22620,13 +23041,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         85.7
+      ],
+      [
+        "20261103",
+        85.7
       ]
     ],
     "216153": [
-      [
-        "20261017",
-        84.6
-      ],
       [
         "20261018",
         84.6
@@ -22690,13 +23111,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         84.1
+      ],
+      [
+        "20261103",
+        84.1
       ]
     ],
     "202505": [
-      [
-        "20261017",
-        84.2
-      ],
       [
         "20261018",
         84.2
@@ -22760,13 +23181,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         83.4
+      ],
+      [
+        "20261103",
+        83.4
       ]
     ],
     "239475": [
-      [
-        "20261017",
-        84.0
-      ],
       [
         "20261018",
         84.0
@@ -22830,13 +23251,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         83.3
+      ],
+      [
+        "20261103",
+        83.3
       ]
     ],
     "216081": [
-      [
-        "20261017",
-        80.2
-      ],
       [
         "20261018",
         80.2
@@ -22900,13 +23321,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         81.5
+      ],
+      [
+        "20261103",
+        81.5
       ]
     ],
     "201619": [
-      [
-        "20261017",
-        80.8
-      ],
       [
         "20261018",
         80.8
@@ -22970,13 +23391,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         80.3
+      ],
+      [
+        "20261103",
+        80.3
       ]
     ],
     "215713": [
-      [
-        "20261017",
-        79.5
-      ],
       [
         "20261018",
         79.5
@@ -23040,13 +23461,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         79.5
+      ],
+      [
+        "20261103",
+        79.5
       ]
     ],
     "211768": [
-      [
-        "20261017",
-        79.1
-      ],
       [
         "20261018",
         79.1
@@ -23110,13 +23531,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         79.3
+      ],
+      [
+        "20261103",
+        79.3
       ]
     ],
     "222328": [
-      [
-        "20261017",
-        78.4
-      ],
       [
         "20261018",
         78.4
@@ -23179,15 +23600,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        78.5
+      ],
+      [
+        "20261103",
         78.5
       ]
     ],
     "210722": [
       [
-        "20261017",
-        77.3
-      ],
-      [
         "20261018",
         77.3
       ],
@@ -23250,13 +23671,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         77.4
+      ],
+      [
+        "20261103",
+        77.4
       ]
     ],
     "221012": [
-      [
-        "20261017",
-        76.2
-      ],
       [
         "20261018",
         76.2
@@ -23320,13 +23741,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         76.6
+      ],
+      [
+        "20261103",
+        76.6
       ]
     ],
     "223670": [
-      [
-        "20261017",
-        75.8
-      ],
       [
         "20261018",
         75.8
@@ -23389,15 +23810,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        76.1
+      ],
+      [
+        "20261103",
         76.1
       ]
     ],
     "260300": [
       [
-        "20261017",
-        76.3
-      ],
-      [
         "20261018",
         76.3
       ],
@@ -23459,15 +23880,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        76.1
+      ],
+      [
+        "20261103",
         76.1
       ]
     ],
     "201662": [
       [
-        "20261017",
-        75.9
-      ],
-      [
         "20261018",
         75.9
       ],
@@ -23530,13 +23951,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         75.7
+      ],
+      [
+        "20261103",
+        75.7
       ]
     ],
     "214939": [
-      [
-        "20261017",
-        76.0
-      ],
       [
         "20261018",
         76.0
@@ -23600,13 +24021,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         75.5
+      ],
+      [
+        "20261103",
+        75.5
       ]
     ],
     "213631": [
-      [
-        "20261017",
-        71.3
-      ],
       [
         "20261018",
         71.3
@@ -23670,13 +24091,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         72.1
+      ],
+      [
+        "20261103",
+        72.1
       ]
     ],
     "211533": [
-      [
-        "20261017",
-        70.5
-      ],
       [
         "20261018",
         70.5
@@ -23740,13 +24161,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         71.8
+      ],
+      [
+        "20261103",
+        71.8
       ]
     ],
     "211148": [
-      [
-        "20261017",
-        71.2
-      ],
       [
         "20261018",
         71.2
@@ -23809,15 +24230,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        71.1
+      ],
+      [
+        "20261103",
         71.1
       ]
     ],
     "215613": [
       [
-        "20261017",
-        70.8
-      ],
-      [
         "20261018",
         70.8
       ],
@@ -23880,13 +24301,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         70.9
+      ],
+      [
+        "20261103",
+        70.9
       ]
     ],
     "206252": [
-      [
-        "20261017",
-        69.6
-      ],
       [
         "20261018",
         69.6
@@ -23950,13 +24371,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         69.5
+      ],
+      [
+        "20261103",
+        69.5
       ]
     ],
     "223253": [
-      [
-        "20261017",
-        68.8
-      ],
       [
         "20261018",
         68.8
@@ -24020,13 +24441,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         69.2
+      ],
+      [
+        "20261103",
+        69.2
       ]
     ],
     "220367": [
-      [
-        "20261017",
-        68.1
-      ],
       [
         "20261018",
         68.1
@@ -24089,15 +24510,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        69.1
+      ],
+      [
+        "20261103",
         69.1
       ]
     ],
     "220548": [
       [
-        "20261017",
-        69.0
-      ],
-      [
         "20261018",
         69.0
       ],
@@ -24159,15 +24580,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        69.1
+      ],
+      [
+        "20261103",
         69.1
       ]
     ],
     "221024": [
       [
-        "20261017",
-        68.2
-      ],
-      [
         "20261018",
         68.2
       ],
@@ -24230,13 +24651,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         68.3
+      ],
+      [
+        "20261103",
+        68.3
       ]
     ],
     "206420": [
-      [
-        "20261017",
-        68.1
-      ],
       [
         "20261018",
         68.1
@@ -24300,13 +24721,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         67.1
+      ],
+      [
+        "20261103",
+        67.1
       ]
     ],
     "220348": [
-      [
-        "20261017",
-        67.2
-      ],
       [
         "20261018",
         67.2
@@ -24369,15 +24790,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        67.0
+      ],
+      [
+        "20261103",
         67.0
       ]
     ],
     "215983": [
       [
-        "20261017",
-        66.4
-      ],
-      [
         "20261018",
         66.4
       ],
@@ -24439,15 +24860,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        66.6
+      ],
+      [
+        "20261103",
         66.6
       ]
     ],
     "223360": [
       [
-        "20261017",
-        65.8
-      ],
-      [
         "20261018",
         65.8
       ],
@@ -24509,15 +24930,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        66.0
+      ],
+      [
+        "20261103",
         66.0
       ]
     ],
     "206289": [
       [
-        "20261017",
-        64.9
-      ],
-      [
         "20261018",
         64.9
       ],
@@ -24579,15 +25000,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        65.7
+      ],
+      [
+        "20261103",
         65.7
       ]
     ],
     "211107": [
       [
-        "20261017",
-        64.9
-      ],
-      [
         "20261018",
         64.9
       ],
@@ -24650,13 +25071,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         65.7
+      ],
+      [
+        "20261103",
+        65.7
       ]
     ],
     "215785": [
-      [
-        "20261017",
-        64.5
-      ],
       [
         "20261018",
         64.5
@@ -24720,13 +25141,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         64.4
+      ],
+      [
+        "20261103",
+        64.4
       ]
     ],
     "239383": [
-      [
-        "20261017",
-        64.3
-      ],
       [
         "20261018",
         64.3
@@ -24790,13 +25211,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         64.0
+      ],
+      [
+        "20261103",
+        64.0
       ]
     ],
     "214643": [
-      [
-        "20261017",
-        63.2
-      ],
       [
         "20261018",
         63.2
@@ -24859,15 +25280,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        63.8
+      ],
+      [
+        "20261103",
         63.8
       ]
     ],
     "266671": [
       [
-        "20261017",
-        63.6
-      ],
-      [
         "20261018",
         63.6
       ],
@@ -24929,15 +25350,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        63.7
+      ],
+      [
+        "20261103",
         63.7
       ]
     ],
     "220750": [
       [
-        "20261017",
-        62.6
-      ],
-      [
         "20261018",
         62.6
       ],
@@ -24999,15 +25420,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        62.8
+      ],
+      [
+        "20261103",
         62.8
       ]
     ],
     "211713": [
       [
-        "20261017",
-        64.9
-      ],
-      [
         "20261018",
         64.9
       ],
@@ -25069,15 +25490,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        62.7
+      ],
+      [
+        "20261103",
         62.7
       ]
     ],
     "220704": [
       [
-        "20261017",
-        62.7
-      ],
-      [
         "20261018",
         62.7
       ],
@@ -25139,15 +25560,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        62.2
+      ],
+      [
+        "20261103",
         62.2
       ]
     ],
     "220716": [
       [
-        "20261017",
-        63.2
-      ],
-      [
         "20261018",
         63.2
       ],
@@ -25210,13 +25631,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         62.0
+      ],
+      [
+        "20261103",
+        62.0
       ]
     ],
     "211701": [
-      [
-        "20261017",
-        56.6
-      ],
       [
         "20261018",
         56.6
@@ -25280,13 +25701,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         61.9
+      ],
+      [
+        "20261103",
+        61.9
       ]
     ],
     "202663": [
-      [
-        "20261017",
-        60.4
-      ],
       [
         "20261018",
         60.4
@@ -25350,13 +25771,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         61.8
+      ],
+      [
+        "20261103",
+        61.8
       ]
     ],
     "211843": [
-      [
-        "20261017",
-        61.9
-      ],
       [
         "20261018",
         61.9
@@ -25419,15 +25840,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        61.1
+      ],
+      [
+        "20261103",
         61.1
       ]
     ],
     "220714": [
       [
-        "20261017",
-        61.9
-      ],
-      [
         "20261018",
         61.9
       ],
@@ -25490,13 +25911,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         61.1
+      ],
+      [
+        "20261103",
+        61.1
       ]
     ],
     "221909": [
-      [
-        "20261017",
-        57.4
-      ],
       [
         "20261018",
         57.4
@@ -25560,13 +25981,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         61.0
+      ],
+      [
+        "20261103",
+        61.0
       ]
     ],
     "211337": [
-      [
-        "20261017",
-        62.2
-      ],
       [
         "20261018",
         62.2
@@ -25630,13 +26051,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         60.9
+      ],
+      [
+        "20261103",
+        60.9
       ]
     ],
     "260172": [
-      [
-        "20261017",
-        60.2
-      ],
       [
         "20261018",
         60.2
@@ -25699,15 +26120,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        60.7
+      ],
+      [
+        "20261103",
         60.7
       ]
     ],
     "263857": [
       [
-        "20261017",
-        61.8
-      ],
-      [
         "20261018",
         61.8
       ],
@@ -25770,13 +26191,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         60.7
+      ],
+      [
+        "20261103",
+        60.7
       ]
     ],
     "203501": [
-      [
-        "20261017",
-        60.2
-      ],
       [
         "20261018",
         60.2
@@ -25840,13 +26261,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         60.5
+      ],
+      [
+        "20261103",
+        60.5
       ]
     ],
     "220520": [
-      [
-        "20261017",
-        60.8
-      ],
       [
         "20261018",
         60.8
@@ -25910,13 +26331,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         60.2
+      ],
+      [
+        "20261103",
+        60.2
       ]
     ],
     "216083": [
-      [
-        "20261017",
-        59.3
-      ],
       [
         "20261018",
         59.3
@@ -25980,13 +26401,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         60.1
+      ],
+      [
+        "20261103",
+        60.1
       ]
     ],
     "230319": [
-      [
-        "20261017",
-        59.5
-      ],
       [
         "20261018",
         59.5
@@ -26050,13 +26471,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         59.9
+      ],
+      [
+        "20261103",
+        59.9
       ]
     ],
     "211817": [
-      [
-        "20261017",
-        59.7
-      ],
       [
         "20261018",
         59.7
@@ -26120,13 +26541,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         59.4
+      ],
+      [
+        "20261103",
+        59.4
       ]
     ],
     "202499": [
-      [
-        "20261017",
-        59.5
-      ],
       [
         "20261018",
         59.5
@@ -26190,13 +26611,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         59.2
+      ],
+      [
+        "20261103",
+        59.2
       ]
     ],
     "221883": [
-      [
-        "20261017",
-        57.9
-      ],
       [
         "20261018",
         57.9
@@ -26260,6 +26681,10 @@ window.TENNIS_DATA = {
       [
         "20261102",
         58.8
+      ],
+      [
+        "20261103",
+        58.8
       ]
     ],
     "213525": [
@@ -26270,13 +26695,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         57.9
+      ],
+      [
+        "20261103",
+        57.9
       ]
     ],
     "214388": [
-      [
-        "20261017",
-        58.6
-      ],
       [
         "20261018",
         58.6
@@ -26339,15 +26764,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        57.8
+      ],
+      [
+        "20261103",
         57.8
       ]
     ],
     "233741": [
       [
-        "20261017",
-        57.3
-      ],
-      [
         "20261018",
         57.3
       ],
@@ -26410,13 +26835,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         57.8
+      ],
+      [
+        "20261103",
+        57.8
       ]
     ],
     "214040": [
-      [
-        "20261017",
-        58.0
-      ],
       [
         "20261018",
         58.0
@@ -26480,13 +26905,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         57.4
+      ],
+      [
+        "20261103",
+        57.4
       ]
     ],
     "238184": [
-      [
-        "20261017",
-        60.0
-      ],
       [
         "20261018",
         60.0
@@ -26550,13 +26975,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         57.1
+      ],
+      [
+        "20261103",
+        57.1
       ]
     ],
     "211651": [
-      [
-        "20261017",
-        56.7
-      ],
       [
         "20261018",
         56.7
@@ -26619,15 +27044,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        57.0
+      ],
+      [
+        "20261103",
         57.0
       ]
     ],
     "221054": [
       [
-        "20261017",
-        56.8
-      ],
-      [
         "20261018",
         56.8
       ],
@@ -26689,15 +27114,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        57.0
+      ],
+      [
+        "20261103",
         57.0
       ]
     ],
     "219917": [
       [
-        "20261017",
-        55.9
-      ],
-      [
         "20261018",
         55.9
       ],
@@ -26759,15 +27184,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        56.8
+      ],
+      [
+        "20261103",
         56.8
       ]
     ],
     "222045": [
       [
-        "20261017",
-        55.1
-      ],
-      [
         "20261018",
         55.1
       ],
@@ -26830,13 +27255,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         56.8
+      ],
+      [
+        "20261103",
+        56.8
       ]
     ],
     "220309": [
-      [
-        "20261017",
-        57.2
-      ],
       [
         "20261018",
         57.2
@@ -26900,13 +27325,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         56.4
+      ],
+      [
+        "20261103",
+        56.4
       ]
     ],
     "215035": [
-      [
-        "20261017",
-        55.7
-      ],
       [
         "20261018",
         55.7
@@ -26970,13 +27395,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         55.9
+      ],
+      [
+        "20261103",
+        55.9
       ]
     ],
     "211684": [
-      [
-        "20261017",
-        54.8
-      ],
       [
         "20261018",
         54.8
@@ -27039,15 +27464,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        55.8
+      ],
+      [
+        "20261103",
         55.8
       ]
     ],
     "214082": [
       [
-        "20261017",
-        54.4
-      ],
-      [
         "20261018",
         54.4
       ],
@@ -27110,13 +27535,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         55.8
+      ],
+      [
+        "20261103",
+        55.8
       ]
     ],
     "213710": [
-      [
-        "20261017",
-        56.1
-      ],
       [
         "20261018",
         56.1
@@ -27180,13 +27605,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         55.7
+      ],
+      [
+        "20261103",
+        55.7
       ]
     ],
     "221333": [
-      [
-        "20261017",
-        55.1
-      ],
       [
         "20261018",
         55.1
@@ -27249,15 +27674,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        55.3
+      ],
+      [
+        "20261103",
         55.3
       ]
     ],
     "215872": [
       [
-        "20261017",
-        51.0
-      ],
-      [
         "20261018",
         51.0
       ],
@@ -27319,15 +27744,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        54.4
+      ],
+      [
+        "20261103",
         54.4
       ]
     ],
     "201709": [
       [
-        "20261017",
-        52.2
-      ],
-      [
         "20261018",
         52.2
       ],
@@ -27390,13 +27815,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         54.4
+      ],
+      [
+        "20261103",
+        54.4
       ]
     ],
     "252499": [
-      [
-        "20261017",
-        53.9
-      ],
       [
         "20261018",
         53.9
@@ -27460,13 +27885,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         53.8
+      ],
+      [
+        "20261103",
+        53.8
       ]
     ],
     "203530": [
-      [
-        "20261017",
-        55.4
-      ],
       [
         "20261018",
         55.4
@@ -27530,13 +27955,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         53.4
+      ],
+      [
+        "20261103",
+        53.4
       ]
     ],
     "215910": [
-      [
-        "20261017",
-        53.6
-      ],
       [
         "20261018",
         53.6
@@ -27600,13 +28025,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         53.1
+      ],
+      [
+        "20261103",
+        53.1
       ]
     ],
     "213583": [
-      [
-        "20261017",
-        51.6
-      ],
       [
         "20261018",
         51.6
@@ -27669,15 +28094,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        52.5
+      ],
+      [
+        "20261103",
         52.5
       ]
     ],
     "221354": [
       [
-        "20261017",
-        52.3
-      ],
-      [
         "20261018",
         52.3
       ],
@@ -27740,13 +28165,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         52.5
+      ],
+      [
+        "20261103",
+        52.5
       ]
     ],
     "201533": [
-      [
-        "20261017",
-        53.6
-      ],
       [
         "20261018",
         53.6
@@ -27810,13 +28235,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         52.0
+      ],
+      [
+        "20261103",
+        52.0
       ]
     ],
     "269714": [
-      [
-        "20261017",
-        51.6
-      ],
       [
         "20261018",
         51.6
@@ -27879,15 +28304,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        51.8
+      ],
+      [
+        "20261103",
         51.8
       ]
     ],
     "259871": [
       [
-        "20261017",
-        51.6
-      ],
-      [
         "20261018",
         51.6
       ],
@@ -27949,15 +28374,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        51.8
+      ],
+      [
+        "20261103",
         51.8
       ]
     ],
     "260168": [
       [
-        "20261017",
-        51.6
-      ],
-      [
         "20261018",
         51.6
       ],
@@ -28019,15 +28444,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        51.8
+      ],
+      [
+        "20261103",
         51.8
       ]
     ],
     "267020": [
       [
-        "20261017",
-        51.6
-      ],
-      [
         "20261018",
         51.6
       ],
@@ -28090,13 +28515,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         51.8
+      ],
+      [
+        "20261103",
+        51.8
       ]
     ],
     "238075": [
-      [
-        "20261017",
-        52.6
-      ],
       [
         "20261018",
         52.6
@@ -28160,6 +28585,10 @@ window.TENNIS_DATA = {
       [
         "20261102",
         51.7
+      ],
+      [
+        "20261103",
+        51.7
       ]
     ],
     "213767": [
@@ -28169,6 +28598,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        51.1
+      ],
+      [
+        "20261103",
         51.1
       ]
     ],
@@ -28232,13 +28665,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         51.0
+      ],
+      [
+        "20261103",
+        51.0
       ]
     ],
     "222145": [
-      [
-        "20261017",
-        54.0
-      ],
       [
         "20261018",
         54.0
@@ -28301,15 +28734,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        50.7
+      ],
+      [
+        "20261103",
         50.7
       ]
     ],
     "223194": [
       [
-        "20261017",
-        50.1
-      ],
-      [
         "20261018",
         50.1
       ],
@@ -28371,15 +28804,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        50.7
+      ],
+      [
+        "20261103",
         50.7
       ]
     ],
     "222601": [
       [
-        "20261017",
-        50.5
-      ],
-      [
         "20261018",
         50.5
       ],
@@ -28442,13 +28875,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         50.7
+      ],
+      [
+        "20261103",
+        50.7
       ]
     ],
     "259733": [
-      [
-        "20261017",
-        49.6
-      ],
       [
         "20261018",
         49.6
@@ -28512,13 +28945,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         50.5
+      ],
+      [
+        "20261103",
+        50.5
       ]
     ],
     "201548": [
-      [
-        "20261017",
-        49.8
-      ],
       [
         "20261018",
         49.8
@@ -28581,15 +29014,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        50.0
+      ],
+      [
+        "20261103",
         50.0
       ]
     ],
     "222966": [
       [
-        "20261017",
-        49.7
-      ],
-      [
         "20261018",
         49.7
       ],
@@ -28651,15 +29084,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        49.8
+      ],
+      [
+        "20261103",
         49.8
       ]
     ],
     "215453": [
       [
-        "20261017",
-        49.5
-      ],
-      [
         "20261018",
         49.5
       ],
@@ -28721,15 +29154,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        49.7
+      ],
+      [
+        "20261103",
         49.7
       ]
     ],
     "203514": [
       [
-        "20261017",
-        48.8
-      ],
-      [
         "20261018",
         48.8
       ],
@@ -28791,15 +29224,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        48.9
+      ],
+      [
+        "20261103",
         48.9
       ]
     ],
     "247669": [
       [
-        "20261017",
-        48.7
-      ],
-      [
         "20261018",
         48.7
       ],
@@ -28861,15 +29294,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        48.9
+      ],
+      [
+        "20261103",
         48.9
       ]
     ],
     "210622": [
       [
-        "20261017",
-        48.6
-      ],
-      [
         "20261018",
         48.6
       ],
@@ -28931,6 +29364,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        48.8
+      ],
+      [
+        "20261103",
         48.8
       ]
     ],
@@ -28994,13 +29431,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         48.7
+      ],
+      [
+        "20261103",
+        48.7
       ]
     ],
     "213887": [
-      [
-        "20261017",
-        49.9
-      ],
       [
         "20261018",
         49.9
@@ -29064,13 +29501,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         48.6
+      ],
+      [
+        "20261103",
+        48.6
       ]
     ],
     "215020": [
-      [
-        "20261017",
-        51.4
-      ],
       [
         "20261018",
         51.4
@@ -29134,13 +29571,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         48.1
+      ],
+      [
+        "20261103",
+        48.1
       ]
     ],
     "211685": [
-      [
-        "20261017",
-        47.8
-      ],
       [
         "20261018",
         47.8
@@ -29204,13 +29641,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         48.0
+      ],
+      [
+        "20261103",
+        48.0
       ]
     ],
     "220465": [
-      [
-        "20261017",
-        45.9
-      ],
       [
         "20261018",
         45.9
@@ -29274,13 +29711,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         47.4
+      ],
+      [
+        "20261103",
+        47.4
       ]
     ],
     "221407": [
-      [
-        "20261017",
-        47.0
-      ],
       [
         "20261018",
         47.0
@@ -29343,6 +29780,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        47.2
+      ],
+      [
+        "20261103",
         47.2
       ]
     ],
@@ -29354,13 +29795,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         46.9
+      ],
+      [
+        "20261103",
+        46.9
       ]
     ],
     "243420": [
-      [
-        "20261017",
-        48.5
-      ],
       [
         "20261018",
         48.5
@@ -29423,6 +29864,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        46.7
+      ],
+      [
+        "20261103",
         46.7
       ]
     ],
@@ -29462,13 +29907,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         45.7
+      ],
+      [
+        "20261103",
+        45.7
       ]
     ],
     "214906": [
-      [
-        "20261017",
-        45.6
-      ],
       [
         "20261018",
         45.6
@@ -29531,15 +29976,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        45.3
+      ],
+      [
+        "20261103",
         45.3
       ]
     ],
     "221237": [
       [
-        "20261017",
-        45.8
-      ],
-      [
         "20261018",
         45.8
       ],
@@ -29601,15 +30046,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        45.1
+      ],
+      [
+        "20261103",
         45.1
       ]
     ],
     "263644": [
       [
-        "20261017",
-        44.9
-      ],
-      [
         "20261018",
         44.9
       ],
@@ -29671,15 +30116,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        45.1
+      ],
+      [
+        "20261103",
         45.1
       ]
     ],
     "205925": [
       [
-        "20261017",
-        44.7
-      ],
-      [
         "20261018",
         44.7
       ],
@@ -29741,15 +30186,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        44.9
+      ],
+      [
+        "20261103",
         44.9
       ]
     ],
     "220699": [
       [
-        "20261017",
-        44.1
-      ],
-      [
         "20261018",
         44.1
       ],
@@ -29811,15 +30256,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        44.3
+      ],
+      [
+        "20261103",
         44.3
       ]
     ],
     "215899": [
       [
-        "20261017",
-        44.0
-      ],
-      [
         "20261018",
         44.0
       ],
@@ -29881,15 +30326,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        44.2
+      ],
+      [
+        "20261103",
         44.2
       ]
     ],
     "216016": [
       [
-        "20261017",
-        42.1
-      ],
-      [
         "20261018",
         42.1
       ],
@@ -29951,15 +30396,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        43.7
+      ],
+      [
+        "20261103",
         43.7
       ]
     ],
     "220435": [
       [
-        "20261017",
-        43.5
-      ],
-      [
         "20261018",
         43.5
       ],
@@ -30021,15 +30466,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        43.7
+      ],
+      [
+        "20261103",
         43.7
       ]
     ],
     "211539": [
       [
-        "20261017",
-        42.7
-      ],
-      [
         "20261018",
         42.7
       ],
@@ -30092,13 +30537,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         43.5
+      ],
+      [
+        "20261103",
+        43.5
       ]
     ],
     "221257": [
-      [
-        "20261017",
-        44.9
-      ],
       [
         "20261018",
         44.9
@@ -30162,13 +30607,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         42.9
+      ],
+      [
+        "20261103",
+        42.9
       ]
     ],
     "214459": [
-      [
-        "20261017",
-        42.6
-      ],
       [
         "20261018",
         42.6
@@ -30231,15 +30676,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        42.8
+      ],
+      [
+        "20261103",
         42.8
       ]
     ],
     "220722": [
       [
-        "20261017",
-        42.1
-      ],
-      [
         "20261018",
         42.1
       ],
@@ -30301,15 +30746,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        42.3
+      ],
+      [
+        "20261103",
         42.3
       ]
     ],
     "221406": [
       [
-        "20261017",
-        39.8
-      ],
-      [
         "20261018",
         39.8
       ],
@@ -30372,13 +30817,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         42.1
+      ],
+      [
+        "20261103",
+        42.1
       ]
     ],
     "215936": [
-      [
-        "20261017",
-        40.8
-      ],
       [
         "20261018",
         40.8
@@ -30442,13 +30887,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         41.3
+      ],
+      [
+        "20261103",
+        41.3
       ]
     ],
     "216566": [
-      [
-        "20261017",
-        40.3
-      ],
       [
         "20261018",
         40.3
@@ -30512,13 +30957,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         41.2
+      ],
+      [
+        "20261103",
+        41.2
       ]
     ],
     "206417": [
-      [
-        "20261017",
-        40.0
-      ],
       [
         "20261018",
         40.0
@@ -30581,15 +31026,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        40.6
+      ],
+      [
+        "20261103",
         40.6
       ]
     ],
     "214593": [
       [
-        "20261017",
-        40.3
-      ],
-      [
         "20261018",
         40.3
       ],
@@ -30652,13 +31097,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         40.6
+      ],
+      [
+        "20261103",
+        40.6
       ]
     ],
     "222290": [
-      [
-        "20261017",
-        40.6
-      ],
       [
         "20261018",
         40.6
@@ -30722,13 +31167,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         40.4
+      ],
+      [
+        "20261103",
+        40.4
       ]
     ],
     "260664": [
-      [
-        "20261017",
-        40.0
-      ],
       [
         "20261018",
         40.0
@@ -30791,15 +31236,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        40.2
+      ],
+      [
+        "20261103",
         40.2
       ]
     ],
     "220416": [
       [
-        "20261017",
-        39.7
-      ],
-      [
         "20261018",
         39.7
       ],
@@ -30861,15 +31306,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        39.9
+      ],
+      [
+        "20261103",
         39.9
       ]
     ],
     "221124": [
       [
-        "20261017",
-        38.9
-      ],
-      [
         "20261018",
         38.9
       ],
@@ -30931,15 +31376,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        39.1
+      ],
+      [
+        "20261103",
         39.1
       ]
     ],
     "210886": [
       [
-        "20261017",
-        38.5
-      ],
-      [
         "20261018",
         38.5
       ],
@@ -31001,6 +31446,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        38.2
+      ],
+      [
+        "20261103",
         38.2
       ]
     ],
@@ -31064,13 +31513,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         37.4
+      ],
+      [
+        "20261103",
+        37.4
       ]
     ],
     "215037": [
-      [
-        "20261017",
-        36.8
-      ],
       [
         "20261018",
         36.8
@@ -31133,15 +31582,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        37.0
+      ],
+      [
+        "20261103",
         37.0
       ]
     ],
     "215571": [
       [
-        "20261017",
-        36.4
-      ],
-      [
         "20261018",
         36.4
       ],
@@ -31203,6 +31652,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        36.7
+      ],
+      [
+        "20261103",
         36.7
       ]
     ],
@@ -31266,13 +31719,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         36.5
+      ],
+      [
+        "20261103",
+        36.5
       ]
     ],
     "220742": [
-      [
-        "20261017",
-        35.9
-      ],
       [
         "20261018",
         35.9
@@ -31335,15 +31788,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        36.1
+      ],
+      [
+        "20261103",
         36.1
       ]
     ],
     "201585": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -31405,15 +31858,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.3
+      ],
+      [
+        "20261103",
         35.3
       ]
     ],
     "211279": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -31475,15 +31928,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "221236": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -31545,15 +31998,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "221307": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -31615,15 +32068,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "211814": [
       [
-        "20261017",
-        35.2
-      ],
-      [
         "20261018",
         35.2
       ],
@@ -31685,15 +32138,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "223168": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -31755,15 +32208,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "223333": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -31825,15 +32278,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "236955": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -31895,15 +32348,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
     "213666": [
       [
-        "20261017",
-        35.0
-      ],
-      [
         "20261018",
         35.0
       ],
@@ -31965,6 +32418,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ],
@@ -32028,6 +32485,10 @@ window.TENNIS_DATA = {
       [
         "20261102",
         35.0
+      ],
+      [
+        "20261103",
+        35.0
       ]
     ],
     "222559": [
@@ -32038,13 +32499,13 @@ window.TENNIS_DATA = {
       [
         "20261102",
         35.0
+      ],
+      [
+        "20261103",
+        35.0
       ]
     ],
     "220589": [
-      [
-        "20261017",
-        35.0
-      ],
       [
         "20261018",
         35.0
@@ -32107,6 +32568,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261102",
+        35.0
+      ],
+      [
+        "20261103",
         35.0
       ]
     ]

@@ -5149,9 +5149,9 @@ window.NHL_DATA = {
       "name": "Laurent Brossoit",
       "pos": "G",
       "teamCode": "ANA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 33,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -5854,9 +5854,9 @@ window.NHL_DATA = {
       "name": "Nick Jensen",
       "pos": "D",
       "teamCode": "ANA",
-      "age": 36,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -8913,7 +8913,7 @@ window.NHL_DATA = {
       "name": "James Hagens",
       "pos": "C",
       "teamCode": "BOS",
-      "age": 19,
+      "age": 20,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -25180,9 +25180,9 @@ window.NHL_DATA = {
       "name": "Taylor Raddysh",
       "pos": "RW",
       "teamCode": "NYR",
-      "age": 28,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -25840,9 +25840,9 @@ window.NHL_DATA = {
       "name": "Nikita Klepov",
       "pos": "RW",
       "teamCode": "ANA",
-      "age": 18,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -27094,9 +27094,9 @@ window.NHL_DATA = {
       "name": "Jaroslav Chmelar",
       "pos": "RW",
       "teamCode": "NYR",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "Czechia",
+      "birthCountry": "CZE",
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -38548,10 +38548,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-02 22:27 UTC",
+  "LAST_UPDATE": "2026-11-03 02:19 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-02T22:26:45Z"
+    "standingsDateTimeUtc": "2026-11-03T02:18:30Z"
   }
 };
