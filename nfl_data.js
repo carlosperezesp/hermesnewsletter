@@ -26,6 +26,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "CHI",
+      "city": "Chicago Bears",
+      "shortName": "Chicago",
+      "commonName": "Bears",
+      "conf": "NFC",
+      "div": "NFC North",
+      "gp": 8,
+      "w": 6,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.75,
+      "pf": 214,
+      "pa": 160,
+      "pd": 54,
+      "seed": 5,
+      "score": 65,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+      "colors": {
+        "primary": "#0b162a",
+        "secondary": "#c83803"
+      }
+    },
+    {
       "code": "BUF",
       "city": "Buffalo Bills",
       "shortName": "Buffalo",
@@ -164,29 +187,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "CHI",
-      "city": "Chicago Bears",
-      "shortName": "Chicago",
-      "commonName": "Bears",
-      "conf": "NFC",
-      "div": "NFC North",
-      "gp": 7,
-      "w": 5,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.714,
-      "pf": 180,
-      "pa": 143,
-      "pd": 37,
-      "seed": 6,
-      "score": 61,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-      "colors": {
-        "primary": "#0b162a",
-        "secondary": "#c83803"
-      }
-    },
-    {
       "code": "KC",
       "city": "Kansas City Chiefs",
       "shortName": "Kansas City",
@@ -224,7 +224,7 @@ window.NFL_DATA = {
       "pf": 203,
       "pa": 180,
       "pd": 23,
-      "seed": 5,
+      "seed": 6,
       "score": 60,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
       "colors": {
@@ -308,16 +308,16 @@ window.NFL_DATA = {
       "commonName": "Seahawks",
       "conf": "NFC",
       "div": "NFC West",
-      "gp": 7,
+      "gp": 8,
       "w": 4,
-      "l": 3,
+      "l": 4,
       "t": 0,
-      "winPct": 0.571,
-      "pf": 168,
-      "pa": 125,
-      "pd": 43,
+      "winPct": 0.5,
+      "pf": 185,
+      "pa": 159,
+      "pd": 26,
       "seed": 8,
-      "score": 51,
+      "score": 43,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
       "colors": {
         "primary": "#002244",
@@ -823,7 +823,7 @@ window.NFL_DATA = {
       "name": "Jordan Love",
       "pos": "QB",
       "teamCode": "GB",
-      "age": 27,
+      "age": 28,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png",
       "colors": {
         "primary": "#203731",
@@ -1226,6 +1226,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 4431611,
+      "name": "Caleb Williams",
+      "pos": "QB",
+      "teamCode": "CHI",
+      "age": 24,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431611.png",
+      "colors": {
+        "primary": "#0b162a",
+        "secondary": "#c83803"
+      },
+      "score": 65,
+      "stats": {
+        "type": "passing",
+        "cmp": 112,
+        "att": 158,
+        "pct": 70.9,
+        "yds": 1267,
+        "ypa": 8.0,
+        "td": 6,
+        "int": 1,
+        "rushYds": 129,
+        "rushTd": 1
+      }
+    },
+    {
       "id": 4360423,
       "name": "Michael Penix Jr.",
       "pos": "QB",
@@ -1247,6 +1272,31 @@ window.NFL_DATA = {
         "td": 9,
         "int": 5,
         "rushYds": 15,
+        "rushTd": 0
+      }
+    },
+    {
+      "id": 3912547,
+      "name": "Sam Darnold",
+      "pos": "QB",
+      "teamCode": "SEA",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3912547.png",
+      "colors": {
+        "primary": "#002244",
+        "secondary": "#69be28"
+      },
+      "score": 63,
+      "stats": {
+        "type": "passing",
+        "cmp": 127,
+        "att": 211,
+        "pct": 60.2,
+        "yds": 1478,
+        "ypa": 7.0,
+        "td": 10,
+        "int": 9,
+        "rushYds": 72,
         "rushTd": 0
       }
     },
@@ -1326,31 +1376,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "id": 4431611,
-      "name": "Caleb Williams",
-      "pos": "QB",
-      "teamCode": "CHI",
-      "age": 24,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431611.png",
-      "colors": {
-        "primary": "#0b162a",
-        "secondary": "#c83803"
-      },
-      "score": 59,
-      "stats": {
-        "type": "passing",
-        "cmp": 88,
-        "att": 124,
-        "pct": 71.0,
-        "yds": 1020,
-        "ypa": 8.2,
-        "td": 5,
-        "int": 1,
-        "rushYds": 128,
-        "rushTd": 1
-      }
-    },
-    {
       "id": 4040715,
       "name": "Jalen Hurts",
       "pos": "QB",
@@ -1398,31 +1423,6 @@ window.NFL_DATA = {
         "int": 5,
         "rushYds": 225,
         "rushTd": 1
-      }
-    },
-    {
-      "id": 3912547,
-      "name": "Sam Darnold",
-      "pos": "QB",
-      "teamCode": "SEA",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3912547.png",
-      "colors": {
-        "primary": "#002244",
-        "secondary": "#69be28"
-      },
-      "score": 57,
-      "stats": {
-        "type": "passing",
-        "cmp": 110,
-        "att": 177,
-        "pct": 62.1,
-        "yds": 1290,
-        "ypa": 7.3,
-        "td": 8,
-        "int": 8,
-        "rushYds": 52,
-        "rushTd": 0
       }
     },
     {
@@ -1927,10 +1927,10 @@ window.NFL_DATA = {
           "primary": "#203731",
           "secondary": "#ffb612"
         },
-        "age": 27,
-        "careerScore": 70.0,
+        "age": 28,
+        "careerScore": 71.2,
         "threshold": 90.0,
-        "gap": 20.0,
+        "gap": 18.8,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
         "prevRank": 7
@@ -2040,6 +2040,23 @@ window.NFL_DATA = {
         "prevRank": 3
       },
       {
+        "id": 4431611,
+        "name": "Caleb Williams",
+        "pos": "QB",
+        "teamCode": "CHI",
+        "colors": {
+          "primary": "#0b162a",
+          "secondary": "#c83803"
+        },
+        "age": 24,
+        "currentScore": 65,
+        "projectedScore": 66.2,
+        "threshold": 90.0,
+        "gap": 23.8,
+        "note": "Joven con pedigrí — salto a elite pendiente",
+        "prevRank": 5
+      },
+      {
         "id": 4688380,
         "name": "Cam Ward",
         "pos": "QB",
@@ -2055,23 +2072,6 @@ window.NFL_DATA = {
         "gap": 26.5,
         "note": "Joven con pedigrí — salto a elite pendiente",
         "prevRank": 4
-      },
-      {
-        "id": 4431611,
-        "name": "Caleb Williams",
-        "pos": "QB",
-        "teamCode": "CHI",
-        "colors": {
-          "primary": "#0b162a",
-          "secondary": "#c83803"
-        },
-        "age": 24,
-        "currentScore": 59,
-        "projectedScore": 62.2,
-        "threshold": 90.0,
-        "gap": 27.8,
-        "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 5
       },
       {
         "id": 4426348,
@@ -2105,7 +2105,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-03 02:57 UTC",
+  "LAST_UPDATE": "2026-11-03 12:47 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

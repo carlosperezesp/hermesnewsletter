@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-03 02:59 UTC",
+  "UPDATED": "2026-11-03 12:49 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -51,6 +51,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-24"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Los Angeles Lakers",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-dinastias",
+      "text": "Los Angeles Lakers es nuevo nº1 · dinastías",
+      "weight": 92,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Kirk Cousins",
       "sport": "nfl",
       "detail": "NFL",
@@ -67,15 +76,6 @@ window.GLORY_DATA = {
       "text": "Drake Maye es nuevo nº1 · jóvenes promesas",
       "weight": 92,
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Boston Celtics",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-dinastias",
-      "text": "Boston Celtics es nuevo nº1 · dinastías",
-      "weight": 92,
-      "firstSeen": "2026-10-31"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Matthew Schaefer",
@@ -112,6 +112,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Cale Makar entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "rank:nfl:ROAD_TO_GLORY.players:in:Trevor Lawrence",
@@ -303,6 +312,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:out:Jack Eichel",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Jack Eichel cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Beckett Sennecke",
       "sport": "nhl",
       "detail": "NHL",
@@ -412,9 +430,9 @@ window.GLORY_DATA = {
       "David Pastrnak",
       "Auston Matthews",
       "Erik Karlsson",
-      "Matthew Tkachuk",
       "Roman Josi",
-      "Jack Eichel"
+      "Matthew Tkachuk",
+      "Cale Makar"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -431,9 +449,9 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
       "Jake Sanderson",
-      "Macklin Celebrini",
       "Lane Hutson",
       "Leo Carlsson",
+      "Macklin Celebrini",
       "Jackson LaCombe",
       "Connor Bedard",
       "Cole Hutson",
@@ -453,13 +471,13 @@ window.GLORY_DATA = {
       "Joel Embiid"
     ],
     "nba:ROAD_TO_GLORY.teams": [
-      "Boston Celtics",
       "Los Angeles Lakers",
+      "Boston Celtics",
       "Oklahoma City Thunder",
       "Golden State Warriors",
-      "Denver Nuggets",
       "San Antonio Spurs",
       "Minnesota Timberwolves",
+      "Denver Nuggets",
       "New York Knicks",
       "Milwaukee Bucks",
       "Indiana Pacers"
@@ -528,8 +546,8 @@ window.GLORY_DATA = {
       "Drake Maye",
       "C.J. Stroud",
       "Bryce Young",
-      "Cam Ward",
       "Caleb Williams",
+      "Cam Ward",
       "Jayden Daniels"
     ],
     "tennis:ATP": [
