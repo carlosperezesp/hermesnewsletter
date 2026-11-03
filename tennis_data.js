@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-03 19:51 UTC
+// Auto-generated 2026-11-03 20:18 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-03 19:51 UTC",
+  "UPDATED": "2026-11-03 20:18 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8673,7 +8673,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -10246,9 +10246,9 @@ window.TENNIS_DATA = {
       "prevListRank": 148,
       "tournamentStatus": {
         "tournament": "Reto Win Tennis Cali Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 35.0
     },
@@ -11034,15 +11034,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Casper Ruud",
+          "w": "Rafael Jodar",
           "w_logo": "",
-          "l": "Rafael Jodar",
+          "l": "Casper Ruud",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 79.0,
-          "l_score": 78.2,
+          "scheduled": false,
+          "w_score": 78.2,
+          "l_score": 79.0,
           "match_score": 79.0
         },
         {
@@ -11591,7 +11591,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tamara Zidansek",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 48.7,
@@ -11639,15 +11639,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Julia Grabher",
+          "w": "Laura Pigossi",
           "w_logo": "",
-          "l": "Laura Pigossi",
+          "l": "Julia Grabher",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 35.0,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 35.0,
           "match_score": 35.0
         },
         {
@@ -11656,7 +11656,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Rebeka Masarova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11950,7 +11950,6 @@ window.TENNIS_DATA = {
       "Noma Noha Akugue",
       "Oksana Selekhmeteva",
       "Polina Kudermetova",
-      "Rebeka Masarova",
       "Renata Zarazua",
       "Robin Montgomery",
       "Sahaja Yamalapalli",
@@ -11962,7 +11961,6 @@ window.TENNIS_DATA = {
       "Sorana Cirstea",
       "Suzan Lamens",
       "Talia Gibson",
-      "Tamara Zidansek",
       "Tereza Valentova",
       "Tiphanie Lemaitre",
       "Vaishnavi Adkar",
@@ -12018,9 +12016,11 @@ window.TENNIS_DATA = {
       "Polona Hercog",
       "Rada Zolotareva",
       "Rebecca Sramkova",
+      "Rebeka Masarova",
       "Sada Nahimana",
       "Sandra Samir",
       "Selena Janicijevic",
+      "Tamara Zidansek",
       "Tatiana Prozorova",
       "Teodora Kostovic",
       "Venus Williams",
@@ -12029,8 +12029,8 @@ window.TENNIS_DATA = {
       "Warona Mdlulwa",
       "Yuliana Lizarazo"
     ],
-    "aliveCount": 75,
-    "matchesSeen": 87
+    "aliveCount": 73,
+    "matchesSeen": 88
   },
   "ATP_SCORE_LOG": {
     "206173": [
