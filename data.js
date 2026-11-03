@@ -12276,39 +12276,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8480748,
-      "first": "Kiefer",
-      "last": "Sherwood",
-      "name": "Kiefer Sherwood",
-      "pos": "LW",
-      "teamCode": "SJS",
-      "age": 31,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#006d75",
-        "secondary": "#ea7200"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8480748.png",
-      "score": 52,
-      "stats": {
-        "gp": 16,
-        "g": 2,
-        "a": 7,
-        "p": 9,
-        "pm": -5,
-        "toi": 15.6,
-        "shots": 29
-      },
-      "trajectory": [
-        39,
-        42,
-        44,
-        46,
-        52
-      ]
-    },
-    {
       "id": 8474189,
       "first": "Lars",
       "last": "Eller",
@@ -13110,6 +13077,39 @@ window.NHL_DATA = {
         51
       ],
       "legendScore": 44.5
+    },
+    {
+      "id": 8480748,
+      "first": "Kiefer",
+      "last": "Sherwood",
+      "name": "Kiefer Sherwood",
+      "pos": "LW",
+      "teamCode": "SJS",
+      "age": 31,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#006d75",
+        "secondary": "#ea7200"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8480748.png",
+      "score": 51,
+      "stats": {
+        "gp": 16,
+        "g": 2,
+        "a": 6,
+        "p": 8,
+        "pm": -5,
+        "toi": 15.6,
+        "shots": 29
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        51
+      ]
     },
     {
       "id": 8482720,
@@ -14275,6 +14275,40 @@ window.NHL_DATA = {
         45,
         50
       ]
+    },
+    {
+      "id": 8485402,
+      "first": "Michael",
+      "last": "Misa",
+      "name": "Michael Misa",
+      "pos": "C",
+      "teamCode": "SJS",
+      "age": 19,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#006d75",
+        "secondary": "#ea7200"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8485402.png",
+      "score": 50,
+      "stats": {
+        "gp": 16,
+        "g": 3,
+        "a": 5,
+        "p": 8,
+        "pm": -5,
+        "toi": 13.9,
+        "shots": 18
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        50
+      ],
+      "legendScore": 49.0
     },
     {
       "id": 8479998,
@@ -15923,39 +15957,6 @@ window.NHL_DATA = {
         "pm": 5,
         "toi": 13.6,
         "shots": 31
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        49
-      ]
-    },
-    {
-      "id": 8485402,
-      "first": "Michael",
-      "last": "Misa",
-      "name": "Michael Misa",
-      "pos": "C",
-      "teamCode": "SJS",
-      "age": 19,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#006d75",
-        "secondary": "#ea7200"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8485402.png",
-      "score": 49,
-      "stats": {
-        "gp": 16,
-        "g": 3,
-        "a": 4,
-        "p": 7,
-        "pm": -5,
-        "toi": 13.9,
-        "shots": 18
       },
       "trajectory": [
         38,
@@ -22705,9 +22706,9 @@ window.NHL_DATA = {
       "name": "Taylor Ward",
       "pos": "RW",
       "teamCode": "LAK",
-      "age": 28,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -38550,10 +38551,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-03 14:28 UTC",
+  "LAST_UPDATE": "2026-11-03 19:48 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-03T14:27:46Z"
+    "standingsDateTimeUtc": "2026-11-03T19:47:30Z"
   }
 };

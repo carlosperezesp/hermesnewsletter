@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-03 14:29 UTC",
+  "UPDATED": "2026-11-03 19:51 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -114,6 +114,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:SR Harmer",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "SR Harmer entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
       "sport": "nhl",
       "detail": "NHL",
@@ -182,15 +191,6 @@ window.GLORY_DATA = {
       "detail": "Sumo",
       "anchor": "sumo-banzuke",
       "text": "Asanoyama entra en el top-10 · banzuke",
-      "weight": 84,
-      "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:SM Boland",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "SM Boland entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-11-01"
     },
@@ -772,15 +772,15 @@ window.GLORY_DATA = {
     ],
     "cricket:ROAD_TO_GLORY.players": [
       "MA Starc",
-      "JJ Bumrah",
       "M Jansen",
+      "JJ Bumrah",
       "JC Archer",
       "JNT Seales",
       "Mohammed Siraj",
-      "JC Tongue",
       "PJ Cummins",
+      "JC Tongue",
       "Taijul Islam",
-      "SM Boland"
+      "SR Harmer"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",
