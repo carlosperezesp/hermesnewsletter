@@ -25417,9 +25417,9 @@ window.NHL_DATA = {
       "name": "Brad Lambert",
       "pos": "C",
       "teamCode": "WPG",
-      "age": 22,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#7b303e"
@@ -26572,9 +26572,9 @@ window.NHL_DATA = {
       "name": "Jonas Rondbjerg",
       "pos": "RW",
       "teamCode": "VGK",
-      "age": 27,
-      "country": "Denmark",
-      "birthCountry": "DNK",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -27859,9 +27859,9 @@ window.NHL_DATA = {
       "name": "Dylan McIlrath",
       "pos": "D",
       "teamCode": "WSH",
-      "age": 34,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -38429,10 +38429,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-04 14:42 UTC",
+  "LAST_UPDATE": "2026-11-04 20:00 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-04T14:42:00Z"
+    "standingsDateTimeUtc": "2026-11-04T20:00:15Z"
   }
 };
