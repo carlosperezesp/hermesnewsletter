@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-04 13:01 UTC
+// Auto-generated 2026-11-04 14:44 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-04 13:01 UTC",
+  "UPDATED": "2026-11-04 14:44 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -100,9 +100,9 @@ window.TENNIS_DATA = {
       "prevListRank": 3,
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 86.7
     },
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 76.8
@@ -611,7 +611,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 73.2
@@ -1361,7 +1361,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 62.9
@@ -6447,7 +6447,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 65.7
@@ -7367,7 +7367,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 57.2
@@ -9085,7 +9085,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 44.9
@@ -9855,7 +9855,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Angola Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 36.5
@@ -11025,7 +11025,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-5) 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 77.2,
@@ -11077,9 +11077,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ignacio Buse",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 77.9,
           "l_score": 66.6,
           "match_score": 77.9
@@ -11090,9 +11090,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tomas Martin Etcheverry",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.2,
           "l_score": 62.8,
           "match_score": 75.2
@@ -11584,7 +11584,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maya Joint",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-3 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 65.7,
@@ -11813,7 +11813,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Franziska Sziedat",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 36.5,
@@ -11852,7 +11852,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Isabella Shinikova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11904,7 +11904,6 @@ window.TENNIS_DATA = {
       "Alex Michelsen",
       "Alex Molcan",
       "Alex de Minaur",
-      "Alexander Zverev",
       "Arthur Fils",
       "Arthur Rinderknech",
       "Ben Shelton",
@@ -11936,6 +11935,7 @@ window.TENNIS_DATA = {
     "out": [
       "Adolfo Daniel Vallejo",
       "Alejandro Tabilo",
+      "Alexander Zverev",
       "Andrey Rublev",
       "Arthur Fery",
       "Arthur Gea",
@@ -11960,8 +11960,8 @@ window.TENNIS_DATA = {
       "Valentin Vacherot",
       "Zizou Bergs"
     ],
-    "aliveCount": 31,
-    "matchesSeen": 42
+    "aliveCount": 30,
+    "matchesSeen": 43
   },
   "WTA_TOURNAMENT": {
     "name": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
@@ -12128,7 +12128,7 @@ window.TENNIS_DATA = {
       "Yuliana Lizarazo"
     ],
     "aliveCount": 64,
-    "matchesSeen": 96
+    "matchesSeen": 98
   },
   "ATP_SCORE_LOG": {
     "206173": [
