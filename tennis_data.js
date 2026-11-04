@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-04 20:03 UTC
+// Auto-generated 2026-11-04 20:33 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-04 20:03 UTC",
+  "UPDATED": "2026-11-04 20:33 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11047,15 +11047,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Arthur Fils",
+          "w": "Tomas Machac",
           "w_logo": "",
-          "l": "Tomas Machac",
+          "l": "Arthur Fils",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 83.4,
-          "l_score": 62.9,
+          "scheduled": false,
+          "w_score": 62.9,
+          "l_score": 83.4,
           "match_score": 83.4
         },
         {
