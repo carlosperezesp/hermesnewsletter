@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-04 01:33 UTC
+// Auto-generated 2026-11-04 13:01 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-04 01:33 UTC",
+  "UPDATED": "2026-11-04 13:01 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -203,7 +203,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 79.3
@@ -407,7 +407,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 75.1
@@ -542,9 +542,9 @@ window.TENNIS_DATA = {
       "prevListRank": 16,
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 74.0
     },
@@ -1871,7 +1871,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 59.5
@@ -2041,7 +2041,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 57.1
@@ -2891,7 +2891,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 51.5
@@ -6207,10 +6207,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.5
     },
@@ -6481,7 +6481,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 65.8
@@ -7265,7 +7265,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 58.5
@@ -7573,7 +7573,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.5
@@ -7607,7 +7607,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.8
@@ -8117,7 +8117,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chennai Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 51.8
@@ -8843,7 +8843,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chennai Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 47.2
@@ -9396,9 +9396,9 @@ window.TENNIS_DATA = {
       "prevListRank": 124,
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 39.8
     },
@@ -10139,7 +10139,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Angola Ladies Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11021,15 +11021,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Alexander Zverev",
+          "w": "Lorenzo Musetti",
           "w_logo": "",
-          "l": "Lorenzo Musetti",
+          "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 86.9,
-          "l_score": 77.2,
+          "scheduled": false,
+          "w_score": 77.2,
+          "l_score": 86.9,
           "match_score": 86.9
         },
         {
@@ -11064,9 +11064,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daniel Merida",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.5,
           "l_score": null,
           "match_score": 79.5
@@ -11099,15 +11099,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Frances Tiafoe",
+          "w": "Quentin Halys",
           "w_logo": "",
-          "l": "Quentin Halys",
+          "l": "Frances Tiafoe",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 1-6 7-6 (11-9)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 74.2,
-          "l_score": 57.0,
+          "scheduled": false,
+          "w_score": 57.0,
+          "l_score": 74.2,
           "match_score": 74.2
         }
       ]
@@ -11566,29 +11566,16 @@ window.TENNIS_DATA = {
       "surface": "",
       "matches": [
         {
-          "round": "R128",
-          "w": "Leylah Fernandez",
-          "w_logo": "",
-          "l": "Sofia Kenin",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 69.1,
-          "l_score": null,
-          "match_score": 69.1
-        },
-        {
           "round": "R64",
-          "w": "Katie Boulter",
+          "w": "Claire Liu",
           "w_logo": "",
-          "l": "Claire Liu",
+          "l": "Katie Boulter",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.7,
-          "l_score": 45.3,
+          "scheduled": false,
+          "w_score": 45.3,
+          "l_score": 65.7,
           "match_score": 65.7
         },
         {
@@ -11597,24 +11584,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maya Joint",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 65.7,
           "l_score": 57.8,
           "match_score": 65.7
         },
         {
           "round": "R64",
-          "w": "Talia Gibson",
+          "w": "Aliaksandra Sasnovich",
           "w_logo": "",
-          "l": "Aliaksandra Sasnovich",
+          "l": "Talia Gibson",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 5-7 7-6 (9-7)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 58.8,
-          "l_score": 44.9,
+          "scheduled": false,
+          "w_score": 44.9,
+          "l_score": 58.8,
           "match_score": 58.8
         },
         {
@@ -11623,12 +11610,25 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alina Charaeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-5) 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 56.8,
           "l_score": 42.1,
           "match_score": 56.8
+        },
+        {
+          "round": "R128",
+          "w": "Mika Stojsavljevic",
+          "w_logo": "",
+          "l": "Sofia Kenin",
+          "l_logo": "",
+          "score": "6-3 4-6 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
         }
       ]
     },
@@ -11639,41 +11639,41 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Jeline Vandromme",
+          "w": "Robin Montgomery",
           "w_logo": "",
-          "l": "Robin Montgomery",
+          "l": "Jeline Vandromme",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 3-6 7-5",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 51.8,
           "match_score": 51.8
         },
         {
           "round": "R64",
-          "w": "Janice Tjen",
+          "w": "Joanna Garland",
           "w_logo": "",
-          "l": "Joanna Garland",
+          "l": "Janice Tjen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 50.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 50.7,
           "match_score": 50.7
         },
         {
           "round": "R64",
-          "w": "Oksana Selekhmeteva",
+          "w": "Polina Kudermetova",
           "w_logo": "",
-          "l": "Polina Kudermetova",
+          "l": "Oksana Selekhmeteva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-0",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 47.2,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 47.2,
           "match_score": 47.2
         },
         {
@@ -11813,9 +11813,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Franziska Sziedat",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 36.5,
           "l_score": null,
           "match_score": 36.5
@@ -11826,9 +11826,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Wozuko Mdlulwa",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -11839,9 +11839,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Suzan Lamens",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11852,22 +11852,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Isabella Shinikova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "R64",
-          "w": "Kristina Novak",
+          "w": "Sofya Lansere",
           "w_logo": "",
-          "l": "Sofya Lansere",
+          "l": "Kristina Novak",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11913,7 +11913,6 @@ window.TENNIS_DATA = {
       "Casper Ruud",
       "Daniel Merida",
       "Daniil Medvedev",
-      "Frances Tiafoe",
       "Ignacio Buse",
       "Jan-Lennard Struff",
       "Karen Khachanov",
@@ -11944,6 +11943,7 @@ window.TENNIS_DATA = {
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
       "Denis Shapovalov",
+      "Frances Tiafoe",
       "Francisco Cerundolo",
       "Holger Rune",
       "Hubert Hurkacz",
@@ -11960,8 +11960,8 @@ window.TENNIS_DATA = {
       "Valentin Vacherot",
       "Zizou Bergs"
     ],
-    "aliveCount": 32,
-    "matchesSeen": 40
+    "aliveCount": 31,
+    "matchesSeen": 42
   },
   "WTA_TOURNAMENT": {
     "name": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
@@ -12000,7 +12000,6 @@ window.TENNIS_DATA = {
       "Alexandra Shubladze",
       "Aliaksandra Sasnovich",
       "Alice Tubello",
-      "Alina Charaeva",
       "Anastasia Zakharova",
       "Anna Blinkova",
       "Antonia Ruzic",
@@ -12028,7 +12027,6 @@ window.TENNIS_DATA = {
       "Ksenia Zaytseva",
       "Laura Samson",
       "Leolia Jeanjean",
-      "Leylah Fernandez",
       "Leyre Romero Gormaz",
       "Li Zongyu",
       "Lucrezia Stefanini",
@@ -12042,6 +12040,7 @@ window.TENNIS_DATA = {
       "Martyna Kubka",
       "Mary Stoiana",
       "Maya Joint",
+      "Mika Stojsavljevic",
       "Moyuka Uchijima",
       "Noma Noha Akugue",
       "Oksana Selekhmeteva",
@@ -12049,24 +12048,22 @@ window.TENNIS_DATA = {
       "Renata Zarazua",
       "Robin Montgomery",
       "Simona Waltert",
-      "Sofia Kenin",
       "Sofya Lansere",
       "Solana Sierra",
       "Sorana Cirstea",
-      "Suzan Lamens",
       "Talia Gibson",
       "Tereza Valentova",
       "Tiphanie Lemaitre",
       "Vaishnavi Adkar",
       "Wang Xinyu",
       "Weronika Falkowska",
-      "Wozuko Mdlulwa",
       "Yasmine Kabbaj",
       "Zeynep Sonmez",
       "Zhibek Kulambayeva"
     ],
     "out": [
       "Adithya Karunaratne",
+      "Alina Charaeva",
       "Aliona Falei",
       "Ana Sofia Sanchez",
       "Angella Okutoyi",
@@ -12117,6 +12114,8 @@ window.TENNIS_DATA = {
       "Sandra Samir",
       "Selena Janicijevic",
       "Sofia Costoulas",
+      "Sofia Kenin",
+      "Suzan Lamens",
       "Tamara Zidansek",
       "Tatiana Prozorova",
       "Teodora Kostovic",
@@ -12125,10 +12124,11 @@ window.TENNIS_DATA = {
       "Viktoria Morvayova",
       "Viktorija Golubic",
       "Warona Mdlulwa",
+      "Wozuko Mdlulwa",
       "Yuliana Lizarazo"
     ],
-    "aliveCount": 68,
-    "matchesSeen": 92
+    "aliveCount": 64,
+    "matchesSeen": 96
   },
   "ATP_SCORE_LOG": {
     "206173": [

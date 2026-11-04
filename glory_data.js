@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-04 01:33 UTC",
+  "UPDATED": "2026-11-04 13:01 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -114,20 +114,38 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Filip Forsberg",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Filip Forsberg entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Beckett Sennecke",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Beckett Sennecke entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jack Hughes",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Jack Hughes entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:SR Harmer",
       "sport": "cricket",
       "detail": "Cricket",
       "anchor": "cricket-road-to-glory",
       "text": "SR Harmer entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Cale Makar entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-11-03"
     },
@@ -148,15 +166,6 @@ window.GLORY_DATA = {
       "text": "Josh Allen entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-01"
     },
     {
       "id": "rank:motogp:RIDERS:in:Enea Bastianini",
@@ -303,6 +312,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Owen Power",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Owen Power cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:out:Jack Eichel",
       "sport": "nhl",
       "detail": "NHL",
@@ -310,15 +328,6 @@ window.GLORY_DATA = {
       "text": "Jack Eichel cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Beckett Sennecke",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Beckett Sennecke cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-11-01"
     },
     {
       "id": "rank:motogp:RIDERS:out:Fermín Aldeguer",
@@ -414,15 +423,15 @@ window.GLORY_DATA = {
       "Erik Karlsson",
       "Roman Josi",
       "Matthew Tkachuk",
-      "Cale Makar"
+      "Filip Forsberg"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
       "Colorado Avalanche",
       "Florida Panthers",
       "St. Louis Blues",
-      "Carolina Hurricanes",
       "Edmonton Oilers",
+      "Carolina Hurricanes",
       "Boston Bruins",
       "Minnesota Wild",
       "Dallas Stars",
@@ -430,15 +439,15 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
-      "Jake Sanderson",
-      "Lane Hutson",
       "Leo Carlsson",
+      "Jake Sanderson",
       "Macklin Celebrini",
       "Jackson LaCombe",
+      "Lane Hutson",
+      "Beckett Sennecke",
       "Connor Bedard",
-      "Cole Hutson",
       "Tim Stützle",
-      "Owen Power"
+      "Jack Hughes"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
