@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-03 20:18 UTC",
+  "UPDATED": "2026-11-04 00:37 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -294,15 +294,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:M Jansen",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "M Jansen entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-20"
-    },
-    {
       "id": "tennis:out:ATP:Felix Auger Aliassime:20261029",
       "sport": "tennis",
       "detail": "Tenis",
@@ -391,15 +382,6 @@ window.GLORY_DATA = {
       "text": "MJ Henry cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:out:Sajid Khan",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "Sajid Khan cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-10-20"
     }
   ],
   "REPORTS": [],

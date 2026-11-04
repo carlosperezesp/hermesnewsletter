@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-11-03 20:18 UTC",
+  "UPDATED": "2026-11-04 00:37 UTC",
   "LAST_MATCH": "2026-10-31",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -64,31 +64,6 @@ window.RUGBY_DATA = {
         "awayScore": 43,
         "venue": "Accor Stadium",
         "city": "Sydney"
-      },
-      {
-        "date": "2026-10-10",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          }
-        },
-        "away": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "homeScore": 50,
-        "awayScore": 19,
-        "venue": "Eden Park",
-        "city": "Auckland"
       }
     ],
     "upcoming": [
