@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-05 20:18 UTC
+// Auto-generated 2026-11-05 20:50 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-05 20:18 UTC",
+  "UPDATED": "2026-11-05 20:50 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9121,7 +9121,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 44.3
@@ -9891,7 +9891,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -11607,15 +11607,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Leolia Jeanjean",
+          "w": "Alice Tubello",
           "w_logo": "",
-          "l": "Alice Tubello",
+          "l": "Leolia Jeanjean",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 40.6,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 40.6,
           "match_score": 40.6
         },
         {
@@ -11624,7 +11624,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Carole Monnet",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 7-5 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 36.1,
@@ -11933,7 +11933,7 @@ window.TENNIS_DATA = {
       "Yuliana Lizarazo"
     ],
     "aliveCount": 64,
-    "matchesSeen": 112
+    "matchesSeen": 113
   },
   "ATP_SCORE_LOG": {
     "206173": [
