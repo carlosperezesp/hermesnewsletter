@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-05 01:33 UTC",
+  "UPDATED": "2026-11-05 13:15 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -114,13 +114,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Filip Forsberg",
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Artemi Panarin",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
-      "text": "Filip Forsberg entra en el top-10 · Road to Glory",
+      "text": "Artemi Panarin entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-11-04"
+      "firstSeen": "2026-11-05"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Beckett Sennecke",
@@ -391,12 +391,12 @@ window.GLORY_DATA = {
       "Connor McDavid",
       "Nathan MacKinnon",
       "Leon Draisaitl",
+      "Artemi Panarin",
       "David Pastrnak",
       "Auston Matthews",
       "Erik Karlsson",
       "Roman Josi",
-      "Matthew Tkachuk",
-      "Filip Forsberg"
+      "Matthew Tkachuk"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -413,14 +413,14 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
       "Leo Carlsson",
-      "Jake Sanderson",
       "Macklin Celebrini",
       "Jackson LaCombe",
       "Lane Hutson",
+      "Jake Sanderson",
       "Beckett Sennecke",
       "Connor Bedard",
-      "Tim Stützle",
-      "Jack Hughes"
+      "Jack Hughes",
+      "Tim Stützle"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -443,8 +443,8 @@ window.GLORY_DATA = {
       "Minnesota Timberwolves",
       "Denver Nuggets",
       "New York Knicks",
-      "Milwaukee Bucks",
-      "Indiana Pacers"
+      "Indiana Pacers",
+      "Milwaukee Bucks"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
       "Victor Wembanyama",
