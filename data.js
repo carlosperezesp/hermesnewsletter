@@ -611,7 +611,7 @@ window.NHL_DATA = {
       "gf": 43,
       "ga": 47,
       "gd": -4,
-      "score": 44,
+      "score": 45,
       "logo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
       "colors": {
         "primary": "#111111",
@@ -3910,7 +3910,7 @@ window.NHL_DATA = {
         "p": 17,
         "pm": -4,
         "toi": 16.6,
-        "shots": 52
+        "shots": 51
       },
       "trajectory": [
         40,
@@ -5092,6 +5092,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8474563,
+      "first": "Drew",
+      "last": "Doughty",
+      "name": "Drew Doughty",
+      "pos": "D",
+      "teamCode": "LAK",
+      "age": 36,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#111111",
+        "secondary": "#a2aaad"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8474563.png",
+      "score": 63,
+      "stats": {
+        "gp": 13,
+        "g": 1,
+        "a": 7,
+        "p": 8,
+        "pm": 8,
+        "toi": 21.4,
+        "shots": 13
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        63
+      ]
+    },
+    {
       "id": 8478440,
       "first": "Dylan",
       "last": "Strome",
@@ -5560,9 +5593,9 @@ window.NHL_DATA = {
       "name": "Arsenii Sergeev",
       "pos": "G",
       "teamCode": "CGY",
-      "age": 23,
-      "country": "Russia",
-      "birthCountry": "RUS",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
@@ -6124,39 +6157,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8474563,
-      "first": "Drew",
-      "last": "Doughty",
-      "name": "Drew Doughty",
-      "pos": "D",
-      "teamCode": "LAK",
-      "age": 36,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#111111",
-        "secondary": "#a2aaad"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8474563.png",
-      "score": 61,
-      "stats": {
-        "gp": 13,
-        "g": 1,
-        "a": 6,
-        "p": 7,
-        "pm": 8,
-        "toi": 21.4,
-        "shots": 13
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        61
-      ]
-    },
-    {
       "id": 8471215,
       "first": "Evgeni",
       "last": "Malkin",
@@ -6451,37 +6451,6 @@ window.NHL_DATA = {
         42,
         44,
         46,
-        61
-      ]
-    },
-    {
-      "id": 8481519,
-      "first": "Spencer",
-      "last": "Knight",
-      "name": "Spencer Knight",
-      "pos": "G",
-      "teamCode": "CHI",
-      "age": 25,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#cf0a2c",
-        "secondary": "#111111"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8481519.png",
-      "score": 61,
-      "stats": {
-        "gp": 13,
-        "w": 4,
-        "svpct": 0.892,
-        "gaa": 3.34,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
         61
       ]
     },
@@ -7066,6 +7035,37 @@ window.NHL_DATA = {
         "w": 3,
         "svpct": 0.889,
         "gaa": 3.27,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        60
+      ]
+    },
+    {
+      "id": 8481519,
+      "first": "Spencer",
+      "last": "Knight",
+      "name": "Spencer Knight",
+      "pos": "G",
+      "teamCode": "CHI",
+      "age": 25,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#cf0a2c",
+        "secondary": "#111111"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8481519.png",
+      "score": 60,
+      "stats": {
+        "gp": 13,
+        "w": 4,
+        "svpct": 0.891,
+        "gaa": 3.34,
         "so": 0
       },
       "trajectory": [
@@ -15749,9 +15749,9 @@ window.NHL_DATA = {
       "name": "Emil Andrae",
       "pos": "D",
       "teamCode": "CBJ",
-      "age": 24,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -22201,7 +22201,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": -4,
         "toi": 12.9,
-        "shots": 22
+        "shots": 21
       },
       "trajectory": [
         37,
@@ -22993,7 +22993,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": -2,
         "toi": 12.1,
-        "shots": 8
+        "shots": 9
       },
       "trajectory": [
         37,
@@ -24693,9 +24693,9 @@ window.NHL_DATA = {
       "name": "Brayden Yager",
       "pos": "C",
       "teamCode": "WPG",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 21,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#041e42",
         "secondary": "#7b303e"
@@ -26475,9 +26475,9 @@ window.NHL_DATA = {
       "name": "Danton Heinen",
       "pos": "LW",
       "teamCode": "CBJ",
-      "age": 31,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -38824,10 +38824,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-05 14:47 UTC",
+  "LAST_UPDATE": "2026-11-05 20:15 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-05T14:47:00Z"
+    "standingsDateTimeUtc": "2026-11-05T20:15:15Z"
   }
 };
