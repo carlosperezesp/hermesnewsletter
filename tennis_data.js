@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-05 13:15 UTC
+// Auto-generated 2026-11-05 14:49 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-05 13:15 UTC",
+  "UPDATED": "2026-11-05 14:49 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -203,7 +203,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R32",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 79.3
@@ -407,7 +407,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R32",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 75.1
@@ -1871,7 +1871,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 59.5
@@ -10139,7 +10139,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Angola Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11060,28 +11060,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R32",
-          "w": "Lorenzo Musetti",
+          "w": "Luca Van Assche",
           "w_logo": "",
-          "l": "Luca Van Assche",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 77.2,
-          "l_score": 62.9,
-          "match_score": 77.2
-        },
-        {
-          "round": "R32",
-          "w": "Arthur Rinderknech",
-          "w_logo": "",
-          "l": "Ben Shelton",
+          "l": "Lorenzo Musetti",
           "l_logo": "",
           "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 58.7,
-          "l_score": 75.2,
+          "w_score": 62.9,
+          "l_score": 77.2,
+          "match_score": 77.2
+        },
+        {
+          "round": "R32",
+          "w": "Ben Shelton",
+          "w_logo": "",
+          "l": "Arthur Rinderknech",
+          "l_logo": "",
+          "score": "3-6 6-4 7-6 (7-5)",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 75.2,
+          "l_score": 58.7,
           "match_score": 75.2
         },
         {
@@ -11103,9 +11103,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Rinky Hijikata",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 62.8,
           "l_score": 46.7,
           "match_score": 62.8
@@ -11450,15 +11450,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Sorana Cirstea",
+          "w": "Mary Stoiana",
           "w_logo": "",
-          "l": "Mary Stoiana",
+          "l": "Sorana Cirstea",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 85.8,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 85.8,
           "match_score": 85.8
         },
         {
@@ -11548,15 +11548,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Anastasia Zakharova",
+          "w": "Vaishnavi Adkar",
           "w_logo": "",
-          "l": "Vaishnavi Adkar",
+          "l": "Anastasia Zakharova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 43.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 43.7,
           "match_score": 43.7
         },
         {
@@ -11657,20 +11657,20 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Madhurima Sawant",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
         },
         {
           "round": "R64",
-          "w": "Ksenia Zaytseva",
+          "w": "Justina Mikulskyte",
           "w_logo": "",
-          "l": "Kristina Kroitor",
+          "l": "Tiphanie Lemaitre",
           "l_logo": "",
-          "score": "6-4 6-1",
+          "score": "6-3 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11679,11 +11679,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Tiphanie Lemaitre",
+          "w": "Ksenia Zaytseva",
           "w_logo": "",
-          "l": "Justina Mikulskyte",
+          "l": "Kristina Kroitor",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11766,7 +11766,7 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "aliveCount": 27,
-    "matchesSeen": 48
+    "matchesSeen": 49
   },
   "WTA_TOURNAMENT": {
     "name": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
@@ -11933,7 +11933,7 @@ window.TENNIS_DATA = {
       "Yuliana Lizarazo"
     ],
     "aliveCount": 64,
-    "matchesSeen": 109
+    "matchesSeen": 110
   },
   "ATP_SCORE_LOG": {
     "206173": [

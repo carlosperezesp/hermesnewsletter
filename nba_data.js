@@ -1086,7 +1086,7 @@ window.NBA_DATA = {
           "primary": "#002d62",
           "secondary": "#fdbb30"
         },
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "teamCode": "MIL",
@@ -1102,7 +1102,7 @@ window.NBA_DATA = {
           "primary": "#00471b",
           "secondary": "#eee1c6"
         },
-        "prevRank": 9
+        "prevRank": 10
       }
     ],
     "youngProspects": []
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-05 13:12 UTC",
+  "LAST_UPDATE": "2026-11-05 14:47 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
