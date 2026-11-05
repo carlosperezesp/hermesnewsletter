@@ -11949,7 +11949,7 @@ window.NHL_DATA = {
       "name": "Matty Beniers",
       "pos": "C",
       "teamCode": "SEA",
-      "age": 23,
+      "age": 24,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -11974,7 +11974,7 @@ window.NHL_DATA = {
         45,
         53
       ],
-      "legendScore": 46.0
+      "legendScore": 45.6
     },
     {
       "id": 8481719,
@@ -18156,7 +18156,7 @@ window.NHL_DATA = {
       "name": "Colton Sissons",
       "pos": "C",
       "teamCode": "TOR",
-      "age": 32,
+      "age": 33,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -38429,10 +38429,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-04 20:31 UTC",
+  "LAST_UPDATE": "2026-11-05 00:54 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-04T20:30:45Z"
+    "standingsDateTimeUtc": "2026-11-05T00:53:45Z"
   }
 };

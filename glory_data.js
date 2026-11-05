@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-04 20:33 UTC",
+  "UPDATED": "2026-11-05 00:57 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -285,24 +285,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:JC Archer",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "JC Archer entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:JNT Seales",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "JNT Seales entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "tennis:out:ATP:Felix Auger Aliassime:20261029",
       "sport": "tennis",
       "detail": "Tenis",
@@ -382,15 +364,6 @@ window.GLORY_DATA = {
       "text": "Vasily Podkolzin cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:out:MJ Henry",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "MJ Henry cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-10-21"
     }
   ],
   "REPORTS": [],
