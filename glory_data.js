@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-06 01:40 UTC",
+  "UPDATED": "2026-11-06 13:00 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
@@ -114,6 +114,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Logan Cooley",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Logan Cooley entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Artemi Panarin",
       "sport": "nhl",
       "detail": "NHL",
@@ -202,24 +220,6 @@ window.GLORY_DATA = {
       "text": "Asanoyama entra en el top-10 · banzuke",
       "weight": 84,
       "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Connor Bedard",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Connor Bedard entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-31"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Tim Stützle",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Tim Stützle entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-29"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
@@ -391,8 +391,8 @@ window.GLORY_DATA = {
       "Connor McDavid",
       "Nathan MacKinnon",
       "Leon Draisaitl",
-      "Artemi Panarin",
       "David Pastrnak",
+      "Artemi Panarin",
       "Auston Matthews",
       "Erik Karlsson",
       "Roman Josi",
@@ -400,11 +400,11 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
-      "Colorado Avalanche",
       "Florida Panthers",
+      "Colorado Avalanche",
       "St. Louis Blues",
-      "Edmonton Oilers",
       "Carolina Hurricanes",
+      "Edmonton Oilers",
       "Boston Bruins",
       "Minnesota Wild",
       "Dallas Stars",
@@ -412,15 +412,15 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
-      "Leo Carlsson",
-      "Macklin Celebrini",
-      "Jackson LaCombe",
       "Lane Hutson",
-      "Jake Sanderson",
+      "Leo Carlsson",
+      "Jackson LaCombe",
       "Beckett Sennecke",
-      "Connor Bedard",
-      "Jack Hughes",
-      "Tim Stützle"
+      "Macklin Celebrini",
+      "Jake Sanderson",
+      "Logan Cooley",
+      "Cole Hutson",
+      "Jack Hughes"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",

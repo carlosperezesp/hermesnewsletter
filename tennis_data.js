@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-06 01:40 UTC
+// Auto-generated 2026-11-06 13:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-06 01:40 UTC",
+  "UPDATED": "2026-11-06 13:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5461,7 +5461,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 85.7
@@ -7607,7 +7607,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.8
@@ -8151,7 +8151,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 51.8
@@ -8979,7 +8979,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 45.3
@@ -9085,7 +9085,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 44.9
@@ -9997,7 +9997,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chennai Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11320,15 +11320,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Sorana Cirstea",
+          "w": "Alexandra Shubladze",
           "w_logo": "",
-          "l": "Alexandra Shubladze",
+          "l": "Sorana Cirstea",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 85.8,
-          "l_score": 51.8,
+          "scheduled": false,
+          "w_score": 51.8,
+          "l_score": 85.8,
           "match_score": 85.8
         },
         {
@@ -11337,9 +11337,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Antonia Ruzic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 69.2,
           "l_score": 56.8,
           "match_score": 69.2
@@ -11350,24 +11350,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aliaksandra Sasnovich",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 65.7,
           "l_score": 44.9,
           "match_score": 65.7
         },
         {
           "round": "Quarterfinal",
-          "w": "Zeynep Sonmez",
+          "w": "Claire Liu",
           "w_logo": "",
-          "l": "Claire Liu",
+          "l": "Zeynep Sonmez",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 56.4,
-          "l_score": 45.3,
+          "scheduled": false,
+          "w_score": 45.3,
+          "l_score": 56.4,
           "match_score": 56.4
         }
       ]
@@ -11396,9 +11396,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polina Kudermetova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-7 6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 50.7,
           "l_score": 35.0,
           "match_score": 50.7
@@ -11422,9 +11422,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Robin Montgomery",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11488,9 +11488,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sofya Lansere",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 36.5,
           "l_score": null,
           "match_score": 36.5
@@ -11514,9 +11514,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ksenia Zaytseva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11764,7 +11764,7 @@ window.TENNIS_DATA = {
       "Yuliana Lizarazo"
     ],
     "aliveCount": 64,
-    "matchesSeen": 114
+    "matchesSeen": 115
   },
   "ATP_SCORE_LOG": {
     "206173": [

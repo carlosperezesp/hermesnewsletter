@@ -183,6 +183,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "GS",
+      "city": "Golden State Warriors",
+      "shortName": "Golden State",
+      "commonName": "Warriors",
+      "conf": "W",
+      "gp": 9,
+      "w": 6,
+      "l": 3,
+      "winPct": 0.667,
+      "gf": 1060,
+      "ga": 1017,
+      "gd": 43,
+      "score": 63,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+      "colors": {
+        "primary": "#1d428a",
+        "secondary": "#ffc72c"
+      }
+    },
+    {
       "code": "OKC",
       "city": "Oklahoma City Thunder",
       "shortName": "Oklahoma City",
@@ -220,26 +240,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#e03a3e",
         "secondary": "#c1d32f"
-      }
-    },
-    {
-      "code": "GS",
-      "city": "Golden State Warriors",
-      "shortName": "Golden State",
-      "commonName": "Warriors",
-      "conf": "W",
-      "gp": 8,
-      "w": 5,
-      "l": 3,
-      "winPct": 0.625,
-      "gf": 940,
-      "ga": 917,
-      "gd": 23,
-      "score": 56,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
-      "colors": {
-        "primary": "#1d428a",
-        "secondary": "#ffc72c"
       }
     },
     {
@@ -408,14 +408,14 @@ window.NBA_DATA = {
       "shortName": "Miami",
       "commonName": "Heat",
       "conf": "E",
-      "gp": 8,
+      "gp": 9,
       "w": 3,
-      "l": 5,
-      "winPct": 0.375,
-      "gf": 944,
-      "ga": 983,
-      "gd": -39,
-      "score": 22,
+      "l": 6,
+      "winPct": 0.333,
+      "gf": 1044,
+      "ga": 1103,
+      "gd": -59,
+      "score": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
       "colors": {
         "primary": "#98002e",
@@ -463,19 +463,39 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "PHX",
+      "city": "Phoenix Suns",
+      "shortName": "Phoenix",
+      "commonName": "Suns",
+      "conf": "W",
+      "gp": 7,
+      "w": 2,
+      "l": 5,
+      "winPct": 0.286,
+      "gf": 797,
+      "ga": 850,
+      "gd": -53,
+      "score": 10,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+      "colors": {
+        "primary": "#1d1160",
+        "secondary": "#e56020"
+      }
+    },
+    {
       "code": "ORL",
       "city": "Orlando Magic",
       "shortName": "Orlando",
       "commonName": "Magic",
       "conf": "E",
-      "gp": 7,
+      "gp": 8,
       "w": 2,
-      "l": 5,
-      "winPct": 0.286,
-      "gf": 740,
-      "ga": 803,
-      "gd": -63,
-      "score": 7,
+      "l": 6,
+      "winPct": 0.25,
+      "gf": 844,
+      "ga": 920,
+      "gd": -76,
+      "score": 3,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
       "colors": {
         "primary": "#0077c0",
@@ -500,26 +520,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#c8102e",
         "secondary": "#1d428a"
-      }
-    },
-    {
-      "code": "PHX",
-      "city": "Phoenix Suns",
-      "shortName": "Phoenix",
-      "commonName": "Suns",
-      "conf": "W",
-      "gp": 6,
-      "w": 1,
-      "l": 5,
-      "winPct": 0.167,
-      "gf": 680,
-      "ga": 746,
-      "gd": -66,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-      "colors": {
-        "primary": "#1d1160",
-        "secondary": "#e56020"
       }
     },
     {
@@ -997,9 +997,9 @@ window.NBA_DATA = {
         "city": "Golden State Warriors",
         "era": "2021–present",
         "rings": 1,
-        "dynastyScore": 52.8,
+        "dynastyScore": 56.7,
         "threshold": 89.4,
-        "gap": 36.6,
+        "gap": 32.7,
         "note": "2022 Champions · Curry's final dynasty chapter",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-06 01:38 UTC",
+  "LAST_UPDATE": "2026-11-06 12:57 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

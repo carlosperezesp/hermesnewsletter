@@ -3,6 +3,29 @@
 window.NFL_DATA = {
   "TEAMS": [
     {
+      "code": "JAX",
+      "city": "Jacksonville Jaguars",
+      "shortName": "Jacksonville",
+      "commonName": "Jaguars",
+      "conf": "AFC",
+      "div": "AFC South",
+      "gp": 8,
+      "w": 6,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.75,
+      "pf": 229,
+      "pa": 121,
+      "pd": 108,
+      "seed": 3,
+      "score": 71,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+      "colors": {
+        "primary": "#006778",
+        "secondary": "#9f792c"
+      }
+    },
+    {
       "code": "SF",
       "city": "San Francisco 49ers",
       "shortName": "San Francisco",
@@ -109,7 +132,7 @@ window.NFL_DATA = {
       "pf": 180,
       "pa": 144,
       "pd": 36,
-      "seed": 3,
+      "seed": 4,
       "score": 64,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
       "colors": {
@@ -138,29 +161,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#fb4f14",
         "secondary": "#002244"
-      }
-    },
-    {
-      "code": "JAX",
-      "city": "Jacksonville Jaguars",
-      "shortName": "Jacksonville",
-      "commonName": "Jaguars",
-      "conf": "AFC",
-      "div": "AFC South",
-      "gp": 7,
-      "w": 5,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.714,
-      "pf": 196,
-      "pa": 111,
-      "pd": 85,
-      "seed": 4,
-      "score": 67,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-      "colors": {
-        "primary": "#006778",
-        "secondary": "#9f792c"
       }
     },
     {
@@ -400,16 +400,16 @@ window.NFL_DATA = {
       "commonName": "Ravens",
       "conf": "AFC",
       "div": "AFC North",
-      "gp": 8,
+      "gp": 9,
       "w": 4,
-      "l": 4,
+      "l": 5,
       "t": 0,
-      "winPct": 0.5,
-      "pf": 179,
-      "pa": 203,
-      "pd": -24,
+      "winPct": 0.444,
+      "pf": 189,
+      "pa": 236,
+      "pd": -47,
       "seed": 10,
-      "score": 38,
+      "score": 31,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
       "colors": {
         "primary": "#241773",
@@ -2105,7 +2105,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-06 01:38 UTC",
+  "LAST_UPDATE": "2026-11-06 12:57 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
