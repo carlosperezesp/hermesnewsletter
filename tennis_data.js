@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-06 13:00 UTC
+// Auto-generated 2026-11-06 14:27 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-06 13:00 UTC",
+  "UPDATED": "2026-11-06 14:27 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8323,7 +8323,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chennai Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 54.2
@@ -9855,7 +9855,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Angola Ladies Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.5
@@ -11025,9 +11025,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ben Shelton",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.5,
           "l_score": 75.2,
           "match_score": 79.5
@@ -11383,9 +11383,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mai Hontama",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.8,
           "l_score": null,
           "match_score": 61.8
@@ -11418,11 +11418,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Maaya Rajeshwaran Revathi",
+          "w": "Robin Montgomery",
           "w_logo": "",
-          "l": "Robin Montgomery",
+          "l": "Maaya Rajeshwaran Revathi",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11484,15 +11484,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Martyna Kubka",
+          "w": "Sofya Lansere",
           "w_logo": "",
-          "l": "Sofya Lansere",
+          "l": "Martyna Kubka",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 36.5,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 36.5,
           "match_score": 36.5
         },
         {
@@ -11501,9 +11501,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Justina Mikulskyte",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -11764,7 +11764,7 @@ window.TENNIS_DATA = {
       "Yuliana Lizarazo"
     ],
     "aliveCount": 64,
-    "matchesSeen": 115
+    "matchesSeen": 116
   },
   "ATP_SCORE_LOG": {
     "206173": [
