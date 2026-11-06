@@ -3699,7 +3699,7 @@ window.NHL_DATA = {
       "name": "Sam Reinhart",
       "pos": "C",
       "teamCode": "FLA",
-      "age": 30,
+      "age": 31,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -38824,10 +38824,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-05 20:47 UTC",
+  "LAST_UPDATE": "2026-11-06 00:57 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-05T20:47:15Z"
+    "standingsDateTimeUtc": "2026-11-06T00:57:30Z"
   }
 };
