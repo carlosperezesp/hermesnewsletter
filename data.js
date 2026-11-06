@@ -1566,7 +1566,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 7,
         "w": 2,
-        "svpct": 0.93,
+        "svpct": 0.929,
         "gaa": 1.79,
         "so": 1
       },
@@ -1635,7 +1635,7 @@ window.NHL_DATA = {
         "p": 24,
         "pm": -3,
         "toi": 20.1,
-        "shots": 26
+        "shots": 27
       },
       "trajectory": [
         41,
@@ -1764,7 +1764,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 5,
         "w": 4,
-        "svpct": 0.924,
+        "svpct": 0.925,
         "gaa": 2.2,
         "so": 1
       },
@@ -1966,7 +1966,7 @@ window.NHL_DATA = {
         "p": 23,
         "pm": 7,
         "toi": 20.2,
-        "shots": 45
+        "shots": 44
       },
       "trajectory": [
         41,
@@ -2112,6 +2112,37 @@ window.NHL_DATA = {
         70
       ],
       "legendScore": 49.7
+    },
+    {
+      "id": 8475660,
+      "first": "Cam",
+      "last": "Talbot",
+      "name": "Cam Talbot",
+      "pos": "G",
+      "teamCode": "CBJ",
+      "age": 39,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#002654",
+        "secondary": "#ce1126"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8475660.png",
+      "score": 70,
+      "stats": {
+        "gp": 8,
+        "w": 5,
+        "svpct": 0.911,
+        "gaa": 2.44,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        70
+      ]
     },
     {
       "id": 8480842,
@@ -2413,37 +2444,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8475660,
-      "first": "Cam",
-      "last": "Talbot",
-      "name": "Cam Talbot",
-      "pos": "G",
-      "teamCode": "CBJ",
-      "age": 39,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#002654",
-        "secondary": "#ce1126"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8475660.png",
-      "score": 69,
-      "stats": {
-        "gp": 8,
-        "w": 5,
-        "svpct": 0.91,
-        "gaa": 2.44,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        69
-      ]
-    },
-    {
       "id": 8479343,
       "first": "Clayton",
       "last": "Keller",
@@ -2631,7 +2631,7 @@ window.NHL_DATA = {
         "p": 19,
         "pm": 7,
         "toi": 20.3,
-        "shots": 30
+        "shots": 31
       },
       "trajectory": [
         40,
@@ -3251,7 +3251,7 @@ window.NHL_DATA = {
         "p": 12,
         "pm": -4,
         "toi": 20.5,
-        "shots": 35
+        "shots": 36
       },
       "trajectory": [
         39,
@@ -4387,7 +4387,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 2,
         "w": 1,
-        "svpct": 0.878,
+        "svpct": 0.88,
         "gaa": 3.09,
         "so": 0
       },
@@ -4554,7 +4554,7 @@ window.NHL_DATA = {
         "p": 14,
         "pm": 3,
         "toi": 19.9,
-        "shots": 36
+        "shots": 37
       },
       "trajectory": [
         40,
@@ -4618,7 +4618,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 12,
         "w": 8,
-        "svpct": 0.886,
+        "svpct": 0.887,
         "gaa": 2.75,
         "so": 0
       },
@@ -4977,7 +4977,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 9,
         "w": 1,
-        "svpct": 0.898,
+        "svpct": 0.899,
         "gaa": 3.12,
         "so": 0
       },
@@ -5692,7 +5692,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 4,
         "w": 3,
-        "svpct": 0.873,
+        "svpct": 0.874,
         "gaa": 3.4,
         "so": 0
       },
@@ -5920,7 +5920,7 @@ window.NHL_DATA = {
         "p": 8,
         "pm": 4,
         "toi": 25.0,
-        "shots": 31
+        "shots": 32
       },
       "trajectory": [
         38,
@@ -6864,7 +6864,7 @@ window.NHL_DATA = {
         "p": 8,
         "pm": 3,
         "toi": 20.6,
-        "shots": 42
+        "shots": 43
       },
       "trajectory": [
         38,
@@ -7162,7 +7162,7 @@ window.NHL_DATA = {
         "p": 13,
         "pm": -5,
         "toi": 20.6,
-        "shots": 32
+        "shots": 33
       },
       "trajectory": [
         39,
@@ -9100,7 +9100,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 5,
         "w": 1,
-        "svpct": 0.85,
+        "svpct": 0.851,
         "gaa": 4.27,
         "so": 0
       },
@@ -10101,7 +10101,7 @@ window.NHL_DATA = {
         "p": 6,
         "pm": -1,
         "toi": 20.1,
-        "shots": 29
+        "shots": 30
       },
       "trajectory": [
         38,
@@ -10134,7 +10134,7 @@ window.NHL_DATA = {
         "p": 8,
         "pm": 1,
         "toi": 17.3,
-        "shots": 35
+        "shots": 34
       },
       "trajectory": [
         38,
@@ -11234,7 +11234,7 @@ window.NHL_DATA = {
         "p": 10,
         "pm": -3,
         "toi": 15.0,
-        "shots": 21
+        "shots": 22
       },
       "trajectory": [
         39,
@@ -20846,7 +20846,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": 2,
         "toi": 16.0,
-        "shots": 10
+        "shots": 11
       },
       "trajectory": [
         37,
@@ -21011,7 +21011,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": -1,
         "toi": 11.1,
-        "shots": 23
+        "shots": 24
       },
       "trajectory": [
         38,
@@ -38997,10 +38997,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-06 14:25 UTC",
+  "LAST_UPDATE": "2026-11-06 19:40 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-06T14:25:00Z"
+    "standingsDateTimeUtc": "2026-11-06T19:40:15Z"
   }
 };

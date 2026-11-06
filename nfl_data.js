@@ -819,6 +819,32 @@ window.NFL_DATA = {
       "prevRank": 3
     },
     {
+      "id": 4360310,
+      "name": "Trevor Lawrence",
+      "pos": "QB",
+      "teamCode": "JAX",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360310.png",
+      "colors": {
+        "primary": "#006778",
+        "secondary": "#9f792c"
+      },
+      "score": 95,
+      "stats": {
+        "type": "passing",
+        "cmp": 146,
+        "att": 224,
+        "pct": 65.2,
+        "yds": 1932,
+        "ypa": 8.6,
+        "td": 18,
+        "int": 4,
+        "rushYds": 79,
+        "rushTd": 0
+      },
+      "prevRank": 5
+    },
+    {
       "id": 4036378,
       "name": "Jordan Love",
       "pos": "QB",
@@ -843,32 +869,6 @@ window.NFL_DATA = {
         "rushTd": 0
       },
       "prevRank": 4
-    },
-    {
-      "id": 4360310,
-      "name": "Trevor Lawrence",
-      "pos": "QB",
-      "teamCode": "JAX",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360310.png",
-      "colors": {
-        "primary": "#006778",
-        "secondary": "#9f792c"
-      },
-      "score": 89,
-      "stats": {
-        "type": "passing",
-        "cmp": 130,
-        "att": 198,
-        "pct": 65.7,
-        "yds": 1690,
-        "ypa": 8.5,
-        "td": 17,
-        "int": 4,
-        "rushYds": 80,
-        "rushTd": 0
-      },
-      "prevRank": 5
     },
     {
       "id": 4361741,
@@ -1919,6 +1919,23 @@ window.NFL_DATA = {
         "prevRank": 6
       },
       {
+        "id": 4360310,
+        "name": "Trevor Lawrence",
+        "pos": "QB",
+        "teamCode": "JAX",
+        "colors": {
+          "primary": "#006778",
+          "secondary": "#9f792c"
+        },
+        "age": 27,
+        "careerScore": 71.4,
+        "threshold": 90.0,
+        "gap": 18.6,
+        "rings": 0,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": 8
+      },
+      {
         "id": 4036378,
         "name": "Jordan Love",
         "pos": "QB",
@@ -1934,23 +1951,6 @@ window.NFL_DATA = {
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
         "prevRank": 7
-      },
-      {
-        "id": 4360310,
-        "name": "Trevor Lawrence",
-        "pos": "QB",
-        "teamCode": "JAX",
-        "colors": {
-          "primary": "#006778",
-          "secondary": "#9f792c"
-        },
-        "age": 27,
-        "careerScore": 67.3,
-        "threshold": 90.0,
-        "gap": 22.7,
-        "rings": 0,
-        "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 8
       },
       {
         "id": 4361741,
@@ -2105,7 +2105,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-06 14:25 UTC",
+  "LAST_UPDATE": "2026-11-06 19:40 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
