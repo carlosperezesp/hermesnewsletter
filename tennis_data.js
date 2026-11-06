@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-06 19:43 UTC
+// Auto-generated 2026-11-06 20:05 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-06 19:43 UTC",
+  "UPDATED": "2026-11-06 20:05 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9121,7 +9121,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 44.3
@@ -11451,15 +11451,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Julia Riera",
+          "w": "Leyre Romero Gormaz",
           "w_logo": "",
-          "l": "Leyre Romero Gormaz",
+          "l": "Julia Riera",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 7-5 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 44.3,
-          "l_score": 36.1,
+          "w_score": 36.1,
+          "l_score": 44.3,
           "match_score": 44.3
         }
       ]

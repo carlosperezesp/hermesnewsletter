@@ -842,7 +842,7 @@ window.NFL_DATA = {
         "rushYds": 79,
         "rushTd": 0
       },
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": 4036378,
@@ -868,7 +868,7 @@ window.NFL_DATA = {
         "rushYds": 10,
         "rushTd": 0
       },
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 4361741,
@@ -1933,7 +1933,7 @@ window.NFL_DATA = {
         "gap": 18.6,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 4036378,
@@ -1950,7 +1950,7 @@ window.NFL_DATA = {
         "gap": 18.8,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 4361741,
@@ -2105,7 +2105,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-06 19:40 UTC",
+  "LAST_UPDATE": "2026-11-06 20:03 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
