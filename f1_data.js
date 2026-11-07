@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-06 20:04 UTC
+// Auto-generated 2026-11-07 00:07 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-11-06 20:04 UTC",
+  "UPDATED": "2026-11-07 00:07 UTC",
   "SEASON": "2026",
   "ROUND": 18,
   "TOTAL_ROUNDS": 25,
@@ -561,18 +561,18 @@ window.F1_DATA = {
     "includesSprint": false
   },
   "LAST_RACE": {
-    "name": "Mexico City Grand Prix",
-    "date": "2026-10-30",
-    "circuit": "Autodromo Hermanos Rodriguez",
+    "name": "MSC Cruises São Paulo Grand Prix",
+    "date": "2026-11-06",
+    "circuit": "Autodromo Jose Carlos Pace",
     "round": 0,
     "state": "post",
     "podium": [
       {
         "position": 1,
-        "name": "Charles Leclerc",
-        "team": "ferrari",
+        "name": "Lando Norris",
+        "team": "mclaren",
         "time": "",
-        "primary": "#E8002D"
+        "primary": "#FF8000"
       },
       {
         "position": 2,
@@ -583,10 +583,10 @@ window.F1_DATA = {
       },
       {
         "position": 3,
-        "name": "Frederik Vesti",
-        "team": "",
+        "name": "Max Verstappen",
+        "team": "red_bull",
         "time": "",
-        "primary": "#555555"
+        "primary": "#3671C6"
       }
     ]
   },

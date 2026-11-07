@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-06 20:05 UTC
+// Auto-generated 2026-11-07 00:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-06 20:05 UTC",
+  "UPDATED": "2026-11-07 00:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -29,10 +29,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 16.0,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 100.0
     },
@@ -67,7 +67,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 90.7
@@ -237,7 +237,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 78.6
@@ -371,10 +371,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.0
     },
@@ -507,10 +507,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 74.4
     },
@@ -577,7 +577,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 73.7
@@ -677,10 +677,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 73.4
     },
@@ -779,10 +779,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 71.9
     },
@@ -813,10 +813,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 71.5
     },
@@ -847,10 +847,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 70.3
     },
@@ -1051,10 +1051,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.1
     },
@@ -1461,10 +1461,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.8
     },
@@ -1563,10 +1563,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.8
     },
@@ -1631,10 +1631,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.0
     },
@@ -1665,10 +1665,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.8
     },
@@ -1699,10 +1699,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.5
     },
@@ -1735,7 +1735,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 59.0
@@ -1767,10 +1767,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.4
     },
@@ -1903,10 +1903,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.6
     },
@@ -1937,10 +1937,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.7
     },
@@ -2073,10 +2073,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.7
     },
@@ -2175,10 +2175,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.1
     },
@@ -2243,10 +2243,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.8
     },
@@ -2277,10 +2277,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.7
     },
@@ -2311,10 +2311,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.6
     },
@@ -2345,10 +2345,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.3
     },
@@ -2379,10 +2379,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.0
     },
@@ -2413,10 +2413,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.0
     },
@@ -2447,10 +2447,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.6
     },
@@ -2481,10 +2481,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.5
     },
@@ -2515,10 +2515,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.5
     },
@@ -2549,10 +2549,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.0
     },
@@ -2583,10 +2583,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.5
     },
@@ -2617,10 +2617,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.7
     },
@@ -2651,10 +2651,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.6
     },
@@ -2685,10 +2685,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.5
     },
@@ -2719,10 +2719,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.4
     },
@@ -2753,10 +2753,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.1
     },
@@ -2787,10 +2787,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.4
     },
@@ -2821,10 +2821,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.1
     },
@@ -2923,10 +2923,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.5
     },
@@ -2991,10 +2991,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.1
     },
@@ -3025,10 +3025,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.9
     },
@@ -3059,10 +3059,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.7
     },
@@ -3093,10 +3093,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.7
     },
@@ -3127,10 +3127,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.7
     },
@@ -3163,10 +3163,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.9
     },
@@ -3197,10 +3197,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.4
     },
@@ -3231,10 +3231,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.5
     },
@@ -3265,10 +3265,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     },
@@ -3333,10 +3333,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.6
     },
@@ -3369,10 +3369,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.4
     },
@@ -3403,10 +3403,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.6
     },
@@ -3437,10 +3437,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.1
     },
@@ -3471,10 +3471,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.3
     },
@@ -3505,10 +3505,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.1
     },
@@ -3539,10 +3539,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.0
     },
@@ -3573,10 +3573,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.6
     },
@@ -3607,10 +3607,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.7
     },
@@ -3641,10 +3641,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.0
     },
@@ -3675,10 +3675,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.4
     },
@@ -3711,10 +3711,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.3
     },
@@ -3779,10 +3779,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.0
     },
@@ -3847,10 +3847,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.6
     },
@@ -3917,10 +3917,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.7
     },
@@ -3951,10 +3951,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.3
     },
@@ -3985,10 +3985,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.7
     },
@@ -4019,10 +4019,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.5
     },
@@ -4053,10 +4053,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.2
     },
@@ -4087,10 +4087,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.6
     },
@@ -4121,10 +4121,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.5
     },
@@ -4157,10 +4157,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.7
     },
@@ -4191,10 +4191,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.3
     },
@@ -4225,10 +4225,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.3
     },
@@ -4261,10 +4261,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 41.9
     },
@@ -4295,10 +4295,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 40.6
     },
@@ -4329,10 +4329,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 39.3
     },
@@ -4363,10 +4363,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 38.9
     },
@@ -4397,10 +4397,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 38.8
     },
@@ -4431,10 +4431,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 38.6
     },
@@ -4467,10 +4467,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 37.9
     },
@@ -4503,10 +4503,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 37.9
     },
@@ -4539,10 +4539,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 37.4
     },
@@ -4575,10 +4575,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 36.9
     },
@@ -4611,10 +4611,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.1
     },
@@ -4647,10 +4647,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -4683,10 +4683,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -4719,10 +4719,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -4755,10 +4755,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -4791,10 +4791,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -4827,10 +4827,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -4863,10 +4863,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -4899,10 +4899,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -4935,10 +4935,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -4971,10 +4971,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -5007,10 +5007,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -5043,10 +5043,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -5079,10 +5079,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -5115,10 +5115,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -5151,10 +5151,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Rolex Paris Masters"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     }
@@ -10894,126 +10894,13 @@ window.TENNIS_DATA = {
       "surface": "Hard",
       "matches": [
         {
-          "round": "R32",
-          "w": "Carlos Alcaraz",
-          "w_logo": "",
-          "l": "Matteo Berrettini",
-          "l_logo": "",
-          "score": "w/o",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 90.9,
-          "l_score": 65.4,
-          "match_score": 90.9
-        },
-        {
-          "round": "R32",
-          "w": "Taylor Fritz",
-          "w_logo": "",
-          "l": "Arthur Fils",
-          "l_logo": "",
-          "score": "6-3 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 73.9,
-          "l_score": 83.4,
-          "match_score": 83.4
-        },
-        {
-          "round": "R32",
-          "w": "Tommy Paul",
-          "w_logo": "",
-          "l": "Quentin Halys",
-          "l_logo": "",
-          "score": "7-6 (7-3) 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 79.5,
-          "l_score": 57.0,
-          "match_score": 79.5
-        },
-        {
-          "round": "R32",
-          "w": "Casper Ruud",
-          "w_logo": "",
-          "l": "Jan-Lennard Struff",
-          "l_logo": "",
-          "score": "6-3 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 79.0,
-          "l_score": 55.1,
-          "match_score": 79.0
-        },
-        {
-          "round": "R32",
-          "w": "Luca Van Assche",
-          "w_logo": "",
-          "l": "Lorenzo Musetti",
-          "l_logo": "",
-          "score": "7-5 3-6 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 62.9,
-          "l_score": 77.2,
-          "match_score": 77.2
-        },
-        {
-          "round": "R32",
-          "w": "Ben Shelton",
-          "w_logo": "",
-          "l": "Arthur Rinderknech",
-          "l_logo": "",
-          "score": "3-6 6-4 7-6 (7-5)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 75.2,
-          "l_score": 58.7,
-          "match_score": 75.2
-        },
-        {
-          "round": "R32",
-          "w": "Nuno Borges",
-          "w_logo": "",
-          "l": "Ignacio Buse",
-          "l_logo": "",
-          "score": "6-0 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 59.5,
-          "l_score": 66.6,
-          "match_score": 66.6
-        },
-        {
-          "round": "R32",
-          "w": "Rinky Hijikata",
-          "w_logo": "",
-          "l": "Tomas Martin Etcheverry",
-          "l_logo": "",
-          "score": "2-6 6-3 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 46.7,
-          "l_score": 62.8,
-          "match_score": 62.8
-        }
-      ]
-    }
-  ],
-  "ATP_TODAY": [
-    {
-      "name": "Rolex Paris Masters",
-      "level": "Masters 1000",
-      "surface": "Hard",
-      "matches": [
-        {
           "round": "Quarterfinal",
           "w": "Carlos Alcaraz",
           "w_logo": "",
           "l": "Taylor Fritz",
           "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
+          "score": "6-7 (10-12) 7-5 6-3",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 90.9,
           "l_score": 73.9,
@@ -11026,7 +10913,7 @@ window.TENNIS_DATA = {
           "l": "Tommy Paul",
           "l_logo": "",
           "score": "6-4 4-6 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 75.2,
           "l_score": 79.5,
@@ -11038,9 +10925,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nuno Borges",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
+          "score": "7-6 (7-5) 6-4",
+          "day": "ayer",
+          "scheduled": false,
           "w_score": 79.0,
           "l_score": 59.5,
           "match_score": 79.0
@@ -11052,7 +10939,7 @@ window.TENNIS_DATA = {
           "l": "Rinky Hijikata",
           "l_logo": "",
           "score": "6-4 6-7 (4-7) 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 62.9,
           "l_score": 46.7,
@@ -11061,258 +10948,42 @@ window.TENNIS_DATA = {
       ]
     }
   ],
-  "WTA_RECENT": [
+  "ATP_TODAY": [
     {
-      "name": "Prudential Hong Kong Tennis Open",
-      "level": "WTA 250",
-      "surface": "",
+      "name": "Rolex Paris Masters",
+      "level": "Masters 1000",
+      "surface": "Hard",
       "matches": [
         {
-          "round": "R64",
-          "w": "Sorana Cirstea",
+          "round": "Semifinal",
+          "w": "Carlos Alcaraz",
           "w_logo": "",
-          "l": "Mary Stoiana",
+          "l": "Casper Ruud",
           "l_logo": "",
-          "score": "7-5 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 85.8,
-          "l_score": 35.0,
-          "match_score": 85.8
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 90.9,
+          "l_score": 79.0,
+          "match_score": 90.9
         },
         {
-          "round": "R64",
-          "w": "Alexandra Eala",
+          "round": "Semifinal",
+          "w": "Ben Shelton",
           "w_logo": "",
-          "l": "Tereza Valentova",
+          "l": "Luca Van Assche",
           "l_logo": "",
-          "score": "6-4 7-6 (9-7)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 69.2,
-          "l_score": 57.1,
-          "match_score": 69.2
-        },
-        {
-          "round": "R64",
-          "w": "Antonia Ruzic",
-          "w_logo": "",
-          "l": "Wang Xinyu",
-          "l_logo": "",
-          "score": "6-3 4-6 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 56.8,
-          "l_score": null,
-          "match_score": 56.8
-        },
-        {
-          "round": "R64",
-          "w": "Zeynep Sonmez",
-          "w_logo": "",
-          "l": "Mika Stojsavljevic",
-          "l_logo": "",
-          "score": "7-6 (7-5) 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 56.4,
-          "l_score": null,
-          "match_score": 56.4
-        },
-        {
-          "round": "R64",
-          "w": "Alexandra Shubladze",
-          "w_logo": "",
-          "l": "Elena Pridankina",
-          "l_logo": "",
-          "score": "6-7 (6-8) 6-1 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 51.8,
-          "l_score": null,
-          "match_score": 51.8
-        }
-      ]
-    },
-    {
-      "name": "Chennai Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R64",
-          "w": "Magda Linette",
-          "w_logo": "",
-          "l": "Moyuka Uchijima",
-          "l_logo": "",
-          "score": "7-6 (7-5) 6-0",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 61.8,
-          "l_score": 39.9,
-          "match_score": 61.8
-        },
-        {
-          "round": "R64",
-          "w": "Lucrezia Stefanini",
-          "w_logo": "",
-          "l": "Simona Waltert",
-          "l_logo": "",
-          "score": "6-2 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 40.6,
-          "l_score": 44.2,
-          "match_score": 44.2
-        },
-        {
-          "round": "R64",
-          "w": "Anastasia Zakharova",
-          "w_logo": "",
-          "l": "Vaishnavi Adkar",
-          "l_logo": "",
-          "score": "6-3 6-0",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 43.7,
-          "l_score": null,
-          "match_score": 43.7
-        },
-        {
-          "round": "R64",
-          "w": "Mai Hontama",
-          "w_logo": "",
-          "l": "Zhibek Kulambayeva",
-          "l_logo": "",
-          "score": "4-6 6-4 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        }
-      ]
-    },
-    {
-      "name": "Reto Win Tennis Cali Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "Quarterfinal",
-          "w": "Bianca Andreescu",
-          "w_logo": "",
-          "l": "Luisina Giovannini",
-          "l_logo": "",
-          "score": "6-1 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 48.7,
-          "l_score": null,
-          "match_score": 48.7
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Julia Riera",
-          "w_logo": "",
-          "l": "Renata Zarazua",
-          "l_logo": "",
-          "score": "6-4 1-6 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 44.3,
-          "l_score": 48.6,
-          "match_score": 48.6
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Alice Tubello",
-          "w_logo": "",
-          "l": "Leolia Jeanjean",
-          "l_logo": "",
-          "score": "6-3 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 40.6,
-          "match_score": 40.6
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Leyre Romero Gormaz",
-          "w_logo": "",
-          "l": "Carole Monnet",
-          "l_logo": "",
-          "score": "4-6 7-5 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 36.1,
-          "l_score": null,
-          "match_score": 36.1
-        }
-      ]
-    },
-    {
-      "name": "Angola Ladies Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R64",
-          "w": "Anna Blinkova",
-          "w_logo": "",
-          "l": "Li Zongyu",
-          "l_logo": "",
-          "score": "6-3 4-6 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 48.1,
-          "l_score": null,
-          "match_score": 48.1
-        },
-        {
-          "round": "R64",
-          "w": "Noma Noha Akugue",
-          "w_logo": "",
-          "l": "Madhurima Sawant",
-          "l_logo": "",
-          "score": "6-2 6-0",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 35.0,
-          "l_score": null,
-          "match_score": 35.0
-        },
-        {
-          "round": "R64",
-          "w": "Justina Mikulskyte",
-          "w_logo": "",
-          "l": "Tiphanie Lemaitre",
-          "l_logo": "",
-          "score": "6-3 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Ksenia Zaytseva",
-          "w_logo": "",
-          "l": "Kristina Kroitor",
-          "l_logo": "",
-          "score": "6-4 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 75.2,
+          "l_score": 62.9,
+          "match_score": 75.2
         }
       ]
     }
   ],
-  "WTA_TODAY": [
+  "WTA_RECENT": [
     {
       "name": "Prudential Hong Kong Tennis Open",
       "level": "WTA 250",
@@ -11325,7 +10996,7 @@ window.TENNIS_DATA = {
           "l": "Sorana Cirstea",
           "l_logo": "",
           "score": "6-2 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 51.8,
           "l_score": 85.8,
@@ -11338,7 +11009,7 @@ window.TENNIS_DATA = {
           "l": "Antonia Ruzic",
           "l_logo": "",
           "score": "7-6 (9-7) 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 69.2,
           "l_score": 56.8,
@@ -11351,7 +11022,7 @@ window.TENNIS_DATA = {
           "l": "Aliaksandra Sasnovich",
           "l_logo": "",
           "score": "6-2 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 65.7,
           "l_score": 44.9,
@@ -11364,7 +11035,7 @@ window.TENNIS_DATA = {
           "l": "Zeynep Sonmez",
           "l_logo": "",
           "score": "6-1 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 45.3,
           "l_score": 56.4,
@@ -11384,7 +11055,7 @@ window.TENNIS_DATA = {
           "l": "Mai Hontama",
           "l_logo": "",
           "score": "4-6 7-5 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 61.8,
           "l_score": null,
@@ -11397,7 +11068,7 @@ window.TENNIS_DATA = {
           "l": "Polina Kudermetova",
           "l_logo": "",
           "score": "5-7 6-4 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 50.7,
           "l_score": 35.0,
@@ -11410,7 +11081,7 @@ window.TENNIS_DATA = {
           "l": "Lucrezia Stefanini",
           "l_logo": "",
           "score": "6-2 5-2 ret",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 43.7,
           "l_score": 40.6,
@@ -11423,7 +11094,7 @@ window.TENNIS_DATA = {
           "l": "Maaya Rajeshwaran Revathi",
           "l_logo": "",
           "score": "6-3 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11442,9 +11113,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alice Tubello",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
+          "score": "6-0 5-4",
+          "day": "ayer",
+          "scheduled": false,
           "w_score": 48.7,
           "l_score": null,
           "match_score": 48.7
@@ -11456,7 +11127,7 @@ window.TENNIS_DATA = {
           "l": "Julia Riera",
           "l_logo": "",
           "score": "3-6 7-5 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 36.1,
           "l_score": 44.3,
@@ -11476,7 +11147,7 @@ window.TENNIS_DATA = {
           "l": "Martyna Kubka",
           "l_logo": "",
           "score": "7-6 (7-4) 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": 36.5,
@@ -11489,7 +11160,7 @@ window.TENNIS_DATA = {
           "l": "Justina Mikulskyte",
           "l_logo": "",
           "score": "6-2 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
@@ -11502,7 +11173,7 @@ window.TENNIS_DATA = {
           "l": "Ksenia Zaytseva",
           "l_logo": "",
           "score": "6-1 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11511,8 +11182,142 @@ window.TENNIS_DATA = {
       ]
     }
   ],
+  "WTA_TODAY": [
+    {
+      "name": "Prudential Hong Kong Tennis Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "Semifinal",
+          "w": "Alexandra Eala",
+          "w_logo": "",
+          "l": "Maria Sakkari",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 69.2,
+          "l_score": 65.7,
+          "match_score": 69.2
+        },
+        {
+          "round": "Semifinal",
+          "w": "Alexandra Shubladze",
+          "w_logo": "",
+          "l": "Claire Liu",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 51.8,
+          "l_score": 45.3,
+          "match_score": 51.8
+        }
+      ]
+    },
+    {
+      "name": "Chennai Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "Semifinal",
+          "w": "Magda Linette",
+          "w_logo": "",
+          "l": "Anastasia Zakharova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 61.8,
+          "l_score": 43.7,
+          "match_score": 61.8
+        },
+        {
+          "round": "Semifinal",
+          "w": "Janice Tjen",
+          "w_logo": "",
+          "l": "Robin Montgomery",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 50.7,
+          "l_score": null,
+          "match_score": 50.7
+        }
+      ]
+    },
+    {
+      "name": "Reto Win Tennis Cali Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Leyre Romero Gormaz",
+          "w_logo": "",
+          "l": "TBD",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 36.1,
+          "l_score": null,
+          "match_score": 36.1
+        }
+      ]
+    },
+    {
+      "name": "Angola Ladies Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "Quarterfinal",
+          "w": "Anna Blinkova",
+          "w_logo": "",
+          "l": "Yasmine Kabbaj",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 48.1,
+          "l_score": null,
+          "match_score": 48.1
+        },
+        {
+          "round": "Semifinal",
+          "w": "Noma Noha Akugue",
+          "w_logo": "",
+          "l": "Sofya Lansere",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 35.0,
+          "l_score": null,
+          "match_score": 35.0
+        },
+        {
+          "round": "Semifinal",
+          "w": "Gina Feistel",
+          "w_logo": "",
+          "l": "TBD",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    }
+  ],
   "ATP_TOURNAMENT": {
-    "name": "Rolex Paris Masters",
+    "name": "Rolex Paris Masters · Bybit Stockholm Open",
     "level": "Masters 1000",
     "surface": "Hard",
     "tour": "ATP",
@@ -11521,6 +11326,11 @@ window.TENNIS_DATA = {
         "name": "Rolex Paris Masters",
         "level": "Masters 1000",
         "surface": "Hard"
+      },
+      {
+        "name": "Bybit Stockholm Open",
+        "level": "ATP 250",
+        "surface": ""
       }
     ],
     "alive": [
@@ -11584,7 +11394,7 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "aliveCount": 27,
-    "matchesSeen": 53
+    "matchesSeen": 54
   },
   "WTA_TOURNAMENT": {
     "name": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
@@ -11756,10 +11566,6 @@ window.TENNIS_DATA = {
   "ATP_SCORE_LOG": {
     "206173": [
       [
-        "20261021",
-        100.0
-      ],
-      [
         "20261022",
         100.0
       ],
@@ -11821,15 +11627,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        100.0
+      ],
+      [
+        "20261107",
         100.0
       ]
     ],
     "207989": [
       [
-        "20261021",
-        90.7
-      ],
-      [
         "20261022",
         90.7
       ],
@@ -11891,15 +11697,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        90.9
+      ],
+      [
+        "20261107",
         90.9
       ]
     ],
     "100644": [
       [
-        "20261021",
-        86.7
-      ],
-      [
         "20261022",
         86.7
       ],
@@ -11961,15 +11767,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        86.9
+      ],
+      [
+        "20261107",
         86.9
       ]
     ],
     "104925": [
       [
-        "20261021",
-        86.0
-      ],
-      [
         "20261022",
         86.0
       ],
@@ -12031,15 +11837,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        86.3
+      ],
+      [
+        "20261107",
         86.3
       ]
     ],
     "209950": [
       [
-        "20261021",
-        82.9
-      ],
-      [
         "20261022",
         82.9
       ],
@@ -12101,15 +11907,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        83.4
+      ],
+      [
+        "20261107",
         83.4
       ]
     ],
     "126205": [
       [
-        "20261021",
-        79.3
-      ],
-      [
         "20261022",
         79.3
       ],
@@ -12171,15 +11977,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        79.5
+      ],
+      [
+        "20261107",
         79.5
       ]
     ],
     "134770": [
       [
-        "20261021",
-        78.8
-      ],
-      [
         "20261022",
         78.8
       ],
@@ -12241,15 +12047,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        79.0
+      ],
+      [
+        "20261107",
         79.0
       ]
     ],
     "212588": [
       [
-        "20261021",
-        77.9
-      ],
-      [
         "20261022",
         77.9
       ],
@@ -12311,15 +12117,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        78.2
+      ],
+      [
+        "20261107",
         78.2
       ]
     ],
     "106421": [
       [
-        "20261021",
-        77.7
-      ],
-      [
         "20261022",
         77.7
       ],
@@ -12381,15 +12187,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        77.9
+      ],
+      [
+        "20261107",
         77.9
       ]
     ],
     "207518": [
       [
-        "20261021",
-        76.8
-      ],
-      [
         "20261022",
         76.8
       ],
@@ -12451,15 +12257,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        77.2
+      ],
+      [
+        "20261107",
         77.2
       ]
     ],
     "200000": [
       [
-        "20261021",
-        76.0
-      ],
-      [
         "20261022",
         76.0
       ],
@@ -12521,15 +12327,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        75.3
+      ],
+      [
+        "20261107",
         75.3
       ]
     ],
     "210097": [
       [
-        "20261021",
-        75.1
-      ],
-      [
         "20261022",
         75.1
       ],
@@ -12591,15 +12397,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        75.2
+      ],
+      [
+        "20261107",
         75.2
       ]
     ],
     "200282": [
       [
-        "20261021",
-        75.3
-      ],
-      [
         "20261022",
         75.3
       ],
@@ -12661,15 +12467,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        75.2
+      ],
+      [
+        "20261107",
         75.2
       ]
     ],
     "208103": [
       [
-        "20261021",
-        73.9
-      ],
-      [
         "20261022",
         73.9
       ],
@@ -12731,15 +12537,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        74.6
+      ],
+      [
+        "20261107",
         74.6
       ]
     ],
     "207925": [
       [
-        "20261021",
-        74.4
-      ],
-      [
         "20261022",
         74.4
       ],
@@ -12801,15 +12607,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        74.5
+      ],
+      [
+        "20261107",
         74.5
       ]
     ],
     "126207": [
       [
-        "20261021",
-        74.0
-      ],
-      [
         "20261022",
         74.0
       ],
@@ -12871,15 +12677,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        74.2
+      ],
+      [
+        "20261107",
         74.2
       ]
     ],
     "126203": [
       [
-        "20261021",
-        73.6
-      ],
-      [
         "20261022",
         73.6
       ],
@@ -12941,15 +12747,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        73.9
+      ],
+      [
+        "20261107",
         73.9
       ]
     ],
     "210530": [
       [
-        "20261021",
-        73.2
-      ],
-      [
         "20261022",
         73.2
       ],
@@ -13011,15 +12817,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        73.2
+      ],
+      [
+        "20261107",
         73.2
       ]
     ],
     "126094": [
       [
-        "20261021",
-        72.7
-      ],
-      [
         "20261022",
         72.7
       ],
@@ -13081,15 +12887,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        72.8
+      ],
+      [
+        "20261107",
         72.8
       ]
     ],
     "122330": [
       [
-        "20261021",
-        73.5
-      ],
-      [
         "20261022",
         73.5
       ],
@@ -13151,15 +12957,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        72.8
+      ],
+      [
+        "20261107",
         72.8
       ]
     ],
     "202103": [
       [
-        "20261021",
-        72.4
-      ],
-      [
         "20261022",
         72.4
       ],
@@ -13221,15 +13027,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        72.6
+      ],
+      [
+        "20261107",
         72.6
       ]
     ],
     "200473": [
       [
-        "20261021",
-        71.7
-      ],
-      [
         "20261022",
         71.7
       ],
@@ -13291,15 +13097,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        72.4
+      ],
+      [
+        "20261107",
         72.4
       ]
     ],
     "200221": [
       [
-        "20261021",
-        72.2
-      ],
-      [
         "20261022",
         72.2
       ],
@@ -13361,15 +13167,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        71.7
+      ],
+      [
+        "20261107",
         71.7
       ]
     ],
     "210696": [
       [
-        "20261021",
-        71.5
-      ],
-      [
         "20261022",
         71.5
       ],
@@ -13431,15 +13237,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        71.5
+      ],
+      [
+        "20261107",
         71.5
       ]
     ],
     "211663": [
       [
-        "20261021",
-        71.7
-      ],
-      [
         "20261022",
         71.7
       ],
@@ -13501,15 +13307,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        70.3
+      ],
+      [
+        "20261107",
         70.3
       ]
     ],
     "111575": [
       [
-        "20261021",
-        67.9
-      ],
-      [
         "20261022",
         67.9
       ],
@@ -13571,15 +13377,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        68.0
+      ],
+      [
+        "20261107",
         68.0
       ]
     ],
     "206909": [
       [
-        "20261021",
-        67.2
-      ],
-      [
         "20261022",
         67.2
       ],
@@ -13641,15 +13447,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        67.2
+      ],
+      [
+        "20261107",
         67.2
       ]
     ],
     "209860": [
       [
-        "20261021",
-        66.5
-      ],
-      [
         "20261022",
         66.5
       ],
@@ -13711,15 +13517,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        66.6
+      ],
+      [
+        "20261107",
         66.6
       ]
     ],
     "128034": [
       [
-        "20261021",
-        65.3
-      ],
-      [
         "20261022",
         65.3
       ],
@@ -13781,15 +13587,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        65.5
+      ],
+      [
+        "20261107",
         65.5
       ]
     ],
     "126610": [
       [
-        "20261021",
-        65.3
-      ],
-      [
         "20261022",
         65.3
       ],
@@ -13851,15 +13657,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        65.4
+      ],
+      [
+        "20261107",
         65.4
       ]
     ],
     "126774": [
       [
-        "20261021",
-        64.4
-      ],
-      [
         "20261022",
         64.4
       ],
@@ -13921,15 +13727,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        65.1
+      ],
+      [
+        "20261107",
         65.1
       ]
     ],
     "210506": [
       [
-        "20261021",
-        64.6
-      ],
-      [
         "20261022",
         64.6
       ],
@@ -13991,15 +13797,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        65.0
+      ],
+      [
+        "20261107",
         65.0
       ]
     ],
     "126214": [
       [
-        "20261021",
-        64.3
-      ],
-      [
         "20261022",
         64.3
       ],
@@ -14061,15 +13867,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        64.5
+      ],
+      [
+        "20261107",
         64.5
       ]
     ],
     "202058": [
       [
-        "20261021",
-        64.2
-      ],
-      [
         "20261022",
         64.2
       ],
@@ -14131,15 +13937,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        63.9
+      ],
+      [
+        "20261107",
         63.9
       ]
     ],
     "209260": [
       [
-        "20261021",
-        63.4
-      ],
-      [
         "20261022",
         63.4
       ],
@@ -14201,15 +14007,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        63.8
+      ],
+      [
+        "20261107",
         63.8
       ]
     ],
     "200005": [
       [
-        "20261021",
-        63.8
-      ],
-      [
         "20261022",
         63.8
       ],
@@ -14271,15 +14077,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        63.5
+      ],
+      [
+        "20261107",
         63.5
       ]
     ],
     "111815": [
       [
-        "20261021",
-        63.9
-      ],
-      [
         "20261022",
         63.9
       ],
@@ -14341,15 +14147,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        63.4
+      ],
+      [
+        "20261107",
         63.4
       ]
     ],
     "144684": [
       [
-        "20261021",
-        62.9
-      ],
-      [
         "20261022",
         62.9
       ],
@@ -14411,15 +14217,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        63.3
+      ],
+      [
+        "20261107",
         63.3
       ]
     ],
     "208286": [
       [
-        "20261021",
-        62.8
-      ],
-      [
         "20261022",
         62.8
       ],
@@ -14481,15 +14287,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        62.9
+      ],
+      [
+        "20261107",
         62.9
       ]
     ],
     "209414": [
       [
-        "20261021",
-        62.7
-      ],
-      [
         "20261022",
         62.7
       ],
@@ -14551,15 +14357,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        62.9
+      ],
+      [
+        "20261107",
         62.9
       ]
     ],
     "207830": [
       [
-        "20261021",
-        62.5
-      ],
-      [
         "20261022",
         62.5
       ],
@@ -14621,15 +14427,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        62.9
+      ],
+      [
+        "20261107",
         62.9
       ]
     ],
     "144869": [
       [
-        "20261021",
-        63.0
-      ],
-      [
         "20261022",
         63.0
       ],
@@ -14691,15 +14497,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        62.8
+      ],
+      [
+        "20261107",
         62.8
       ]
     ],
     "134868": [
       [
-        "20261021",
-        61.5
-      ],
-      [
         "20261022",
         61.5
       ],
@@ -14761,15 +14567,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        62.8
+      ],
+      [
+        "20261107",
         62.8
       ]
     ],
     "122298": [
       [
-        "20261021",
-        61.8
-      ],
-      [
         "20261022",
         61.8
       ],
@@ -14831,15 +14637,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        62.1
+      ],
+      [
+        "20261107",
         62.1
       ]
     ],
     "208363": [
       [
-        "20261021",
-        62.0
-      ],
-      [
         "20261022",
         62.0
       ],
@@ -14901,15 +14707,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        61.7
+      ],
+      [
+        "20261107",
         61.7
       ]
     ],
     "210084": [
       [
-        "20261021",
-        60.8
-      ],
-      [
         "20261022",
         60.8
       ],
@@ -14971,15 +14777,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        60.9
+      ],
+      [
+        "20261107",
         60.9
       ]
     ],
     "209226": [
       [
-        "20261021",
-        60.9
-      ],
-      [
         "20261022",
         60.9
       ],
@@ -15041,15 +14847,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        60.7
+      ],
+      [
+        "20261107",
         60.7
       ]
     ],
     "209098": [
       [
-        "20261021",
-        60.2
-      ],
-      [
         "20261022",
         60.2
       ],
@@ -15111,15 +14917,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        60.2
+      ],
+      [
+        "20261107",
         60.2
       ]
     ],
     "209920": [
       [
-        "20261021",
-        59.8
-      ],
-      [
         "20261022",
         59.8
       ],
@@ -15181,15 +14987,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        59.9
+      ],
+      [
+        "20261107",
         59.9
       ]
     ],
     "144719": [
       [
-        "20261021",
-        61.2
-      ],
-      [
         "20261022",
         61.2
       ],
@@ -15251,15 +15057,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        59.6
+      ],
+      [
+        "20261107",
         59.6
       ]
     ],
     "132686": [
       [
-        "20261021",
-        59.0
-      ],
-      [
         "20261022",
         59.0
       ],
@@ -15321,15 +15127,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        59.5
+      ],
+      [
+        "20261107",
         59.5
       ]
     ],
     "105870": [
       [
-        "20261021",
-        59.4
-      ],
-      [
         "20261022",
         59.4
       ],
@@ -15391,15 +15197,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        59.5
+      ],
+      [
+        "20261107",
         59.5
       ]
     ],
     "200267": [
       [
-        "20261021",
-        58.8
-      ],
-      [
         "20261022",
         58.8
       ],
@@ -15461,15 +15267,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        58.9
+      ],
+      [
+        "20261107",
         58.9
       ]
     ],
     "210338": [
       [
-        "20261021",
-        58.8
-      ],
-      [
         "20261022",
         58.8
       ],
@@ -15531,15 +15337,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        58.8
+      ],
+      [
+        "20261107",
         58.8
       ]
     ],
     "126239": [
       [
-        "20261021",
-        59.5
-      ],
-      [
         "20261022",
         59.5
       ],
@@ -15601,15 +15407,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        58.7
+      ],
+      [
+        "20261107",
         58.7
       ]
     ],
     "200240": [
       [
-        "20261021",
-        57.4
-      ],
-      [
         "20261022",
         57.4
       ],
@@ -15671,15 +15477,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.9
+      ],
+      [
+        "20261107",
         57.9
       ]
     ],
     "120770": [
       [
-        "20261021",
-        57.7
-      ],
-      [
         "20261022",
         57.7
       ],
@@ -15741,15 +15547,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.7
+      ],
+      [
+        "20261107",
         57.7
       ]
     ],
     "207678": [
       [
-        "20261021",
-        57.7
-      ],
-      [
         "20261022",
         57.7
       ],
@@ -15811,15 +15617,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.7
+      ],
+      [
+        "20261107",
         57.7
       ]
     ],
     "202104": [
       [
-        "20261021",
-        57.5
-      ],
-      [
         "20261022",
         57.5
       ],
@@ -15881,15 +15687,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.2
+      ],
+      [
+        "20261107",
         57.2
       ]
     ],
     "111460": [
       [
-        "20261021",
-        56.9
-      ],
-      [
         "20261022",
         56.9
       ],
@@ -15951,15 +15757,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.0
+      ],
+      [
+        "20261107",
         57.0
       ]
     ],
     "206681": [
       [
-        "20261021",
-        56.5
-      ],
-      [
         "20261022",
         56.5
       ],
@@ -16021,15 +15827,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.0
+      ],
+      [
+        "20261107",
         57.0
       ]
     ],
     "133430": [
       [
-        "20261021",
-        56.9
-      ],
-      [
         "20261022",
         56.9
       ],
@@ -16091,15 +15897,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        56.5
+      ],
+      [
+        "20261107",
         56.5
       ]
     ],
     "208169": [
       [
-        "20261021",
-        57.5
-      ],
-      [
         "20261022",
         57.5
       ],
@@ -16161,15 +15967,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        56.4
+      ],
+      [
+        "20261107",
         56.4
       ]
     ],
     "210262": [
       [
-        "20261021",
-        55.3
-      ],
-      [
         "20261022",
         55.3
       ],
@@ -16231,15 +16037,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        55.2
+      ],
+      [
+        "20261107",
         55.2
       ]
     ],
     "105526": [
       [
-        "20261021",
-        52.9
-      ],
-      [
         "20261022",
         52.9
       ],
@@ -16301,15 +16107,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        55.1
+      ],
+      [
+        "20261107",
         55.1
       ]
     ],
     "126504": [
       [
-        "20261021",
-        54.8
-      ],
-      [
         "20261022",
         54.8
       ],
@@ -16371,15 +16177,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        54.9
+      ],
+      [
+        "20261107",
         54.9
       ]
     ],
     "200059": [
       [
-        "20261021",
-        54.7
-      ],
-      [
         "20261022",
         54.7
       ],
@@ -16441,15 +16247,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        54.8
+      ],
+      [
+        "20261107",
         54.8
       ]
     ],
     "211776": [
       [
-        "20261021",
-        54.6
-      ],
-      [
         "20261022",
         54.6
       ],
@@ -16511,15 +16317,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        54.6
+      ],
+      [
+        "20261107",
         54.6
       ]
     ],
     "208882": [
       [
-        "20261021",
-        56.2
-      ],
-      [
         "20261022",
         56.2
       ],
@@ -16581,15 +16387,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        54.5
+      ],
+      [
+        "20261107",
         54.5
       ]
     ],
     "209279": [
       [
-        "20261021",
-        51.1
-      ],
-      [
         "20261022",
         51.1
       ],
@@ -16651,15 +16457,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        54.1
+      ],
+      [
+        "20261107",
         54.1
       ]
     ],
     "200175": [
       [
-        "20261021",
-        54.1
-      ],
-      [
         "20261022",
         54.1
       ],
@@ -16721,15 +16527,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        53.8
+      ],
+      [
+        "20261107",
         53.8
       ]
     ],
     "105227": [
       [
-        "20261021",
-        55.1
-      ],
-      [
         "20261022",
         55.1
       ],
@@ -16791,15 +16597,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        53.7
+      ],
+      [
+        "20261107",
         53.7
       ]
     ],
     "202385": [
       [
-        "20261021",
-        52.9
-      ],
-      [
         "20261022",
         52.9
       ],
@@ -16861,15 +16667,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        53.6
+      ],
+      [
+        "20261107",
         53.6
       ]
     ],
     "111794": [
       [
-        "20261021",
-        53.9
-      ],
-      [
         "20261022",
         53.9
       ],
@@ -16931,15 +16737,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        53.5
+      ],
+      [
+        "20261107",
         53.5
       ]
     ],
     "208260": [
       [
-        "20261021",
-        52.9
-      ],
-      [
         "20261022",
         52.9
       ],
@@ -17001,15 +16807,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        53.2
+      ],
+      [
+        "20261107",
         53.2
       ]
     ],
     "200116": [
       [
-        "20261021",
-        53.5
-      ],
-      [
         "20261022",
         53.5
       ],
@@ -17071,15 +16877,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        52.8
+      ],
+      [
+        "20261107",
         52.8
       ]
     ],
     "209976": [
       [
-        "20261021",
-        52.4
-      ],
-      [
         "20261022",
         52.4
       ],
@@ -17141,15 +16947,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        52.8
+      ],
+      [
+        "20261107",
         52.8
       ]
     ],
     "105807": [
       [
-        "20261021",
-        52.6
-      ],
-      [
         "20261022",
         52.6
       ],
@@ -17211,15 +17017,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        52.7
+      ],
+      [
+        "20261107",
         52.7
       ]
     ],
     "105916": [
       [
-        "20261021",
-        52.5
-      ],
-      [
         "20261022",
         52.5
       ],
@@ -17281,15 +17087,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        52.6
+      ],
+      [
+        "20261107",
         52.6
       ]
     ],
     "144895": [
       [
-        "20261021",
-        53.1
-      ],
-      [
         "20261022",
         53.1
       ],
@@ -17351,15 +17157,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        52.5
+      ],
+      [
+        "20261107",
         52.5
       ]
     ],
     "208597": [
       [
-        "20261021",
-        51.5
-      ],
-      [
         "20261022",
         51.5
       ],
@@ -17421,15 +17227,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        52.4
+      ],
+      [
+        "20261107",
         52.4
       ]
     ],
     "208010": [
       [
-        "20261021",
-        52.4
-      ],
-      [
         "20261022",
         52.4
       ],
@@ -17491,15 +17297,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        52.4
+      ],
+      [
+        "20261107",
         52.4
       ]
     ],
     "127157": [
       [
-        "20261021",
-        51.5
-      ],
-      [
         "20261022",
         51.5
       ],
@@ -17561,6 +17367,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.7
+      ],
+      [
+        "20261107",
         51.7
       ]
     ],
@@ -17588,13 +17398,13 @@ window.TENNIS_DATA = {
       [
         "20261106",
         51.6
+      ],
+      [
+        "20261107",
+        51.6
       ]
     ],
     "208233": [
-      [
-        "20261021",
-        51.2
-      ],
       [
         "20261022",
         51.2
@@ -17657,15 +17467,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.5
+      ],
+      [
+        "20261107",
         51.5
       ]
     ],
     "106218": [
       [
-        "20261021",
-        51.5
-      ],
-      [
         "20261022",
         51.5
       ],
@@ -17727,15 +17537,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.5
+      ],
+      [
+        "20261107",
         51.5
       ]
     ],
     "126127": [
       [
-        "20261021",
-        50.5
-      ],
-      [
         "20261022",
         50.5
       ],
@@ -17797,15 +17607,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.1
+      ],
+      [
+        "20261107",
         51.1
       ]
     ],
     "200615": [
       [
-        "20261021",
-        51.1
-      ],
-      [
         "20261022",
         51.1
       ],
@@ -17867,15 +17677,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.1
+      ],
+      [
+        "20261107",
         51.1
       ]
     ],
     "209147": [
       [
-        "20261021",
-        50.9
-      ],
-      [
         "20261022",
         50.9
       ],
@@ -17937,15 +17747,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.0
+      ],
+      [
+        "20261107",
         51.0
       ]
     ],
     "206736": [
       [
-        "20261021",
-        50.7
-      ],
-      [
         "20261022",
         50.7
       ],
@@ -18007,15 +17817,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.8
+      ],
+      [
+        "20261107",
         50.8
       ]
     ],
     "208024": [
       [
-        "20261021",
-        50.7
-      ],
-      [
         "20261022",
         50.7
       ],
@@ -18077,15 +17887,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.8
+      ],
+      [
+        "20261107",
         50.8
       ]
     ],
     "209899": [
       [
-        "20261021",
-        50.7
-      ],
-      [
         "20261022",
         50.7
       ],
@@ -18147,15 +17957,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.8
+      ],
+      [
+        "20261107",
         50.8
       ]
     ],
     "200624": [
       [
-        "20261021",
-        50.9
-      ],
-      [
         "20261022",
         50.9
       ],
@@ -18217,15 +18027,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.4
+      ],
+      [
+        "20261107",
         50.4
       ]
     ],
     "207411": [
       [
-        "20261021",
-        50.4
-      ],
-      [
         "20261022",
         50.4
       ],
@@ -18287,15 +18097,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.4
+      ],
+      [
+        "20261107",
         50.4
       ]
     ],
     "105173": [
       [
-        "20261021",
-        47.7
-      ],
-      [
         "20261022",
         47.7
       ],
@@ -18357,15 +18167,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.2
+      ],
+      [
+        "20261107",
         50.2
       ]
     ],
     "207494": [
       [
-        "20261021",
-        50.0
-      ],
-      [
         "20261022",
         50.0
       ],
@@ -18427,15 +18237,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.0
+      ],
+      [
+        "20261107",
         50.0
       ]
     ],
     "132283": [
       [
-        "20261021",
-        51.2
-      ],
-      [
         "20261022",
         51.2
       ],
@@ -18497,15 +18307,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        49.8
+      ],
+      [
+        "20261107",
         49.8
       ]
     ],
     "206499": [
       [
-        "20261021",
-        49.8
-      ],
-      [
         "20261022",
         49.8
       ],
@@ -18567,15 +18377,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        49.6
+      ],
+      [
+        "20261107",
         49.6
       ]
     ],
     "105777": [
       [
-        "20261021",
-        49.4
-      ],
-      [
         "20261022",
         49.4
       ],
@@ -18637,15 +18447,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        49.4
+      ],
+      [
+        "20261107",
         49.4
       ]
     ],
     "207680": [
       [
-        "20261021",
-        49.5
-      ],
-      [
         "20261022",
         49.5
       ],
@@ -18707,15 +18517,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        49.3
+      ],
+      [
+        "20261107",
         49.3
       ]
     ],
     "207686": [
       [
-        "20261021",
-        49.1
-      ],
-      [
         "20261022",
         49.1
       ],
@@ -18777,15 +18587,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        49.2
+      ],
+      [
+        "20261107",
         49.2
       ]
     ],
     "105477": [
       [
-        "20261021",
-        49.2
-      ],
-      [
         "20261022",
         49.2
       ],
@@ -18847,15 +18657,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        49.1
+      ],
+      [
+        "20261107",
         49.1
       ]
     ],
     "126128": [
       [
-        "20261021",
-        49.0
-      ],
-      [
         "20261022",
         49.0
       ],
@@ -18917,15 +18727,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        49.0
+      ],
+      [
+        "20261107",
         49.0
       ]
     ],
     "105932": [
       [
-        "20261021",
-        47.4
-      ],
-      [
         "20261022",
         47.4
       ],
@@ -18987,15 +18797,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        49.0
+      ],
+      [
+        "20261107",
         49.0
       ]
     ],
     "210116": [
       [
-        "20261021",
-        48.6
-      ],
-      [
         "20261022",
         48.6
       ],
@@ -19057,15 +18867,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        48.7
+      ],
+      [
+        "20261107",
         48.7
       ]
     ],
     "124186": [
       [
-        "20261021",
-        48.7
-      ],
-      [
         "20261022",
         48.7
       ],
@@ -19127,15 +18937,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        48.7
+      ],
+      [
+        "20261107",
         48.7
       ]
     ],
     "210319": [
       [
-        "20261021",
-        47.9
-      ],
-      [
         "20261022",
         47.9
       ],
@@ -19197,15 +19007,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        47.8
+      ],
+      [
+        "20261107",
         47.8
       ]
     ],
     "210460": [
       [
-        "20261021",
-        47.4
-      ],
-      [
         "20261022",
         47.4
       ],
@@ -19267,15 +19077,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        47.5
+      ],
+      [
+        "20261107",
         47.5
       ]
     ],
     "102093": [
       [
-        "20261021",
-        47.3
-      ],
-      [
         "20261022",
         47.3
       ],
@@ -19337,15 +19147,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        47.4
+      ],
+      [
+        "20261107",
         47.4
       ]
     ],
     "208021": [
       [
-        "20261021",
-        46.3
-      ],
-      [
         "20261022",
         46.3
       ],
@@ -19407,15 +19217,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        47.0
+      ],
+      [
+        "20261107",
         47.0
       ]
     ],
     "207681": [
       [
-        "20261021",
-        47.0
-      ],
-      [
         "20261022",
         47.0
       ],
@@ -19477,15 +19287,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        47.0
+      ],
+      [
+        "20261107",
         47.0
       ]
     ],
     "208014": [
       [
-        "20261021",
-        46.3
-      ],
-      [
         "20261022",
         46.3
       ],
@@ -19547,15 +19357,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        46.7
+      ],
+      [
+        "20261107",
         46.7
       ]
     ],
     "207182": [
       [
-        "20261021",
-        46.6
-      ],
-      [
         "20261022",
         46.6
       ],
@@ -19617,15 +19427,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        46.6
+      ],
+      [
+        "20261107",
         46.6
       ]
     ],
     "209259": [
       [
-        "20261021",
-        46.2
-      ],
-      [
         "20261022",
         46.2
       ],
@@ -19687,15 +19497,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        46.5
+      ],
+      [
+        "20261107",
         46.5
       ]
     ],
     "106000": [
       [
-        "20261021",
-        46.7
-      ],
-      [
         "20261022",
         46.7
       ],
@@ -19757,15 +19567,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        46.1
+      ],
+      [
+        "20261107",
         46.1
       ]
     ],
     "207985": [
       [
-        "20261021",
-        46.2
-      ],
-      [
         "20261022",
         46.2
       ],
@@ -19827,15 +19637,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        45.9
+      ],
+      [
+        "20261107",
         45.9
       ]
     ],
     "105902": [
       [
-        "20261021",
-        45.2
-      ],
-      [
         "20261022",
         45.2
       ],
@@ -19897,15 +19707,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        45.5
+      ],
+      [
+        "20261107",
         45.5
       ]
     ],
     "208659": [
       [
-        "20261021",
-        45.5
-      ],
-      [
         "20261022",
         45.5
       ],
@@ -19967,15 +19777,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        45.5
+      ],
+      [
+        "20261107",
         45.5
       ]
     ],
     "200443": [
       [
-        "20261021",
-        45.3
-      ],
-      [
         "20261022",
         45.3
       ],
@@ -20037,15 +19847,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        45.2
+      ],
+      [
+        "20261107",
         45.2
       ]
     ],
     "210389": [
       [
-        "20261021",
-        44.8
-      ],
-      [
         "20261022",
         44.8
       ],
@@ -20107,15 +19917,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        44.7
+      ],
+      [
+        "20261107",
         44.7
       ]
     ],
     "200514": [
       [
-        "20261021",
-        44.5
-      ],
-      [
         "20261022",
         44.5
       ],
@@ -20177,15 +19987,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        44.5
+      ],
+      [
+        "20261107",
         44.5
       ]
     ],
     "111581": [
       [
-        "20261021",
-        42.7
-      ],
-      [
         "20261022",
         42.7
       ],
@@ -20247,15 +20057,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        42.7
+      ],
+      [
+        "20261107",
         42.7
       ]
     ],
     "126846": [
       [
-        "20261021",
-        42.3
-      ],
-      [
         "20261022",
         42.3
       ],
@@ -20317,15 +20127,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        42.3
+      ],
+      [
+        "20261107",
         42.3
       ]
     ],
     "111513": [
       [
-        "20261021",
-        42.3
-      ],
-      [
         "20261022",
         42.3
       ],
@@ -20387,15 +20197,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        42.3
+      ],
+      [
+        "20261107",
         42.3
       ]
     ],
     "210012": [
       [
-        "20261021",
-        41.9
-      ],
-      [
         "20261022",
         41.9
       ],
@@ -20457,15 +20267,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        42.1
+      ],
+      [
+        "20261107",
         42.1
       ]
     ],
     "124116": [
       [
-        "20261021",
-        40.6
-      ],
-      [
         "20261022",
         40.6
       ],
@@ -20527,15 +20337,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        40.6
+      ],
+      [
+        "20261107",
         40.6
       ]
     ],
     "208316": [
       [
-        "20261021",
-        39.3
-      ],
-      [
         "20261022",
         39.3
       ],
@@ -20597,15 +20407,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        39.3
+      ],
+      [
+        "20261107",
         39.3
       ]
     ],
     "200384": [
       [
-        "20261021",
-        39.7
-      ],
-      [
         "20261022",
         39.7
       ],
@@ -20667,15 +20477,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        38.9
+      ],
+      [
+        "20261107",
         38.9
       ]
     ],
     "106198": [
       [
-        "20261021",
-        38.8
-      ],
-      [
         "20261022",
         38.8
       ],
@@ -20737,15 +20547,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        38.8
+      ],
+      [
+        "20261107",
         38.8
       ]
     ],
     "210748": [
       [
-        "20261021",
-        38.6
-      ],
-      [
         "20261022",
         38.6
       ],
@@ -20807,6 +20617,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        38.6
+      ],
+      [
+        "20261107",
         38.6
       ]
     ],
@@ -20858,13 +20672,13 @@ window.TENNIS_DATA = {
       [
         "20261106",
         38.0
+      ],
+      [
+        "20261107",
+        38.0
       ]
     ],
     "144750": [
-      [
-        "20261021",
-        37.9
-      ],
       [
         "20261022",
         37.9
@@ -20927,15 +20741,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        37.9
+      ],
+      [
+        "20261107",
         37.9
       ]
     ],
     "208852": [
       [
-        "20261021",
-        37.4
-      ],
-      [
         "20261022",
         37.4
       ],
@@ -20997,15 +20811,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        37.5
+      ],
+      [
+        "20261107",
         37.5
       ]
     ],
     "202261": [
       [
-        "20261021",
-        36.9
-      ],
-      [
         "20261022",
         36.9
       ],
@@ -21067,15 +20881,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        36.9
+      ],
+      [
+        "20261107",
         36.9
       ]
     ],
     "205734": [
       [
-        "20261021",
-        35.1
-      ],
-      [
         "20261022",
         35.1
       ],
@@ -21137,15 +20951,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.2
+      ],
+      [
+        "20261107",
         35.2
       ]
     ],
     "207352": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -21207,15 +21021,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "200436": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -21277,15 +21091,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "208361": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -21347,15 +21161,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "123828": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -21417,15 +21231,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "208013": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -21487,15 +21301,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "200711": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -21557,15 +21371,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "200647": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -21627,15 +21441,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "210536": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -21697,15 +21511,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "124079": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -21767,15 +21581,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "208278": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -21837,6 +21651,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
@@ -21888,13 +21706,13 @@ window.TENNIS_DATA = {
       [
         "20261106",
         35.0
+      ],
+      [
+        "20261107",
+        35.0
       ]
     ],
     "127339": [
-      [
-        "20261021",
-        35.0
-      ],
       [
         "20261022",
         35.0
@@ -21957,15 +21775,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "212063": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -22027,6 +21845,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
@@ -22078,6 +21900,10 @@ window.TENNIS_DATA = {
       [
         "20261106",
         35.0
+      ],
+      [
+        "20261107",
+        35.0
       ]
     ],
     "209262": [
@@ -22128,16 +21954,16 @@ window.TENNIS_DATA = {
       [
         "20261106",
         35.0
+      ],
+      [
+        "20261107",
+        35.0
       ]
     ]
   },
   "WTA_SCORE_LOG": {
     "214544": [
       [
-        "20261021",
-        100.0
-      ],
-      [
         "20261022",
         100.0
       ],
@@ -22199,15 +22025,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        100.0
+      ],
+      [
+        "20261107",
         100.0
       ]
     ],
     "214981": [
       [
-        "20261021",
-        93.3
-      ],
-      [
         "20261022",
         93.3
       ],
@@ -22269,15 +22095,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        93.3
+      ],
+      [
+        "20261107",
         93.3
       ]
     ],
     "259799": [
       [
-        "20261021",
-        92.2
-      ],
-      [
         "20261022",
         92.2
       ],
@@ -22339,15 +22165,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        92.2
+      ],
+      [
+        "20261107",
         92.2
       ]
     ],
     "221103": [
       [
-        "20261021",
-        91.1
-      ],
-      [
         "20261022",
         91.1
       ],
@@ -22409,15 +22235,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        91.2
+      ],
+      [
+        "20261107",
         91.2
       ]
     ],
     "202494": [
       [
-        "20261021",
-        90.4
-      ],
-      [
         "20261022",
         90.4
       ],
@@ -22479,15 +22305,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        90.4
+      ],
+      [
+        "20261107",
         90.4
       ]
     ],
     "216347": [
       [
-        "20261021",
-        90.4
-      ],
-      [
         "20261022",
         90.4
       ],
@@ -22549,15 +22375,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        90.4
+      ],
+      [
+        "20261107",
         90.4
       ]
     ],
     "216146": [
       [
-        "20261021",
-        90.4
-      ],
-      [
         "20261022",
         90.4
       ],
@@ -22619,15 +22445,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        90.4
+      ],
+      [
+        "20261107",
         90.4
       ]
     ],
     "202468": [
       [
-        "20261021",
-        89.9
-      ],
-      [
         "20261022",
         89.9
       ],
@@ -22689,15 +22515,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        89.8
+      ],
+      [
+        "20261107",
         89.8
       ]
     ],
     "201514": [
       [
-        "20261021",
-        85.5
-      ],
-      [
         "20261022",
         85.5
       ],
@@ -22759,15 +22585,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        85.8
+      ],
+      [
+        "20261107",
         85.8
       ]
     ],
     "214096": [
       [
-        "20261021",
-        85.7
-      ],
-      [
         "20261022",
         85.7
       ],
@@ -22829,15 +22655,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        85.7
+      ],
+      [
+        "20261107",
         85.7
       ]
     ],
     "216153": [
       [
-        "20261021",
-        84.6
-      ],
-      [
         "20261022",
         84.6
       ],
@@ -22899,15 +22725,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        84.1
+      ],
+      [
+        "20261107",
         84.1
       ]
     ],
     "202505": [
       [
-        "20261021",
-        84.1
-      ],
-      [
         "20261022",
         84.1
       ],
@@ -22969,15 +22795,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        83.4
+      ],
+      [
+        "20261107",
         83.4
       ]
     ],
     "239475": [
       [
-        "20261021",
-        83.9
-      ],
-      [
         "20261022",
         83.9
       ],
@@ -23039,15 +22865,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        83.3
+      ],
+      [
+        "20261107",
         83.3
       ]
     ],
     "216081": [
       [
-        "20261021",
-        81.7
-      ],
-      [
         "20261022",
         81.7
       ],
@@ -23109,15 +22935,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        81.5
+      ],
+      [
+        "20261107",
         81.5
       ]
     ],
     "201619": [
       [
-        "20261021",
-        80.7
-      ],
-      [
         "20261022",
         80.7
       ],
@@ -23179,15 +23005,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        80.3
+      ],
+      [
+        "20261107",
         80.3
       ]
     ],
     "215713": [
       [
-        "20261021",
-        79.5
-      ],
-      [
         "20261022",
         79.5
       ],
@@ -23249,15 +23075,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        79.5
+      ],
+      [
+        "20261107",
         79.5
       ]
     ],
     "211768": [
       [
-        "20261021",
-        79.0
-      ],
-      [
         "20261022",
         79.0
       ],
@@ -23319,15 +23145,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        79.3
+      ],
+      [
+        "20261107",
         79.3
       ]
     ],
     "222328": [
       [
-        "20261021",
-        78.5
-      ],
-      [
         "20261022",
         78.5
       ],
@@ -23389,15 +23215,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        78.5
+      ],
+      [
+        "20261107",
         78.5
       ]
     ],
     "210722": [
       [
-        "20261021",
-        77.3
-      ],
-      [
         "20261022",
         77.3
       ],
@@ -23459,15 +23285,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        77.4
+      ],
+      [
+        "20261107",
         77.4
       ]
     ],
     "221012": [
       [
-        "20261021",
-        76.5
-      ],
-      [
         "20261022",
         76.5
       ],
@@ -23529,15 +23355,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        76.6
+      ],
+      [
+        "20261107",
         76.6
       ]
     ],
     "223670": [
       [
-        "20261021",
-        75.9
-      ],
-      [
         "20261022",
         75.9
       ],
@@ -23599,15 +23425,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        76.1
+      ],
+      [
+        "20261107",
         76.1
       ]
     ],
     "260300": [
       [
-        "20261021",
-        76.2
-      ],
-      [
         "20261022",
         76.2
       ],
@@ -23669,15 +23495,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        76.1
+      ],
+      [
+        "20261107",
         76.1
       ]
     ],
     "201662": [
       [
-        "20261021",
-        76.1
-      ],
-      [
         "20261022",
         76.1
       ],
@@ -23739,15 +23565,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        75.7
+      ],
+      [
+        "20261107",
         75.7
       ]
     ],
     "214939": [
       [
-        "20261021",
-        75.9
-      ],
-      [
         "20261022",
         75.9
       ],
@@ -23809,15 +23635,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        75.5
+      ],
+      [
+        "20261107",
         75.5
       ]
     ],
     "213631": [
       [
-        "20261021",
-        71.7
-      ],
-      [
         "20261022",
         71.7
       ],
@@ -23879,15 +23705,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        72.1
+      ],
+      [
+        "20261107",
         72.1
       ]
     ],
     "211533": [
       [
-        "20261021",
-        71.9
-      ],
-      [
         "20261022",
         71.9
       ],
@@ -23949,15 +23775,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        71.8
+      ],
+      [
+        "20261107",
         71.8
       ]
     ],
     "211148": [
       [
-        "20261021",
-        71.1
-      ],
-      [
         "20261022",
         71.1
       ],
@@ -24019,15 +23845,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        71.1
+      ],
+      [
+        "20261107",
         71.1
       ]
     ],
     "215613": [
       [
-        "20261021",
-        70.9
-      ],
-      [
         "20261022",
         70.9
       ],
@@ -24089,15 +23915,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        70.9
+      ],
+      [
+        "20261107",
         70.9
       ]
     ],
     "206252": [
       [
-        "20261021",
-        69.9
-      ],
-      [
         "20261022",
         69.9
       ],
@@ -24159,15 +23985,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        69.5
+      ],
+      [
+        "20261107",
         69.5
       ]
     ],
     "223253": [
       [
-        "20261021",
-        68.9
-      ],
-      [
         "20261022",
         68.9
       ],
@@ -24229,15 +24055,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        69.2
+      ],
+      [
+        "20261107",
         69.2
       ]
     ],
     "220367": [
       [
-        "20261021",
-        67.6
-      ],
-      [
         "20261022",
         67.6
       ],
@@ -24299,15 +24125,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        69.1
+      ],
+      [
+        "20261107",
         69.1
       ]
     ],
     "220548": [
       [
-        "20261021",
-        69.1
-      ],
-      [
         "20261022",
         69.1
       ],
@@ -24369,15 +24195,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        69.1
+      ],
+      [
+        "20261107",
         69.1
       ]
     ],
     "221024": [
       [
-        "20261021",
-        68.4
-      ],
-      [
         "20261022",
         68.4
       ],
@@ -24439,15 +24265,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        68.3
+      ],
+      [
+        "20261107",
         68.3
       ]
     ],
     "206420": [
       [
-        "20261021",
-        67.0
-      ],
-      [
         "20261022",
         67.0
       ],
@@ -24509,15 +24335,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        67.1
+      ],
+      [
+        "20261107",
         67.1
       ]
     ],
     "220348": [
       [
-        "20261021",
-        67.0
-      ],
-      [
         "20261022",
         67.0
       ],
@@ -24579,15 +24405,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        67.0
+      ],
+      [
+        "20261107",
         67.0
       ]
     ],
     "215983": [
       [
-        "20261021",
-        67.4
-      ],
-      [
         "20261022",
         67.4
       ],
@@ -24649,15 +24475,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        66.6
+      ],
+      [
+        "20261107",
         66.6
       ]
     ],
     "223360": [
       [
-        "20261021",
-        66.0
-      ],
-      [
         "20261022",
         66.0
       ],
@@ -24719,15 +24545,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        66.0
+      ],
+      [
+        "20261107",
         66.0
       ]
     ],
     "206289": [
       [
-        "20261021",
-        65.5
-      ],
-      [
         "20261022",
         65.5
       ],
@@ -24789,15 +24615,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        65.7
+      ],
+      [
+        "20261107",
         65.7
       ]
     ],
     "211107": [
       [
-        "20261021",
-        64.5
-      ],
-      [
         "20261022",
         64.5
       ],
@@ -24859,15 +24685,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        65.7
+      ],
+      [
+        "20261107",
         65.7
       ]
     ],
     "215785": [
       [
-        "20261021",
-        64.6
-      ],
-      [
         "20261022",
         64.6
       ],
@@ -24929,15 +24755,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        64.4
+      ],
+      [
+        "20261107",
         64.4
       ]
     ],
     "239383": [
       [
-        "20261021",
-        64.2
-      ],
-      [
         "20261022",
         64.2
       ],
@@ -24999,15 +24825,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        64.0
+      ],
+      [
+        "20261107",
         64.0
       ]
     ],
     "214643": [
       [
-        "20261021",
-        63.4
-      ],
-      [
         "20261022",
         63.4
       ],
@@ -25069,15 +24895,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        63.8
+      ],
+      [
+        "20261107",
         63.8
       ]
     ],
     "266671": [
       [
-        "20261021",
-        63.7
-      ],
-      [
         "20261022",
         63.7
       ],
@@ -25139,15 +24965,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        63.7
+      ],
+      [
+        "20261107",
         63.7
       ]
     ],
     "220750": [
       [
-        "20261021",
-        62.9
-      ],
-      [
         "20261022",
         62.9
       ],
@@ -25209,15 +25035,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        62.8
+      ],
+      [
+        "20261107",
         62.8
       ]
     ],
     "211713": [
       [
-        "20261021",
-        63.8
-      ],
-      [
         "20261022",
         63.8
       ],
@@ -25279,15 +25105,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        62.7
+      ],
+      [
+        "20261107",
         62.7
       ]
     ],
     "220704": [
       [
-        "20261021",
-        62.8
-      ],
-      [
         "20261022",
         62.8
       ],
@@ -25349,15 +25175,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        62.2
+      ],
+      [
+        "20261107",
         62.2
       ]
     ],
     "220716": [
       [
-        "20261021",
-        62.0
-      ],
-      [
         "20261022",
         62.0
       ],
@@ -25419,15 +25245,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        62.0
+      ],
+      [
+        "20261107",
         62.0
       ]
     ],
     "211701": [
       [
-        "20261021",
-        56.8
-      ],
-      [
         "20261022",
         56.8
       ],
@@ -25489,15 +25315,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        61.9
+      ],
+      [
+        "20261107",
         61.9
       ]
     ],
     "202663": [
       [
-        "20261021",
-        60.6
-      ],
-      [
         "20261022",
         60.6
       ],
@@ -25559,15 +25385,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        61.8
+      ],
+      [
+        "20261107",
         61.8
       ]
     ],
     "211843": [
       [
-        "20261021",
-        61.7
-      ],
-      [
         "20261022",
         61.7
       ],
@@ -25629,15 +25455,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        61.1
+      ],
+      [
+        "20261107",
         61.1
       ]
     ],
     "220714": [
       [
-        "20261021",
-        62.0
-      ],
-      [
         "20261022",
         62.0
       ],
@@ -25699,15 +25525,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        61.1
+      ],
+      [
+        "20261107",
         61.1
       ]
     ],
     "221909": [
       [
-        "20261021",
-        59.2
-      ],
-      [
         "20261022",
         59.2
       ],
@@ -25769,15 +25595,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        61.0
+      ],
+      [
+        "20261107",
         61.0
       ]
     ],
     "211337": [
       [
-        "20261021",
-        61.6
-      ],
-      [
         "20261022",
         61.6
       ],
@@ -25839,15 +25665,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        60.9
+      ],
+      [
+        "20261107",
         60.9
       ]
     ],
     "260172": [
       [
-        "20261021",
-        60.2
-      ],
-      [
         "20261022",
         60.2
       ],
@@ -25909,15 +25735,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        60.7
+      ],
+      [
+        "20261107",
         60.7
       ]
     ],
     "263857": [
       [
-        "20261021",
-        61.2
-      ],
-      [
         "20261022",
         61.2
       ],
@@ -25979,15 +25805,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        60.7
+      ],
+      [
+        "20261107",
         60.7
       ]
     ],
     "203501": [
       [
-        "20261021",
-        60.4
-      ],
-      [
         "20261022",
         60.4
       ],
@@ -26049,15 +25875,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        60.5
+      ],
+      [
+        "20261107",
         60.5
       ]
     ],
     "220520": [
       [
-        "20261021",
-        60.2
-      ],
-      [
         "20261022",
         60.2
       ],
@@ -26119,15 +25945,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        60.2
+      ],
+      [
+        "20261107",
         60.2
       ]
     ],
     "216083": [
       [
-        "20261021",
-        60.9
-      ],
-      [
         "20261022",
         60.9
       ],
@@ -26189,15 +26015,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        60.1
+      ],
+      [
+        "20261107",
         60.1
       ]
     ],
     "230319": [
       [
-        "20261021",
-        59.7
-      ],
-      [
         "20261022",
         59.7
       ],
@@ -26259,15 +26085,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        59.9
+      ],
+      [
+        "20261107",
         59.9
       ]
     ],
     "211817": [
       [
-        "20261021",
-        59.4
-      ],
-      [
         "20261022",
         59.4
       ],
@@ -26329,15 +26155,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        59.4
+      ],
+      [
+        "20261107",
         59.4
       ]
     ],
     "202499": [
       [
-        "20261021",
-        59.7
-      ],
-      [
         "20261022",
         59.7
       ],
@@ -26399,15 +26225,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        59.2
+      ],
+      [
+        "20261107",
         59.2
       ]
     ],
     "221883": [
       [
-        "20261021",
-        58.0
-      ],
-      [
         "20261022",
         58.0
       ],
@@ -26469,6 +26295,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        58.8
+      ],
+      [
+        "20261107",
         58.8
       ]
     ],
@@ -26496,13 +26326,13 @@ window.TENNIS_DATA = {
       [
         "20261106",
         57.9
+      ],
+      [
+        "20261107",
+        57.9
       ]
     ],
     "214388": [
-      [
-        "20261021",
-        57.6
-      ],
       [
         "20261022",
         57.6
@@ -26565,15 +26395,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.8
+      ],
+      [
+        "20261107",
         57.8
       ]
     ],
     "233741": [
       [
-        "20261021",
-        57.8
-      ],
-      [
         "20261022",
         57.8
       ],
@@ -26635,15 +26465,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.8
+      ],
+      [
+        "20261107",
         57.8
       ]
     ],
     "214040": [
       [
-        "20261021",
-        58.0
-      ],
-      [
         "20261022",
         58.0
       ],
@@ -26705,15 +26535,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.4
+      ],
+      [
+        "20261107",
         57.4
       ]
     ],
     "238184": [
       [
-        "20261021",
-        56.8
-      ],
-      [
         "20261022",
         56.8
       ],
@@ -26775,15 +26605,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.1
+      ],
+      [
+        "20261107",
         57.1
       ]
     ],
     "211651": [
       [
-        "20261021",
-        56.4
-      ],
-      [
         "20261022",
         56.4
       ],
@@ -26845,15 +26675,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.0
+      ],
+      [
+        "20261107",
         57.0
       ]
     ],
     "221054": [
       [
-        "20261021",
-        57.0
-      ],
-      [
         "20261022",
         57.0
       ],
@@ -26915,15 +26745,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        57.0
+      ],
+      [
+        "20261107",
         57.0
       ]
     ],
     "219917": [
       [
-        "20261021",
-        56.1
-      ],
-      [
         "20261022",
         56.1
       ],
@@ -26985,15 +26815,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        56.8
+      ],
+      [
+        "20261107",
         56.8
       ]
     ],
     "222045": [
       [
-        "20261021",
-        55.6
-      ],
-      [
         "20261022",
         55.6
       ],
@@ -27055,15 +26885,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        56.8
+      ],
+      [
+        "20261107",
         56.8
       ]
     ],
     "220309": [
       [
-        "20261021",
-        56.9
-      ],
-      [
         "20261022",
         56.9
       ],
@@ -27125,15 +26955,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        56.4
+      ],
+      [
+        "20261107",
         56.4
       ]
     ],
     "215035": [
       [
-        "20261021",
-        55.8
-      ],
-      [
         "20261022",
         55.8
       ],
@@ -27195,15 +27025,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        55.9
+      ],
+      [
+        "20261107",
         55.9
       ]
     ],
     "211684": [
       [
-        "20261021",
-        56.2
-      ],
-      [
         "20261022",
         56.2
       ],
@@ -27265,15 +27095,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        55.8
+      ],
+      [
+        "20261107",
         55.8
       ]
     ],
     "214082": [
       [
-        "20261021",
-        55.6
-      ],
-      [
         "20261022",
         55.6
       ],
@@ -27335,15 +27165,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        55.8
+      ],
+      [
+        "20261107",
         55.8
       ]
     ],
     "213710": [
       [
-        "20261021",
-        56.3
-      ],
-      [
         "20261022",
         56.3
       ],
@@ -27405,15 +27235,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        55.7
+      ],
+      [
+        "20261107",
         55.7
       ]
     ],
     "221333": [
       [
-        "20261021",
-        55.3
-      ],
-      [
         "20261022",
         55.3
       ],
@@ -27475,15 +27305,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        55.3
+      ],
+      [
+        "20261107",
         55.3
       ]
     ],
     "215872": [
       [
-        "20261021",
-        51.5
-      ],
-      [
         "20261022",
         51.5
       ],
@@ -27545,15 +27375,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        54.4
+      ],
+      [
+        "20261107",
         54.4
       ]
     ],
     "201709": [
       [
-        "20261021",
-        54.1
-      ],
-      [
         "20261022",
         54.1
       ],
@@ -27615,15 +27445,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        54.4
+      ],
+      [
+        "20261107",
         54.4
       ]
     ],
     "252499": [
       [
-        "20261021",
-        53.3
-      ],
-      [
         "20261022",
         53.3
       ],
@@ -27685,15 +27515,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        53.8
+      ],
+      [
+        "20261107",
         53.8
       ]
     ],
     "203530": [
       [
-        "20261021",
-        54.3
-      ],
-      [
         "20261022",
         54.3
       ],
@@ -27755,15 +27585,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        53.4
+      ],
+      [
+        "20261107",
         53.4
       ]
     ],
     "215910": [
       [
-        "20261021",
-        53.5
-      ],
-      [
         "20261022",
         53.5
       ],
@@ -27825,15 +27655,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        53.1
+      ],
+      [
+        "20261107",
         53.1
       ]
     ],
     "213583": [
       [
-        "20261021",
-        52.1
-      ],
-      [
         "20261022",
         52.1
       ],
@@ -27895,15 +27725,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        52.5
+      ],
+      [
+        "20261107",
         52.5
       ]
     ],
     "221354": [
       [
-        "20261021",
-        52.5
-      ],
-      [
         "20261022",
         52.5
       ],
@@ -27965,15 +27795,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        52.5
+      ],
+      [
+        "20261107",
         52.5
       ]
     ],
     "201533": [
       [
-        "20261021",
-        53.3
-      ],
-      [
         "20261022",
         53.3
       ],
@@ -28035,15 +27865,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        52.0
+      ],
+      [
+        "20261107",
         52.0
       ]
     ],
     "269714": [
       [
-        "20261021",
-        51.8
-      ],
-      [
         "20261022",
         51.8
       ],
@@ -28105,15 +27935,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.8
+      ],
+      [
+        "20261107",
         51.8
       ]
     ],
     "259871": [
       [
-        "20261021",
-        51.8
-      ],
-      [
         "20261022",
         51.8
       ],
@@ -28175,15 +28005,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.8
+      ],
+      [
+        "20261107",
         51.8
       ]
     ],
     "260168": [
       [
-        "20261021",
-        51.8
-      ],
-      [
         "20261022",
         51.8
       ],
@@ -28245,15 +28075,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.8
+      ],
+      [
+        "20261107",
         51.8
       ]
     ],
     "267020": [
       [
-        "20261021",
-        51.8
-      ],
-      [
         "20261022",
         51.8
       ],
@@ -28315,15 +28145,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.8
+      ],
+      [
+        "20261107",
         51.8
       ]
     ],
     "238075": [
       [
-        "20261021",
-        52.8
-      ],
-      [
         "20261022",
         52.8
       ],
@@ -28385,6 +28215,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.7
+      ],
+      [
+        "20261107",
         51.7
       ]
     ],
@@ -28412,13 +28246,13 @@ window.TENNIS_DATA = {
       [
         "20261106",
         51.1
+      ],
+      [
+        "20261107",
+        51.1
       ]
     ],
     "222661": [
-      [
-        "20261021",
-        51.3
-      ],
       [
         "20261022",
         51.3
@@ -28481,15 +28315,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        51.0
+      ],
+      [
+        "20261107",
         51.0
       ]
     ],
     "222145": [
       [
-        "20261021",
-        54.4
-      ],
-      [
         "20261022",
         54.4
       ],
@@ -28551,15 +28385,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.7
+      ],
+      [
+        "20261107",
         50.7
       ]
     ],
     "223194": [
       [
-        "20261021",
-        50.1
-      ],
-      [
         "20261022",
         50.1
       ],
@@ -28621,15 +28455,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.7
+      ],
+      [
+        "20261107",
         50.7
       ]
     ],
     "222601": [
       [
-        "20261021",
-        51.1
-      ],
-      [
         "20261022",
         51.1
       ],
@@ -28691,15 +28525,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.7
+      ],
+      [
+        "20261107",
         50.7
       ]
     ],
     "259733": [
       [
-        "20261021",
-        49.4
-      ],
-      [
         "20261022",
         49.4
       ],
@@ -28761,15 +28595,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.5
+      ],
+      [
+        "20261107",
         50.5
       ]
     ],
     "201548": [
       [
-        "20261021",
-        50.0
-      ],
-      [
         "20261022",
         50.0
       ],
@@ -28831,15 +28665,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        50.0
+      ],
+      [
+        "20261107",
         50.0
       ]
     ],
     "222966": [
       [
-        "20261021",
-        49.8
-      ],
-      [
         "20261022",
         49.8
       ],
@@ -28901,15 +28735,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        49.8
+      ],
+      [
+        "20261107",
         49.8
       ]
     ],
     "215453": [
       [
-        "20261021",
-        49.7
-      ],
-      [
         "20261022",
         49.7
       ],
@@ -28971,15 +28805,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        49.7
+      ],
+      [
+        "20261107",
         49.7
       ]
     ],
     "203514": [
       [
-        "20261021",
-        48.9
-      ],
-      [
         "20261022",
         48.9
       ],
@@ -29041,15 +28875,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        48.9
+      ],
+      [
+        "20261107",
         48.9
       ]
     ],
     "247669": [
       [
-        "20261021",
-        48.9
-      ],
-      [
         "20261022",
         48.9
       ],
@@ -29111,15 +28945,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        48.9
+      ],
+      [
+        "20261107",
         48.9
       ]
     ],
     "210622": [
       [
-        "20261021",
-        48.8
-      ],
-      [
         "20261022",
         48.8
       ],
@@ -29181,15 +29015,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        48.8
+      ],
+      [
+        "20261107",
         48.8
       ]
     ],
     "215370": [
       [
-        "20261021",
-        48.7
-      ],
-      [
         "20261022",
         48.7
       ],
@@ -29251,15 +29085,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        48.7
+      ],
+      [
+        "20261107",
         48.7
       ]
     ],
     "213887": [
       [
-        "20261021",
-        48.9
-      ],
-      [
         "20261022",
         48.9
       ],
@@ -29321,15 +29155,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        48.6
+      ],
+      [
+        "20261107",
         48.6
       ]
     ],
     "215020": [
       [
-        "20261021",
-        51.7
-      ],
-      [
         "20261022",
         51.7
       ],
@@ -29391,15 +29225,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        48.1
+      ],
+      [
+        "20261107",
         48.1
       ]
     ],
     "211685": [
       [
-        "20261021",
-        48.0
-      ],
-      [
         "20261022",
         48.0
       ],
@@ -29461,15 +29295,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        48.0
+      ],
+      [
+        "20261107",
         48.0
       ]
     ],
     "220465": [
       [
-        "20261021",
-        48.0
-      ],
-      [
         "20261022",
         48.0
       ],
@@ -29531,15 +29365,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        47.4
+      ],
+      [
+        "20261107",
         47.4
       ]
     ],
     "221407": [
       [
-        "20261021",
-        47.2
-      ],
-      [
         "20261022",
         47.2
       ],
@@ -29601,6 +29435,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        47.2
+      ],
+      [
+        "20261107",
         47.2
       ]
     ],
@@ -29628,13 +29466,13 @@ window.TENNIS_DATA = {
       [
         "20261106",
         46.9
+      ],
+      [
+        "20261107",
+        46.9
       ]
     ],
     "243420": [
-      [
-        "20261021",
-        46.9
-      ],
       [
         "20261022",
         46.9
@@ -29697,6 +29535,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        46.7
+      ],
+      [
+        "20261107",
         46.7
       ]
     ],
@@ -29748,13 +29590,13 @@ window.TENNIS_DATA = {
       [
         "20261106",
         45.7
+      ],
+      [
+        "20261107",
+        45.7
       ]
     ],
     "214906": [
-      [
-        "20261021",
-        45.9
-      ],
       [
         "20261022",
         45.9
@@ -29817,15 +29659,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        45.3
+      ],
+      [
+        "20261107",
         45.3
       ]
     ],
     "221237": [
       [
-        "20261021",
-        45.1
-      ],
-      [
         "20261022",
         45.1
       ],
@@ -29887,15 +29729,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        45.1
+      ],
+      [
+        "20261107",
         45.1
       ]
     ],
     "263644": [
       [
-        "20261021",
-        45.1
-      ],
-      [
         "20261022",
         45.1
       ],
@@ -29957,15 +29799,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        45.1
+      ],
+      [
+        "20261107",
         45.1
       ]
     ],
     "205925": [
       [
-        "20261021",
-        44.9
-      ],
-      [
         "20261022",
         44.9
       ],
@@ -30027,15 +29869,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        44.9
+      ],
+      [
+        "20261107",
         44.9
       ]
     ],
     "220699": [
       [
-        "20261021",
-        44.3
-      ],
-      [
         "20261022",
         44.3
       ],
@@ -30097,15 +29939,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        44.3
+      ],
+      [
+        "20261107",
         44.3
       ]
     ],
     "215899": [
       [
-        "20261021",
-        44.2
-      ],
-      [
         "20261022",
         44.2
       ],
@@ -30167,15 +30009,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        44.2
+      ],
+      [
+        "20261107",
         44.2
       ]
     ],
     "216016": [
       [
-        "20261021",
-        43.6
-      ],
-      [
         "20261022",
         43.6
       ],
@@ -30237,15 +30079,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        43.7
+      ],
+      [
+        "20261107",
         43.7
       ]
     ],
     "220435": [
       [
-        "20261021",
-        43.7
-      ],
-      [
         "20261022",
         43.7
       ],
@@ -30307,15 +30149,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        43.7
+      ],
+      [
+        "20261107",
         43.7
       ]
     ],
     "211539": [
       [
-        "20261021",
-        42.9
-      ],
-      [
         "20261022",
         42.9
       ],
@@ -30377,15 +30219,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        43.5
+      ],
+      [
+        "20261107",
         43.5
       ]
     ],
     "221257": [
       [
-        "20261021",
-        44.9
-      ],
-      [
         "20261022",
         44.9
       ],
@@ -30447,15 +30289,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        42.9
+      ],
+      [
+        "20261107",
         42.9
       ]
     ],
     "214459": [
       [
-        "20261021",
-        42.8
-      ],
-      [
         "20261022",
         42.8
       ],
@@ -30517,15 +30359,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        42.8
+      ],
+      [
+        "20261107",
         42.8
       ]
     ],
     "220722": [
       [
-        "20261021",
-        42.3
-      ],
-      [
         "20261022",
         42.3
       ],
@@ -30587,15 +30429,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        42.3
+      ],
+      [
+        "20261107",
         42.3
       ]
     ],
     "221406": [
       [
-        "20261021",
-        40.1
-      ],
-      [
         "20261022",
         40.1
       ],
@@ -30657,15 +30499,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        42.1
+      ],
+      [
+        "20261107",
         42.1
       ]
     ],
     "215936": [
       [
-        "20261021",
-        41.1
-      ],
-      [
         "20261022",
         41.1
       ],
@@ -30727,15 +30569,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        41.3
+      ],
+      [
+        "20261107",
         41.3
       ]
     ],
     "216566": [
       [
-        "20261021",
-        40.3
-      ],
-      [
         "20261022",
         40.3
       ],
@@ -30797,15 +30639,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        41.2
+      ],
+      [
+        "20261107",
         41.2
       ]
     ],
     "206417": [
       [
-        "20261021",
-        40.6
-      ],
-      [
         "20261022",
         40.6
       ],
@@ -30867,15 +30709,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        40.6
+      ],
+      [
+        "20261107",
         40.6
       ]
     ],
     "214593": [
       [
-        "20261021",
-        40.6
-      ],
-      [
         "20261022",
         40.6
       ],
@@ -30937,15 +30779,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        40.6
+      ],
+      [
+        "20261107",
         40.6
       ]
     ],
     "222290": [
       [
-        "20261021",
-        41.7
-      ],
-      [
         "20261022",
         41.7
       ],
@@ -31007,15 +30849,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        40.4
+      ],
+      [
+        "20261107",
         40.4
       ]
     ],
     "260664": [
       [
-        "20261021",
-        40.2
-      ],
-      [
         "20261022",
         40.2
       ],
@@ -31077,15 +30919,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        40.2
+      ],
+      [
+        "20261107",
         40.2
       ]
     ],
     "220416": [
       [
-        "20261021",
-        39.9
-      ],
-      [
         "20261022",
         39.9
       ],
@@ -31147,15 +30989,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        39.9
+      ],
+      [
+        "20261107",
         39.9
       ]
     ],
     "221124": [
       [
-        "20261021",
-        39.1
-      ],
-      [
         "20261022",
         39.1
       ],
@@ -31217,15 +31059,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        39.1
+      ],
+      [
+        "20261107",
         39.1
       ]
     ],
     "210886": [
       [
-        "20261021",
-        38.7
-      ],
-      [
         "20261022",
         38.7
       ],
@@ -31287,15 +31129,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        38.2
+      ],
+      [
+        "20261107",
         38.2
       ]
     ],
     "266376": [
       [
-        "20261021",
-        37.4
-      ],
-      [
         "20261022",
         37.4
       ],
@@ -31357,15 +31199,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        37.4
+      ],
+      [
+        "20261107",
         37.4
       ]
     ],
     "215037": [
       [
-        "20261021",
-        37.0
-      ],
-      [
         "20261022",
         37.0
       ],
@@ -31427,15 +31269,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        37.0
+      ],
+      [
+        "20261107",
         37.0
       ]
     ],
     "215571": [
       [
-        "20261021",
-        36.7
-      ],
-      [
         "20261022",
         36.7
       ],
@@ -31497,15 +31339,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        36.7
+      ],
+      [
+        "20261107",
         36.7
       ]
     ],
     "221243": [
       [
-        "20261021",
-        36.5
-      ],
-      [
         "20261022",
         36.5
       ],
@@ -31567,15 +31409,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        36.5
+      ],
+      [
+        "20261107",
         36.5
       ]
     ],
     "220742": [
       [
-        "20261021",
-        36.1
-      ],
-      [
         "20261022",
         36.1
       ],
@@ -31637,15 +31479,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        36.1
+      ],
+      [
+        "20261107",
         36.1
       ]
     ],
     "201585": [
       [
-        "20261021",
-        35.3
-      ],
-      [
         "20261022",
         35.3
       ],
@@ -31707,15 +31549,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.3
+      ],
+      [
+        "20261107",
         35.3
       ]
     ],
     "211279": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -31777,15 +31619,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "221236": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -31847,15 +31689,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "221307": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -31917,15 +31759,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "211814": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -31987,15 +31829,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "223168": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -32057,15 +31899,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "223333": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -32127,15 +31969,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "236955": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -32197,15 +32039,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "213666": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -32267,15 +32109,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
     "214461": [
       [
-        "20261021",
-        35.0
-      ],
-      [
         "20261022",
         35.0
       ],
@@ -32337,6 +32179,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ],
@@ -32364,13 +32210,13 @@ window.TENNIS_DATA = {
       [
         "20261106",
         35.0
+      ],
+      [
+        "20261107",
+        35.0
       ]
     ],
     "220589": [
-      [
-        "20261021",
-        35.0
-      ],
       [
         "20261022",
         35.0
@@ -32433,6 +32279,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261106",
+        35.0
+      ],
+      [
+        "20261107",
         35.0
       ]
     ]

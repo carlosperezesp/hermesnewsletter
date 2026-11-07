@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-06 20:05 UTC",
+  "UPDATED": "2026-11-07 00:09 UTC",
   "EVENTS": [
+    {
+      "id": "f1:win:MSC Cruises São Paulo Grand Prix:Lando Norris",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "Lando Norris ganó el MSC Cruises São Paulo Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-11-07"
+    },
     {
       "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
       "sport": "motogp",
@@ -11,18 +19,18 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-01"
     },
     {
-      "id": "f1:win:Mexico City Grand Prix:Charles Leclerc",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "Charles Leclerc ganó el Mexico City Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-10-31"
-    },
-    {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
       "sport": "indycar",
       "detail": "IndyCar",
       "text": "Scott McLaughlin ganó en Grand Prix of Monterey",
+      "weight": 100,
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "id": "f1:win:Mexico City Grand Prix:Charles Leclerc",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "Charles Leclerc ganó el Mexico City Grand Prix",
       "weight": 100,
       "firstSeen": "2026-10-31"
     },
@@ -276,15 +284,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-24"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "David Pastrnak entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-23"
-    },
-    {
       "id": "tennis:out:ATP:Felix Auger Aliassime:20261029",
       "sport": "tennis",
       "detail": "Tenis",
@@ -355,15 +354,6 @@ window.GLORY_DATA = {
       "text": "Nauman Ali cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Vasily Podkolzin",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Vasily Podkolzin cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-10-23"
     }
   ],
   "REPORTS": [],

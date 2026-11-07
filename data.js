@@ -9057,9 +9057,9 @@ window.NHL_DATA = {
       "name": "James Reimer",
       "pos": "G",
       "teamCode": "NYR",
-      "age": 38,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -27232,9 +27232,9 @@ window.NHL_DATA = {
       "name": "Dominic Toninato",
       "pos": "C",
       "teamCode": "CHI",
-      "age": 32,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cf0a2c",
         "secondary": "#111111"
@@ -38997,10 +38997,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-06 20:03 UTC",
+  "LAST_UPDATE": "2026-11-07 00:06 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-06T20:03:15Z"
+    "standingsDateTimeUtc": "2026-11-07T00:06:00Z"
   }
 };
