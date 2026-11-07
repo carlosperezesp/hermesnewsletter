@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-07 18:15 UTC
+// Auto-generated 2026-11-07 23:39 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-11-07 18:15 UTC",
+  "UPDATED": "2026-11-07 23:39 UTC",
   "SEASON": "2026",
   "ROUND": 18,
   "TOTAL_ROUNDS": 25,
@@ -22,7 +22,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 380.0,
-      "lastWeekendPoints": 15.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 60.8,
       "stats": {
@@ -47,7 +47,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 261.0,
-      "lastWeekendPoints": 25.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 41.8,
       "stats": {
@@ -72,7 +72,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 259.0,
-      "lastWeekendPoints": 18.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 41.4,
       "stats": {
@@ -97,7 +97,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 250.0,
-      "lastWeekendPoints": 8.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 40.0,
       "stats": {
@@ -122,7 +122,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 245.0,
-      "lastWeekendPoints": 12.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 39.2,
       "stats": {
@@ -147,7 +147,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 221.0,
-      "lastWeekendPoints": 10.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 35.4,
       "stats": {
@@ -197,7 +197,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 107.0,
-      "lastWeekendPoints": 2.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 17.1,
       "stats": {
@@ -222,7 +222,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 83.0,
-      "lastWeekendPoints": 6.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 13.3,
       "stats": {
@@ -555,9 +555,9 @@ window.F1_DATA = {
     }
   ],
   "LAST_WEEKEND": {
-    "id": "600057447",
-    "name": "Mexico City Grand Prix",
-    "label": "MEX",
+    "id": "600057448",
+    "name": "MSC Cruises São Paulo Grand Prix",
+    "label": "BRA",
     "includesSprint": false
   },
   "LAST_RACE": {

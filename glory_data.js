@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-07 18:17 UTC",
+  "UPDATED": "2026-11-07 23:41 UTC",
   "EVENTS": [
     {
       "id": "f1:win:MSC Cruises São Paulo Grand Prix:Lando Norris",
@@ -705,8 +705,8 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
-      "Florida Panthers",
       "Colorado Avalanche",
+      "Florida Panthers",
       "St. Louis Blues",
       "Carolina Hurricanes",
       "Edmonton Oilers",

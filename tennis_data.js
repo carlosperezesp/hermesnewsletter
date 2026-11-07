@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-07 18:17 UTC
+// Auto-generated 2026-11-07 23:41 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-07 18:17 UTC",
+  "UPDATED": "2026-11-07 23:41 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8673,7 +8673,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -11247,7 +11247,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Bianca Andreescu",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 36.1,
