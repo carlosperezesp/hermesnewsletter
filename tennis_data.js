@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-07 11:46 UTC
+// Auto-generated 2026-11-07 13:19 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-07 11:46 UTC",
+  "UPDATED": "2026-11-07 13:19 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6175,7 +6175,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 69.0
@@ -6447,7 +6447,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 65.7
@@ -8741,7 +8741,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Angola Ladies Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 51.6
@@ -8979,7 +8979,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 45.3
@@ -11181,7 +11181,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maria Sakkari",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 3-6 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 69.2,
@@ -11223,15 +11223,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Janice Tjen",
+          "w": "Robin Montgomery",
           "w_logo": "",
-          "l": "Robin Montgomery",
+          "l": "Janice Tjen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 50.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 50.7,
           "match_score": 50.7
         }
       ]
@@ -11276,15 +11276,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Yasmine Kabbaj",
+          "w": "Anna Blinkova",
           "w_logo": "",
-          "l": "Anna Blinkova",
+          "l": "Yasmine Kabbaj",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 2-6 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 48.1,
+          "w_score": 48.1,
+          "l_score": null,
+          "match_score": 48.1
+        },
+        {
+          "round": "Semifinal",
+          "w": "Anna Blinkova",
+          "w_logo": "",
+          "l": "Gina Feistel",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 48.1,
+          "l_score": null,
           "match_score": 48.1
         },
         {
@@ -11293,25 +11306,12 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sofya Lansere",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
-        },
-        {
-          "round": "Semifinal",
-          "w": "Gina Feistel",
-          "w_logo": "",
-          "l": "TBD",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
         }
       ]
     }
@@ -11567,7 +11567,7 @@ window.TENNIS_DATA = {
       "Yuliana Lizarazo"
     ],
     "aliveCount": 64,
-    "matchesSeen": 119
+    "matchesSeen": 121
   },
   "ATP_SCORE_LOG": {
     "206173": [
