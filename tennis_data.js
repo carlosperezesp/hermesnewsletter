@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-07 13:19 UTC
+// Auto-generated 2026-11-07 17:54 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-07 13:19 UTC",
+  "UPDATED": "2026-11-07 17:54 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1361,7 +1361,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 62.9
@@ -6823,7 +6823,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chennai Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 61.4
@@ -8323,7 +8323,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chennai Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 54.2
@@ -8673,7 +8673,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -8741,7 +8741,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Angola Ladies Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 51.6
@@ -9223,7 +9223,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chennai Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 43.7
@@ -9891,7 +9891,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Reto Win Tennis Cali Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -10139,7 +10139,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Angola Ladies Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10960,9 +10960,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Casper Ruud",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.9,
           "l_score": 79.0,
           "match_score": 90.9
@@ -10973,9 +10973,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Luca Van Assche",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-7 6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.2,
           "l_score": 62.9,
           "match_score": 75.2
@@ -11214,24 +11214,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anastasia Zakharova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.8,
           "l_score": 43.7,
           "match_score": 61.8
         },
         {
           "round": "Semifinal",
-          "w": "Robin Montgomery",
+          "w": "Janice Tjen",
           "w_logo": "",
-          "l": "Janice Tjen",
+          "l": "Robin Montgomery",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 50.7,
+          "w_score": 50.7,
+          "l_score": null,
           "match_score": 50.7
         }
       ]
@@ -11242,30 +11242,30 @@ window.TENNIS_DATA = {
       "surface": "",
       "matches": [
         {
+          "round": "F",
+          "w": "Leyre Romero Gormaz",
+          "w_logo": "",
+          "l": "Bianca Andreescu",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 36.1,
+          "l_score": 48.7,
+          "match_score": 48.7
+        },
+        {
           "round": "Semifinal",
           "w": "Bianca Andreescu",
           "w_logo": "",
           "l": "Alice Tubello",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.7,
           "l_score": null,
           "match_score": 48.7
-        },
-        {
-          "round": "F",
-          "w": "Leyre Romero Gormaz",
-          "w_logo": "",
-          "l": "TBD",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 36.1,
-          "l_score": null,
-          "match_score": 36.1
         }
       ]
     },
@@ -11293,24 +11293,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Gina Feistel",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-7 6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.1,
           "l_score": null,
           "match_score": 48.1
         },
         {
           "round": "Semifinal",
-          "w": "Noma Noha Akugue",
+          "w": "Sofya Lansere",
           "w_logo": "",
-          "l": "Sofya Lansere",
+          "l": "Noma Noha Akugue",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (8-6) 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 35.0,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 35.0,
           "match_score": 35.0
         }
       ]
@@ -11567,7 +11567,7 @@ window.TENNIS_DATA = {
       "Yuliana Lizarazo"
     ],
     "aliveCount": 64,
-    "matchesSeen": 121
+    "matchesSeen": 124
   },
   "ATP_SCORE_LOG": {
     "206173": [

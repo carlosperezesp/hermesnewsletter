@@ -1,20 +1,70 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-11-07 13:18 UTC",
-  "LAST_MATCH": "2026-11-06",
+  "UPDATED": "2026-11-07 17:53 UTC",
+  "LAST_MATCH": "2026-11-07",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 365,
+    "incrementalMatches": 367,
     "teams": 162,
-    "matches": 10060,
-    "through": "2026-11-06"
+    "matches": 10062,
+    "through": "2026-11-07"
   },
   "IMPORTANCE": 6.5,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-11-07",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Scotland",
+          "teamCode": "SCO",
+          "colors": {
+            "primary": "#005eb8",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "homeScore": 21,
+        "awayScore": 43,
+        "venue": "Scottish Gas Murrayfield",
+        "city": "Edinburgh"
+      },
+      {
+        "date": "2026-11-07",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Italy",
+          "teamCode": "ITA",
+          "colors": {
+            "primary": "#0066b3",
+            "secondary": "#009246"
+          }
+        },
+        "away": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "homeScore": 7,
+        "awayScore": 66,
+        "venue": "Allianz Stadium",
+        "city": ""
+      },
       {
         "date": "2026-11-06",
         "status": "final",
@@ -97,31 +147,6 @@ window.RUGBY_DATA = {
         "status": "scheduled",
         "competition": "Nations Championship",
         "home": {
-          "name": "Scotland",
-          "teamCode": "SCO",
-          "colors": {
-            "primary": "#005eb8",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Scottish Gas Murrayfield",
-        "city": "Edinburgh"
-      },
-      {
-        "date": "2026-11-07",
-        "status": "scheduled",
-        "competition": "Nations Championship",
-        "home": {
           "name": "Wales",
           "teamCode": "WAL",
           "colors": {
@@ -141,31 +166,6 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Principality Stadium",
         "city": "Cardiff"
-      },
-      {
-        "date": "2026-11-07",
-        "status": "scheduled",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "Italy",
-          "teamCode": "ITA",
-          "colors": {
-            "primary": "#0066b3",
-            "secondary": "#009246"
-          }
-        },
-        "away": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Allianz Stadium",
-        "city": ""
       },
       {
         "date": "2026-11-07",
@@ -391,6 +391,56 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Allianz Stadium",
         "city": "London"
+      },
+      {
+        "date": "2026-11-21",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Scotland",
+          "teamCode": "SCO",
+          "colors": {
+            "primary": "#005eb8",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Scottish Gas Murrayfield",
+        "city": "Edinburgh"
+      },
+      {
+        "date": "2026-11-21",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Ireland",
+          "teamCode": "IRE",
+          "colors": {
+            "primary": "#169b62",
+            "secondary": "#ff883e"
+          }
+        },
+        "away": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Aviva Stadium",
+        "city": "Dublin"
       }
     ]
   },
@@ -411,15 +461,15 @@ window.RUGBY_DATA = {
       "name": "South Africa",
       "teamCode": "RSA",
       "country": "South Africa",
-      "elo": 2705.9,
-      "eloRaw": 2705.9,
-      "lastMatch": "2026-09-27",
-      "inactiveDays": 40,
+      "elo": 2708.3,
+      "eloRaw": 2708.3,
+      "lastMatch": "2026-11-07",
+      "inactiveDays": 0,
       "peakElo": 2739.8,
       "peakDate": "2026-09-12",
       "worldCups": 4,
       "record": {
-        "w": 363,
+        "w": 364,
         "l": 180,
         "d": 25
       },
@@ -427,22 +477,22 @@ window.RUGBY_DATA = {
         "primary": "#007a4d",
         "secondary": "#ffb612"
       },
-      "note": "363V-180D-25E · último 2026-09-27 · raw 2706"
+      "note": "364V-180D-25E · último 2026-11-07 · raw 2708"
     },
     {
       "rank": 2,
       "name": "New Zealand",
       "teamCode": "NZL",
       "country": "New Zealand",
-      "elo": 2641.5,
-      "eloRaw": 2641.5,
-      "lastMatch": "2026-10-17",
-      "inactiveDays": 20,
+      "elo": 2657.5,
+      "eloRaw": 2657.5,
+      "lastMatch": "2026-11-07",
+      "inactiveDays": 0,
       "peakElo": 2749.6,
       "peakDate": "2016-10-22",
       "worldCups": 3,
       "record": {
-        "w": 557,
+        "w": 558,
         "l": 144,
         "d": 26
       },
@@ -450,7 +500,7 @@ window.RUGBY_DATA = {
         "primary": "#111111",
         "secondary": "#d8d8d8"
       },
-      "note": "557V-144D-26E · último 2026-10-17 · raw 2642"
+      "note": "558V-144D-26E · último 2026-11-07 · raw 2658"
     },
     {
       "rank": 3,
@@ -460,7 +510,7 @@ window.RUGBY_DATA = {
       "elo": 2549.9,
       "eloRaw": 2549.9,
       "lastMatch": "2026-11-06",
-      "inactiveDays": 0,
+      "inactiveDays": 1,
       "peakElo": 2684.1,
       "peakDate": "2023-10-07",
       "worldCups": 0,
@@ -483,7 +533,7 @@ window.RUGBY_DATA = {
       "elo": 2521.7,
       "eloRaw": 2521.7,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 111,
+      "inactiveDays": 112,
       "peakElo": 2587.1,
       "peakDate": "2025-03-15",
       "worldCups": 0,
@@ -506,7 +556,7 @@ window.RUGBY_DATA = {
       "elo": 2423.1,
       "eloRaw": 2423.1,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 111,
+      "inactiveDays": 112,
       "peakElo": 2568.0,
       "peakDate": "2019-10-26",
       "worldCups": 1,
@@ -526,23 +576,23 @@ window.RUGBY_DATA = {
       "name": "Scotland",
       "teamCode": "SCO",
       "country": "Scotland",
-      "elo": 2384.1,
-      "eloRaw": 2384.1,
-      "lastMatch": "2026-07-18",
-      "inactiveDays": 111,
+      "elo": 2368.1,
+      "eloRaw": 2368.1,
+      "lastMatch": "2026-11-07",
+      "inactiveDays": 0,
       "peakElo": 2384.1,
       "peakDate": "2026-07-18",
       "worldCups": 0,
       "record": {
         "w": 346,
-        "l": 394,
+        "l": 395,
         "d": 63
       },
       "colors": {
         "primary": "#005eb8",
         "secondary": "#ffffff"
       },
-      "note": "346V-394D-63E · último 2026-07-18 · raw 2384"
+      "note": "346V-395D-63E · último 2026-11-07 · raw 2368"
     },
     {
       "rank": 7,
@@ -552,7 +602,7 @@ window.RUGBY_DATA = {
       "elo": 2287.4,
       "eloRaw": 2287.4,
       "lastMatch": "2026-10-17",
-      "inactiveDays": 20,
+      "inactiveDays": 21,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
@@ -575,7 +625,7 @@ window.RUGBY_DATA = {
       "elo": 2241.7,
       "eloRaw": 2241.7,
       "lastMatch": "2026-11-06",
-      "inactiveDays": 0,
+      "inactiveDays": 1,
       "peakElo": 2354.6,
       "peakDate": "2025-11-16",
       "worldCups": 0,
@@ -598,7 +648,7 @@ window.RUGBY_DATA = {
       "elo": 2163.1,
       "eloRaw": 2163.1,
       "lastMatch": "2026-10-24",
-      "inactiveDays": 13,
+      "inactiveDays": 14,
       "peakElo": 2249.9,
       "peakDate": "2025-09-21",
       "worldCups": 0,
@@ -621,7 +671,7 @@ window.RUGBY_DATA = {
       "elo": 2091.9,
       "eloRaw": 2091.9,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 111,
+      "inactiveDays": 112,
       "peakElo": 2470.8,
       "peakDate": "2019-03-16",
       "worldCups": 0,
