@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-08 00:48 UTC
+// Auto-generated 2026-11-08 11:59 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-08 00:48 UTC",
+  "UPDATED": "2026-11-08 11:59 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6175,7 +6175,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Prudential Hong Kong Tennis Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 69.0
@@ -11132,15 +11132,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Alexandra Eala",
+          "w": "Claire Liu",
           "w_logo": "",
-          "l": "Claire Liu",
+          "l": "Alexandra Eala",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-0",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 69.2,
-          "l_score": 45.3,
+          "scheduled": false,
+          "w_score": 45.3,
+          "l_score": 69.2,
           "match_score": 69.2
         }
       ]
@@ -11172,15 +11172,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Anna Blinkova",
+          "w": "Sofya Lansere",
           "w_logo": "",
-          "l": "Sofya Lansere",
+          "l": "Anna Blinkova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.1,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 48.1,
           "match_score": 48.1
         }
       ]
