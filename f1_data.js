@@ -1,8 +1,8 @@
-// Auto-generated 2026-11-08 18:28 UTC
+// Auto-generated 2026-11-08 23:43 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-11-08 18:28 UTC",
+  "UPDATED": "2026-11-08 23:43 UTC",
   "SEASON": "2026",
-  "ROUND": 18,
+  "ROUND": 19,
   "TOTAL_ROUNDS": 25,
   "MAX_SEASON_PTS": 625,
   "IMPORTANCE": 10.0,
@@ -21,12 +21,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 380.0,
-      "lastWeekendPoints": 0.0,
+      "points": 390.0,
+      "lastWeekendPoints": 10.0,
       "wins": 0,
-      "score": 60.8,
+      "score": 62.4,
       "stats": {
-        "pts": 380.0,
+        "pts": 390.0,
         "wins": 0
       },
       "prevRank": 1,
@@ -46,12 +46,12 @@ window.F1_DATA = {
         "secondary": "#CC1E4A"
       },
       "team": "",
-      "points": 261.0,
-      "lastWeekendPoints": 0.0,
+      "points": 279.0,
+      "lastWeekendPoints": 18.0,
       "wins": 0,
-      "score": 41.8,
+      "score": 44.6,
       "stats": {
-        "pts": 261.0,
+        "pts": 279.0,
         "wins": 0
       },
       "prevRank": 2,
@@ -59,31 +59,6 @@ window.F1_DATA = {
     },
     {
       "position": 3,
-      "name": "Lewis Hamilton",
-      "nationality": "",
-      "country": "GBR",
-      "teamCode": "ferrari",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
-      "primary": "#DC0000",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#DC0000",
-        "secondary": "#FFFFFF"
-      },
-      "team": "",
-      "points": 259.0,
-      "lastWeekendPoints": 0.0,
-      "wins": 0,
-      "score": 41.4,
-      "stats": {
-        "pts": 259.0,
-        "wins": 0
-      },
-      "prevRank": 3,
-      "age": 41
-    },
-    {
-      "position": 4,
       "name": "George Russell",
       "nationality": "",
       "country": "GBR",
@@ -96,16 +71,41 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 250.0,
-      "lastWeekendPoints": 0.0,
+      "points": 262.0,
+      "lastWeekendPoints": 12.0,
       "wins": 0,
-      "score": 40.0,
+      "score": 41.9,
       "stats": {
-        "pts": 250.0,
+        "pts": 262.0,
         "wins": 0
       },
       "prevRank": 4,
       "age": 28
+    },
+    {
+      "position": 4,
+      "name": "Lewis Hamilton",
+      "nationality": "",
+      "country": "GBR",
+      "teamCode": "ferrari",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "primary": "#DC0000",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#DC0000",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "points": 261.0,
+      "lastWeekendPoints": 2.0,
+      "wins": 0,
+      "score": 41.8,
+      "stats": {
+        "pts": 261.0,
+        "wins": 0
+      },
+      "prevRank": 3,
+      "age": 41
     },
     {
       "position": 5,
@@ -121,12 +121,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 245.0,
-      "lastWeekendPoints": 0.0,
+      "points": 249.0,
+      "lastWeekendPoints": 4.0,
       "wins": 0,
-      "score": 39.2,
+      "score": 39.8,
       "stats": {
-        "pts": 245.0,
+        "pts": 249.0,
         "wins": 0
       },
       "prevRank": 5,
@@ -146,12 +146,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 221.0,
-      "lastWeekendPoints": 0.0,
+      "points": 246.0,
+      "lastWeekendPoints": 25.0,
       "wins": 0,
-      "score": 35.4,
+      "score": 39.4,
       "stats": {
-        "pts": 221.0,
+        "pts": 246.0,
         "wins": 0
       },
       "prevRank": 6,
@@ -171,12 +171,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 144.0,
-      "lastWeekendPoints": 0.0,
+      "points": 152.0,
+      "lastWeekendPoints": 8.0,
       "wins": 0,
-      "score": 23.0,
+      "score": 24.3,
       "stats": {
-        "pts": 144.0,
+        "pts": 152.0,
         "wins": 0
       },
       "prevRank": 7,
@@ -196,12 +196,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 107.0,
-      "lastWeekendPoints": 0.0,
+      "points": 122.0,
+      "lastWeekendPoints": 15.0,
       "wins": 0,
-      "score": 17.1,
+      "score": 19.5,
       "stats": {
-        "pts": 107.0,
+        "pts": 122.0,
         "wins": 0
       },
       "prevRank": 8,
@@ -221,12 +221,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 83.0,
-      "lastWeekendPoints": 0.0,
+      "points": 89.0,
+      "lastWeekendPoints": 6.0,
       "wins": 0,
-      "score": 13.3,
+      "score": 14.2,
       "stats": {
-        "pts": 83.0,
+        "pts": 89.0,
         "wins": 0
       },
       "prevRank": 9,
@@ -270,7 +270,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 60.8,
+      "score": 62.4,
       "position": 1,
       "age": 20,
       "note": "Líder del campeonato a los 20"
@@ -286,7 +286,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 23.0,
+      "score": 24.3,
       "position": 7,
       "age": 25,
       "note": "Irrumpe a los 25 (P7)"
@@ -302,7 +302,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 17.1,
+      "score": 19.5,
       "position": 8,
       "age": 22,
       "note": "Irrumpe a los 22 (P8)"
@@ -318,7 +318,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 13.3,
+      "score": 14.2,
       "position": 9,
       "age": 24,
       "note": "Irrumpe a los 24 (P9)"
@@ -519,7 +519,7 @@ window.F1_DATA = {
       "id": "mercedes",
       "primary": "#00D2BE",
       "secondary": "#000000",
-      "points": 630.0
+      "points": 652.0
     },
     {
       "position": 2,
@@ -527,7 +527,7 @@ window.F1_DATA = {
       "id": "ferrari",
       "primary": "#DC0000",
       "secondary": "#FFFFFF",
-      "points": 504.0
+      "points": 510.0
     },
     {
       "position": 3,
@@ -535,7 +535,7 @@ window.F1_DATA = {
       "id": "red_bull",
       "primary": "#00327D",
       "secondary": "#CC1E4A",
-      "points": 382.0
+      "points": 415.0
     },
     {
       "position": 4,
@@ -543,7 +543,7 @@ window.F1_DATA = {
       "id": "mclaren",
       "primary": "#FF8700",
       "secondary": "#000000",
-      "points": 365.0
+      "points": 398.0
     },
     {
       "position": 5,
@@ -551,7 +551,7 @@ window.F1_DATA = {
       "id": "racing_bulls",
       "primary": "#6692FF",
       "secondary": "#FFFFFF",
-      "points": 108.0
+      "points": 114.0
     }
   ],
   "LAST_WEEKEND": {

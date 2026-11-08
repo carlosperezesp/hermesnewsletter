@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-08 18:29 UTC",
+  "UPDATED": "2026-11-08 23:44 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Qatar motorcycle Grand Prix:Marc Márquez",
@@ -140,6 +140,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mikko Rantanen",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Mikko Rantanen entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jake Sanderson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Jake Sanderson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-08"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Connor Bedard",
       "sport": "nhl",
       "detail": "NHL",
@@ -275,15 +293,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-08"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Owen Power",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Owen Power entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-07"
-    },
-    {
       "id": "rank:nba:ROAD_TO_GLORY.players:in:Austin Reaves",
       "sport": "nba",
       "detail": "NBA",
@@ -390,15 +399,6 @@ window.GLORY_DATA = {
       "text": "Asanoyama entra en el top-10 · banzuke",
       "weight": 84,
       "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-28"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jackson LaCombe",
@@ -672,9 +672,9 @@ window.GLORY_DATA = {
       "David Pastrnak",
       "Artemi Panarin",
       "Auston Matthews",
+      "Mikko Rantanen",
       "Erik Karlsson",
-      "Roman Josi",
-      "Matthew Tkachuk"
+      "Roman Josi"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -697,8 +697,8 @@ window.GLORY_DATA = {
       "Lane Hutson",
       "Jackson LaCombe",
       "Connor Bedard",
-      "Owen Power",
-      "Jack Hughes"
+      "Jack Hughes",
+      "Jake Sanderson"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Kevin Durant",
@@ -931,8 +931,8 @@ window.GLORY_DATA = {
     "f1:DRIVERS": [
       "Kimi Antonelli",
       "Max Verstappen",
-      "Lewis Hamilton",
       "George Russell",
+      "Lewis Hamilton",
       "Charles Leclerc",
       "Lando Norris",
       "Oscar Piastri",

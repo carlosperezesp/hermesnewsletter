@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-08 18:29 UTC
+// Auto-generated 2026-11-08 23:44 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-08 18:29 UTC",
+  "UPDATED": "2026-11-08 23:44 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1700,9 +1700,9 @@ window.TENNIS_DATA = {
       "prevListRank": 50,
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.5
     },
@@ -5394,7 +5394,7 @@ window.TENNIS_DATA = {
         "tournament": "FAGE WTA Finals Indian Wells",
         "state": "alive",
         "round": "Group Stage",
-        "reason": ""
+        "reason": "Eliminado en Group Stage"
       },
       "prevActiveScore": 90.4
     },
@@ -6617,10 +6617,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "DIRECTV Open Presentado por Compesar",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 63.7
     },
@@ -7979,10 +7979,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "DIRECTV Open Presentado por Compesar",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 52.0
     },
@@ -8529,10 +8529,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "DIRECTV Open Presentado por Compesar",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 49.7
     },
@@ -8637,10 +8637,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "DIRECTV Open Presentado por Compesar",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 48.8
     },
@@ -8671,10 +8671,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "DIRECTV Open Presentado por Compesar",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 48.7
     },
@@ -9119,10 +9119,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "DIRECTV Open Presentado por Compesar",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 44.3
     },
@@ -9323,10 +9323,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "DIRECTV Open Presentado por Compesar",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.8
     },
@@ -9499,10 +9499,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "DIRECTV Open Presentado por Compesar",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 40.8
     },
@@ -9889,10 +9889,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "DIRECTV Open Presentado por Compesar",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 36.1
     },
@@ -10065,10 +10065,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "DIRECTV Open Presentado por Compesar",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -10245,10 +10245,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "DIRECTV Open Presentado por Compesar",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -10950,15 +10950,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Jaume Munar",
+          "w": "Thiago Agustin Tirante",
           "w_logo": "",
-          "l": "Thiago Agustin Tirante",
+          "l": "Jaume Munar",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-3) 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 59.6,
-          "l_score": 63.9,
+          "w_score": 63.9,
+          "l_score": 59.6,
           "match_score": 63.9
         },
         {
@@ -11172,28 +11172,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Coco Gauff",
+          "w": "Jessica Pegula",
           "w_logo": "",
-          "l": "Jessica Pegula",
+          "l": "Coco Gauff",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 91.2,
-          "l_score": 89.8,
+          "scheduled": false,
+          "w_score": 89.8,
+          "l_score": 91.2,
           "match_score": 91.2
         },
         {
           "round": "Group Stage",
-          "w": "Marta Kostyuk",
+          "w": "Linda Noskova",
           "w_logo": "",
-          "l": "Linda Noskova",
+          "l": "Marta Kostyuk",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.4,
-          "l_score": 78.5,
+          "scheduled": false,
+          "w_score": 78.5,
+          "l_score": 90.4,
           "match_score": 90.4
         }
       ]
@@ -11233,7 +11233,6 @@ window.TENNIS_DATA = {
       "Ignacio Buse",
       "James Duckworth",
       "Jan-Lennard Struff",
-      "Jaume Munar",
       "Juan Manuel Cerundolo",
       "Karen Khachanov",
       "Learner Tien",
@@ -11276,6 +11275,7 @@ window.TENNIS_DATA = {
       "Frances Tiafoe",
       "Francisco Cerundolo",
       "Hubert Hurkacz",
+      "Jaume Munar",
       "Jiri Lehecka",
       "Kyrian Jacquet",
       "Luciano Darderi",
@@ -11286,7 +11286,7 @@ window.TENNIS_DATA = {
       "Titouan Droguet",
       "Valentin Vacherot"
     ],
-    "aliveCount": 42,
+    "aliveCount": 41,
     "matchesSeen": 67
   },
   "WTA_TOURNAMENT": {
@@ -11335,36 +11335,59 @@ window.TENNIS_DATA = {
       "Alexandra Eala",
       "Alexandra Shubladze",
       "Aliaksandra Sasnovich",
+      "Alice Tubello",
       "Anastasia Zakharova",
+      "Andrea Lazaro Garcia",
       "Anna Blinkova",
+      "Antonella Esquivel Useche",
       "Antonia Ruzic",
       "Aryna Sabalenka",
+      "Bianca Andreescu",
+      "Carole Monnet",
+      "Carolina Alves",
       "Claire Liu",
       "Coco Gauff",
+      "Dalila Jakupovic",
       "Diana Martynov",
       "Elena Pridankina",
       "Elina Svitolina",
+      "Elizabeth Mandlik",
       "Franziska Sziedat",
       "Gina Feistel",
+      "Irene Burillo",
       "Isabella Shinikova",
       "Janice Tjen",
+      "Jazmin Ortenzi",
       "Jeline Vandromme",
       "Jessica Pegula",
       "Joanna Garland",
+      "Julia Grabher",
+      "Julia Riera",
+      "Julieta Pareja",
       "Justina Mikulskyte",
       "Karolina Muchova",
       "Katie Boulter",
+      "Katrina Scott",
       "Kristina Kroitor",
       "Kristina Novak",
       "Ksenia Zaytseva",
+      "Laura Pigossi",
+      "Laura Samson",
+      "Leolia Jeanjean",
+      "Leyre Romero Gormaz",
       "Li Zongyu",
       "Linda Noskova",
+      "Lucia Bronzetti",
       "Lucrezia Stefanini",
+      "Luisina Giovannini",
       "Maaya Rajeshwaran Revathi",
       "Madhurima Sawant",
       "Magda Linette",
       "Mai Hontama",
+      "Maria Herazo Gonzalez",
+      "Maria Lourdes Carle",
       "Maria Sakkari",
+      "Marina Bassols Ribera",
       "Marta Kostyuk",
       "Martyna Kubka",
       "Mary Stoiana",
@@ -11375,17 +11398,26 @@ window.TENNIS_DATA = {
       "Noma Noha Akugue",
       "Oksana Selekhmeteva",
       "Polina Kudermetova",
+      "Polona Hercog",
+      "Rebeka Masarova",
       "Robin Montgomery",
       "Simona Waltert",
+      "Sofia Costoulas",
       "Sofya Lansere",
       "Sorana Cirstea",
       "Talia Gibson",
+      "Tamara Zidansek",
+      "Tatjana Maria",
       "Tereza Valentova",
       "Tiphanie Lemaitre",
       "Vaishnavi Adkar",
+      "Valentina Mediorreal Arias",
+      "Varvara Lepchenko",
+      "Veronika Erjavec",
       "Wang Xinyu",
       "Weronika Falkowska",
       "Yasmine Kabbaj",
+      "Yuliana Lizarazo",
       "Zeynep Sonmez",
       "Zhibek Kulambayeva"
     ],
@@ -11439,8 +11471,8 @@ window.TENNIS_DATA = {
       "Warona Mdlulwa",
       "Wozuko Mdlulwa"
     ],
-    "aliveCount": 56,
-    "matchesSeen": 105
+    "aliveCount": 88,
+    "matchesSeen": 121
   },
   "ATP_SCORE_LOG": {
     "206173": [

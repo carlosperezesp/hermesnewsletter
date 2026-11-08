@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-08 18:28 UTC
+// Auto-generated 2026-11-08 23:43 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-11-08 18:28 UTC",
+  "UPDATED": "2026-11-08 23:43 UTC",
   "SEASON": "2026",
   "ROUND": 19,
   "TOTAL_ROUNDS": 22,
@@ -285,17 +285,17 @@ window.MOTOGP_DATA = {
     "round": 20,
     "name": "Qatar motorcycle Grand Prix",
     "winner": "Marc Márquez",
-    "country": "ESP",
-    "bike": "Aprilia",
-    "primary": "#003366",
+    "country": "SPA",
+    "bike": "Ducati",
+    "primary": "#CC0000",
     "podium": [
       {
         "pos": 1,
         "name": "Marc Márquez",
-        "country": "ESP",
+        "country": "SPA",
         "logo": "https://flagcdn.com/24x18/es.png",
-        "bike": "Aprilia",
-        "primary": "#003366"
+        "bike": "Ducati",
+        "primary": "#CC0000"
       }
     ]
   },

@@ -3,6 +3,26 @@
 window.NBA_DATA = {
   "TEAMS": [
     {
+      "code": "PHI",
+      "city": "Philadelphia 76ers",
+      "shortName": "Philadelphia",
+      "commonName": "76ers",
+      "conf": "E",
+      "gp": 11,
+      "w": 9,
+      "l": 2,
+      "winPct": 0.818,
+      "gf": 1221,
+      "ga": 1187,
+      "gd": 34,
+      "score": 73,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+      "colors": {
+        "primary": "#006bb6",
+        "secondary": "#ed174c"
+      }
+    },
+    {
       "code": "SA",
       "city": "San Antonio Spurs",
       "shortName": "San Antonio",
@@ -60,26 +80,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#552583",
         "secondary": "#fdb927"
-      }
-    },
-    {
-      "code": "PHI",
-      "city": "Philadelphia 76ers",
-      "shortName": "Philadelphia",
-      "commonName": "76ers",
-      "conf": "E",
-      "gp": 10,
-      "w": 8,
-      "l": 2,
-      "winPct": 0.8,
-      "gf": 1094,
-      "ga": 1066,
-      "gd": 28,
-      "score": 71,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
-      "colors": {
-        "primary": "#006bb6",
-        "secondary": "#ed174c"
       }
     },
     {
@@ -588,13 +588,13 @@ window.NBA_DATA = {
       "shortName": "Chicago",
       "commonName": "Bulls",
       "conf": "E",
-      "gp": 8,
+      "gp": 9,
       "w": 1,
-      "l": 7,
-      "winPct": 0.125,
-      "gf": 893,
-      "ga": 1037,
-      "gd": -144,
+      "l": 8,
+      "winPct": 0.111,
+      "gf": 1014,
+      "ga": 1164,
+      "gd": -150,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
       "colors": {
@@ -3101,7 +3101,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-08 18:28 UTC",
+  "LAST_UPDATE": "2026-11-08 23:42 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
