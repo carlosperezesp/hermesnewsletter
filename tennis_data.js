@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-08 13:40 UTC
+// Auto-generated 2026-11-08 18:05 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-08 13:40 UTC",
+  "UPDATED": "2026-11-08 18:05 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -407,7 +407,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Paris Masters",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 75.1
@@ -1359,9 +1359,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 62.9
@@ -1393,7 +1393,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Bybit Stockholm Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -2039,9 +2039,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
+        "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 57.1
@@ -3299,8 +3299,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters",
-        "state": "out",
+        "tournament": "Bybit Stockholm Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -4087,10 +4087,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Bybit Stockholm Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 44.6
     },
@@ -5043,10 +5043,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Rolex Paris Masters · Bybit Stockholm Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Bybit Stockholm Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -8741,7 +8741,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Angola Ladies Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 51.6
@@ -10934,9 +10934,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ben Shelton",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-5) 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.9,
           "l_score": 75.2,
           "match_score": 90.9
@@ -10950,15 +10950,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Thiago Agustin Tirante",
+          "w": "Jaume Munar",
           "w_logo": "",
-          "l": "Jaume Munar",
+          "l": "Thiago Agustin Tirante",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.9,
-          "l_score": 59.6,
+          "scheduled": false,
+          "w_score": 59.6,
+          "l_score": 63.9,
           "match_score": 63.9
         },
         {
@@ -10967,9 +10967,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elias Ymer",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 7-6 (7-4)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 57.7,
           "l_score": null,
           "match_score": 57.7
@@ -11146,26 +11146,6 @@ window.TENNIS_DATA = {
       ]
     },
     {
-      "name": "Chennai Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Magda Linette",
-          "w_logo": "",
-          "l": "Janice Tjen",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 61.8,
-          "l_score": 50.7,
-          "match_score": 61.8
-        }
-      ]
-    },
-    {
       "name": "Angola Ladies Open",
       "level": "WTA 250",
       "surface": "",
@@ -11176,7 +11156,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anna Blinkova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "5-7 6-1 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11238,16 +11218,17 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Adolfo Daniel Vallejo",
+      "Aleksandr Shevchenko",
       "Alex Michelsen",
       "Alex Molcan",
       "Arthur Fils",
       "Arthur Rinderknech",
       "Ben Shelton",
+      "Borna Gojo",
       "Cameron Norrie",
       "Carlos Alcaraz",
       "Casper Ruud",
       "Daniel Merida",
-      "Elias Ymer",
       "Holger Rune",
       "Ignacio Buse",
       "James Duckworth",
@@ -11256,7 +11237,9 @@ window.TENNIS_DATA = {
       "Juan Manuel Cerundolo",
       "Karen Khachanov",
       "Learner Tien",
+      "Leo Borg",
       "Lorenzo Musetti",
+      "Lorenzo Sonego",
       "Luca Van Assche",
       "Matteo Berrettini",
       "Mattia Bellucci",
@@ -11269,6 +11252,7 @@ window.TENNIS_DATA = {
       "Rinky Hijikata",
       "Taylor Fritz",
       "Thiago Agustin Tirante",
+      "Toby Samuel",
       "Tomas Machac",
       "Tomas Martin Etcheverry",
       "Tommy Paul",
@@ -11288,12 +11272,12 @@ window.TENNIS_DATA = {
       "Brandon Nakashima",
       "Daniil Medvedev",
       "Denis Shapovalov",
+      "Elias Ymer",
       "Frances Tiafoe",
       "Francisco Cerundolo",
       "Hubert Hurkacz",
       "Jiri Lehecka",
       "Kyrian Jacquet",
-      "Lorenzo Sonego",
       "Luciano Darderi",
       "Mariano Navone",
       "Matteo Arnaldi",
@@ -11302,8 +11286,8 @@ window.TENNIS_DATA = {
       "Titouan Droguet",
       "Valentin Vacherot"
     ],
-    "aliveCount": 38,
-    "matchesSeen": 63
+    "aliveCount": 42,
+    "matchesSeen": 67
   },
   "WTA_TOURNAMENT": {
     "name": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",

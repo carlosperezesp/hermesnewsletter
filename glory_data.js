@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-08 13:40 UTC",
+  "UPDATED": "2026-11-08 18:05 UTC",
   "EVENTS": [
+    {
+      "id": "motogp:win:Qatar motorcycle Grand Prix:Marc Márquez",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Marc Márquez ganó el Qatar motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-11-08"
+    },
     {
       "id": "f1:win:MSC Cruises São Paulo Grand Prix:Lando Norris",
       "sport": "f1",
