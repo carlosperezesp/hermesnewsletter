@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-07 23:41 UTC
+// Auto-generated 2026-11-08 00:48 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-07 23:41 UTC",
+  "UPDATED": "2026-11-08 00:48 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -458,7 +458,7 @@ window.TENNIS_DATA = {
       "secondary": "#FFFFFF",
       "activeScore": 74.6,
       "legendScore": 24.9,
-      "age": 24,
+      "age": 25,
       "surface": {
         "hard": 0.643,
         "clay": 0.55,
@@ -5187,10 +5187,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "FAGE WTA Finals Indian Wells",
+        "state": "alive",
+        "round": "Group Stage",
+        "reason": ""
       },
       "prevActiveScore": 100.0
     },
@@ -5221,7 +5221,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5255,10 +5255,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "FAGE WTA Finals Indian Wells",
+        "state": "alive",
+        "round": "Group Stage",
+        "reason": ""
       },
       "prevActiveScore": 92.2
     },
@@ -5289,10 +5289,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "FAGE WTA Finals Indian Wells",
+        "state": "alive",
+        "round": "Group Stage",
+        "reason": ""
       },
       "prevActiveScore": 91.1
     },
@@ -5323,10 +5323,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "FAGE WTA Finals Indian Wells",
+        "state": "alive",
+        "round": "Group Stage",
+        "reason": ""
       },
       "prevActiveScore": 90.4
     },
@@ -5357,7 +5357,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5391,10 +5391,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "FAGE WTA Finals Indian Wells",
+        "state": "alive",
+        "round": "Group Stage",
+        "reason": ""
       },
       "prevActiveScore": 90.4
     },
@@ -5425,10 +5425,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "FAGE WTA Finals Indian Wells",
+        "state": "alive",
+        "round": "Group Stage",
+        "reason": ""
       },
       "prevActiveScore": 89.9
     },
@@ -5493,10 +5493,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "FAGE WTA Finals Indian Wells",
+        "state": "alive",
+        "round": "Group Stage",
+        "reason": ""
       },
       "prevActiveScore": 85.7
     },
@@ -5527,7 +5527,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5561,7 +5561,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5595,7 +5595,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5629,7 +5629,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5663,7 +5663,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5697,7 +5697,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5731,7 +5731,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5765,10 +5765,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "FAGE WTA Finals Indian Wells",
+        "state": "alive",
+        "round": "Group Stage",
+        "reason": ""
       },
       "prevActiveScore": 78.4
     },
@@ -5799,7 +5799,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 19,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5833,7 +5833,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5867,7 +5867,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5901,7 +5901,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5935,7 +5935,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5969,7 +5969,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6003,7 +6003,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6037,7 +6037,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6071,7 +6071,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6105,7 +6105,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6139,7 +6139,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6207,7 +6207,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6241,7 +6241,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6275,7 +6275,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6309,7 +6309,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6343,7 +6343,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6377,7 +6377,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6411,7 +6411,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6513,7 +6513,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6547,7 +6547,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6617,10 +6617,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.7
     },
@@ -6651,7 +6651,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6685,7 +6685,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6719,7 +6719,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6787,7 +6787,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6855,7 +6855,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6889,7 +6889,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6923,7 +6923,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6957,7 +6957,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6991,7 +6991,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7025,7 +7025,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7059,7 +7059,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7093,7 +7093,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7127,7 +7127,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7161,7 +7161,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7195,7 +7195,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7229,7 +7229,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7331,7 +7331,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7399,7 +7399,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7503,7 +7503,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7537,7 +7537,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7673,7 +7673,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7707,7 +7707,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7741,7 +7741,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7775,10 +7775,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.3
     },
@@ -7809,7 +7809,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7843,7 +7843,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7877,7 +7877,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7979,7 +7979,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8013,7 +8013,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8047,7 +8047,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8081,7 +8081,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8217,7 +8217,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8251,7 +8251,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8287,7 +8287,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8357,7 +8357,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8391,7 +8391,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8425,7 +8425,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8459,7 +8459,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8495,7 +8495,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8529,10 +8529,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.7
     },
@@ -8601,7 +8601,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8637,7 +8637,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8671,10 +8671,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
-        "state": "alive",
-        "round": "Semifinal",
-        "reason": ""
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.7
     },
@@ -8705,10 +8705,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.8
     },
@@ -8875,7 +8875,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8909,7 +8909,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8943,7 +8943,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9119,10 +9119,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.3
     },
@@ -9187,7 +9187,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9255,7 +9255,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9289,7 +9289,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9323,10 +9323,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.8
     },
@@ -9359,10 +9359,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.3
     },
@@ -9429,7 +9429,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9499,10 +9499,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 40.8
     },
@@ -9569,7 +9569,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9605,7 +9605,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9709,7 +9709,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9745,7 +9745,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9781,7 +9781,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9817,7 +9817,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9889,10 +9889,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 36.1
     },
@@ -9923,7 +9923,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9959,7 +9959,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10031,7 +10031,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10065,10 +10065,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -10245,10 +10245,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Reto Win Tennis Cali Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -10281,7 +10281,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10317,7 +10317,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+        "tournament": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10894,74 +10894,13 @@ window.TENNIS_DATA = {
       "surface": "Hard",
       "matches": [
         {
-          "round": "Quarterfinal",
-          "w": "Carlos Alcaraz",
-          "w_logo": "",
-          "l": "Taylor Fritz",
-          "l_logo": "",
-          "score": "6-7 (10-12) 7-5 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 90.9,
-          "l_score": 73.9,
-          "match_score": 90.9
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Ben Shelton",
-          "w_logo": "",
-          "l": "Tommy Paul",
-          "l_logo": "",
-          "score": "6-4 4-6 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 75.2,
-          "l_score": 79.5,
-          "match_score": 79.5
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Casper Ruud",
-          "w_logo": "",
-          "l": "Nuno Borges",
-          "l_logo": "",
-          "score": "7-6 (7-5) 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 79.0,
-          "l_score": 59.5,
-          "match_score": 79.0
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Luca Van Assche",
-          "w_logo": "",
-          "l": "Rinky Hijikata",
-          "l_logo": "",
-          "score": "6-4 6-7 (4-7) 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 62.9,
-          "l_score": 46.7,
-          "match_score": 62.9
-        }
-      ]
-    }
-  ],
-  "ATP_TODAY": [
-    {
-      "name": "Rolex Paris Masters",
-      "level": "Masters 1000",
-      "surface": "Hard",
-      "matches": [
-        {
           "round": "Semifinal",
           "w": "Carlos Alcaraz",
           "w_logo": "",
           "l": "Casper Ruud",
           "l_logo": "",
           "score": "6-4 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 90.9,
           "l_score": 79.0,
@@ -10974,7 +10913,7 @@ window.TENNIS_DATA = {
           "l": "Luca Van Assche",
           "l_logo": "",
           "score": "5-7 6-3 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 75.2,
           "l_score": 62.9,
@@ -10983,193 +10922,62 @@ window.TENNIS_DATA = {
       ]
     }
   ],
-  "WTA_RECENT": [
+  "ATP_TODAY": [
     {
-      "name": "Prudential Hong Kong Tennis Open",
-      "level": "WTA 250",
-      "surface": "",
+      "name": "Rolex Paris Masters",
+      "level": "Masters 1000",
+      "surface": "Hard",
       "matches": [
         {
-          "round": "Quarterfinal",
-          "w": "Alexandra Shubladze",
+          "round": "F",
+          "w": "Carlos Alcaraz",
           "w_logo": "",
-          "l": "Sorana Cirstea",
+          "l": "Ben Shelton",
           "l_logo": "",
-          "score": "6-2 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 51.8,
-          "l_score": 85.8,
-          "match_score": 85.8
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Alexandra Eala",
-          "w_logo": "",
-          "l": "Antonia Ruzic",
-          "l_logo": "",
-          "score": "7-6 (9-7) 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 69.2,
-          "l_score": 56.8,
-          "match_score": 69.2
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Maria Sakkari",
-          "w_logo": "",
-          "l": "Aliaksandra Sasnovich",
-          "l_logo": "",
-          "score": "6-2 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 65.7,
-          "l_score": 44.9,
-          "match_score": 65.7
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Claire Liu",
-          "w_logo": "",
-          "l": "Zeynep Sonmez",
-          "l_logo": "",
-          "score": "6-1 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 45.3,
-          "l_score": 56.4,
-          "match_score": 56.4
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 90.9,
+          "l_score": 75.2,
+          "match_score": 90.9
         }
       ]
     },
     {
-      "name": "Chennai Open",
-      "level": "WTA 250",
+      "name": "Bybit Stockholm Open",
+      "level": "ATP 250",
       "surface": "",
       "matches": [
         {
-          "round": "Quarterfinal",
-          "w": "Magda Linette",
+          "round": "R128",
+          "w": "Thiago Agustin Tirante",
           "w_logo": "",
-          "l": "Mai Hontama",
+          "l": "Jaume Munar",
           "l_logo": "",
-          "score": "4-6 7-5 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 61.8,
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 63.9,
+          "l_score": 59.6,
+          "match_score": 63.9
+        },
+        {
+          "round": "R128",
+          "w": "Juan Manuel Cerundolo",
+          "w_logo": "",
+          "l": "Elias Ymer",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 57.7,
           "l_score": null,
-          "match_score": 61.8
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Janice Tjen",
-          "w_logo": "",
-          "l": "Polina Kudermetova",
-          "l_logo": "",
-          "score": "5-7 6-4 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 50.7,
-          "l_score": 35.0,
-          "match_score": 50.7
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Anastasia Zakharova",
-          "w_logo": "",
-          "l": "Lucrezia Stefanini",
-          "l_logo": "",
-          "score": "6-2 5-2 ret",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 43.7,
-          "l_score": 40.6,
-          "match_score": 43.7
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Robin Montgomery",
-          "w_logo": "",
-          "l": "Maaya Rajeshwaran Revathi",
-          "l_logo": "",
-          "score": "6-3 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        }
-      ]
-    },
-    {
-      "name": "Reto Win Tennis Cali Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "Semifinal",
-          "w": "Leyre Romero Gormaz",
-          "w_logo": "",
-          "l": "Julia Riera",
-          "l_logo": "",
-          "score": "3-6 7-5 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 36.1,
-          "l_score": 44.3,
-          "match_score": 44.3
-        }
-      ]
-    },
-    {
-      "name": "Angola Ladies Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "Quarterfinal",
-          "w": "Sofya Lansere",
-          "w_logo": "",
-          "l": "Martyna Kubka",
-          "l_logo": "",
-          "score": "7-6 (7-4) 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 36.5,
-          "match_score": 36.5
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Noma Noha Akugue",
-          "w_logo": "",
-          "l": "Justina Mikulskyte",
-          "l_logo": "",
-          "score": "6-2 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 35.0,
-          "l_score": null,
-          "match_score": 35.0
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Gina Feistel",
-          "w_logo": "",
-          "l": "Ksenia Zaytseva",
-          "l_logo": "",
-          "score": "6-1 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
+          "match_score": 57.7
         }
       ]
     }
   ],
-  "WTA_TODAY": [
+  "WTA_RECENT": [
     {
       "name": "Prudential Hong Kong Tennis Open",
       "level": "WTA 250",
@@ -11182,7 +10990,7 @@ window.TENNIS_DATA = {
           "l": "Maria Sakkari",
           "l_logo": "",
           "score": "7-5 3-6 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 69.2,
           "l_score": 65.7,
@@ -11195,7 +11003,7 @@ window.TENNIS_DATA = {
           "l": "Alexandra Shubladze",
           "l_logo": "",
           "score": "7-5 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 45.3,
           "l_score": 51.8,
@@ -11215,7 +11023,7 @@ window.TENNIS_DATA = {
           "l": "Anastasia Zakharova",
           "l_logo": "",
           "score": "2-6 6-2 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 61.8,
           "l_score": 43.7,
@@ -11228,7 +11036,7 @@ window.TENNIS_DATA = {
           "l": "Robin Montgomery",
           "l_logo": "",
           "score": "6-3 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 50.7,
           "l_score": null,
@@ -11248,7 +11056,7 @@ window.TENNIS_DATA = {
           "l": "Bianca Andreescu",
           "l_logo": "",
           "score": "7-6 (7-4) 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 36.1,
           "l_score": 48.7,
@@ -11261,7 +11069,7 @@ window.TENNIS_DATA = {
           "l": "Alice Tubello",
           "l_logo": "",
           "score": "6-0 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 48.7,
           "l_score": null,
@@ -11281,7 +11089,7 @@ window.TENNIS_DATA = {
           "l": "Yasmine Kabbaj",
           "l_logo": "",
           "score": "6-2 2-6 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 48.1,
           "l_score": null,
@@ -11294,7 +11102,7 @@ window.TENNIS_DATA = {
           "l": "Gina Feistel",
           "l_logo": "",
           "score": "5-7 6-4 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 48.1,
           "l_score": null,
@@ -11307,11 +11115,106 @@ window.TENNIS_DATA = {
           "l": "Noma Noha Akugue",
           "l_logo": "",
           "score": "7-6 (8-6) 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": 35.0,
           "match_score": 35.0
+        }
+      ]
+    }
+  ],
+  "WTA_TODAY": [
+    {
+      "name": "Prudential Hong Kong Tennis Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Alexandra Eala",
+          "w_logo": "",
+          "l": "Claire Liu",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 69.2,
+          "l_score": 45.3,
+          "match_score": 69.2
+        }
+      ]
+    },
+    {
+      "name": "Chennai Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Magda Linette",
+          "w_logo": "",
+          "l": "Janice Tjen",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 61.8,
+          "l_score": 50.7,
+          "match_score": 61.8
+        }
+      ]
+    },
+    {
+      "name": "Angola Ladies Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Anna Blinkova",
+          "w_logo": "",
+          "l": "Sofya Lansere",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 48.1,
+          "l_score": null,
+          "match_score": 48.1
+        }
+      ]
+    },
+    {
+      "name": "FAGE WTA Finals Indian Wells",
+      "level": "WTA Finals",
+      "surface": "Hard",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "w": "Coco Gauff",
+          "w_logo": "",
+          "l": "Jessica Pegula",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 91.2,
+          "l_score": 89.8,
+          "match_score": 91.2
+        },
+        {
+          "round": "Group Stage",
+          "w": "Marta Kostyuk",
+          "w_logo": "",
+          "l": "Linda Noskova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 90.4,
+          "l_score": 78.5,
+          "match_score": 90.4
         }
       ]
     }
@@ -11403,7 +11306,7 @@ window.TENNIS_DATA = {
     "matchesSeen": 63
   },
   "WTA_TOURNAMENT": {
-    "name": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Reto Win Tennis Cali Open · Angola Ladies Open",
+    "name": "Prudential Hong Kong Tennis Open · Chennai Open · American Tennis Open Miami · Angola Ladies Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
     "level": "WTA 250",
     "surface": "",
     "tour": "WTA",
@@ -11424,12 +11327,22 @@ window.TENNIS_DATA = {
         "surface": "Hard"
       },
       {
-        "name": "Reto Win Tennis Cali Open",
+        "name": "Angola Ladies Open",
         "level": "WTA 250",
         "surface": ""
       },
       {
-        "name": "Angola Ladies Open",
+        "name": "FAGE WTA Finals Indian Wells",
+        "level": "WTA Finals",
+        "surface": "Hard"
+      },
+      {
+        "name": "Austin 125",
+        "level": "WTA 250",
+        "surface": ""
+      },
+      {
+        "name": "DIRECTV Open Presentado por Compesar",
         "level": "WTA 250",
         "surface": ""
       }
@@ -11438,57 +11351,49 @@ window.TENNIS_DATA = {
       "Alexandra Eala",
       "Alexandra Shubladze",
       "Aliaksandra Sasnovich",
-      "Alice Tubello",
       "Anastasia Zakharova",
       "Anna Blinkova",
       "Antonia Ruzic",
-      "Bianca Andreescu",
-      "Carole Monnet",
-      "Carolina Alves",
+      "Aryna Sabalenka",
       "Claire Liu",
-      "Despina Papamichail",
+      "Coco Gauff",
       "Diana Martynov",
       "Elena Pridankina",
+      "Elina Svitolina",
       "Franziska Sziedat",
       "Gina Feistel",
-      "Irene Burillo",
       "Isabella Shinikova",
       "Janice Tjen",
-      "Jazmin Ortenzi",
       "Jeline Vandromme",
+      "Jessica Pegula",
       "Joanna Garland",
-      "Julia Grabher",
-      "Julia Riera",
       "Justina Mikulskyte",
+      "Karolina Muchova",
       "Katie Boulter",
       "Kristina Kroitor",
       "Kristina Novak",
       "Ksenia Zaytseva",
-      "Laura Samson",
-      "Leolia Jeanjean",
-      "Leyre Romero Gormaz",
       "Li Zongyu",
+      "Linda Noskova",
       "Lucrezia Stefanini",
-      "Luisina Giovannini",
       "Maaya Rajeshwaran Revathi",
       "Madhurima Sawant",
       "Magda Linette",
       "Mai Hontama",
       "Maria Sakkari",
-      "Marina Bassols Ribera",
+      "Marta Kostyuk",
       "Martyna Kubka",
       "Mary Stoiana",
       "Maya Joint",
       "Mika Stojsavljevic",
+      "Mirra Andreeva",
       "Moyuka Uchijima",
       "Noma Noha Akugue",
       "Oksana Selekhmeteva",
       "Polina Kudermetova",
-      "Renata Zarazua",
       "Robin Montgomery",
       "Simona Waltert",
       "Sofya Lansere",
-      "Solana Sierra",
       "Sorana Cirstea",
       "Talia Gibson",
       "Tereza Valentova",
@@ -11510,8 +11415,6 @@ window.TENNIS_DATA = {
       "Darja Suvirdjonkova",
       "Dayana Yastremska",
       "Dune Vaissaud",
-      "Elizabeth Mandlik",
-      "Elvina Kalieva",
       "Emerson Jones",
       "Farah Heddar",
       "Himeno Sakatsume",
@@ -11522,59 +11425,41 @@ window.TENNIS_DATA = {
       "Katarzyna Kawa",
       "Katherine Hui",
       "Katie Volynets",
-      "Katrina Scott",
       "Kyoka Okamura",
       "Lamis Alhussein Abdel Aziz",
       "Laura Bohner",
-      "Laura Pigossi",
       "Linda Fruhvirtova",
       "Linda Klimovicova",
       "Liudmila Samsonova",
-      "Lucia Bronzetti",
       "Maayan Laron",
       "Maddison Inglis",
       "Mananchaya Sawangkaew",
-      "Maria Camila Torres Murcia",
-      "Maria Herazo Gonzalez",
-      "Maria Lourdes Carle",
-      "Maria Paulina Perez Garcia",
       "Maria Timofeeva",
       "Mei Yamaguchi",
       "Oleksandra Oliynykova",
       "Panna Udvardy",
       "Paula Badosa",
       "Polina Iatcenko",
-      "Polona Hercog",
       "Rada Zolotareva",
       "Rebecca Sramkova",
-      "Rebeka Masarova",
       "Sada Nahimana",
       "Sahaja Yamalapalli",
       "Sandra Samir",
-      "Selena Janicijevic",
-      "Sofia Costoulas",
       "Sofia Kenin",
       "Suzan Lamens",
-      "Tamara Zidansek",
       "Tatiana Prozorova",
       "Teodora Kostovic",
-      "Valentina Mediorreal Arias",
       "Venus Williams",
       "Viktoria Morvayova",
       "Viktorija Golubic",
       "Warona Mdlulwa",
-      "Wozuko Mdlulwa",
-      "Yuliana Lizarazo"
+      "Wozuko Mdlulwa"
     ],
-    "aliveCount": 64,
-    "matchesSeen": 124
+    "aliveCount": 56,
+    "matchesSeen": 105
   },
   "ATP_SCORE_LOG": {
     "206173": [
-      [
-        "20261022",
-        100.0
-      ],
       [
         "20261023",
         100.0
@@ -11637,15 +11522,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        100.0
+      ],
+      [
+        "20261108",
         100.0
       ]
     ],
     "207989": [
       [
-        "20261022",
-        90.7
-      ],
-      [
         "20261023",
         90.7
       ],
@@ -11707,15 +11592,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        90.9
+      ],
+      [
+        "20261108",
         90.9
       ]
     ],
     "100644": [
       [
-        "20261022",
-        86.7
-      ],
-      [
         "20261023",
         86.7
       ],
@@ -11777,15 +11662,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        86.9
+      ],
+      [
+        "20261108",
         86.9
       ]
     ],
     "104925": [
       [
-        "20261022",
-        86.0
-      ],
-      [
         "20261023",
         86.0
       ],
@@ -11847,15 +11732,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        86.3
+      ],
+      [
+        "20261108",
         86.3
       ]
     ],
     "209950": [
       [
-        "20261022",
-        82.9
-      ],
-      [
         "20261023",
         82.9
       ],
@@ -11917,15 +11802,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        83.4
+      ],
+      [
+        "20261108",
         83.4
       ]
     ],
     "126205": [
       [
-        "20261022",
-        79.3
-      ],
-      [
         "20261023",
         79.3
       ],
@@ -11987,15 +11872,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        79.5
+      ],
+      [
+        "20261108",
         79.5
       ]
     ],
     "134770": [
       [
-        "20261022",
-        78.8
-      ],
-      [
         "20261023",
         78.8
       ],
@@ -12057,15 +11942,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        79.0
+      ],
+      [
+        "20261108",
         79.0
       ]
     ],
     "212588": [
       [
-        "20261022",
-        77.9
-      ],
-      [
         "20261023",
         77.9
       ],
@@ -12127,15 +12012,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        78.2
+      ],
+      [
+        "20261108",
         78.2
       ]
     ],
     "106421": [
       [
-        "20261022",
-        77.7
-      ],
-      [
         "20261023",
         77.7
       ],
@@ -12197,15 +12082,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        77.9
+      ],
+      [
+        "20261108",
         77.9
       ]
     ],
     "207518": [
       [
-        "20261022",
-        76.8
-      ],
-      [
         "20261023",
         76.8
       ],
@@ -12267,15 +12152,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        77.2
+      ],
+      [
+        "20261108",
         77.2
       ]
     ],
     "200000": [
       [
-        "20261022",
-        76.0
-      ],
-      [
         "20261023",
         76.0
       ],
@@ -12337,15 +12222,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        75.3
+      ],
+      [
+        "20261108",
         75.3
       ]
     ],
     "210097": [
       [
-        "20261022",
-        75.1
-      ],
-      [
         "20261023",
         75.1
       ],
@@ -12407,15 +12292,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        75.2
+      ],
+      [
+        "20261108",
         75.2
       ]
     ],
     "200282": [
       [
-        "20261022",
-        75.3
-      ],
-      [
         "20261023",
         75.3
       ],
@@ -12477,15 +12362,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        75.2
+      ],
+      [
+        "20261108",
         75.2
       ]
     ],
     "208103": [
       [
-        "20261022",
-        73.9
-      ],
-      [
         "20261023",
         73.9
       ],
@@ -12547,15 +12432,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        74.6
+      ],
+      [
+        "20261108",
         74.6
       ]
     ],
     "207925": [
       [
-        "20261022",
-        74.4
-      ],
-      [
         "20261023",
         74.4
       ],
@@ -12617,15 +12502,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        74.5
+      ],
+      [
+        "20261108",
         74.5
       ]
     ],
     "126207": [
       [
-        "20261022",
-        74.0
-      ],
-      [
         "20261023",
         74.0
       ],
@@ -12687,15 +12572,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        74.2
+      ],
+      [
+        "20261108",
         74.2
       ]
     ],
     "126203": [
       [
-        "20261022",
-        73.6
-      ],
-      [
         "20261023",
         73.6
       ],
@@ -12757,15 +12642,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        73.9
+      ],
+      [
+        "20261108",
         73.9
       ]
     ],
     "210530": [
       [
-        "20261022",
-        73.2
-      ],
-      [
         "20261023",
         73.2
       ],
@@ -12827,15 +12712,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        73.2
+      ],
+      [
+        "20261108",
         73.2
       ]
     ],
     "126094": [
       [
-        "20261022",
-        72.7
-      ],
-      [
         "20261023",
         72.7
       ],
@@ -12897,15 +12782,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        72.8
+      ],
+      [
+        "20261108",
         72.8
       ]
     ],
     "122330": [
       [
-        "20261022",
-        73.5
-      ],
-      [
         "20261023",
         73.5
       ],
@@ -12967,15 +12852,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        72.8
+      ],
+      [
+        "20261108",
         72.8
       ]
     ],
     "202103": [
       [
-        "20261022",
-        72.4
-      ],
-      [
         "20261023",
         72.4
       ],
@@ -13037,15 +12922,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        72.6
+      ],
+      [
+        "20261108",
         72.6
       ]
     ],
     "200473": [
       [
-        "20261022",
-        71.7
-      ],
-      [
         "20261023",
         71.7
       ],
@@ -13107,15 +12992,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        72.4
+      ],
+      [
+        "20261108",
         72.4
       ]
     ],
     "200221": [
       [
-        "20261022",
-        72.2
-      ],
-      [
         "20261023",
         72.2
       ],
@@ -13177,15 +13062,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        71.7
+      ],
+      [
+        "20261108",
         71.7
       ]
     ],
     "210696": [
       [
-        "20261022",
-        71.5
-      ],
-      [
         "20261023",
         71.5
       ],
@@ -13247,15 +13132,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        71.5
+      ],
+      [
+        "20261108",
         71.5
       ]
     ],
     "211663": [
       [
-        "20261022",
-        71.7
-      ],
-      [
         "20261023",
         71.7
       ],
@@ -13317,15 +13202,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        70.3
+      ],
+      [
+        "20261108",
         70.3
       ]
     ],
     "111575": [
       [
-        "20261022",
-        67.9
-      ],
-      [
         "20261023",
         67.9
       ],
@@ -13387,15 +13272,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        68.0
+      ],
+      [
+        "20261108",
         68.0
       ]
     ],
     "206909": [
       [
-        "20261022",
-        67.2
-      ],
-      [
         "20261023",
         67.2
       ],
@@ -13457,15 +13342,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        67.2
+      ],
+      [
+        "20261108",
         67.2
       ]
     ],
     "209860": [
       [
-        "20261022",
-        66.5
-      ],
-      [
         "20261023",
         66.5
       ],
@@ -13527,15 +13412,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        66.6
+      ],
+      [
+        "20261108",
         66.6
       ]
     ],
     "128034": [
       [
-        "20261022",
-        65.3
-      ],
-      [
         "20261023",
         65.3
       ],
@@ -13597,15 +13482,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        65.5
+      ],
+      [
+        "20261108",
         65.5
       ]
     ],
     "126610": [
       [
-        "20261022",
-        65.3
-      ],
-      [
         "20261023",
         65.3
       ],
@@ -13667,15 +13552,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        65.4
+      ],
+      [
+        "20261108",
         65.4
       ]
     ],
     "126774": [
       [
-        "20261022",
-        64.4
-      ],
-      [
         "20261023",
         64.4
       ],
@@ -13737,15 +13622,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        65.1
+      ],
+      [
+        "20261108",
         65.1
       ]
     ],
     "210506": [
       [
-        "20261022",
-        64.6
-      ],
-      [
         "20261023",
         64.6
       ],
@@ -13807,15 +13692,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        65.0
+      ],
+      [
+        "20261108",
         65.0
       ]
     ],
     "126214": [
       [
-        "20261022",
-        64.3
-      ],
-      [
         "20261023",
         64.3
       ],
@@ -13877,15 +13762,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        64.5
+      ],
+      [
+        "20261108",
         64.5
       ]
     ],
     "202058": [
       [
-        "20261022",
-        64.2
-      ],
-      [
         "20261023",
         64.2
       ],
@@ -13947,15 +13832,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        63.9
+      ],
+      [
+        "20261108",
         63.9
       ]
     ],
     "209260": [
       [
-        "20261022",
-        63.4
-      ],
-      [
         "20261023",
         63.4
       ],
@@ -14017,15 +13902,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        63.8
+      ],
+      [
+        "20261108",
         63.8
       ]
     ],
     "200005": [
       [
-        "20261022",
-        63.8
-      ],
-      [
         "20261023",
         63.8
       ],
@@ -14087,15 +13972,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        63.5
+      ],
+      [
+        "20261108",
         63.5
       ]
     ],
     "111815": [
       [
-        "20261022",
-        63.9
-      ],
-      [
         "20261023",
         63.9
       ],
@@ -14157,15 +14042,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        63.4
+      ],
+      [
+        "20261108",
         63.4
       ]
     ],
     "144684": [
       [
-        "20261022",
-        62.9
-      ],
-      [
         "20261023",
         62.9
       ],
@@ -14227,15 +14112,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        63.3
+      ],
+      [
+        "20261108",
         63.3
       ]
     ],
     "208286": [
       [
-        "20261022",
-        62.8
-      ],
-      [
         "20261023",
         62.8
       ],
@@ -14297,15 +14182,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        62.9
+      ],
+      [
+        "20261108",
         62.9
       ]
     ],
     "209414": [
       [
-        "20261022",
-        62.7
-      ],
-      [
         "20261023",
         62.7
       ],
@@ -14367,15 +14252,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        62.9
+      ],
+      [
+        "20261108",
         62.9
       ]
     ],
     "207830": [
       [
-        "20261022",
-        62.5
-      ],
-      [
         "20261023",
         62.5
       ],
@@ -14437,15 +14322,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        62.9
+      ],
+      [
+        "20261108",
         62.9
       ]
     ],
     "144869": [
       [
-        "20261022",
-        63.0
-      ],
-      [
         "20261023",
         63.0
       ],
@@ -14507,15 +14392,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        62.8
+      ],
+      [
+        "20261108",
         62.8
       ]
     ],
     "134868": [
       [
-        "20261022",
-        61.5
-      ],
-      [
         "20261023",
         61.5
       ],
@@ -14577,15 +14462,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        62.8
+      ],
+      [
+        "20261108",
         62.8
       ]
     ],
     "122298": [
       [
-        "20261022",
-        61.8
-      ],
-      [
         "20261023",
         61.8
       ],
@@ -14647,15 +14532,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        62.1
+      ],
+      [
+        "20261108",
         62.1
       ]
     ],
     "208363": [
       [
-        "20261022",
-        62.0
-      ],
-      [
         "20261023",
         62.0
       ],
@@ -14717,15 +14602,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        61.7
+      ],
+      [
+        "20261108",
         61.7
       ]
     ],
     "210084": [
       [
-        "20261022",
-        60.8
-      ],
-      [
         "20261023",
         60.8
       ],
@@ -14787,15 +14672,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        60.9
+      ],
+      [
+        "20261108",
         60.9
       ]
     ],
     "209226": [
       [
-        "20261022",
-        60.9
-      ],
-      [
         "20261023",
         60.9
       ],
@@ -14857,15 +14742,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        60.7
+      ],
+      [
+        "20261108",
         60.7
       ]
     ],
     "209098": [
       [
-        "20261022",
-        60.2
-      ],
-      [
         "20261023",
         60.2
       ],
@@ -14927,15 +14812,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        60.2
+      ],
+      [
+        "20261108",
         60.2
       ]
     ],
     "209920": [
       [
-        "20261022",
-        59.8
-      ],
-      [
         "20261023",
         59.8
       ],
@@ -14997,15 +14882,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        59.9
+      ],
+      [
+        "20261108",
         59.9
       ]
     ],
     "144719": [
       [
-        "20261022",
-        61.2
-      ],
-      [
         "20261023",
         61.2
       ],
@@ -15067,15 +14952,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        59.6
+      ],
+      [
+        "20261108",
         59.6
       ]
     ],
     "132686": [
       [
-        "20261022",
-        59.0
-      ],
-      [
         "20261023",
         59.0
       ],
@@ -15137,15 +15022,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        59.5
+      ],
+      [
+        "20261108",
         59.5
       ]
     ],
     "105870": [
       [
-        "20261022",
-        59.4
-      ],
-      [
         "20261023",
         59.4
       ],
@@ -15207,15 +15092,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        59.5
+      ],
+      [
+        "20261108",
         59.5
       ]
     ],
     "200267": [
       [
-        "20261022",
-        58.8
-      ],
-      [
         "20261023",
         58.8
       ],
@@ -15277,15 +15162,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        58.9
+      ],
+      [
+        "20261108",
         58.9
       ]
     ],
     "210338": [
       [
-        "20261022",
-        58.8
-      ],
-      [
         "20261023",
         58.8
       ],
@@ -15347,15 +15232,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        58.8
+      ],
+      [
+        "20261108",
         58.8
       ]
     ],
     "126239": [
       [
-        "20261022",
-        59.5
-      ],
-      [
         "20261023",
         59.5
       ],
@@ -15417,15 +15302,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        58.7
+      ],
+      [
+        "20261108",
         58.7
       ]
     ],
     "200240": [
       [
-        "20261022",
-        57.4
-      ],
-      [
         "20261023",
         57.4
       ],
@@ -15487,15 +15372,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.9
+      ],
+      [
+        "20261108",
         57.9
       ]
     ],
     "120770": [
       [
-        "20261022",
-        57.7
-      ],
-      [
         "20261023",
         57.7
       ],
@@ -15557,15 +15442,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.7
+      ],
+      [
+        "20261108",
         57.7
       ]
     ],
     "207678": [
       [
-        "20261022",
-        57.7
-      ],
-      [
         "20261023",
         57.7
       ],
@@ -15627,15 +15512,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.7
+      ],
+      [
+        "20261108",
         57.7
       ]
     ],
     "202104": [
       [
-        "20261022",
-        57.5
-      ],
-      [
         "20261023",
         57.5
       ],
@@ -15697,15 +15582,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.2
+      ],
+      [
+        "20261108",
         57.2
       ]
     ],
     "111460": [
       [
-        "20261022",
-        56.9
-      ],
-      [
         "20261023",
         56.9
       ],
@@ -15767,15 +15652,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.0
+      ],
+      [
+        "20261108",
         57.0
       ]
     ],
     "206681": [
       [
-        "20261022",
-        56.5
-      ],
-      [
         "20261023",
         56.5
       ],
@@ -15837,15 +15722,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.0
+      ],
+      [
+        "20261108",
         57.0
       ]
     ],
     "133430": [
       [
-        "20261022",
-        56.9
-      ],
-      [
         "20261023",
         56.9
       ],
@@ -15907,15 +15792,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        56.5
+      ],
+      [
+        "20261108",
         56.5
       ]
     ],
     "208169": [
       [
-        "20261022",
-        57.5
-      ],
-      [
         "20261023",
         57.5
       ],
@@ -15977,15 +15862,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        56.4
+      ],
+      [
+        "20261108",
         56.4
       ]
     ],
     "210262": [
       [
-        "20261022",
-        55.3
-      ],
-      [
         "20261023",
         55.3
       ],
@@ -16047,15 +15932,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        55.2
+      ],
+      [
+        "20261108",
         55.2
       ]
     ],
     "105526": [
       [
-        "20261022",
-        52.9
-      ],
-      [
         "20261023",
         52.9
       ],
@@ -16117,15 +16002,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        55.1
+      ],
+      [
+        "20261108",
         55.1
       ]
     ],
     "126504": [
       [
-        "20261022",
-        54.8
-      ],
-      [
         "20261023",
         54.8
       ],
@@ -16187,15 +16072,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        54.9
+      ],
+      [
+        "20261108",
         54.9
       ]
     ],
     "200059": [
       [
-        "20261022",
-        54.7
-      ],
-      [
         "20261023",
         54.7
       ],
@@ -16257,15 +16142,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        54.8
+      ],
+      [
+        "20261108",
         54.8
       ]
     ],
     "211776": [
       [
-        "20261022",
-        54.6
-      ],
-      [
         "20261023",
         54.6
       ],
@@ -16327,15 +16212,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        54.6
+      ],
+      [
+        "20261108",
         54.6
       ]
     ],
     "208882": [
       [
-        "20261022",
-        56.2
-      ],
-      [
         "20261023",
         56.2
       ],
@@ -16397,15 +16282,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        54.5
+      ],
+      [
+        "20261108",
         54.5
       ]
     ],
     "209279": [
       [
-        "20261022",
-        51.1
-      ],
-      [
         "20261023",
         51.1
       ],
@@ -16467,15 +16352,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        54.1
+      ],
+      [
+        "20261108",
         54.1
       ]
     ],
     "200175": [
       [
-        "20261022",
-        54.1
-      ],
-      [
         "20261023",
         54.1
       ],
@@ -16537,15 +16422,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        53.8
+      ],
+      [
+        "20261108",
         53.8
       ]
     ],
     "105227": [
       [
-        "20261022",
-        55.1
-      ],
-      [
         "20261023",
         55.1
       ],
@@ -16607,15 +16492,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        53.7
+      ],
+      [
+        "20261108",
         53.7
       ]
     ],
     "202385": [
       [
-        "20261022",
-        52.9
-      ],
-      [
         "20261023",
         52.9
       ],
@@ -16677,15 +16562,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        53.6
+      ],
+      [
+        "20261108",
         53.6
       ]
     ],
     "111794": [
       [
-        "20261022",
-        53.9
-      ],
-      [
         "20261023",
         53.9
       ],
@@ -16747,15 +16632,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        53.5
+      ],
+      [
+        "20261108",
         53.5
       ]
     ],
     "208260": [
       [
-        "20261022",
-        52.9
-      ],
-      [
         "20261023",
         52.9
       ],
@@ -16817,15 +16702,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        53.2
+      ],
+      [
+        "20261108",
         53.2
       ]
     ],
     "200116": [
       [
-        "20261022",
-        53.5
-      ],
-      [
         "20261023",
         53.5
       ],
@@ -16887,15 +16772,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        52.8
+      ],
+      [
+        "20261108",
         52.8
       ]
     ],
     "209976": [
       [
-        "20261022",
-        52.4
-      ],
-      [
         "20261023",
         52.4
       ],
@@ -16957,15 +16842,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        52.8
+      ],
+      [
+        "20261108",
         52.8
       ]
     ],
     "105807": [
       [
-        "20261022",
-        52.6
-      ],
-      [
         "20261023",
         52.6
       ],
@@ -17027,15 +16912,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        52.7
+      ],
+      [
+        "20261108",
         52.7
       ]
     ],
     "105916": [
       [
-        "20261022",
-        52.5
-      ],
-      [
         "20261023",
         52.5
       ],
@@ -17097,15 +16982,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        52.6
+      ],
+      [
+        "20261108",
         52.6
       ]
     ],
     "144895": [
       [
-        "20261022",
-        53.1
-      ],
-      [
         "20261023",
         53.1
       ],
@@ -17167,15 +17052,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        52.5
+      ],
+      [
+        "20261108",
         52.5
       ]
     ],
     "208597": [
       [
-        "20261022",
-        51.5
-      ],
-      [
         "20261023",
         51.5
       ],
@@ -17237,15 +17122,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        52.4
+      ],
+      [
+        "20261108",
         52.4
       ]
     ],
     "208010": [
       [
-        "20261022",
-        52.4
-      ],
-      [
         "20261023",
         52.4
       ],
@@ -17307,15 +17192,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        52.4
+      ],
+      [
+        "20261108",
         52.4
       ]
     ],
     "127157": [
       [
-        "20261022",
-        51.5
-      ],
-      [
         "20261023",
         51.5
       ],
@@ -17377,6 +17262,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.7
+      ],
+      [
+        "20261108",
         51.7
       ]
     ],
@@ -17408,13 +17297,13 @@ window.TENNIS_DATA = {
       [
         "20261107",
         51.6
+      ],
+      [
+        "20261108",
+        51.6
       ]
     ],
     "208233": [
-      [
-        "20261022",
-        51.2
-      ],
       [
         "20261023",
         51.2
@@ -17477,15 +17366,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.5
+      ],
+      [
+        "20261108",
         51.5
       ]
     ],
     "106218": [
       [
-        "20261022",
-        51.5
-      ],
-      [
         "20261023",
         51.5
       ],
@@ -17547,15 +17436,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.5
+      ],
+      [
+        "20261108",
         51.5
       ]
     ],
     "126127": [
       [
-        "20261022",
-        50.5
-      ],
-      [
         "20261023",
         50.5
       ],
@@ -17617,15 +17506,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.1
+      ],
+      [
+        "20261108",
         51.1
       ]
     ],
     "200615": [
       [
-        "20261022",
-        51.1
-      ],
-      [
         "20261023",
         51.1
       ],
@@ -17687,15 +17576,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.1
+      ],
+      [
+        "20261108",
         51.1
       ]
     ],
     "209147": [
       [
-        "20261022",
-        50.9
-      ],
-      [
         "20261023",
         50.9
       ],
@@ -17757,15 +17646,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.0
+      ],
+      [
+        "20261108",
         51.0
       ]
     ],
     "206736": [
       [
-        "20261022",
-        50.7
-      ],
-      [
         "20261023",
         50.7
       ],
@@ -17827,15 +17716,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.8
+      ],
+      [
+        "20261108",
         50.8
       ]
     ],
     "208024": [
       [
-        "20261022",
-        50.7
-      ],
-      [
         "20261023",
         50.7
       ],
@@ -17897,15 +17786,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.8
+      ],
+      [
+        "20261108",
         50.8
       ]
     ],
     "209899": [
       [
-        "20261022",
-        50.7
-      ],
-      [
         "20261023",
         50.7
       ],
@@ -17967,15 +17856,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.8
+      ],
+      [
+        "20261108",
         50.8
       ]
     ],
     "200624": [
       [
-        "20261022",
-        50.9
-      ],
-      [
         "20261023",
         50.9
       ],
@@ -18037,15 +17926,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.4
+      ],
+      [
+        "20261108",
         50.4
       ]
     ],
     "207411": [
       [
-        "20261022",
-        50.4
-      ],
-      [
         "20261023",
         50.4
       ],
@@ -18107,15 +17996,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.4
+      ],
+      [
+        "20261108",
         50.4
       ]
     ],
     "105173": [
       [
-        "20261022",
-        47.7
-      ],
-      [
         "20261023",
         47.7
       ],
@@ -18177,15 +18066,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.2
+      ],
+      [
+        "20261108",
         50.2
       ]
     ],
     "207494": [
       [
-        "20261022",
-        50.0
-      ],
-      [
         "20261023",
         50.0
       ],
@@ -18247,15 +18136,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.0
+      ],
+      [
+        "20261108",
         50.0
       ]
     ],
     "132283": [
       [
-        "20261022",
-        51.2
-      ],
-      [
         "20261023",
         51.2
       ],
@@ -18317,15 +18206,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        49.8
+      ],
+      [
+        "20261108",
         49.8
       ]
     ],
     "206499": [
       [
-        "20261022",
-        49.8
-      ],
-      [
         "20261023",
         49.8
       ],
@@ -18387,15 +18276,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        49.6
+      ],
+      [
+        "20261108",
         49.6
       ]
     ],
     "105777": [
       [
-        "20261022",
-        49.4
-      ],
-      [
         "20261023",
         49.4
       ],
@@ -18457,15 +18346,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        49.4
+      ],
+      [
+        "20261108",
         49.4
       ]
     ],
     "207680": [
       [
-        "20261022",
-        49.5
-      ],
-      [
         "20261023",
         49.5
       ],
@@ -18527,15 +18416,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        49.3
+      ],
+      [
+        "20261108",
         49.3
       ]
     ],
     "207686": [
       [
-        "20261022",
-        49.1
-      ],
-      [
         "20261023",
         49.1
       ],
@@ -18597,15 +18486,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        49.2
+      ],
+      [
+        "20261108",
         49.2
       ]
     ],
     "105477": [
       [
-        "20261022",
-        49.2
-      ],
-      [
         "20261023",
         49.2
       ],
@@ -18667,15 +18556,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        49.1
+      ],
+      [
+        "20261108",
         49.1
       ]
     ],
     "126128": [
       [
-        "20261022",
-        49.0
-      ],
-      [
         "20261023",
         49.0
       ],
@@ -18737,15 +18626,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        49.0
+      ],
+      [
+        "20261108",
         49.0
       ]
     ],
     "105932": [
       [
-        "20261022",
-        47.4
-      ],
-      [
         "20261023",
         47.4
       ],
@@ -18807,15 +18696,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        49.0
+      ],
+      [
+        "20261108",
         49.0
       ]
     ],
     "210116": [
       [
-        "20261022",
-        48.6
-      ],
-      [
         "20261023",
         48.6
       ],
@@ -18877,15 +18766,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        48.7
+      ],
+      [
+        "20261108",
         48.7
       ]
     ],
     "124186": [
       [
-        "20261022",
-        48.7
-      ],
-      [
         "20261023",
         48.7
       ],
@@ -18947,15 +18836,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        48.7
+      ],
+      [
+        "20261108",
         48.7
       ]
     ],
     "210319": [
       [
-        "20261022",
-        47.9
-      ],
-      [
         "20261023",
         47.9
       ],
@@ -19017,15 +18906,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        47.8
+      ],
+      [
+        "20261108",
         47.8
       ]
     ],
     "210460": [
       [
-        "20261022",
-        47.4
-      ],
-      [
         "20261023",
         47.4
       ],
@@ -19087,15 +18976,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        47.5
+      ],
+      [
+        "20261108",
         47.5
       ]
     ],
     "102093": [
       [
-        "20261022",
-        47.3
-      ],
-      [
         "20261023",
         47.3
       ],
@@ -19157,15 +19046,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        47.4
+      ],
+      [
+        "20261108",
         47.4
       ]
     ],
     "208021": [
       [
-        "20261022",
-        46.3
-      ],
-      [
         "20261023",
         46.3
       ],
@@ -19227,15 +19116,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        47.0
+      ],
+      [
+        "20261108",
         47.0
       ]
     ],
     "207681": [
       [
-        "20261022",
-        47.0
-      ],
-      [
         "20261023",
         47.0
       ],
@@ -19297,15 +19186,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        47.0
+      ],
+      [
+        "20261108",
         47.0
       ]
     ],
     "208014": [
       [
-        "20261022",
-        46.3
-      ],
-      [
         "20261023",
         46.3
       ],
@@ -19367,15 +19256,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        46.7
+      ],
+      [
+        "20261108",
         46.7
       ]
     ],
     "207182": [
       [
-        "20261022",
-        46.6
-      ],
-      [
         "20261023",
         46.6
       ],
@@ -19437,15 +19326,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        46.6
+      ],
+      [
+        "20261108",
         46.6
       ]
     ],
     "209259": [
       [
-        "20261022",
-        46.2
-      ],
-      [
         "20261023",
         46.2
       ],
@@ -19507,15 +19396,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        46.5
+      ],
+      [
+        "20261108",
         46.5
       ]
     ],
     "106000": [
       [
-        "20261022",
-        46.7
-      ],
-      [
         "20261023",
         46.7
       ],
@@ -19577,15 +19466,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        46.1
+      ],
+      [
+        "20261108",
         46.1
       ]
     ],
     "207985": [
       [
-        "20261022",
-        46.2
-      ],
-      [
         "20261023",
         46.2
       ],
@@ -19647,15 +19536,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        45.9
+      ],
+      [
+        "20261108",
         45.9
       ]
     ],
     "105902": [
       [
-        "20261022",
-        45.2
-      ],
-      [
         "20261023",
         45.2
       ],
@@ -19717,15 +19606,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        45.5
+      ],
+      [
+        "20261108",
         45.5
       ]
     ],
     "208659": [
       [
-        "20261022",
-        45.5
-      ],
-      [
         "20261023",
         45.5
       ],
@@ -19787,15 +19676,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        45.5
+      ],
+      [
+        "20261108",
         45.5
       ]
     ],
     "200443": [
       [
-        "20261022",
-        45.3
-      ],
-      [
         "20261023",
         45.3
       ],
@@ -19857,15 +19746,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        45.2
+      ],
+      [
+        "20261108",
         45.2
       ]
     ],
     "210389": [
       [
-        "20261022",
-        44.8
-      ],
-      [
         "20261023",
         44.8
       ],
@@ -19927,15 +19816,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        44.7
+      ],
+      [
+        "20261108",
         44.7
       ]
     ],
     "200514": [
       [
-        "20261022",
-        44.5
-      ],
-      [
         "20261023",
         44.5
       ],
@@ -19997,15 +19886,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        44.5
+      ],
+      [
+        "20261108",
         44.5
       ]
     ],
     "111581": [
       [
-        "20261022",
-        42.7
-      ],
-      [
         "20261023",
         42.7
       ],
@@ -20067,15 +19956,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        42.7
+      ],
+      [
+        "20261108",
         42.7
       ]
     ],
     "126846": [
       [
-        "20261022",
-        42.3
-      ],
-      [
         "20261023",
         42.3
       ],
@@ -20137,15 +20026,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        42.3
+      ],
+      [
+        "20261108",
         42.3
       ]
     ],
     "111513": [
       [
-        "20261022",
-        42.3
-      ],
-      [
         "20261023",
         42.3
       ],
@@ -20207,15 +20096,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        42.3
+      ],
+      [
+        "20261108",
         42.3
       ]
     ],
     "210012": [
       [
-        "20261022",
-        41.9
-      ],
-      [
         "20261023",
         41.9
       ],
@@ -20277,15 +20166,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        42.1
+      ],
+      [
+        "20261108",
         42.1
       ]
     ],
     "124116": [
       [
-        "20261022",
-        40.6
-      ],
-      [
         "20261023",
         40.6
       ],
@@ -20347,15 +20236,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        40.6
+      ],
+      [
+        "20261108",
         40.6
       ]
     ],
     "208316": [
       [
-        "20261022",
-        39.3
-      ],
-      [
         "20261023",
         39.3
       ],
@@ -20417,15 +20306,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        39.3
+      ],
+      [
+        "20261108",
         39.3
       ]
     ],
     "200384": [
       [
-        "20261022",
-        39.7
-      ],
-      [
         "20261023",
         39.7
       ],
@@ -20487,15 +20376,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        38.9
+      ],
+      [
+        "20261108",
         38.9
       ]
     ],
     "106198": [
       [
-        "20261022",
-        38.8
-      ],
-      [
         "20261023",
         38.8
       ],
@@ -20557,15 +20446,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        38.8
+      ],
+      [
+        "20261108",
         38.8
       ]
     ],
     "210748": [
       [
-        "20261022",
-        38.6
-      ],
-      [
         "20261023",
         38.6
       ],
@@ -20627,6 +20516,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        38.6
+      ],
+      [
+        "20261108",
         38.6
       ]
     ],
@@ -20682,13 +20575,13 @@ window.TENNIS_DATA = {
       [
         "20261107",
         38.0
+      ],
+      [
+        "20261108",
+        38.0
       ]
     ],
     "144750": [
-      [
-        "20261022",
-        37.9
-      ],
       [
         "20261023",
         37.9
@@ -20751,15 +20644,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        37.9
+      ],
+      [
+        "20261108",
         37.9
       ]
     ],
     "208852": [
       [
-        "20261022",
-        37.4
-      ],
-      [
         "20261023",
         37.4
       ],
@@ -20821,15 +20714,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        37.5
+      ],
+      [
+        "20261108",
         37.5
       ]
     ],
     "202261": [
       [
-        "20261022",
-        36.9
-      ],
-      [
         "20261023",
         36.9
       ],
@@ -20891,15 +20784,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        36.9
+      ],
+      [
+        "20261108",
         36.9
       ]
     ],
     "205734": [
       [
-        "20261022",
-        35.1
-      ],
-      [
         "20261023",
         35.1
       ],
@@ -20961,15 +20854,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.2
+      ],
+      [
+        "20261108",
         35.2
       ]
     ],
     "207352": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -21031,15 +20924,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "200436": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -21101,15 +20994,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "208361": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -21171,15 +21064,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "123828": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -21241,15 +21134,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "208013": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -21311,15 +21204,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "200711": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -21381,15 +21274,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "200647": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -21451,15 +21344,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "210536": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -21521,15 +21414,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "124079": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -21591,15 +21484,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "208278": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -21661,6 +21554,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
@@ -21716,13 +21613,13 @@ window.TENNIS_DATA = {
       [
         "20261107",
         35.0
+      ],
+      [
+        "20261108",
+        35.0
       ]
     ],
     "127339": [
-      [
-        "20261022",
-        35.0
-      ],
       [
         "20261023",
         35.0
@@ -21785,15 +21682,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "212063": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -21855,6 +21752,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
@@ -21910,6 +21811,10 @@ window.TENNIS_DATA = {
       [
         "20261107",
         35.0
+      ],
+      [
+        "20261108",
+        35.0
       ]
     ],
     "209262": [
@@ -21964,16 +21869,16 @@ window.TENNIS_DATA = {
       [
         "20261107",
         35.0
+      ],
+      [
+        "20261108",
+        35.0
       ]
     ]
   },
   "WTA_SCORE_LOG": {
     "214544": [
       [
-        "20261022",
-        100.0
-      ],
-      [
         "20261023",
         100.0
       ],
@@ -22035,15 +21940,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        100.0
+      ],
+      [
+        "20261108",
         100.0
       ]
     ],
     "214981": [
       [
-        "20261022",
-        93.3
-      ],
-      [
         "20261023",
         93.3
       ],
@@ -22105,15 +22010,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        93.3
+      ],
+      [
+        "20261108",
         93.3
       ]
     ],
     "259799": [
       [
-        "20261022",
-        92.2
-      ],
-      [
         "20261023",
         92.2
       ],
@@ -22175,15 +22080,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        92.2
+      ],
+      [
+        "20261108",
         92.2
       ]
     ],
     "221103": [
       [
-        "20261022",
-        91.1
-      ],
-      [
         "20261023",
         91.1
       ],
@@ -22245,15 +22150,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        91.2
+      ],
+      [
+        "20261108",
         91.2
       ]
     ],
     "202494": [
       [
-        "20261022",
-        90.4
-      ],
-      [
         "20261023",
         90.4
       ],
@@ -22315,15 +22220,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        90.4
+      ],
+      [
+        "20261108",
         90.4
       ]
     ],
     "216347": [
       [
-        "20261022",
-        90.4
-      ],
-      [
         "20261023",
         90.4
       ],
@@ -22385,15 +22290,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        90.4
+      ],
+      [
+        "20261108",
         90.4
       ]
     ],
     "216146": [
       [
-        "20261022",
-        90.4
-      ],
-      [
         "20261023",
         90.4
       ],
@@ -22455,15 +22360,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        90.4
+      ],
+      [
+        "20261108",
         90.4
       ]
     ],
     "202468": [
       [
-        "20261022",
-        89.9
-      ],
-      [
         "20261023",
         89.9
       ],
@@ -22525,15 +22430,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        89.8
+      ],
+      [
+        "20261108",
         89.8
       ]
     ],
     "201514": [
       [
-        "20261022",
-        85.5
-      ],
-      [
         "20261023",
         85.5
       ],
@@ -22595,15 +22500,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        85.8
+      ],
+      [
+        "20261108",
         85.8
       ]
     ],
     "214096": [
       [
-        "20261022",
-        85.7
-      ],
-      [
         "20261023",
         85.7
       ],
@@ -22665,15 +22570,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        85.7
+      ],
+      [
+        "20261108",
         85.7
       ]
     ],
     "216153": [
       [
-        "20261022",
-        84.6
-      ],
-      [
         "20261023",
         84.6
       ],
@@ -22735,15 +22640,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        84.1
+      ],
+      [
+        "20261108",
         84.1
       ]
     ],
     "202505": [
       [
-        "20261022",
-        84.1
-      ],
-      [
         "20261023",
         84.1
       ],
@@ -22805,15 +22710,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        83.4
+      ],
+      [
+        "20261108",
         83.4
       ]
     ],
     "239475": [
       [
-        "20261022",
-        83.9
-      ],
-      [
         "20261023",
         83.9
       ],
@@ -22875,15 +22780,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        83.3
+      ],
+      [
+        "20261108",
         83.3
       ]
     ],
     "216081": [
       [
-        "20261022",
-        81.7
-      ],
-      [
         "20261023",
         81.7
       ],
@@ -22945,15 +22850,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        81.5
+      ],
+      [
+        "20261108",
         81.5
       ]
     ],
     "201619": [
       [
-        "20261022",
-        80.7
-      ],
-      [
         "20261023",
         80.7
       ],
@@ -23015,15 +22920,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        80.3
+      ],
+      [
+        "20261108",
         80.3
       ]
     ],
     "215713": [
       [
-        "20261022",
-        79.5
-      ],
-      [
         "20261023",
         79.5
       ],
@@ -23085,15 +22990,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        79.5
+      ],
+      [
+        "20261108",
         79.5
       ]
     ],
     "211768": [
       [
-        "20261022",
-        79.0
-      ],
-      [
         "20261023",
         79.0
       ],
@@ -23155,15 +23060,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        79.3
+      ],
+      [
+        "20261108",
         79.3
       ]
     ],
     "222328": [
       [
-        "20261022",
-        78.5
-      ],
-      [
         "20261023",
         78.5
       ],
@@ -23225,15 +23130,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        78.5
+      ],
+      [
+        "20261108",
         78.5
       ]
     ],
     "210722": [
       [
-        "20261022",
-        77.3
-      ],
-      [
         "20261023",
         77.3
       ],
@@ -23295,15 +23200,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        77.4
+      ],
+      [
+        "20261108",
         77.4
       ]
     ],
     "221012": [
       [
-        "20261022",
-        76.5
-      ],
-      [
         "20261023",
         76.5
       ],
@@ -23365,15 +23270,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        76.6
+      ],
+      [
+        "20261108",
         76.6
       ]
     ],
     "223670": [
       [
-        "20261022",
-        75.9
-      ],
-      [
         "20261023",
         75.9
       ],
@@ -23435,15 +23340,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        76.1
+      ],
+      [
+        "20261108",
         76.1
       ]
     ],
     "260300": [
       [
-        "20261022",
-        76.2
-      ],
-      [
         "20261023",
         76.2
       ],
@@ -23505,15 +23410,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        76.1
+      ],
+      [
+        "20261108",
         76.1
       ]
     ],
     "201662": [
       [
-        "20261022",
-        76.1
-      ],
-      [
         "20261023",
         76.1
       ],
@@ -23575,15 +23480,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        75.7
+      ],
+      [
+        "20261108",
         75.7
       ]
     ],
     "214939": [
       [
-        "20261022",
-        75.9
-      ],
-      [
         "20261023",
         75.9
       ],
@@ -23645,15 +23550,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        75.5
+      ],
+      [
+        "20261108",
         75.5
       ]
     ],
     "213631": [
       [
-        "20261022",
-        71.7
-      ],
-      [
         "20261023",
         71.7
       ],
@@ -23715,15 +23620,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        72.1
+      ],
+      [
+        "20261108",
         72.1
       ]
     ],
     "211533": [
       [
-        "20261022",
-        71.9
-      ],
-      [
         "20261023",
         71.9
       ],
@@ -23785,15 +23690,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        71.8
+      ],
+      [
+        "20261108",
         71.8
       ]
     ],
     "211148": [
       [
-        "20261022",
-        71.1
-      ],
-      [
         "20261023",
         71.1
       ],
@@ -23855,15 +23760,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        71.1
+      ],
+      [
+        "20261108",
         71.1
       ]
     ],
     "215613": [
       [
-        "20261022",
-        70.9
-      ],
-      [
         "20261023",
         70.9
       ],
@@ -23925,15 +23830,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        70.9
+      ],
+      [
+        "20261108",
         70.9
       ]
     ],
     "206252": [
       [
-        "20261022",
-        69.9
-      ],
-      [
         "20261023",
         69.9
       ],
@@ -23995,15 +23900,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        69.5
+      ],
+      [
+        "20261108",
         69.5
       ]
     ],
     "223253": [
       [
-        "20261022",
-        68.9
-      ],
-      [
         "20261023",
         68.9
       ],
@@ -24065,15 +23970,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        69.2
+      ],
+      [
+        "20261108",
         69.2
       ]
     ],
     "220367": [
       [
-        "20261022",
-        67.6
-      ],
-      [
         "20261023",
         67.6
       ],
@@ -24135,15 +24040,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        69.1
+      ],
+      [
+        "20261108",
         69.1
       ]
     ],
     "220548": [
       [
-        "20261022",
-        69.1
-      ],
-      [
         "20261023",
         69.1
       ],
@@ -24205,15 +24110,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        69.1
+      ],
+      [
+        "20261108",
         69.1
       ]
     ],
     "221024": [
       [
-        "20261022",
-        68.4
-      ],
-      [
         "20261023",
         68.4
       ],
@@ -24275,15 +24180,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        68.3
+      ],
+      [
+        "20261108",
         68.3
       ]
     ],
     "206420": [
       [
-        "20261022",
-        67.0
-      ],
-      [
         "20261023",
         67.0
       ],
@@ -24345,15 +24250,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        67.1
+      ],
+      [
+        "20261108",
         67.1
       ]
     ],
     "220348": [
       [
-        "20261022",
-        67.0
-      ],
-      [
         "20261023",
         67.0
       ],
@@ -24415,15 +24320,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        67.0
+      ],
+      [
+        "20261108",
         67.0
       ]
     ],
     "215983": [
       [
-        "20261022",
-        67.4
-      ],
-      [
         "20261023",
         67.4
       ],
@@ -24485,15 +24390,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        66.6
+      ],
+      [
+        "20261108",
         66.6
       ]
     ],
     "223360": [
       [
-        "20261022",
-        66.0
-      ],
-      [
         "20261023",
         66.0
       ],
@@ -24555,15 +24460,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        66.0
+      ],
+      [
+        "20261108",
         66.0
       ]
     ],
     "206289": [
       [
-        "20261022",
-        65.5
-      ],
-      [
         "20261023",
         65.5
       ],
@@ -24625,15 +24530,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        65.7
+      ],
+      [
+        "20261108",
         65.7
       ]
     ],
     "211107": [
       [
-        "20261022",
-        64.5
-      ],
-      [
         "20261023",
         64.5
       ],
@@ -24695,15 +24600,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        65.7
+      ],
+      [
+        "20261108",
         65.7
       ]
     ],
     "215785": [
       [
-        "20261022",
-        64.6
-      ],
-      [
         "20261023",
         64.6
       ],
@@ -24765,15 +24670,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        64.4
+      ],
+      [
+        "20261108",
         64.4
       ]
     ],
     "239383": [
       [
-        "20261022",
-        64.2
-      ],
-      [
         "20261023",
         64.2
       ],
@@ -24835,15 +24740,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        64.0
+      ],
+      [
+        "20261108",
         64.0
       ]
     ],
     "214643": [
       [
-        "20261022",
-        63.4
-      ],
-      [
         "20261023",
         63.4
       ],
@@ -24905,15 +24810,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        63.8
+      ],
+      [
+        "20261108",
         63.8
       ]
     ],
     "266671": [
       [
-        "20261022",
-        63.7
-      ],
-      [
         "20261023",
         63.7
       ],
@@ -24975,15 +24880,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        63.7
+      ],
+      [
+        "20261108",
         63.7
       ]
     ],
     "220750": [
       [
-        "20261022",
-        62.9
-      ],
-      [
         "20261023",
         62.9
       ],
@@ -25045,15 +24950,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        62.8
+      ],
+      [
+        "20261108",
         62.8
       ]
     ],
     "211713": [
       [
-        "20261022",
-        63.8
-      ],
-      [
         "20261023",
         63.8
       ],
@@ -25115,15 +25020,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        62.7
+      ],
+      [
+        "20261108",
         62.7
       ]
     ],
     "220704": [
       [
-        "20261022",
-        62.8
-      ],
-      [
         "20261023",
         62.8
       ],
@@ -25185,15 +25090,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        62.2
+      ],
+      [
+        "20261108",
         62.2
       ]
     ],
     "220716": [
       [
-        "20261022",
-        62.0
-      ],
-      [
         "20261023",
         62.0
       ],
@@ -25255,15 +25160,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        62.0
+      ],
+      [
+        "20261108",
         62.0
       ]
     ],
     "211701": [
       [
-        "20261022",
-        56.8
-      ],
-      [
         "20261023",
         56.8
       ],
@@ -25325,15 +25230,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        61.9
+      ],
+      [
+        "20261108",
         61.9
       ]
     ],
     "202663": [
       [
-        "20261022",
-        60.6
-      ],
-      [
         "20261023",
         60.6
       ],
@@ -25395,15 +25300,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        61.8
+      ],
+      [
+        "20261108",
         61.8
       ]
     ],
     "211843": [
       [
-        "20261022",
-        61.7
-      ],
-      [
         "20261023",
         61.7
       ],
@@ -25465,15 +25370,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        61.1
+      ],
+      [
+        "20261108",
         61.1
       ]
     ],
     "220714": [
       [
-        "20261022",
-        62.0
-      ],
-      [
         "20261023",
         62.0
       ],
@@ -25535,15 +25440,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        61.1
+      ],
+      [
+        "20261108",
         61.1
       ]
     ],
     "221909": [
       [
-        "20261022",
-        59.2
-      ],
-      [
         "20261023",
         59.2
       ],
@@ -25605,15 +25510,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        61.0
+      ],
+      [
+        "20261108",
         61.0
       ]
     ],
     "211337": [
       [
-        "20261022",
-        61.6
-      ],
-      [
         "20261023",
         61.6
       ],
@@ -25675,15 +25580,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        60.9
+      ],
+      [
+        "20261108",
         60.9
       ]
     ],
     "260172": [
       [
-        "20261022",
-        60.2
-      ],
-      [
         "20261023",
         60.2
       ],
@@ -25745,15 +25650,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        60.7
+      ],
+      [
+        "20261108",
         60.7
       ]
     ],
     "263857": [
       [
-        "20261022",
-        61.2
-      ],
-      [
         "20261023",
         61.2
       ],
@@ -25815,15 +25720,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        60.7
+      ],
+      [
+        "20261108",
         60.7
       ]
     ],
     "203501": [
       [
-        "20261022",
-        60.4
-      ],
-      [
         "20261023",
         60.4
       ],
@@ -25885,15 +25790,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        60.5
+      ],
+      [
+        "20261108",
         60.5
       ]
     ],
     "220520": [
       [
-        "20261022",
-        60.2
-      ],
-      [
         "20261023",
         60.2
       ],
@@ -25955,15 +25860,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        60.2
+      ],
+      [
+        "20261108",
         60.2
       ]
     ],
     "216083": [
       [
-        "20261022",
-        60.9
-      ],
-      [
         "20261023",
         60.9
       ],
@@ -26025,15 +25930,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        60.1
+      ],
+      [
+        "20261108",
         60.1
       ]
     ],
     "230319": [
       [
-        "20261022",
-        59.7
-      ],
-      [
         "20261023",
         59.7
       ],
@@ -26095,15 +26000,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        59.9
+      ],
+      [
+        "20261108",
         59.9
       ]
     ],
     "211817": [
       [
-        "20261022",
-        59.4
-      ],
-      [
         "20261023",
         59.4
       ],
@@ -26165,15 +26070,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        59.4
+      ],
+      [
+        "20261108",
         59.4
       ]
     ],
     "202499": [
       [
-        "20261022",
-        59.7
-      ],
-      [
         "20261023",
         59.7
       ],
@@ -26235,15 +26140,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        59.2
+      ],
+      [
+        "20261108",
         59.2
       ]
     ],
     "221883": [
       [
-        "20261022",
-        58.0
-      ],
-      [
         "20261023",
         58.0
       ],
@@ -26305,6 +26210,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        58.8
+      ],
+      [
+        "20261108",
         58.8
       ]
     ],
@@ -26336,13 +26245,13 @@ window.TENNIS_DATA = {
       [
         "20261107",
         57.9
+      ],
+      [
+        "20261108",
+        57.9
       ]
     ],
     "214388": [
-      [
-        "20261022",
-        57.6
-      ],
       [
         "20261023",
         57.6
@@ -26405,15 +26314,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.8
+      ],
+      [
+        "20261108",
         57.8
       ]
     ],
     "233741": [
       [
-        "20261022",
-        57.8
-      ],
-      [
         "20261023",
         57.8
       ],
@@ -26475,15 +26384,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.8
+      ],
+      [
+        "20261108",
         57.8
       ]
     ],
     "214040": [
       [
-        "20261022",
-        58.0
-      ],
-      [
         "20261023",
         58.0
       ],
@@ -26545,15 +26454,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.4
+      ],
+      [
+        "20261108",
         57.4
       ]
     ],
     "238184": [
       [
-        "20261022",
-        56.8
-      ],
-      [
         "20261023",
         56.8
       ],
@@ -26615,15 +26524,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.1
+      ],
+      [
+        "20261108",
         57.1
       ]
     ],
     "211651": [
       [
-        "20261022",
-        56.4
-      ],
-      [
         "20261023",
         56.4
       ],
@@ -26685,15 +26594,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.0
+      ],
+      [
+        "20261108",
         57.0
       ]
     ],
     "221054": [
       [
-        "20261022",
-        57.0
-      ],
-      [
         "20261023",
         57.0
       ],
@@ -26755,15 +26664,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        57.0
+      ],
+      [
+        "20261108",
         57.0
       ]
     ],
     "219917": [
       [
-        "20261022",
-        56.1
-      ],
-      [
         "20261023",
         56.1
       ],
@@ -26825,15 +26734,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        56.8
+      ],
+      [
+        "20261108",
         56.8
       ]
     ],
     "222045": [
       [
-        "20261022",
-        55.6
-      ],
-      [
         "20261023",
         55.6
       ],
@@ -26895,15 +26804,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        56.8
+      ],
+      [
+        "20261108",
         56.8
       ]
     ],
     "220309": [
       [
-        "20261022",
-        56.9
-      ],
-      [
         "20261023",
         56.9
       ],
@@ -26965,15 +26874,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        56.4
+      ],
+      [
+        "20261108",
         56.4
       ]
     ],
     "215035": [
       [
-        "20261022",
-        55.8
-      ],
-      [
         "20261023",
         55.8
       ],
@@ -27035,15 +26944,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        55.9
+      ],
+      [
+        "20261108",
         55.9
       ]
     ],
     "211684": [
       [
-        "20261022",
-        56.2
-      ],
-      [
         "20261023",
         56.2
       ],
@@ -27105,15 +27014,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        55.8
+      ],
+      [
+        "20261108",
         55.8
       ]
     ],
     "214082": [
       [
-        "20261022",
-        55.6
-      ],
-      [
         "20261023",
         55.6
       ],
@@ -27175,15 +27084,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        55.8
+      ],
+      [
+        "20261108",
         55.8
       ]
     ],
     "213710": [
       [
-        "20261022",
-        56.3
-      ],
-      [
         "20261023",
         56.3
       ],
@@ -27245,15 +27154,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        55.7
+      ],
+      [
+        "20261108",
         55.7
       ]
     ],
     "221333": [
       [
-        "20261022",
-        55.3
-      ],
-      [
         "20261023",
         55.3
       ],
@@ -27315,15 +27224,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        55.3
+      ],
+      [
+        "20261108",
         55.3
       ]
     ],
     "215872": [
       [
-        "20261022",
-        51.5
-      ],
-      [
         "20261023",
         51.5
       ],
@@ -27385,15 +27294,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        54.4
+      ],
+      [
+        "20261108",
         54.4
       ]
     ],
     "201709": [
       [
-        "20261022",
-        54.1
-      ],
-      [
         "20261023",
         54.1
       ],
@@ -27455,15 +27364,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        54.4
+      ],
+      [
+        "20261108",
         54.4
       ]
     ],
     "252499": [
       [
-        "20261022",
-        53.3
-      ],
-      [
         "20261023",
         53.3
       ],
@@ -27525,15 +27434,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        53.8
+      ],
+      [
+        "20261108",
         53.8
       ]
     ],
     "203530": [
       [
-        "20261022",
-        54.3
-      ],
-      [
         "20261023",
         54.3
       ],
@@ -27595,15 +27504,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        53.4
+      ],
+      [
+        "20261108",
         53.4
       ]
     ],
     "215910": [
       [
-        "20261022",
-        53.5
-      ],
-      [
         "20261023",
         53.5
       ],
@@ -27665,15 +27574,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        53.1
+      ],
+      [
+        "20261108",
         53.1
       ]
     ],
     "213583": [
       [
-        "20261022",
-        52.1
-      ],
-      [
         "20261023",
         52.1
       ],
@@ -27735,15 +27644,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        52.5
+      ],
+      [
+        "20261108",
         52.5
       ]
     ],
     "221354": [
       [
-        "20261022",
-        52.5
-      ],
-      [
         "20261023",
         52.5
       ],
@@ -27805,15 +27714,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        52.5
+      ],
+      [
+        "20261108",
         52.5
       ]
     ],
     "201533": [
       [
-        "20261022",
-        53.3
-      ],
-      [
         "20261023",
         53.3
       ],
@@ -27875,15 +27784,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        52.0
+      ],
+      [
+        "20261108",
         52.0
       ]
     ],
     "269714": [
       [
-        "20261022",
-        51.8
-      ],
-      [
         "20261023",
         51.8
       ],
@@ -27945,15 +27854,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.8
+      ],
+      [
+        "20261108",
         51.8
       ]
     ],
     "259871": [
       [
-        "20261022",
-        51.8
-      ],
-      [
         "20261023",
         51.8
       ],
@@ -28015,15 +27924,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.8
+      ],
+      [
+        "20261108",
         51.8
       ]
     ],
     "260168": [
       [
-        "20261022",
-        51.8
-      ],
-      [
         "20261023",
         51.8
       ],
@@ -28085,15 +27994,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.8
+      ],
+      [
+        "20261108",
         51.8
       ]
     ],
     "267020": [
       [
-        "20261022",
-        51.8
-      ],
-      [
         "20261023",
         51.8
       ],
@@ -28155,15 +28064,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.8
+      ],
+      [
+        "20261108",
         51.8
       ]
     ],
     "238075": [
       [
-        "20261022",
-        52.8
-      ],
-      [
         "20261023",
         52.8
       ],
@@ -28225,6 +28134,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.7
+      ],
+      [
+        "20261108",
         51.7
       ]
     ],
@@ -28256,13 +28169,13 @@ window.TENNIS_DATA = {
       [
         "20261107",
         51.1
+      ],
+      [
+        "20261108",
+        51.1
       ]
     ],
     "222661": [
-      [
-        "20261022",
-        51.3
-      ],
       [
         "20261023",
         51.3
@@ -28325,15 +28238,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        51.0
+      ],
+      [
+        "20261108",
         51.0
       ]
     ],
     "222145": [
       [
-        "20261022",
-        54.4
-      ],
-      [
         "20261023",
         54.4
       ],
@@ -28395,15 +28308,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.7
+      ],
+      [
+        "20261108",
         50.7
       ]
     ],
     "223194": [
       [
-        "20261022",
-        50.1
-      ],
-      [
         "20261023",
         50.1
       ],
@@ -28465,15 +28378,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.7
+      ],
+      [
+        "20261108",
         50.7
       ]
     ],
     "222601": [
       [
-        "20261022",
-        51.1
-      ],
-      [
         "20261023",
         51.1
       ],
@@ -28535,15 +28448,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.7
+      ],
+      [
+        "20261108",
         50.7
       ]
     ],
     "259733": [
       [
-        "20261022",
-        49.4
-      ],
-      [
         "20261023",
         49.4
       ],
@@ -28605,15 +28518,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.5
+      ],
+      [
+        "20261108",
         50.5
       ]
     ],
     "201548": [
       [
-        "20261022",
-        50.0
-      ],
-      [
         "20261023",
         50.0
       ],
@@ -28675,15 +28588,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        50.0
+      ],
+      [
+        "20261108",
         50.0
       ]
     ],
     "222966": [
       [
-        "20261022",
-        49.8
-      ],
-      [
         "20261023",
         49.8
       ],
@@ -28745,15 +28658,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        49.8
+      ],
+      [
+        "20261108",
         49.8
       ]
     ],
     "215453": [
       [
-        "20261022",
-        49.7
-      ],
-      [
         "20261023",
         49.7
       ],
@@ -28815,15 +28728,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        49.7
+      ],
+      [
+        "20261108",
         49.7
       ]
     ],
     "203514": [
       [
-        "20261022",
-        48.9
-      ],
-      [
         "20261023",
         48.9
       ],
@@ -28885,15 +28798,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        48.9
+      ],
+      [
+        "20261108",
         48.9
       ]
     ],
     "247669": [
       [
-        "20261022",
-        48.9
-      ],
-      [
         "20261023",
         48.9
       ],
@@ -28955,15 +28868,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        48.9
+      ],
+      [
+        "20261108",
         48.9
       ]
     ],
     "210622": [
       [
-        "20261022",
-        48.8
-      ],
-      [
         "20261023",
         48.8
       ],
@@ -29025,15 +28938,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        48.8
+      ],
+      [
+        "20261108",
         48.8
       ]
     ],
     "215370": [
       [
-        "20261022",
-        48.7
-      ],
-      [
         "20261023",
         48.7
       ],
@@ -29095,15 +29008,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        48.7
+      ],
+      [
+        "20261108",
         48.7
       ]
     ],
     "213887": [
       [
-        "20261022",
-        48.9
-      ],
-      [
         "20261023",
         48.9
       ],
@@ -29165,15 +29078,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        48.6
+      ],
+      [
+        "20261108",
         48.6
       ]
     ],
     "215020": [
       [
-        "20261022",
-        51.7
-      ],
-      [
         "20261023",
         51.7
       ],
@@ -29235,15 +29148,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        48.1
+      ],
+      [
+        "20261108",
         48.1
       ]
     ],
     "211685": [
       [
-        "20261022",
-        48.0
-      ],
-      [
         "20261023",
         48.0
       ],
@@ -29305,15 +29218,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        48.0
+      ],
+      [
+        "20261108",
         48.0
       ]
     ],
     "220465": [
       [
-        "20261022",
-        48.0
-      ],
-      [
         "20261023",
         48.0
       ],
@@ -29375,15 +29288,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        47.4
+      ],
+      [
+        "20261108",
         47.4
       ]
     ],
     "221407": [
       [
-        "20261022",
-        47.2
-      ],
-      [
         "20261023",
         47.2
       ],
@@ -29445,6 +29358,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        47.2
+      ],
+      [
+        "20261108",
         47.2
       ]
     ],
@@ -29476,13 +29393,13 @@ window.TENNIS_DATA = {
       [
         "20261107",
         46.9
+      ],
+      [
+        "20261108",
+        46.9
       ]
     ],
     "243420": [
-      [
-        "20261022",
-        46.9
-      ],
       [
         "20261023",
         46.9
@@ -29545,6 +29462,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        46.7
+      ],
+      [
+        "20261108",
         46.7
       ]
     ],
@@ -29600,13 +29521,13 @@ window.TENNIS_DATA = {
       [
         "20261107",
         45.7
+      ],
+      [
+        "20261108",
+        45.7
       ]
     ],
     "214906": [
-      [
-        "20261022",
-        45.9
-      ],
       [
         "20261023",
         45.9
@@ -29669,15 +29590,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        45.3
+      ],
+      [
+        "20261108",
         45.3
       ]
     ],
     "221237": [
       [
-        "20261022",
-        45.1
-      ],
-      [
         "20261023",
         45.1
       ],
@@ -29739,15 +29660,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        45.1
+      ],
+      [
+        "20261108",
         45.1
       ]
     ],
     "263644": [
       [
-        "20261022",
-        45.1
-      ],
-      [
         "20261023",
         45.1
       ],
@@ -29809,15 +29730,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        45.1
+      ],
+      [
+        "20261108",
         45.1
       ]
     ],
     "205925": [
       [
-        "20261022",
-        44.9
-      ],
-      [
         "20261023",
         44.9
       ],
@@ -29879,15 +29800,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        44.9
+      ],
+      [
+        "20261108",
         44.9
       ]
     ],
     "220699": [
       [
-        "20261022",
-        44.3
-      ],
-      [
         "20261023",
         44.3
       ],
@@ -29949,15 +29870,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        44.3
+      ],
+      [
+        "20261108",
         44.3
       ]
     ],
     "215899": [
       [
-        "20261022",
-        44.2
-      ],
-      [
         "20261023",
         44.2
       ],
@@ -30019,15 +29940,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        44.2
+      ],
+      [
+        "20261108",
         44.2
       ]
     ],
     "216016": [
       [
-        "20261022",
-        43.6
-      ],
-      [
         "20261023",
         43.6
       ],
@@ -30089,15 +30010,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        43.7
+      ],
+      [
+        "20261108",
         43.7
       ]
     ],
     "220435": [
       [
-        "20261022",
-        43.7
-      ],
-      [
         "20261023",
         43.7
       ],
@@ -30159,15 +30080,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        43.7
+      ],
+      [
+        "20261108",
         43.7
       ]
     ],
     "211539": [
       [
-        "20261022",
-        42.9
-      ],
-      [
         "20261023",
         42.9
       ],
@@ -30229,15 +30150,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        43.5
+      ],
+      [
+        "20261108",
         43.5
       ]
     ],
     "221257": [
       [
-        "20261022",
-        44.9
-      ],
-      [
         "20261023",
         44.9
       ],
@@ -30299,15 +30220,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        42.9
+      ],
+      [
+        "20261108",
         42.9
       ]
     ],
     "214459": [
       [
-        "20261022",
-        42.8
-      ],
-      [
         "20261023",
         42.8
       ],
@@ -30369,15 +30290,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        42.8
+      ],
+      [
+        "20261108",
         42.8
       ]
     ],
     "220722": [
       [
-        "20261022",
-        42.3
-      ],
-      [
         "20261023",
         42.3
       ],
@@ -30439,15 +30360,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        42.3
+      ],
+      [
+        "20261108",
         42.3
       ]
     ],
     "221406": [
       [
-        "20261022",
-        40.1
-      ],
-      [
         "20261023",
         40.1
       ],
@@ -30509,15 +30430,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        42.1
+      ],
+      [
+        "20261108",
         42.1
       ]
     ],
     "215936": [
       [
-        "20261022",
-        41.1
-      ],
-      [
         "20261023",
         41.1
       ],
@@ -30579,15 +30500,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        41.3
+      ],
+      [
+        "20261108",
         41.3
       ]
     ],
     "216566": [
       [
-        "20261022",
-        40.3
-      ],
-      [
         "20261023",
         40.3
       ],
@@ -30649,15 +30570,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        41.2
+      ],
+      [
+        "20261108",
         41.2
       ]
     ],
     "206417": [
       [
-        "20261022",
-        40.6
-      ],
-      [
         "20261023",
         40.6
       ],
@@ -30719,15 +30640,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        40.6
+      ],
+      [
+        "20261108",
         40.6
       ]
     ],
     "214593": [
       [
-        "20261022",
-        40.6
-      ],
-      [
         "20261023",
         40.6
       ],
@@ -30789,15 +30710,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        40.6
+      ],
+      [
+        "20261108",
         40.6
       ]
     ],
     "222290": [
       [
-        "20261022",
-        41.7
-      ],
-      [
         "20261023",
         41.7
       ],
@@ -30859,15 +30780,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        40.4
+      ],
+      [
+        "20261108",
         40.4
       ]
     ],
     "260664": [
       [
-        "20261022",
-        40.2
-      ],
-      [
         "20261023",
         40.2
       ],
@@ -30929,15 +30850,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        40.2
+      ],
+      [
+        "20261108",
         40.2
       ]
     ],
     "220416": [
       [
-        "20261022",
-        39.9
-      ],
-      [
         "20261023",
         39.9
       ],
@@ -30999,15 +30920,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        39.9
+      ],
+      [
+        "20261108",
         39.9
       ]
     ],
     "221124": [
       [
-        "20261022",
-        39.1
-      ],
-      [
         "20261023",
         39.1
       ],
@@ -31069,15 +30990,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        39.1
+      ],
+      [
+        "20261108",
         39.1
       ]
     ],
     "210886": [
       [
-        "20261022",
-        38.7
-      ],
-      [
         "20261023",
         38.7
       ],
@@ -31139,15 +31060,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        38.2
+      ],
+      [
+        "20261108",
         38.2
       ]
     ],
     "266376": [
       [
-        "20261022",
-        37.4
-      ],
-      [
         "20261023",
         37.4
       ],
@@ -31209,15 +31130,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        37.4
+      ],
+      [
+        "20261108",
         37.4
       ]
     ],
     "215037": [
       [
-        "20261022",
-        37.0
-      ],
-      [
         "20261023",
         37.0
       ],
@@ -31279,15 +31200,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        37.0
+      ],
+      [
+        "20261108",
         37.0
       ]
     ],
     "215571": [
       [
-        "20261022",
-        36.7
-      ],
-      [
         "20261023",
         36.7
       ],
@@ -31349,15 +31270,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        36.7
+      ],
+      [
+        "20261108",
         36.7
       ]
     ],
     "221243": [
       [
-        "20261022",
-        36.5
-      ],
-      [
         "20261023",
         36.5
       ],
@@ -31419,15 +31340,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        36.5
+      ],
+      [
+        "20261108",
         36.5
       ]
     ],
     "220742": [
       [
-        "20261022",
-        36.1
-      ],
-      [
         "20261023",
         36.1
       ],
@@ -31489,15 +31410,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        36.1
+      ],
+      [
+        "20261108",
         36.1
       ]
     ],
     "201585": [
       [
-        "20261022",
-        35.3
-      ],
-      [
         "20261023",
         35.3
       ],
@@ -31559,15 +31480,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.3
+      ],
+      [
+        "20261108",
         35.3
       ]
     ],
     "211279": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -31629,15 +31550,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "221236": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -31699,15 +31620,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "221307": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -31769,15 +31690,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "211814": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -31839,15 +31760,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "223168": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -31909,15 +31830,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "223333": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -31979,15 +31900,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "236955": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -32049,15 +31970,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "213666": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -32119,15 +32040,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
     "214461": [
       [
-        "20261022",
-        35.0
-      ],
-      [
         "20261023",
         35.0
       ],
@@ -32189,6 +32110,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ],
@@ -32220,13 +32145,13 @@ window.TENNIS_DATA = {
       [
         "20261107",
         35.0
+      ],
+      [
+        "20261108",
+        35.0
       ]
     ],
     "220589": [
-      [
-        "20261022",
-        35.0
-      ],
       [
         "20261023",
         35.0
@@ -32289,6 +32214,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261107",
+        35.0
+      ],
+      [
+        "20261108",
         35.0
       ]
     ]
@@ -32505,5 +32434,5 @@ window.TENNIS_DATA = {
       "note": "Top 30 a los 20"
     }
   ],
-  "IMPORTANCE": 8.0
+  "IMPORTANCE": 9.0
 };

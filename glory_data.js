@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-07 23:41 UTC",
+  "UPDATED": "2026-11-08 00:48 UTC",
   "EVENTS": [
     {
       "id": "f1:win:MSC Cruises São Paulo Grand Prix:Lando Norris",
@@ -49,14 +49,6 @@ window.GLORY_DATA = {
       "text": "Marc Márquez ganó el Indonesian motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "f1:win:MSC Cruises United States Grand Prix:Charles Leclerc",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "Charles Leclerc ganó el MSC Cruises United States Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-10-24"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.players:new1:Tyrese Maxey",
@@ -419,15 +411,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-25"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Leo Carlsson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Leo Carlsson entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-24"
-    },
-    {
       "id": "tennis:out:ATP:Felix Auger Aliassime:20261029",
       "sport": "tennis",
       "detail": "Tenis",
@@ -748,8 +731,8 @@ window.GLORY_DATA = {
       "Minnesota Timberwolves",
       "Denver Nuggets",
       "New York Knicks",
-      "Indiana Pacers",
-      "Milwaukee Bucks"
+      "Milwaukee Bucks",
+      "Indiana Pacers"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
       "Brandon Miller",

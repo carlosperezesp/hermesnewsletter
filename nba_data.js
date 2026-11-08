@@ -283,6 +283,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "DEN",
+      "city": "Denver Nuggets",
+      "shortName": "Denver",
+      "commonName": "Nuggets",
+      "conf": "W",
+      "gp": 8,
+      "w": 5,
+      "l": 3,
+      "winPct": 0.625,
+      "gf": 922,
+      "ga": 905,
+      "gd": 17,
+      "score": 55,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+      "colors": {
+        "primary": "#0e2240",
+        "secondary": "#fec524"
+      }
+    },
+    {
       "code": "DAL",
       "city": "Dallas Mavericks",
       "shortName": "Dallas",
@@ -343,26 +363,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "DEN",
-      "city": "Denver Nuggets",
-      "shortName": "Denver",
-      "commonName": "Nuggets",
-      "conf": "W",
-      "gp": 7,
-      "w": 4,
-      "l": 3,
-      "winPct": 0.571,
-      "gf": 808,
-      "ga": 803,
-      "gd": 5,
-      "score": 48,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-      "colors": {
-        "primary": "#0e2240",
-        "secondary": "#fec524"
-      }
-    },
-    {
       "code": "WSH",
       "city": "Washington Wizards",
       "shortName": "Washington",
@@ -388,14 +388,14 @@ window.NBA_DATA = {
       "shortName": "Indiana",
       "commonName": "Pacers",
       "conf": "E",
-      "gp": 9,
+      "gp": 10,
       "w": 3,
-      "l": 6,
-      "winPct": 0.333,
-      "gf": 1001,
-      "ga": 1028,
-      "gd": -27,
-      "score": 22,
+      "l": 7,
+      "winPct": 0.3,
+      "gf": 1103,
+      "ga": 1142,
+      "gd": -39,
+      "score": 18,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
       "colors": {
         "primary": "#002d62",
@@ -1902,9 +1902,9 @@ window.NBA_DATA = {
         "city": "Denver Nuggets",
         "era": "2019–present",
         "rings": 1,
-        "dynastyScore": 48.4,
+        "dynastyScore": 52.2,
         "threshold": 89.4,
-        "gap": 41.0,
+        "gap": 37.2,
         "note": "2023 Champions · Jokic 3× MVP era",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
@@ -1930,22 +1930,6 @@ window.NBA_DATA = {
         "prevRank": 8
       },
       {
-        "teamCode": "IND",
-        "city": "Indiana Pacers",
-        "era": "2024–present",
-        "rings": 0,
-        "dynastyScore": 22.1,
-        "threshold": 89.4,
-        "gap": 67.3,
-        "note": "2025 NBA Finals · Haliburton era",
-        "needs": "Needs at least one title + sustained dominance",
-        "colors": {
-          "primary": "#002d62",
-          "secondary": "#fdbb30"
-        },
-        "prevRank": 9
-      },
-      {
         "teamCode": "MIL",
         "city": "Milwaukee Bucks",
         "era": "2019–present",
@@ -1960,6 +1944,22 @@ window.NBA_DATA = {
           "secondary": "#eee1c6"
         },
         "prevRank": 10
+      },
+      {
+        "teamCode": "IND",
+        "city": "Indiana Pacers",
+        "era": "2024–present",
+        "rings": 0,
+        "dynastyScore": 19.9,
+        "threshold": 89.4,
+        "gap": 69.5,
+        "note": "2025 NBA Finals · Haliburton era",
+        "needs": "Needs at least one title + sustained dominance",
+        "colors": {
+          "primary": "#002d62",
+          "secondary": "#fdbb30"
+        },
+        "prevRank": 9
       }
     ],
     "youngProspects": [
@@ -2108,7 +2108,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-07 23:38 UTC",
+  "LAST_UPDATE": "2026-11-08 00:46 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
