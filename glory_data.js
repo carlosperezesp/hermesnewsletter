@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-08 11:59 UTC",
+  "UPDATED": "2026-11-08 13:40 UTC",
   "EVENTS": [
     {
       "id": "f1:win:MSC Cruises São Paulo Grand Prix:Lando Norris",
