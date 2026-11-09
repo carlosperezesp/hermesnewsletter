@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-08 23:44 UTC",
+  "UPDATED": "2026-11-09 01:04 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Qatar motorcycle Grand Prix:Marc Márquez",
@@ -111,24 +111,6 @@ window.GLORY_DATA = {
       "text": "Drake Maye es nuevo nº1 · jóvenes promesas",
       "weight": 92,
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:new1:Nikita Kucherov",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Nikita Kucherov es nuevo nº1 · Road to Glory",
-      "weight": 92,
-      "firstSeen": "2026-10-25"
-    },
-    {
-      "id": "rank:motogp:RIDERS:new1:Marc Márquez",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "anchor": "motogp-mundial",
-      "text": "Marc Márquez es nuevo nº1 · Mundial",
-      "weight": 92,
-      "firstSeen": "2026-10-25"
     },
     {
       "id": "tennis:in:ATP:Rafael Jodar:20261029",
@@ -417,15 +399,6 @@ window.GLORY_DATA = {
       "text": "Mohammed Siraj entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Roman Josi",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Roman Josi entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-25"
     },
     {
       "id": "tennis:out:ATP:Felix Auger Aliassime:20261029",

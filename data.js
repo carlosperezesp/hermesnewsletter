@@ -16067,7 +16067,7 @@ window.NHL_DATA = {
       "name": "T.J. Hughes",
       "pos": "RW",
       "teamCode": "COL",
-      "age": 24,
+      "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -38043,7 +38043,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 13,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 8
       },
       {
         "id": 8474578,
@@ -38062,7 +38062,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 18,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 8474600,
@@ -38081,7 +38081,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 16,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 9
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -38407,7 +38407,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 36.7,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 8482105,
@@ -38425,7 +38425,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 36.7,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ]
   },
@@ -38474,10 +38474,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-08 23:42 UTC",
+  "LAST_UPDATE": "2026-11-09 01:01 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-08T23:42:30Z"
+    "standingsDateTimeUtc": "2026-11-09T01:00:30Z"
   }
 };
