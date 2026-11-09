@@ -948,7 +948,7 @@ window.NHL_DATA = {
         81
       ],
       "legendScore": 43.0,
-      "prevRank": 15
+      "prevRank": 7
     },
     {
       "id": 8480069,
@@ -983,7 +983,7 @@ window.NHL_DATA = {
         80
       ],
       "legendScore": 58.2,
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "id": 8482661,
@@ -1015,7 +1015,7 @@ window.NHL_DATA = {
         60,
         80
       ],
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 8478864,
@@ -1050,7 +1050,7 @@ window.NHL_DATA = {
         80
       ],
       "legendScore": 57.8,
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 8476999,
@@ -2364,7 +2364,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 12,
         "w": 5,
-        "svpct": 0.912,
+        "svpct": 0.911,
         "gaa": 2.62,
         "so": 0
       },
@@ -5522,7 +5522,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 9,
         "w": 3,
-        "svpct": 0.889,
+        "svpct": 0.89,
         "gaa": 3.14,
         "so": 0
       },
@@ -12588,7 +12588,7 @@ window.NHL_DATA = {
         "p": 8,
         "pm": 1,
         "toi": 17.7,
-        "shots": 45
+        "shots": 44
       },
       "trajectory": [
         38,
@@ -13927,7 +13927,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": -9,
         "toi": 21.3,
-        "shots": 19
+        "shots": 18
       },
       "trajectory": [
         38,
@@ -21756,7 +21756,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": -1,
         "toi": 11.8,
-        "shots": 20
+        "shots": 21
       },
       "trajectory": [
         37,
@@ -37891,7 +37891,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 18,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 8474600,
@@ -37910,7 +37910,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 16,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 8479314,
@@ -37929,7 +37929,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 11,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -38147,7 +38147,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.4,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 7
+        "prevRank": 3
       },
       {
         "id": 8484801,
@@ -38165,7 +38165,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "id": 8484762,
@@ -38219,7 +38219,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.2,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 4
+        "prevRank": 7
       },
       {
         "id": 8483445,
@@ -38237,7 +38237,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 35.2,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": null
+        "prevRank": 8
       },
       {
         "id": 8484144,
@@ -38255,7 +38255,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 36.0,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 8481559,
@@ -38273,7 +38273,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 36.1,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 9
+        "prevRank": 10
       }
     ]
   },
@@ -38322,10 +38322,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-09 13:54 UTC",
+  "LAST_UPDATE": "2026-11-09 16:38 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-09T13:54:00Z"
+    "standingsDateTimeUtc": "2026-11-09T16:38:16Z"
   }
 };

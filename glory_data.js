@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-09 13:57 UTC",
+  "UPDATED": "2026-11-09 16:41 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Qatar motorcycle Grand Prix:Marc Márquez",

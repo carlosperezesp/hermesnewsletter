@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-09 13:57 UTC
+// Auto-generated 2026-11-09 16:41 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-09 13:57 UTC",
+  "UPDATED": "2026-11-09 16:41 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1222,9 +1222,9 @@ window.TENNIS_DATA = {
       "prevListRank": 36,
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 62.9
     },
@@ -1327,7 +1327,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 63.5
@@ -1598,9 +1598,9 @@ window.TENNIS_DATA = {
       "prevListRank": 47,
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 60.7
     },
@@ -5047,7 +5047,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10971,7 +10971,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tomas Machac",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 35.0,
@@ -10984,7 +10984,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Adolfo Daniel Vallejo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 63.3,
@@ -11169,15 +11169,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Tatjana Maria",
+          "w": "Luisina Giovannini",
           "w_logo": "",
-          "l": "Luisina Giovannini",
+          "l": "Tatjana Maria",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 52.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 52.2,
           "match_score": 52.2
         },
         {
@@ -11225,9 +11225,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Laura Pigossi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11238,9 +11238,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polona Hercog",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11287,7 +11287,6 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
       "Aleksandr Shevchenko",
       "Alex Michelsen",
@@ -11304,19 +11303,20 @@ window.TENNIS_DATA = {
       "Taylor Fritz",
       "Thiago Agustin Tirante",
       "Toby Samuel",
-      "Tomas Machac",
       "Tomas Martin Etcheverry",
       "Ugo Humbert",
       "Zizou Bergs"
     ],
     "out": [
+      "Adolfo Daniel Vallejo",
       "Elias Ymer",
       "James Duckworth",
       "Jaume Munar",
+      "Tomas Machac",
       "Yannick Hanfmann"
     ],
-    "aliveCount": 21,
-    "matchesSeen": 14
+    "aliveCount": 19,
+    "matchesSeen": 15
   },
   "WTA_TOURNAMENT": {
     "name": "Chennai Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
