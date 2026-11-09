@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-09 01:04 UTC",
+  "UPDATED": "2026-11-09 13:57 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Qatar motorcycle Grand Prix:Marc Márquez",
@@ -59,20 +59,38 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-26"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.players:new1:Giannis Antetokounmpo",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Giannis Antetokounmpo es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Joe Burrow",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Joe Burrow es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:C.J. Stroud",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "C.J. Stroud es nuevo nº1 · jóvenes promesas",
+      "weight": 92,
+      "firstSeen": "2026-11-09"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Alexander Nikishin",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Alexander Nikishin es nuevo nº1 · jóvenes promesas",
-      "weight": 92,
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:new1:Kevin Durant",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Kevin Durant es nuevo nº1 · Road to Glory",
       "weight": 92,
       "firstSeen": "2026-11-08"
     },
@@ -95,22 +113,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-07"
     },
     {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Kirk Cousins",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Kirk Cousins es nuevo nº1 · Road to Glory",
-      "weight": 92,
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:Drake Maye",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-jovenes-promesas",
-      "text": "Drake Maye es nuevo nº1 · jóvenes promesas",
-      "weight": 92,
-      "firstSeen": "2026-11-02"
+      "id": "tennis:in:ATP:Taylor Fritz:20261105",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Taylor Fritz entra en el top 10 ATP",
+      "weight": 90,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-11-09"
     },
     {
       "id": "tennis:in:ATP:Rafael Jodar:20261029",
@@ -122,22 +131,94 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mikko Rantanen",
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
-      "text": "Mikko Rantanen entra en el top-10 · Road to Glory",
+      "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-11-08"
+      "firstSeen": "2026-11-09"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jake Sanderson",
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cutter Gauthier",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
-      "text": "Jake Sanderson entra en el top-10 · jóvenes promesas",
+      "text": "Cutter Gauthier entra en el top-10 · jóvenes promesas",
       "weight": 84,
-      "firstSeen": "2026-11-08"
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Jaylen Brown",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Jaylen Brown entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Julius Randle",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Julius Randle entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Zach LaVine",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Zach LaVine entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Darius Acuff Jr.",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Darius Acuff Jr. entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Jeremiah Fears",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Jeremiah Fears entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Keyonte George",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Keyonte George entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Darryn Peterson",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Darryn Peterson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:C.J. Stroud",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "C.J. Stroud entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-09"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Connor Bedard",
@@ -185,33 +266,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-08"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:James Harden",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "James Harden entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Trae Young",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Trae Young entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Yaxel Lendeborg",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Yaxel Lendeborg entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
-    },
-    {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Dylan Harper",
       "sport": "nba",
       "detail": "NBA",
@@ -248,56 +302,11 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-08"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Stephon Castle",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Stephon Castle entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Jabari Smith Jr.",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Jabari Smith Jr. entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Ajay Mitchell",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Ajay Mitchell entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
-    },
-    {
       "id": "rank:nba:ROAD_TO_GLORY.players:in:Austin Reaves",
       "sport": "nba",
       "detail": "NBA",
       "anchor": "nba-road-to-glory",
       "text": "Austin Reaves entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Nickeil Alexander-Walker",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Nickeil Alexander-Walker entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:LaMelo Ball",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "LaMelo Ball entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-07"
     },
@@ -334,15 +343,6 @@ window.GLORY_DATA = {
       "detail": "NFL",
       "anchor": "nfl-road-to-glory",
       "text": "Trevor Lawrence entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Josh Allen",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Josh Allen entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-11-02"
     },
@@ -401,6 +401,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-27"
     },
     {
+      "id": "tennis:out:ATP:Rafael Jodar:20261105",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Rafael Jodar sale del top 10 ATP",
+      "weight": 78,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-11-09"
+    },
+    {
       "id": "tennis:out:ATP:Felix Auger Aliassime:20261029",
       "sport": "tennis",
       "detail": "Tenis",
@@ -442,24 +451,6 @@ window.GLORY_DATA = {
       "detail": "NBA",
       "anchor": "nba-road-to-glory",
       "text": "Nikola Jokic cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:out:Giannis Antetokounmpo",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Giannis Antetokounmpo cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:out:Jaylen Brown",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Jaylen Brown cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-11-07"
     },
@@ -523,15 +514,6 @@ window.GLORY_DATA = {
       "detail": "NBA",
       "anchor": "nba-jovenes-promesas",
       "text": "Jalen Johnson cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Keyonte George",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Keyonte George cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-11-07"
     },
@@ -645,9 +627,9 @@ window.GLORY_DATA = {
       "David Pastrnak",
       "Artemi Panarin",
       "Auston Matthews",
-      "Mikko Rantanen",
       "Erik Karlsson",
-      "Roman Josi"
+      "Roman Josi",
+      "Matthew Tkachuk"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -664,31 +646,31 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Alexander Nikishin",
       "Matthew Schaefer",
+      "Jackson LaCombe",
       "Macklin Celebrini",
-      "Leo Carlsson",
       "Beckett Sennecke",
       "Lane Hutson",
-      "Jackson LaCombe",
+      "Leo Carlsson",
+      "Cutter Gauthier",
       "Connor Bedard",
-      "Jack Hughes",
-      "Jake Sanderson"
+      "Jack Hughes"
     ],
     "nba:ROAD_TO_GLORY.players": [
+      "Giannis Antetokounmpo",
       "Kevin Durant",
       "Shai Gilgeous-Alexander",
+      "Jaylen Brown",
       "Victor Wembanyama",
       "Donovan Mitchell",
       "Tyrese Maxey",
       "Austin Reaves",
-      "James Harden",
-      "Nickeil Alexander-Walker",
-      "Trae Young",
-      "Yaxel Lendeborg"
+      "Julius Randle",
+      "Zach LaVine"
     ],
     "nba:ROAD_TO_GLORY.teams": [
       "Boston Celtics",
-      "Oklahoma City Thunder",
       "Los Angeles Lakers",
+      "Oklahoma City Thunder",
       "Golden State Warriors",
       "San Antonio Spurs",
       "Minnesota Timberwolves",
@@ -699,15 +681,15 @@ window.GLORY_DATA = {
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
       "Victor Wembanyama",
+      "Darius Acuff Jr.",
       "Dylan Harper",
+      "Jeremiah Fears",
       "Yaxel Lendeborg",
+      "Keyonte George",
       "Kyshawn George",
+      "Darryn Peterson",
       "Brandon Miller",
-      "Evan Mobley",
-      "Stephon Castle",
-      "Jabari Smith Jr.",
-      "LaMelo Ball",
-      "Ajay Mitchell"
+      "Evan Mobley"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",
@@ -746,24 +728,24 @@ window.GLORY_DATA = {
       "James Wood"
     ],
     "nfl:ROAD_TO_GLORY.players": [
+      "Joe Burrow",
       "Kirk Cousins",
       "Matthew Stafford",
-      "Jared Goff",
-      "Joe Burrow",
       "Dak Prescott",
+      "Jordan Love",
+      "Jared Goff",
       "Geno Smith",
       "Trevor Lawrence",
-      "Jordan Love",
-      "Brock Purdy",
-      "Josh Allen"
+      "C.J. Stroud",
+      "Brock Purdy"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
-      "Drake Maye",
       "C.J. Stroud",
+      "Drake Maye",
       "Bryce Young",
       "Caleb Williams",
-      "Cam Ward",
-      "Jayden Daniels"
+      "Jayden Daniels",
+      "Cam Ward"
     ],
     "tennis:ATP": [
       "Jannik Sinner",
@@ -786,8 +768,8 @@ window.GLORY_DATA = {
       "Iga Swiatek",
       "Marta Kostyuk",
       "Jessica Pegula",
-      "Sorana Cirstea",
-      "Karolina Muchova"
+      "Karolina Muchova",
+      "Sorana Cirstea"
     ],
     "tennis:ATP_LEGENDS": [
       "Novak Djokovic",

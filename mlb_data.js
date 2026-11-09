@@ -1380,7 +1380,7 @@ window.MLB_DATA = {
       "last": "Gray",
       "pos": "SP",
       "teamCode": "BOS",
-      "age": 36,
+      "age": 37,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32082.png",
       "colors": {
         "primary": "#bd3039",
@@ -1396,7 +1396,7 @@ window.MLB_DATA = {
         "so": 149,
         "whip": 1.15
       },
-      "legendScore": 52.9,
+      "legendScore": 53.7,
       "currentScore": 74,
       "battingScore": null,
       "pitchingScore": 74,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-09 01:01 UTC",
+  "LAST_UPDATE": "2026-11-09 13:54 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

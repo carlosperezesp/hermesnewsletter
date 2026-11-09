@@ -26,6 +26,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "CHI",
+      "city": "Chicago Bears",
+      "shortName": "Chicago",
+      "commonName": "Bears",
+      "conf": "NFC",
+      "div": "NFC North",
+      "gp": 9,
+      "w": 7,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.778,
+      "pf": 241,
+      "pa": 184,
+      "pd": 57,
+      "seed": 5,
+      "score": 67,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+      "colors": {
+        "primary": "#0b162a",
+        "secondary": "#c83803"
+      }
+    },
+    {
       "code": "DEN",
       "city": "Denver Broncos",
       "shortName": "Denver",
@@ -118,29 +141,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "CHI",
-      "city": "Chicago Bears",
-      "shortName": "Chicago",
-      "commonName": "Bears",
-      "conf": "NFC",
-      "div": "NFC North",
-      "gp": 8,
-      "w": 6,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.75,
-      "pf": 214,
-      "pa": 160,
-      "pd": 54,
-      "seed": 6,
-      "score": 65,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-      "colors": {
-        "primary": "#0b162a",
-        "secondary": "#c83803"
-      }
-    },
-    {
       "code": "BUF",
       "city": "Buffalo Bills",
       "shortName": "Buffalo",
@@ -224,7 +224,7 @@ window.NFL_DATA = {
       "pf": 222,
       "pa": 189,
       "pd": 33,
-      "seed": 5,
+      "seed": 6,
       "score": 63,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
       "colors": {
@@ -446,16 +446,16 @@ window.NFL_DATA = {
       "commonName": "Buccaneers",
       "conf": "NFC",
       "div": "NFC South",
-      "gp": 8,
+      "gp": 9,
       "w": 3,
-      "l": 5,
+      "l": 6,
       "t": 0,
-      "winPct": 0.375,
-      "pf": 178,
-      "pa": 151,
-      "pd": 27,
-      "seed": 4,
-      "score": 33,
+      "winPct": 0.333,
+      "pf": 202,
+      "pa": 178,
+      "pd": 24,
+      "seed": 12,
+      "score": 29,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
       "colors": {
         "primary": "#d50a0a",
@@ -500,7 +500,7 @@ window.NFL_DATA = {
       "pf": 199,
       "pa": 219,
       "pd": -20,
-      "seed": 11,
+      "seed": 4,
       "score": 28,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
       "colors": {
@@ -523,7 +523,7 @@ window.NFL_DATA = {
       "pf": 185,
       "pa": 216,
       "pd": -31,
-      "seed": 12,
+      "seed": 11,
       "score": 27,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
       "colors": {
@@ -754,17 +754,69 @@ window.NFL_DATA = {
       "score": 100,
       "stats": {
         "type": "passing",
-        "cmp": 195,
-        "att": 267,
-        "pct": 73.0,
-        "yds": 2115,
-        "ypa": 7.9,
-        "td": 20,
+        "cmp": 219,
+        "att": 296,
+        "pct": 74.0,
+        "yds": 2386,
+        "ypa": 8.1,
+        "td": 23,
         "int": 6,
-        "rushYds": 70,
+        "rushYds": 77,
         "rushTd": 0
       },
       "prevRank": 1
+    },
+    {
+      "id": 4036378,
+      "name": "Jordan Love",
+      "pos": "QB",
+      "teamCode": "GB",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png",
+      "colors": {
+        "primary": "#203731",
+        "secondary": "#ffb612"
+      },
+      "score": 95,
+      "stats": {
+        "type": "passing",
+        "cmp": 215,
+        "att": 341,
+        "pct": 63.0,
+        "yds": 2618,
+        "ypa": 7.7,
+        "td": 19,
+        "int": 6,
+        "rushYds": 23,
+        "rushTd": 0
+      },
+      "prevRank": 5
+    },
+    {
+      "id": 4432577,
+      "name": "C.J. Stroud",
+      "pos": "QB",
+      "teamCode": "HOU",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432577.png",
+      "colors": {
+        "primary": "#03202f",
+        "secondary": "#a71930"
+      },
+      "score": 90,
+      "stats": {
+        "type": "passing",
+        "cmp": 181,
+        "att": 282,
+        "pct": 64.2,
+        "yds": 2251,
+        "ypa": 8.0,
+        "td": 16,
+        "int": 2,
+        "rushYds": 100,
+        "rushTd": 0
+      },
+      "prevRank": 9
     },
     {
       "id": 14880,
@@ -777,20 +829,46 @@ window.NFL_DATA = {
         "primary": "#000000",
         "secondary": "#a5acaf"
       },
-      "score": 99,
+      "score": 90,
       "stats": {
         "type": "passing",
-        "cmp": 180,
-        "att": 283,
-        "pct": 63.6,
-        "yds": 2124,
-        "ypa": 7.5,
-        "td": 19,
-        "int": 5,
+        "cmp": 202,
+        "att": 315,
+        "pct": 64.1,
+        "yds": 2340,
+        "ypa": 7.4,
+        "td": 20,
+        "int": 8,
         "rushYds": 7,
         "rushTd": 0
       },
       "prevRank": 2
+    },
+    {
+      "id": 2577417,
+      "name": "Dak Prescott",
+      "pos": "QB",
+      "teamCode": "DAL",
+      "age": 33,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#869397"
+      },
+      "score": 88,
+      "stats": {
+        "type": "passing",
+        "cmp": 218,
+        "att": 336,
+        "pct": 64.9,
+        "yds": 2381,
+        "ypa": 7.1,
+        "td": 16,
+        "int": 5,
+        "rushYds": 102,
+        "rushTd": 0
+      },
+      "prevRank": 7
     },
     {
       "id": 3046779,
@@ -803,17 +881,17 @@ window.NFL_DATA = {
         "primary": "#0076b6",
         "secondary": "#b0b7bc"
       },
-      "score": 95,
+      "score": 87,
       "stats": {
         "type": "passing",
-        "cmp": 168,
-        "att": 248,
-        "pct": 67.7,
-        "yds": 1964,
-        "ypa": 7.9,
+        "cmp": 185,
+        "att": 273,
+        "pct": 67.8,
+        "yds": 2134,
+        "ypa": 7.8,
         "td": 15,
-        "int": 1,
-        "rushYds": 15,
+        "int": 2,
+        "rushYds": 20,
         "rushTd": 0
       },
       "prevRank": 3
@@ -829,7 +907,7 @@ window.NFL_DATA = {
         "primary": "#006778",
         "secondary": "#9f792c"
       },
-      "score": 95,
+      "score": 87,
       "stats": {
         "type": "passing",
         "cmp": 146,
@@ -845,32 +923,6 @@ window.NFL_DATA = {
       "prevRank": 4
     },
     {
-      "id": 4036378,
-      "name": "Jordan Love",
-      "pos": "QB",
-      "teamCode": "GB",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png",
-      "colors": {
-        "primary": "#203731",
-        "secondary": "#ffb612"
-      },
-      "score": 93,
-      "stats": {
-        "type": "passing",
-        "cmp": 192,
-        "att": 312,
-        "pct": 61.5,
-        "yds": 2246,
-        "ypa": 7.2,
-        "td": 16,
-        "int": 6,
-        "rushYds": 10,
-        "rushTd": 0
-      },
-      "prevRank": 5
-    },
-    {
       "id": 4361741,
       "name": "Brock Purdy",
       "pos": "QB",
@@ -881,149 +933,20 @@ window.NFL_DATA = {
         "primary": "#aa0000",
         "secondary": "#b3995d"
       },
-      "score": 87,
+      "score": 85,
       "stats": {
         "type": "passing",
-        "cmp": 146,
-        "att": 211,
-        "pct": 69.2,
-        "yds": 1748,
-        "ypa": 8.3,
-        "td": 15,
-        "int": 4,
-        "rushYds": 161,
+        "cmp": 163,
+        "att": 236,
+        "pct": 69.1,
+        "yds": 1980,
+        "ypa": 8.4,
+        "td": 17,
+        "int": 5,
+        "rushYds": 201,
         "rushTd": 1
       },
       "prevRank": 6
-    },
-    {
-      "id": 2577417,
-      "name": "Dak Prescott",
-      "pos": "QB",
-      "teamCode": "DAL",
-      "age": 33,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png",
-      "colors": {
-        "primary": "#003594",
-        "secondary": "#869397"
-      },
-      "score": 87,
-      "stats": {
-        "type": "passing",
-        "cmp": 197,
-        "att": 302,
-        "pct": 65.2,
-        "yds": 2046,
-        "ypa": 6.8,
-        "td": 14,
-        "int": 5,
-        "rushYds": 101,
-        "rushTd": 0
-      },
-      "prevRank": 7
-    },
-    {
-      "id": 12483,
-      "name": "Matthew Stafford",
-      "pos": "QB",
-      "teamCode": "LAR",
-      "age": 38,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/12483.png",
-      "colors": {
-        "primary": "#003594",
-        "secondary": "#ffd100"
-      },
-      "score": 86,
-      "stats": {
-        "type": "passing",
-        "cmp": 204,
-        "att": 303,
-        "pct": 67.3,
-        "yds": 2146,
-        "ypa": 7.1,
-        "td": 15,
-        "int": 8,
-        "rushYds": 18,
-        "rushTd": 0
-      },
-      "prevRank": 8
-    },
-    {
-      "id": 4432577,
-      "name": "C.J. Stroud",
-      "pos": "QB",
-      "teamCode": "HOU",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432577.png",
-      "colors": {
-        "primary": "#03202f",
-        "secondary": "#a71930"
-      },
-      "score": 85,
-      "stats": {
-        "type": "passing",
-        "cmp": 160,
-        "att": 247,
-        "pct": 64.8,
-        "yds": 1867,
-        "ypa": 7.6,
-        "td": 11,
-        "int": 1,
-        "rushYds": 80,
-        "rushTd": 0
-      },
-      "prevRank": 9
-    },
-    {
-      "id": 15864,
-      "name": "Geno Smith",
-      "pos": "QB",
-      "teamCode": "NYJ",
-      "age": 36,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15864.png",
-      "colors": {
-        "primary": "#125740",
-        "secondary": "#000000"
-      },
-      "score": 85,
-      "stats": {
-        "type": "passing",
-        "cmp": 165,
-        "att": 239,
-        "pct": 69.0,
-        "yds": 1913,
-        "ypa": 8.0,
-        "td": 12,
-        "int": 3,
-        "rushYds": 46,
-        "rushTd": 0
-      },
-      "prevRank": 10
-    },
-    {
-      "id": 4431452,
-      "name": "Drake Maye",
-      "pos": "QB",
-      "teamCode": "NE",
-      "age": 24,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431452.png",
-      "colors": {
-        "primary": "#002244",
-        "secondary": "#c60c30"
-      },
-      "score": 84,
-      "stats": {
-        "type": "passing",
-        "cmp": 157,
-        "att": 234,
-        "pct": 67.1,
-        "yds": 1983,
-        "ypa": 8.5,
-        "td": 15,
-        "int": 8,
-        "rushYds": 216,
-        "rushTd": 2
-      }
     },
     {
       "id": 4685720,
@@ -1036,17 +959,69 @@ window.NFL_DATA = {
         "primary": "#0085ca",
         "secondary": "#101820"
       },
+      "score": 84,
+      "stats": {
+        "type": "passing",
+        "cmp": 186,
+        "att": 308,
+        "pct": 60.4,
+        "yds": 2197,
+        "ypa": 7.1,
+        "td": 16,
+        "int": 6,
+        "rushYds": 47,
+        "rushTd": 0
+      },
+      "prevRank": 12
+    },
+    {
+      "id": 4431452,
+      "name": "Drake Maye",
+      "pos": "QB",
+      "teamCode": "NE",
+      "age": 24,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431452.png",
+      "colors": {
+        "primary": "#002244",
+        "secondary": "#c60c30"
+      },
       "score": 82,
       "stats": {
         "type": "passing",
-        "cmp": 158,
-        "att": 269,
-        "pct": 58.7,
-        "yds": 1921,
-        "ypa": 7.1,
-        "td": 13,
-        "int": 5,
-        "rushYds": 34,
+        "cmp": 178,
+        "att": 272,
+        "pct": 65.4,
+        "yds": 2282,
+        "ypa": 8.4,
+        "td": 18,
+        "int": 11,
+        "rushYds": 219,
+        "rushTd": 2
+      },
+      "prevRank": 11
+    },
+    {
+      "id": 12483,
+      "name": "Matthew Stafford",
+      "pos": "QB",
+      "teamCode": "LAR",
+      "age": 38,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/12483.png",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#ffd100"
+      },
+      "score": 82,
+      "stats": {
+        "type": "passing",
+        "cmp": 230,
+        "att": 346,
+        "pct": 66.5,
+        "yds": 2374,
+        "ypa": 6.9,
+        "td": 16,
+        "int": 9,
+        "rushYds": 19,
         "rushTd": 0
       }
     },
@@ -1064,39 +1039,39 @@ window.NFL_DATA = {
       "score": 81,
       "stats": {
         "type": "passing",
-        "cmp": 154,
-        "att": 232,
-        "pct": 66.4,
-        "yds": 1795,
+        "cmp": 177,
+        "att": 263,
+        "pct": 67.3,
+        "yds": 2037,
         "ypa": 7.7,
-        "td": 12,
+        "td": 14,
         "int": 4,
-        "rushYds": 77,
+        "rushYds": 85,
         "rushTd": 0
       }
     },
     {
-      "id": 8439,
-      "name": "Aaron Rodgers",
+      "id": 15864,
+      "name": "Geno Smith",
       "pos": "QB",
-      "teamCode": "PIT",
-      "age": 42,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/8439.png",
+      "teamCode": "NYJ",
+      "age": 36,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15864.png",
       "colors": {
-        "primary": "#101820",
-        "secondary": "#ffb612"
+        "primary": "#125740",
+        "secondary": "#000000"
       },
       "score": 80,
       "stats": {
         "type": "passing",
-        "cmp": 175,
-        "att": 288,
-        "pct": 60.8,
-        "yds": 1871,
-        "ypa": 6.5,
-        "td": 13,
-        "int": 6,
-        "rushYds": 23,
+        "cmp": 183,
+        "att": 271,
+        "pct": 67.5,
+        "yds": 2078,
+        "ypa": 7.7,
+        "td": 12,
+        "int": 3,
+        "rushYds": 54,
         "rushTd": 0
       }
     },
@@ -1114,15 +1089,65 @@ window.NFL_DATA = {
       "score": 78,
       "stats": {
         "type": "passing",
-        "cmp": 183,
-        "att": 273,
-        "pct": 67.0,
-        "yds": 1721,
-        "ypa": 6.3,
+        "cmp": 204,
+        "att": 308,
+        "pct": 66.2,
+        "yds": 1986,
+        "ypa": 6.4,
+        "td": 14,
+        "int": 6,
+        "rushYds": 162,
+        "rushTd": 2
+      }
+    },
+    {
+      "id": 8439,
+      "name": "Aaron Rodgers",
+      "pos": "QB",
+      "teamCode": "PIT",
+      "age": 42,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/8439.png",
+      "colors": {
+        "primary": "#101820",
+        "secondary": "#ffb612"
+      },
+      "score": 74,
+      "stats": {
+        "type": "passing",
+        "cmp": 175,
+        "att": 288,
+        "pct": 60.8,
+        "yds": 1871,
+        "ypa": 6.5,
         "td": 13,
         "int": 6,
-        "rushYds": 111,
-        "rushTd": 2
+        "rushYds": 23,
+        "rushTd": 0
+      }
+    },
+    {
+      "id": 4426338,
+      "name": "Bo Nix",
+      "pos": "QB",
+      "teamCode": "DEN",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426338.png",
+      "colors": {
+        "primary": "#fb4f14",
+        "secondary": "#002244"
+      },
+      "score": 71,
+      "stats": {
+        "type": "passing",
+        "cmp": 174,
+        "att": 287,
+        "pct": 60.6,
+        "yds": 1730,
+        "ypa": 6.0,
+        "td": 11,
+        "int": 4,
+        "rushYds": 116,
+        "rushTd": 1
       }
     },
     {
@@ -1136,7 +1161,7 @@ window.NFL_DATA = {
         "primary": "#00338d",
         "secondary": "#c60c30"
       },
-      "score": 77,
+      "score": 71,
       "stats": {
         "type": "passing",
         "cmp": 135,
@@ -1161,7 +1186,7 @@ window.NFL_DATA = {
         "primary": "#311d00",
         "secondary": "#ff3c00"
       },
-      "score": 72,
+      "score": 67,
       "stats": {
         "type": "passing",
         "cmp": 163,
@@ -1176,31 +1201,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "id": 4426338,
-      "name": "Bo Nix",
-      "pos": "QB",
-      "teamCode": "DEN",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426338.png",
-      "colors": {
-        "primary": "#fb4f14",
-        "secondary": "#002244"
-      },
-      "score": 71,
-      "stats": {
-        "type": "passing",
-        "cmp": 149,
-        "att": 250,
-        "pct": 59.6,
-        "yds": 1493,
-        "ypa": 6.0,
-        "td": 9,
-        "int": 3,
-        "rushYds": 114,
-        "rushTd": 1
-      }
-    },
-    {
       "id": 2578570,
       "name": "Jacoby Brissett",
       "pos": "QB",
@@ -1211,7 +1211,7 @@ window.NFL_DATA = {
         "primary": "#97233f",
         "secondary": "#ffb612"
       },
-      "score": 70,
+      "score": 65,
       "stats": {
         "type": "passing",
         "cmp": 193,
@@ -1236,18 +1236,43 @@ window.NFL_DATA = {
         "primary": "#0b162a",
         "secondary": "#c83803"
       },
-      "score": 65,
+      "score": 63,
       "stats": {
         "type": "passing",
-        "cmp": 112,
-        "att": 158,
-        "pct": 70.9,
-        "yds": 1267,
-        "ypa": 8.0,
-        "td": 6,
-        "int": 1,
-        "rushYds": 129,
+        "cmp": 134,
+        "att": 195,
+        "pct": 68.7,
+        "yds": 1546,
+        "ypa": 7.9,
+        "td": 8,
+        "int": 5,
+        "rushYds": 145,
         "rushTd": 1
+      }
+    },
+    {
+      "id": 4426348,
+      "name": "Jayden Daniels",
+      "pos": "QB",
+      "teamCode": "WSH",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
+      "colors": {
+        "primary": "#5a1414",
+        "secondary": "#ffb612"
+      },
+      "score": 63,
+      "stats": {
+        "type": "passing",
+        "cmp": 115,
+        "att": 180,
+        "pct": 63.9,
+        "yds": 1250,
+        "ypa": 6.9,
+        "td": 7,
+        "int": 0,
+        "rushYds": 252,
+        "rushTd": 3
       }
     },
     {
@@ -1261,18 +1286,18 @@ window.NFL_DATA = {
         "primary": "#a71930",
         "secondary": "#000000"
       },
-      "score": 64,
+      "score": 63,
       "stats": {
         "type": "passing",
-        "cmp": 104,
-        "att": 168,
-        "pct": 61.9,
-        "yds": 1282,
-        "ypa": 7.6,
-        "td": 9,
-        "int": 5,
-        "rushYds": 15,
-        "rushTd": 0
+        "cmp": 124,
+        "att": 199,
+        "pct": 62.3,
+        "yds": 1444,
+        "ypa": 7.3,
+        "td": 10,
+        "int": 6,
+        "rushYds": 65,
+        "rushTd": 1
       }
     },
     {
@@ -1286,7 +1311,7 @@ window.NFL_DATA = {
         "primary": "#002244",
         "secondary": "#69be28"
       },
-      "score": 63,
+      "score": 59,
       "stats": {
         "type": "passing",
         "cmp": 127,
@@ -1311,7 +1336,7 @@ window.NFL_DATA = {
         "primary": "#0c2340",
         "secondary": "#4b92db"
       },
-      "score": 61,
+      "score": 58,
       "stats": {
         "type": "passing",
         "cmp": 155,
@@ -1326,31 +1351,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "id": 4426348,
-      "name": "Jayden Daniels",
-      "pos": "QB",
-      "teamCode": "WSH",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
-      "colors": {
-        "primary": "#5a1414",
-        "secondary": "#ffb612"
-      },
-      "score": 61,
-      "stats": {
-        "type": "passing",
-        "cmp": 91,
-        "att": 145,
-        "pct": 62.8,
-        "yds": 976,
-        "ypa": 6.7,
-        "td": 6,
-        "int": 0,
-        "rushYds": 236,
-        "rushTd": 3
-      }
-    },
-    {
       "id": 3916387,
       "name": "Lamar Jackson",
       "pos": "QB",
@@ -1361,7 +1361,7 @@ window.NFL_DATA = {
         "primary": "#241773",
         "secondary": "#9e7c0c"
       },
-      "score": 60,
+      "score": 57,
       "stats": {
         "type": "passing",
         "cmp": 68,
@@ -1386,7 +1386,7 @@ window.NFL_DATA = {
         "primary": "#004c54",
         "secondary": "#a5acaf"
       },
-      "score": 59,
+      "score": 56,
       "stats": {
         "type": "passing",
         "cmp": 89,
@@ -1401,53 +1401,28 @@ window.NFL_DATA = {
       }
     },
     {
-      "id": 4242512,
-      "name": "Malik Willis",
+      "id": 3917792,
+      "name": "Daniel Jones",
       "pos": "QB",
-      "teamCode": "MIA",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242512.png",
-      "colors": {
-        "primary": "#008e97",
-        "secondary": "#fc4c02"
-      },
-      "score": 57,
-      "stats": {
-        "type": "passing",
-        "cmp": 108,
-        "att": 183,
-        "pct": 59.0,
-        "yds": 1268,
-        "ypa": 6.9,
-        "td": 6,
-        "int": 5,
-        "rushYds": 225,
-        "rushTd": 1
-      }
-    },
-    {
-      "id": 3917315,
-      "name": "Kyler Murray",
-      "pos": "QB",
-      "teamCode": "MIN",
+      "teamCode": "IND",
       "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917315.png",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917792.png",
       "colors": {
-        "primary": "#4f2683",
-        "secondary": "#ffc62f"
+        "primary": "#002c5f",
+        "secondary": "#a2aaad"
       },
-      "score": 55,
+      "score": 54,
       "stats": {
         "type": "passing",
-        "cmp": 100,
-        "att": 154,
-        "pct": 64.9,
-        "yds": 1022,
-        "ypa": 6.6,
-        "td": 5,
-        "int": 3,
-        "rushYds": 167,
-        "rushTd": 2
+        "cmp": 182,
+        "att": 302,
+        "pct": 60.3,
+        "yds": 1722,
+        "ypa": 5.7,
+        "td": 6,
+        "int": 10,
+        "rushYds": 86,
+        "rushTd": 0
       }
     },
     {
@@ -1464,64 +1439,89 @@ window.NFL_DATA = {
       "score": 54,
       "stats": {
         "type": "passing",
-        "cmp": 90,
-        "att": 158,
-        "pct": 57.0,
-        "yds": 957,
-        "ypa": 6.1,
-        "td": 7,
+        "cmp": 96,
+        "att": 166,
+        "pct": 57.8,
+        "yds": 1028,
+        "ypa": 6.2,
+        "td": 8,
         "int": 5,
-        "rushYds": 50,
+        "rushYds": 61,
         "rushTd": 0
       }
     },
     {
-      "id": 3917792,
-      "name": "Daniel Jones",
+      "id": 4242512,
+      "name": "Malik Willis",
       "pos": "QB",
-      "teamCode": "IND",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917792.png",
+      "teamCode": "MIA",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242512.png",
       "colors": {
-        "primary": "#002c5f",
-        "secondary": "#a2aaad"
+        "primary": "#008e97",
+        "secondary": "#fc4c02"
       },
-      "score": 53,
+      "score": 54,
       "stats": {
         "type": "passing",
-        "cmp": 162,
-        "att": 268,
-        "pct": 60.4,
-        "yds": 1542,
-        "ypa": 5.8,
-        "td": 5,
-        "int": 9,
-        "rushYds": 75,
-        "rushTd": 0
+        "cmp": 121,
+        "att": 208,
+        "pct": 58.2,
+        "yds": 1396,
+        "ypa": 6.7,
+        "td": 6,
+        "int": 6,
+        "rushYds": 232,
+        "rushTd": 1
       }
     },
     {
-      "id": 4035671,
-      "name": "Tyler Huntley",
+      "id": 3917315,
+      "name": "Kyler Murray",
       "pos": "QB",
-      "teamCode": "BAL",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035671.png",
+      "teamCode": "MIN",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917315.png",
       "colors": {
-        "primary": "#241773",
-        "secondary": "#9e7c0c"
+        "primary": "#4f2683",
+        "secondary": "#ffc62f"
       },
       "score": 52,
       "stats": {
         "type": "passing",
-        "cmp": 76,
-        "att": 110,
-        "pct": 69.1,
-        "yds": 727,
+        "cmp": 100,
+        "att": 154,
+        "pct": 64.9,
+        "yds": 1022,
         "ypa": 6.6,
-        "td": 4,
-        "int": 1,
-        "rushYds": 76,
+        "td": 5,
+        "int": 3,
+        "rushYds": 167,
+        "rushTd": 2
+      }
+    },
+    {
+      "id": 3924327,
+      "name": "Drew Lock",
+      "pos": "QB",
+      "teamCode": "SEA",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3924327.png",
+      "colors": {
+        "primary": "#002244",
+        "secondary": "#69be28"
+      },
+      "score": 51,
+      "stats": {
+        "type": "passing",
+        "cmp": 54,
+        "att": 76,
+        "pct": 71.1,
+        "yds": 597,
+        "ypa": 7.9,
+        "td": 5,
+        "int": 0,
+        "rushYds": 29,
         "rushTd": 0
       }
     },
@@ -1539,15 +1539,40 @@ window.NFL_DATA = {
       "score": 50,
       "stats": {
         "type": "passing",
-        "cmp": 131,
-        "att": 212,
-        "pct": 61.8,
-        "yds": 1398,
-        "ypa": 6.6,
-        "td": 5,
-        "int": 10,
-        "rushYds": 183,
+        "cmp": 144,
+        "att": 235,
+        "pct": 61.3,
+        "yds": 1591,
+        "ypa": 6.8,
+        "td": 6,
+        "int": 11,
+        "rushYds": 190,
         "rushTd": 2
+      }
+    },
+    {
+      "id": 4035671,
+      "name": "Tyler Huntley",
+      "pos": "QB",
+      "teamCode": "BAL",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035671.png",
+      "colors": {
+        "primary": "#241773",
+        "secondary": "#9e7c0c"
+      },
+      "score": 50,
+      "stats": {
+        "type": "passing",
+        "cmp": 76,
+        "att": 110,
+        "pct": 69.1,
+        "yds": 727,
+        "ypa": 6.6,
+        "td": 4,
+        "int": 1,
+        "rushYds": 76,
+        "rushTd": 0
       }
     },
     {
@@ -1561,16 +1586,16 @@ window.NFL_DATA = {
         "primary": "#d50a0a",
         "secondary": "#ff7900"
       },
-      "score": 47,
+      "score": 46,
       "stats": {
         "type": "passing",
-        "cmp": 68,
-        "att": 110,
-        "pct": 61.8,
-        "yds": 679,
-        "ypa": 6.2,
+        "cmp": 86,
+        "att": 142,
+        "pct": 60.6,
+        "yds": 922,
+        "ypa": 6.5,
         "td": 3,
-        "int": 2,
+        "int": 4,
         "rushYds": 80,
         "rushTd": 0
       }
@@ -1586,7 +1611,7 @@ window.NFL_DATA = {
         "primary": "#5a1414",
         "secondary": "#ffb612"
       },
-      "score": 47,
+      "score": 45,
       "stats": {
         "type": "passing",
         "cmp": 33,
@@ -1601,6 +1626,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 4038524,
+      "name": "Gardner Minshew II",
+      "pos": "QB",
+      "teamCode": "ARI",
+      "age": 30,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038524.png",
+      "colors": {
+        "primary": "#97233f",
+        "secondary": "#ffb612"
+      },
+      "score": 44,
+      "stats": {
+        "type": "passing",
+        "cmp": 38,
+        "att": 53,
+        "pct": 71.7,
+        "yds": 354,
+        "ypa": 6.7,
+        "td": 3,
+        "int": 0,
+        "rushYds": 4,
+        "rushTd": 0
+      }
+    },
+    {
       "id": 4685201,
       "name": "Tanner McKee",
       "pos": "QB",
@@ -1611,7 +1661,7 @@ window.NFL_DATA = {
         "primary": "#004c54",
         "secondary": "#a5acaf"
       },
-      "score": 44,
+      "score": 43,
       "stats": {
         "type": "passing",
         "cmp": 72,
@@ -1626,6 +1676,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 4433970,
+      "name": "J.J. McCarthy",
+      "pos": "QB",
+      "teamCode": "NYG",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4433970.png",
+      "colors": {
+        "primary": "#0b2265",
+        "secondary": "#a71930"
+      },
+      "score": 42,
+      "stats": {
+        "type": "passing",
+        "cmp": 43,
+        "att": 68,
+        "pct": 63.2,
+        "yds": 622,
+        "ypa": 9.1,
+        "td": 1,
+        "int": 1,
+        "rushYds": 51,
+        "rushTd": 1
+      }
+    },
+    {
       "id": 15168,
       "name": "Case Keenum",
       "pos": "QB",
@@ -1636,7 +1711,7 @@ window.NFL_DATA = {
         "primary": "#0b162a",
         "secondary": "#c83803"
       },
-      "score": 42,
+      "score": 41,
       "stats": {
         "type": "passing",
         "cmp": 35,
@@ -1661,7 +1736,7 @@ window.NFL_DATA = {
         "primary": "#d50a0a",
         "secondary": "#ff7900"
       },
-      "score": 39,
+      "score": 38,
       "stats": {
         "type": "passing",
         "cmp": 60,
@@ -1817,57 +1892,6 @@ window.NFL_DATA = {
     "playerThreshold": 90.0,
     "players": [
       {
-        "id": 14880,
-        "name": "Kirk Cousins",
-        "pos": "QB",
-        "teamCode": "LV",
-        "colors": {
-          "primary": "#000000",
-          "secondary": "#a5acaf"
-        },
-        "age": 38,
-        "careerScore": 82.7,
-        "threshold": 90.0,
-        "gap": 7.3,
-        "rings": 0,
-        "note": "1–2 temporadas elite + un Super Bowl",
-        "prevRank": 1
-      },
-      {
-        "id": 12483,
-        "name": "Matthew Stafford",
-        "pos": "QB",
-        "teamCode": "LAR",
-        "colors": {
-          "primary": "#003594",
-          "secondary": "#ffd100"
-        },
-        "age": 38,
-        "careerScore": 78.4,
-        "threshold": 90.0,
-        "gap": 11.6,
-        "rings": 1,
-        "note": "1–2 temporadas elite + un Super Bowl",
-        "prevRank": 2
-      },
-      {
-        "id": 3046779,
-        "name": "Jared Goff",
-        "pos": "QB",
-        "teamCode": "DET",
-        "colors": {
-          "primary": "#0076b6",
-          "secondary": "#b0b7bc"
-        },
-        "age": 32,
-        "careerScore": 77.5,
-        "threshold": 90.0,
-        "gap": 12.5,
-        "rings": 0,
-        "note": "1–2 temporadas elite + un Super Bowl",
-        "prevRank": 3
-      },
-      {
         "id": 3915511,
         "name": "Joe Burrow",
         "pos": "QB",
@@ -1885,6 +1909,40 @@ window.NFL_DATA = {
         "prevRank": 4
       },
       {
+        "id": 14880,
+        "name": "Kirk Cousins",
+        "pos": "QB",
+        "teamCode": "LV",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#a5acaf"
+        },
+        "age": 38,
+        "careerScore": 76.6,
+        "threshold": 90.0,
+        "gap": 13.4,
+        "rings": 0,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": 1
+      },
+      {
+        "id": 12483,
+        "name": "Matthew Stafford",
+        "pos": "QB",
+        "teamCode": "LAR",
+        "colors": {
+          "primary": "#003594",
+          "secondary": "#ffd100"
+        },
+        "age": 38,
+        "careerScore": 75.7,
+        "threshold": 90.0,
+        "gap": 14.3,
+        "rings": 1,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": 2
+      },
+      {
         "id": 2577417,
         "name": "Dak Prescott",
         "pos": "QB",
@@ -1894,12 +1952,46 @@ window.NFL_DATA = {
           "secondary": "#869397"
         },
         "age": 33,
-        "careerScore": 73.4,
+        "careerScore": 74.0,
         "threshold": 90.0,
-        "gap": 16.6,
+        "gap": 16.0,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
         "prevRank": 5
+      },
+      {
+        "id": 4036378,
+        "name": "Jordan Love",
+        "pos": "QB",
+        "teamCode": "GB",
+        "colors": {
+          "primary": "#203731",
+          "secondary": "#ffb612"
+        },
+        "age": 28,
+        "careerScore": 72.6,
+        "threshold": 90.0,
+        "gap": 17.4,
+        "rings": 0,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": 8
+      },
+      {
+        "id": 3046779,
+        "name": "Jared Goff",
+        "pos": "QB",
+        "teamCode": "DET",
+        "colors": {
+          "primary": "#0076b6",
+          "secondary": "#b0b7bc"
+        },
+        "age": 32,
+        "careerScore": 72.1,
+        "threshold": 90.0,
+        "gap": 17.9,
+        "rings": 0,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": 3
       },
       {
         "id": 15864,
@@ -1911,9 +2003,9 @@ window.NFL_DATA = {
           "secondary": "#000000"
         },
         "age": 36,
-        "careerScore": 73.2,
+        "careerScore": 69.9,
         "threshold": 90.0,
-        "gap": 16.8,
+        "gap": 20.1,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
         "prevRank": 6
@@ -1928,82 +2020,12 @@ window.NFL_DATA = {
           "secondary": "#9f792c"
         },
         "age": 27,
-        "careerScore": 71.4,
+        "careerScore": 66.0,
         "threshold": 90.0,
-        "gap": 18.6,
+        "gap": 24.0,
         "rings": 0,
-        "note": "2–3 años de pico + varios anillos",
+        "note": "Largo camino: años elite y títulos por delante",
         "prevRank": 7
-      },
-      {
-        "id": 4036378,
-        "name": "Jordan Love",
-        "pos": "QB",
-        "teamCode": "GB",
-        "colors": {
-          "primary": "#203731",
-          "secondary": "#ffb612"
-        },
-        "age": 28,
-        "careerScore": 71.2,
-        "threshold": 90.0,
-        "gap": 18.8,
-        "rings": 0,
-        "note": "2–3 años de pico + varios anillos",
-        "prevRank": 8
-      },
-      {
-        "id": 4361741,
-        "name": "Brock Purdy",
-        "pos": "QB",
-        "teamCode": "SF",
-        "colors": {
-          "primary": "#aa0000",
-          "secondary": "#b3995d"
-        },
-        "age": 26,
-        "careerScore": 64.7,
-        "threshold": 90.0,
-        "gap": 25.3,
-        "rings": 0,
-        "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 9
-      },
-      {
-        "id": 3918298,
-        "name": "Josh Allen",
-        "pos": "QB",
-        "teamCode": "BUF",
-        "colors": {
-          "primary": "#00338d",
-          "secondary": "#c60c30"
-        },
-        "age": 30,
-        "careerScore": 62.9,
-        "threshold": 90.0,
-        "gap": 27.1,
-        "rings": 0,
-        "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 10
-      }
-    ],
-    "youngProspects": [
-      {
-        "id": 4431452,
-        "name": "Drake Maye",
-        "pos": "QB",
-        "teamCode": "NE",
-        "colors": {
-          "primary": "#002244",
-          "secondary": "#c60c30"
-        },
-        "age": 24,
-        "currentScore": 84,
-        "projectedScore": 78.8,
-        "threshold": 90.0,
-        "gap": 11.2,
-        "note": "Inicio elite — techo altísimo",
-        "prevRank": 1
       },
       {
         "id": 4432577,
@@ -2015,12 +2037,65 @@ window.NFL_DATA = {
           "secondary": "#a71930"
         },
         "age": 25,
-        "currentScore": 85,
-        "projectedScore": 76.4,
+        "careerScore": 65.5,
         "threshold": 90.0,
-        "gap": 13.6,
+        "gap": 24.5,
+        "rings": 0,
+        "note": "Largo camino: años elite y títulos por delante",
+        "prevRank": null
+      },
+      {
+        "id": 4361741,
+        "name": "Brock Purdy",
+        "pos": "QB",
+        "teamCode": "SF",
+        "colors": {
+          "primary": "#aa0000",
+          "secondary": "#b3995d"
+        },
+        "age": 26,
+        "careerScore": 63.4,
+        "threshold": 90.0,
+        "gap": 26.6,
+        "rings": 0,
+        "note": "Largo camino: años elite y títulos por delante",
+        "prevRank": 9
+      }
+    ],
+    "youngProspects": [
+      {
+        "id": 4432577,
+        "name": "C.J. Stroud",
+        "pos": "QB",
+        "teamCode": "HOU",
+        "colors": {
+          "primary": "#03202f",
+          "secondary": "#a71930"
+        },
+        "age": 25,
+        "currentScore": 90,
+        "projectedScore": 79.8,
+        "threshold": 90.0,
+        "gap": 10.2,
         "note": "De los mejores de su generación",
         "prevRank": 2
+      },
+      {
+        "id": 4431452,
+        "name": "Drake Maye",
+        "pos": "QB",
+        "teamCode": "NE",
+        "colors": {
+          "primary": "#002244",
+          "secondary": "#c60c30"
+        },
+        "age": 24,
+        "currentScore": 82,
+        "projectedScore": 77.4,
+        "threshold": 90.0,
+        "gap": 12.6,
+        "note": "Inicio elite — techo altísimo",
+        "prevRank": 1
       },
       {
         "id": 4685720,
@@ -2032,10 +2107,10 @@ window.NFL_DATA = {
           "secondary": "#101820"
         },
         "age": 25,
-        "currentScore": 82,
-        "projectedScore": 74.4,
+        "currentScore": 84,
+        "projectedScore": 75.8,
         "threshold": 90.0,
-        "gap": 15.6,
+        "gap": 14.2,
         "note": "De los mejores de su generación",
         "prevRank": 3
       },
@@ -2049,29 +2124,12 @@ window.NFL_DATA = {
           "secondary": "#c83803"
         },
         "age": 24,
-        "currentScore": 65,
-        "projectedScore": 66.2,
+        "currentScore": 63,
+        "projectedScore": 64.8,
         "threshold": 90.0,
-        "gap": 23.8,
+        "gap": 25.2,
         "note": "Joven con pedigrí — salto a elite pendiente",
         "prevRank": 4
-      },
-      {
-        "id": 4688380,
-        "name": "Cam Ward",
-        "pos": "QB",
-        "teamCode": "TEN",
-        "colors": {
-          "primary": "#0c2340",
-          "secondary": "#4b92db"
-        },
-        "age": 24,
-        "currentScore": 61,
-        "projectedScore": 63.5,
-        "threshold": 90.0,
-        "gap": 26.5,
-        "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 5
       },
       {
         "id": 4426348,
@@ -2083,12 +2141,29 @@ window.NFL_DATA = {
           "secondary": "#ffb612"
         },
         "age": 25,
-        "currentScore": 61,
-        "projectedScore": 60.5,
+        "currentScore": 63,
+        "projectedScore": 61.8,
         "threshold": 90.0,
-        "gap": 29.5,
+        "gap": 28.2,
         "note": "Joven con pedigrí — salto a elite pendiente",
         "prevRank": 6
+      },
+      {
+        "id": 4688380,
+        "name": "Cam Ward",
+        "pos": "QB",
+        "teamCode": "TEN",
+        "colors": {
+          "primary": "#0c2340",
+          "secondary": "#4b92db"
+        },
+        "age": 24,
+        "currentScore": 58,
+        "projectedScore": 61.5,
+        "threshold": 90.0,
+        "gap": 28.5,
+        "note": "Joven con pedigrí — salto a elite pendiente",
+        "prevRank": 5
       }
     ]
   },
@@ -2105,7 +2180,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-09 01:01 UTC",
+  "LAST_UPDATE": "2026-11-09 13:54 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
