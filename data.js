@@ -2687,7 +2687,7 @@ window.NHL_DATA = {
         "p": 9,
         "pm": 10,
         "toi": 24.4,
-        "shots": 21
+        "shots": 22
       },
       "trajectory": [
         39,
@@ -6989,9 +6989,9 @@ window.NHL_DATA = {
       "name": "Justin Holl",
       "pos": "D",
       "teamCode": "WSH",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 34,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -10120,9 +10120,9 @@ window.NHL_DATA = {
       "name": "Arvid Soderblom",
       "pos": "G",
       "teamCode": "CHI",
-      "age": 27,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cf0a2c",
         "secondary": "#111111"
@@ -12588,7 +12588,7 @@ window.NHL_DATA = {
         "p": 8,
         "pm": 1,
         "toi": 17.7,
-        "shots": 44
+        "shots": 45
       },
       "trajectory": [
         38,
@@ -15997,9 +15997,9 @@ window.NHL_DATA = {
       "name": "Theo Lindstein",
       "pos": "D",
       "teamCode": "STL",
-      "age": 21,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -17746,9 +17746,9 @@ window.NHL_DATA = {
       "name": "Adam Jiricek",
       "pos": "D",
       "teamCode": "STL",
-      "age": 20,
-      "country": "Czechia",
-      "birthCountry": "CZE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -19181,7 +19181,7 @@ window.NHL_DATA = {
         "p": 5,
         "pm": -10,
         "toi": 15.7,
-        "shots": 25
+        "shots": 26
       },
       "trajectory": [
         38,
@@ -23252,6 +23252,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8486025,
+      "first": "Viggo",
+      "last": "Björck",
+      "name": "Viggo Björck",
+      "pos": "C",
+      "teamCode": "WPG",
+      "age": 18,
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8486025.png",
+      "score": 43,
+      "stats": {
+        "gp": 18,
+        "g": 0,
+        "a": 3,
+        "p": 3,
+        "pm": -8,
+        "toi": 13.9,
+        "shots": 15
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        43
+      ]
+    },
+    {
       "id": 8479772,
       "first": "Zack",
       "last": "MacEwen",
@@ -23908,39 +23941,6 @@ window.NHL_DATA = {
         40,
         42,
         44,
-        42
-      ]
-    },
-    {
-      "id": 8486025,
-      "first": "Viggo",
-      "last": "Björck",
-      "name": "Viggo Björck",
-      "pos": "C",
-      "teamCode": "WPG",
-      "age": 18,
-      "country": "Sweden",
-      "birthCountry": "SWE",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8486025.png",
-      "score": 42,
-      "stats": {
-        "gp": 18,
-        "g": 0,
-        "a": 3,
-        "p": 3,
-        "pm": -8,
-        "toi": 13.9,
-        "shots": 14
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
         42
       ]
     },
@@ -26739,7 +26739,7 @@ window.NHL_DATA = {
         "p": 0,
         "pm": 0,
         "toi": 10.8,
-        "shots": 1
+        "shots": 2
       },
       "trajectory": [
         37,
@@ -26789,9 +26789,9 @@ window.NHL_DATA = {
       "name": "Filip Bystedt",
       "pos": "C",
       "teamCode": "SJS",
-      "age": 22,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#006d75",
         "secondary": "#ea7200"
@@ -38322,10 +38322,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-09 16:38 UTC",
+  "LAST_UPDATE": "2026-11-09 22:41 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-09T16:38:16Z"
+    "standingsDateTimeUtc": "2026-11-09T22:41:00Z"
   }
 };

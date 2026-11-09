@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-09 16:41 UTC
+// Auto-generated 2026-11-09 22:43 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-09 16:41 UTC",
+  "UPDATED": "2026-11-09 22:43 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -338,9 +338,9 @@ window.TENNIS_DATA = {
       "prevListRank": 10,
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Bybit Stockholm Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 77.2
     },
@@ -1189,7 +1189,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 63.9
@@ -1361,7 +1361,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.8
@@ -4021,7 +4021,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 44.7
@@ -5464,7 +5464,7 @@ window.TENNIS_DATA = {
         "tournament": "FAGE WTA Finals Indian Wells",
         "state": "alive",
         "round": "Group Stage",
-        "reason": ""
+        "reason": "Eliminado en Group Stage"
       },
       "prevActiveScore": 85.7
     },
@@ -9503,10 +9503,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "DIRECTV Open Presentado por Compesar",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Chennai Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 40.6
     },
@@ -10107,7 +10107,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10286,9 +10286,9 @@ window.TENNIS_DATA = {
       "prevListRank": 149,
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 35.0
     },
@@ -10997,9 +10997,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Max Dahlin",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-7 (6-8) 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.1,
           "l_score": null,
           "match_score": 63.1
@@ -11023,9 +11023,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Leo Borg",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 44.9,
           "l_score": null,
           "match_score": 44.9
@@ -11140,24 +11140,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Karolina Muchova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-2) 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 100.0,
           "l_score": 85.7,
           "match_score": 100.0
         },
         {
           "round": "Group Stage",
-          "w": "Mirra Andreeva",
+          "w": "Elina Svitolina",
           "w_logo": "",
-          "l": "Elina Svitolina",
+          "l": "Mirra Andreeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 92.2,
-          "l_score": 90.4,
+          "scheduled": false,
+          "w_score": 90.4,
+          "l_score": 92.2,
           "match_score": 92.2
         }
       ]
@@ -11169,15 +11169,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Luisina Giovannini",
+          "w": "Tatjana Maria",
           "w_logo": "",
-          "l": "Tatjana Maria",
+          "l": "Luisina Giovannini",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 7-5 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 52.2,
+          "w_score": 52.2,
+          "l_score": null,
           "match_score": 52.2
         },
         {
@@ -11186,9 +11186,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maria Herazo Gonzalez",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 49.7,
           "l_score": null,
           "match_score": 49.7
@@ -11199,33 +11199,20 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tamara Zidansek",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": 35.0,
           "match_score": 35.0
         },
         {
           "round": "R128",
-          "w": "Antonella Esquivel Useche",
+          "w": "Elizabeth Mandlik",
           "w_logo": "",
-          "l": "Sofia Costoulas",
+          "l": "Veronika Erjavec",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "Dalila Jakupovic",
-          "w_logo": "",
-          "l": "Laura Pigossi",
-          "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 4-6 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11234,11 +11221,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Varvara Lepchenko",
+          "w": "Irene Burillo",
           "w_logo": "",
-          "l": "Polona Hercog",
+          "l": "Yuliana Lizarazo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11247,26 +11234,39 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Veronika Erjavec",
+          "w": "Laura Pigossi",
           "w_logo": "",
-          "l": "Elizabeth Mandlik",
+          "l": "Dalila Jakupovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "R128",
-          "w": "Yuliana Lizarazo",
+          "w": "Polona Hercog",
           "w_logo": "",
-          "l": "Irene Burillo",
+          "l": "Varvara Lepchenko",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 7-6 (7-3)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Sofia Costoulas",
+          "w_logo": "",
+          "l": "Antonella Esquivel Useche",
+          "l_logo": "",
+          "score": "6-0 6-1",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11295,9 +11295,8 @@ window.TENNIS_DATA = {
       "Cameron Norrie",
       "Holger Rune",
       "Juan Manuel Cerundolo",
-      "Leo Borg",
+      "Lorenzo Musetti",
       "Lorenzo Sonego",
-      "Max Dahlin",
       "Miomir Kecmanovic",
       "Quentin Halys",
       "Taylor Fritz",
@@ -11312,11 +11311,13 @@ window.TENNIS_DATA = {
       "Elias Ymer",
       "James Duckworth",
       "Jaume Munar",
+      "Leo Borg",
+      "Max Dahlin",
       "Tomas Machac",
       "Yannick Hanfmann"
     ],
-    "aliveCount": 19,
-    "matchesSeen": 15
+    "aliveCount": 18,
+    "matchesSeen": 17
   },
   "WTA_TOURNAMENT": {
     "name": "Chennai Open · FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
@@ -11349,18 +11350,15 @@ window.TENNIS_DATA = {
       "Alice Tubello",
       "Anastasia Zakharova",
       "Andrea Lazaro Garcia",
-      "Antonella Esquivel Useche",
       "Aryna Sabalenka",
       "Bianca Andreescu",
       "Carole Monnet",
       "Carolina Alves",
       "Coco Gauff",
-      "Dalila Jakupovic",
       "Elina Svitolina",
       "Elizabeth Mandlik",
       "Irene Burillo",
       "Janice Tjen",
-      "Jazmin Ortenzi",
       "Jeline Vandromme",
       "Jessica Pegula",
       "Joanna Garland",
@@ -11371,16 +11369,13 @@ window.TENNIS_DATA = {
       "Katrina Scott",
       "Laura Pigossi",
       "Laura Samson",
-      "Leolia Jeanjean",
       "Leyre Romero Gormaz",
       "Linda Noskova",
       "Lucia Bronzetti",
       "Lucrezia Stefanini",
-      "Luisina Giovannini",
       "Maaya Rajeshwaran Revathi",
       "Magda Linette",
       "Mai Hontama",
-      "Maria Herazo Gonzalez",
       "Maria Lourdes Carle",
       "Marina Bassols Ribera",
       "Marta Kostyuk",
@@ -11393,35 +11388,39 @@ window.TENNIS_DATA = {
       "Robin Montgomery",
       "Simona Waltert",
       "Sofia Costoulas",
-      "Tamara Zidansek",
       "Tatjana Maria",
       "Vaishnavi Adkar",
       "Valentina Mediorreal Arias",
-      "Varvara Lepchenko",
-      "Veronika Erjavec",
       "Weronika Falkowska",
-      "Yuliana Lizarazo",
       "Zhibek Kulambayeva"
     ],
     "out": [
       "Aliona Falei",
+      "Antonella Esquivel Useche",
+      "Dalila Jakupovic",
       "Jil Teichmann",
       "Jodie Burrage",
       "Katarzyna Kawa",
       "Katherine Hui",
       "Kyoka Okamura",
       "Linda Fruhvirtova",
+      "Luisina Giovannini",
       "Mananchaya Sawangkaew",
+      "Maria Herazo Gonzalez",
       "Mei Yamaguchi",
       "Panna Udvardy",
       "Polina Iatcenko",
       "Rada Zolotareva",
       "Rebecca Sramkova",
       "Sahaja Yamalapalli",
+      "Tamara Zidansek",
       "Teodora Kostovic",
-      "Viktoria Morvayova"
+      "Varvara Lepchenko",
+      "Veronika Erjavec",
+      "Viktoria Morvayova",
+      "Yuliana Lizarazo"
     ],
-    "aliveCount": 56,
+    "aliveCount": 46,
     "matchesSeen": 59
   },
   "ATP_SCORE_LOG": {
