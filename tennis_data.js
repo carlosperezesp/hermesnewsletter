@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-10 13:30 UTC
+// Auto-generated 2026-11-10 20:01 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-10 13:30 UTC",
+  "UPDATED": "2026-11-10 20:01 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1120,9 +1120,9 @@ window.TENNIS_DATA = {
       "prevListRank": 33,
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Bybit Stockholm Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 64.5
     },
@@ -1700,9 +1700,9 @@ window.TENNIS_DATA = {
       "prevListRank": 50,
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.7
     },
@@ -1802,9 +1802,9 @@ window.TENNIS_DATA = {
       "prevListRank": 53,
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.9
     },
@@ -2006,9 +2006,9 @@ window.TENNIS_DATA = {
       "prevListRank": 59,
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.0
     },
@@ -2551,7 +2551,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.8
@@ -3299,7 +3299,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 49.8
@@ -8051,7 +8051,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 52.5
@@ -8567,7 +8567,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 49.3
@@ -9124,9 +9124,9 @@ window.TENNIS_DATA = {
       "prevListRank": 116,
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 44.3
     },
@@ -9295,7 +9295,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -9894,9 +9894,9 @@ window.TENNIS_DATA = {
       "prevListRank": 138,
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 36.1
     },
@@ -10986,15 +10986,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Lorenzo Musetti",
+          "w": "Toby Samuel",
           "w_logo": "",
-          "l": "Toby Samuel",
+          "l": "Lorenzo Musetti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 77.0,
-          "l_score": 44.9,
+          "scheduled": false,
+          "w_score": 44.9,
+          "l_score": 77.0,
           "match_score": 77.0
         },
         {
@@ -11025,41 +11025,41 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Arthur Rinderknech",
+          "w": "Miomir Kecmanovic",
           "w_logo": "",
-          "l": "Miomir Kecmanovic",
+          "l": "Arthur Rinderknech",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 4-6 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 59.9,
-          "l_score": 53.3,
+          "scheduled": false,
+          "w_score": 53.3,
+          "l_score": 59.9,
           "match_score": 59.9
         },
         {
           "round": "R128",
-          "w": "Zizou Bergs",
+          "w": "Holger Rune",
           "w_logo": "",
-          "l": "Holger Rune",
+          "l": "Zizou Bergs",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 58.5,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 58.5,
           "match_score": 58.5
         },
         {
           "round": "R128",
-          "w": "Quentin Halys",
+          "w": "Lorenzo Sonego",
           "w_logo": "",
-          "l": "Lorenzo Sonego",
+          "l": "Quentin Halys",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 57.1,
-          "l_score": 49.8,
+          "w_score": 49.8,
+          "l_score": 57.1,
           "match_score": 57.1
         },
         {
@@ -11285,15 +11285,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Laura Samson",
+          "w": "Carolina Alves",
           "w_logo": "",
-          "l": "Carolina Alves",
+          "l": "Laura Samson",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 63.7,
           "match_score": 63.7
         },
         {
@@ -11302,9 +11302,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Julia Riera",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (9-7) 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 49.3,
           "l_score": 44.3,
           "match_score": 49.3
@@ -11315,24 +11315,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Katrina Scott",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.8,
           "l_score": null,
           "match_score": 48.8
         },
         {
           "round": "R128",
-          "w": "Bianca Andreescu",
+          "w": "Rebeka Masarova",
           "w_logo": "",
-          "l": "Rebeka Masarova",
+          "l": "Bianca Andreescu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 48.7,
           "match_score": 48.7
         },
         {
@@ -11341,35 +11341,35 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Julieta Pareja",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 4-6 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.8,
           "l_score": null,
           "match_score": 42.8
         },
         {
           "round": "R128",
-          "w": "Leyre Romero Gormaz",
+          "w": "Carole Monnet",
           "w_logo": "",
-          "l": "Carole Monnet",
+          "l": "Leyre Romero Gormaz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 7-6 (7-2)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 36.1,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 36.1,
           "match_score": 36.1
         },
         {
           "round": "R128",
-          "w": "TBD",
+          "w": "Jazmin Ortenzi",
           "w_logo": "",
-          "l": "Jazmin Ortenzi",
+          "l": "Maria Camila Torres Murcia",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11403,9 +11403,9 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Alejandro Tabilo",
       "Aleksandr Shevchenko",
       "Alex Michelsen",
-      "Arthur Rinderknech",
       "Borna Gojo",
       "Cameron Norrie",
       "Casper Ruud",
@@ -11414,27 +11414,28 @@ window.TENNIS_DATA = {
       "Lorenzo Musetti",
       "Lorenzo Sonego",
       "Miomir Kecmanovic",
-      "Quentin Halys",
       "Taylor Fritz",
       "Thiago Agustin Tirante",
       "Toby Samuel",
       "Tomas Martin Etcheverry",
-      "Ugo Humbert",
-      "Zizou Bergs"
+      "Ugo Humbert"
     ],
     "out": [
       "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
+      "Arthur Rinderknech",
       "Elias Ymer",
       "James Duckworth",
       "Jaume Munar",
       "Leo Borg",
       "Max Dahlin",
+      "Quentin Halys",
       "Tomas Machac",
-      "Yannick Hanfmann"
+      "Yannick Hanfmann",
+      "Zizou Bergs"
     ],
-    "aliveCount": 18,
-    "matchesSeen": 18
+    "aliveCount": 16,
+    "matchesSeen": 20
   },
   "WTA_TOURNAMENT": {
     "name": "FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
@@ -11469,15 +11470,13 @@ window.TENNIS_DATA = {
       "Elina Svitolina",
       "Elizabeth Mandlik",
       "Irene Burillo",
+      "Jazmin Ortenzi",
       "Jessica Pegula",
       "Julia Grabher",
-      "Julia Riera",
-      "Julieta Pareja",
       "Karolina Muchova",
       "Katrina Scott",
       "Laura Pigossi",
       "Laura Samson",
-      "Leyre Romero Gormaz",
       "Linda Noskova",
       "Lucia Bronzetti",
       "Maria Lourdes Carle",
@@ -11493,15 +11492,19 @@ window.TENNIS_DATA = {
     "out": [
       "Antonella Esquivel Useche",
       "Dalila Jakupovic",
+      "Julia Riera",
+      "Julieta Pareja",
+      "Leyre Romero Gormaz",
       "Luisina Giovannini",
+      "Maria Camila Torres Murcia",
       "Maria Herazo Gonzalez",
       "Tamara Zidansek",
       "Varvara Lepchenko",
       "Veronika Erjavec",
       "Yuliana Lizarazo"
     ],
-    "aliveCount": 30,
-    "matchesSeen": 28
+    "aliveCount": 28,
+    "matchesSeen": 32
   },
   "ATP_SCORE_LOG": {
     "206173": [

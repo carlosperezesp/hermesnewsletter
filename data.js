@@ -846,7 +846,7 @@ window.NHL_DATA = {
         87
       ],
       "legendScore": 67.0,
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": 8480800,
@@ -881,7 +881,7 @@ window.NHL_DATA = {
         87
       ],
       "legendScore": 54.7,
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 8481611,
@@ -983,7 +983,7 @@ window.NHL_DATA = {
         81
       ],
       "legendScore": 57.8,
-      "prevRank": 10
+      "prevRank": 8
     },
     {
       "id": 8480069,
@@ -1018,7 +1018,7 @@ window.NHL_DATA = {
         80
       ],
       "legendScore": 58.2,
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 8482661,
@@ -1050,7 +1050,7 @@ window.NHL_DATA = {
         60,
         80
       ],
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 8476999,
@@ -1236,7 +1236,7 @@ window.NHL_DATA = {
         "p": 22,
         "pm": 2,
         "toi": 22.8,
-        "shots": 27
+        "shots": 28
       },
       "trajectory": [
         41,
@@ -3213,7 +3213,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 9,
         "w": 8,
-        "svpct": 0.898,
+        "svpct": 0.899,
         "gaa": 2.75,
         "so": 0
       },
@@ -9576,7 +9576,7 @@ window.NHL_DATA = {
         "p": 13,
         "pm": 0,
         "toi": 16.7,
-        "shots": 33
+        "shots": 34
       },
       "trajectory": [
         39,
@@ -11396,7 +11396,7 @@ window.NHL_DATA = {
         "p": 12,
         "pm": -12,
         "toi": 16.1,
-        "shots": 31
+        "shots": 32
       },
       "trajectory": [
         39,
@@ -12723,7 +12723,7 @@ window.NHL_DATA = {
         "p": 11,
         "pm": -6,
         "toi": 14.7,
-        "shots": 28
+        "shots": 29
       },
       "trajectory": [
         39,
@@ -19268,9 +19268,9 @@ window.NHL_DATA = {
       "name": "Dominic James",
       "pos": "C",
       "teamCode": "TBL",
-      "age": 24,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002868",
         "secondary": "#ffffff"
@@ -26627,9 +26627,9 @@ window.NHL_DATA = {
       "name": "Victor Mancini",
       "pos": "D",
       "teamCode": "VAN",
-      "age": 24,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#00843d"
@@ -27980,9 +27980,9 @@ window.NHL_DATA = {
       "name": "Tyler Pitlick",
       "pos": "C",
       "teamCode": "MIN",
-      "age": 35,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -38343,7 +38343,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.7,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 7
+        "prevRank": 4
       },
       {
         "id": 8484762,
@@ -38379,7 +38379,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.9,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 4
+        "prevRank": 6
       },
       {
         "id": 8483457,
@@ -38397,7 +38397,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.0,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "id": 8483445,
@@ -38433,7 +38433,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 35.6,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 8484144,
@@ -38451,7 +38451,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 36.0,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 9
+        "prevRank": 10
       }
     ]
   },
@@ -38500,10 +38500,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-10 13:28 UTC",
+  "LAST_UPDATE": "2026-11-10 19:59 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-10T13:28:00Z"
+    "standingsDateTimeUtc": "2026-11-10T19:59:15Z"
   }
 };

@@ -3961,7 +3961,7 @@ window.MLB_DATA = {
       "last": "Busch",
       "pos": "1B",
       "teamCode": "CHC",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42415.png",
       "colors": {
         "primary": "#0e3386",
@@ -3977,7 +3977,7 @@ window.MLB_DATA = {
         "sb": 3,
         "ops": 0.745
       },
-      "legendScore": 36.4,
+      "legendScore": 37.2,
       "currentScore": 56,
       "battingScore": 56,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-10 13:28 UTC",
+  "LAST_UPDATE": "2026-11-10 19:59 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
