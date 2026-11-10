@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-10 03:41 UTC
+// Auto-generated 2026-11-10 13:30 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-10 03:41 UTC",
+  "UPDATED": "2026-11-10 13:30 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -236,9 +236,9 @@ window.TENNIS_DATA = {
       "prevListRank": 7,
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Bybit Stockholm Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 79.0
     },
@@ -1361,7 +1361,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 62.8
@@ -1939,7 +1939,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 57.7
@@ -3264,9 +3264,9 @@ window.TENNIS_DATA = {
       "prevListRank": 96,
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 50.2
     },
@@ -11003,9 +11003,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Juan Manuel Cerundolo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 65.0,
           "l_score": 57.7,
           "match_score": 65.0
@@ -11016,9 +11016,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tomas Martin Etcheverry",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "w/o",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 64.1,
           "l_score": 63.1,
           "match_score": 64.1
@@ -11055,24 +11055,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lorenzo Sonego",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 57.1,
           "l_score": 49.8,
           "match_score": 57.1
         },
         {
           "round": "R128",
-          "w": "Adrian Mannarino",
+          "w": "Aleksandr Shevchenko",
           "w_logo": "",
-          "l": "Aleksandr Shevchenko",
+          "l": "Adrian Mannarino",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.9,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 49.9,
           "match_score": 49.9
         }
       ]
@@ -11403,12 +11403,12 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Adrian Mannarino",
       "Aleksandr Shevchenko",
       "Alex Michelsen",
       "Arthur Rinderknech",
       "Borna Gojo",
       "Cameron Norrie",
+      "Casper Ruud",
       "Holger Rune",
       "Juan Manuel Cerundolo",
       "Lorenzo Musetti",
@@ -11424,6 +11424,7 @@ window.TENNIS_DATA = {
     ],
     "out": [
       "Adolfo Daniel Vallejo",
+      "Adrian Mannarino",
       "Elias Ymer",
       "James Duckworth",
       "Jaume Munar",
@@ -11433,7 +11434,7 @@ window.TENNIS_DATA = {
       "Yannick Hanfmann"
     ],
     "aliveCount": 18,
-    "matchesSeen": 17
+    "matchesSeen": 18
   },
   "WTA_TOURNAMENT": {
     "name": "FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",

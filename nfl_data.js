@@ -26,6 +26,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "BUF",
+      "city": "Buffalo Bills",
+      "shortName": "Buffalo",
+      "commonName": "Bills",
+      "conf": "AFC",
+      "div": "AFC East",
+      "gp": 8,
+      "w": 7,
+      "l": 1,
+      "t": 0,
+      "winPct": 0.875,
+      "pf": 256,
+      "pa": 187,
+      "pd": 69,
+      "seed": 1,
+      "score": 77,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+      "colors": {
+        "primary": "#00338d",
+        "secondary": "#c60c30"
+      }
+    },
+    {
       "code": "CHI",
       "city": "Chicago Bears",
       "shortName": "Chicago",
@@ -40,7 +63,7 @@ window.NFL_DATA = {
       "pf": 241,
       "pa": 184,
       "pd": 57,
-      "seed": 5,
+      "seed": 2,
       "score": 67,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
       "colors": {
@@ -141,52 +164,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "BUF",
-      "city": "Buffalo Bills",
-      "shortName": "Buffalo",
-      "commonName": "Bills",
-      "conf": "AFC",
-      "div": "AFC East",
-      "gp": 7,
-      "w": 6,
-      "l": 1,
-      "t": 0,
-      "winPct": 0.857,
-      "pf": 233,
-      "pa": 181,
-      "pd": 52,
-      "seed": 1,
-      "score": 75,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-      "colors": {
-        "primary": "#00338d",
-        "secondary": "#c60c30"
-      }
-    },
-    {
-      "code": "MIN",
-      "city": "Minnesota Vikings",
-      "shortName": "Minnesota",
-      "commonName": "Vikings",
-      "conf": "NFC",
-      "div": "NFC North",
-      "gp": 7,
-      "w": 6,
-      "l": 1,
-      "t": 0,
-      "winPct": 0.857,
-      "pf": 140,
-      "pa": 93,
-      "pd": 47,
-      "seed": 2,
-      "score": 74,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-      "colors": {
-        "primary": "#4f2683",
-        "secondary": "#ffc62f"
-      }
-    },
-    {
       "code": "PIT",
       "city": "Pittsburgh Steelers",
       "shortName": "Pittsburgh",
@@ -224,12 +201,35 @@ window.NFL_DATA = {
       "pf": 222,
       "pa": 189,
       "pd": 33,
-      "seed": 6,
+      "seed": 5,
       "score": 63,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
       "colors": {
         "primary": "#0076b6",
         "secondary": "#b0b7bc"
+      }
+    },
+    {
+      "code": "MIN",
+      "city": "Minnesota Vikings",
+      "shortName": "Minnesota",
+      "commonName": "Vikings",
+      "conf": "NFC",
+      "div": "NFC North",
+      "gp": 8,
+      "w": 6,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.75,
+      "pf": 146,
+      "pa": 116,
+      "pd": 30,
+      "seed": 6,
+      "score": 63,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+      "colors": {
+        "primary": "#4f2683",
+        "secondary": "#ffc62f"
       }
     },
     {
@@ -1101,6 +1101,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 3918298,
+      "name": "Josh Allen",
+      "pos": "QB",
+      "teamCode": "BUF",
+      "age": 30,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png",
+      "colors": {
+        "primary": "#00338d",
+        "secondary": "#c60c30"
+      },
+      "score": 75,
+      "stats": {
+        "type": "passing",
+        "cmp": 156,
+        "att": 236,
+        "pct": 66.1,
+        "yds": 2027,
+        "ypa": 8.6,
+        "td": 12,
+        "int": 6,
+        "rushYds": 285,
+        "rushTd": 3
+      }
+    },
+    {
       "id": 8439,
       "name": "Aaron Rodgers",
       "pos": "QB",
@@ -1148,31 +1173,6 @@ window.NFL_DATA = {
         "int": 4,
         "rushYds": 116,
         "rushTd": 1
-      }
-    },
-    {
-      "id": 3918298,
-      "name": "Josh Allen",
-      "pos": "QB",
-      "teamCode": "BUF",
-      "age": 30,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png",
-      "colors": {
-        "primary": "#00338d",
-        "secondary": "#c60c30"
-      },
-      "score": 71,
-      "stats": {
-        "type": "passing",
-        "cmp": 135,
-        "att": 205,
-        "pct": 65.9,
-        "yds": 1793,
-        "ypa": 8.7,
-        "td": 11,
-        "int": 5,
-        "rushYds": 270,
-        "rushTd": 3
       }
     },
     {
@@ -1726,6 +1726,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 2573079,
+      "name": "Carson Wentz",
+      "pos": "QB",
+      "teamCode": "MIN",
+      "age": 33,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2573079.png",
+      "colors": {
+        "primary": "#4f2683",
+        "secondary": "#ffc62f"
+      },
+      "score": 39,
+      "stats": {
+        "type": "passing",
+        "cmp": 31,
+        "att": 64,
+        "pct": 48.4,
+        "yds": 357,
+        "ypa": 5.6,
+        "td": 3,
+        "int": 2,
+        "rushYds": 5,
+        "rushTd": 0
+      }
+    },
+    {
       "id": 4596472,
       "name": "Jalon Daniels",
       "pos": "QB",
@@ -2180,7 +2205,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-10 03:39 UTC",
+  "LAST_UPDATE": "2026-11-10 13:28 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
