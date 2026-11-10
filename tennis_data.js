@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-10 20:01 UTC
+// Auto-generated 2026-11-10 20:36 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-10 20:01 UTC",
+  "UPDATED": "2026-11-10 20:36 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -4021,7 +4021,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 44.7
@@ -8675,7 +8675,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.8
@@ -8709,7 +8709,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -10986,15 +10986,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Toby Samuel",
+          "w": "Lorenzo Musetti",
           "w_logo": "",
-          "l": "Lorenzo Musetti",
+          "l": "Toby Samuel",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 44.9,
-          "l_score": 77.0,
+          "w_score": 77.0,
+          "l_score": 44.9,
           "match_score": 77.0
         },
         {
@@ -11265,15 +11265,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Group Stage",
-          "w": "Marta Kostyuk",
+          "w": "Jessica Pegula",
           "w_logo": "",
-          "l": "Jessica Pegula",
+          "l": "Marta Kostyuk",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.4,
-          "l_score": 89.8,
+          "scheduled": false,
+          "w_score": 89.8,
+          "l_score": 90.4,
           "match_score": 90.4
         }
       ]
@@ -11315,7 +11315,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Katrina Scott",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (3-7) 7-5 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 48.8,
@@ -11324,15 +11324,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Rebeka Masarova",
+          "w": "Bianca Andreescu",
           "w_logo": "",
-          "l": "Bianca Andreescu",
+          "l": "Rebeka Masarova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 6-3 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 48.7,
+          "w_score": 48.7,
+          "l_score": null,
           "match_score": 48.7
         },
         {
@@ -11474,7 +11474,6 @@ window.TENNIS_DATA = {
       "Jessica Pegula",
       "Julia Grabher",
       "Karolina Muchova",
-      "Katrina Scott",
       "Laura Pigossi",
       "Laura Samson",
       "Linda Noskova",
@@ -11484,7 +11483,6 @@ window.TENNIS_DATA = {
       "Marta Kostyuk",
       "Mirra Andreeva",
       "Polona Hercog",
-      "Rebeka Masarova",
       "Sofia Costoulas",
       "Tatjana Maria",
       "Valentina Mediorreal Arias"
@@ -11494,17 +11492,19 @@ window.TENNIS_DATA = {
       "Dalila Jakupovic",
       "Julia Riera",
       "Julieta Pareja",
+      "Katrina Scott",
       "Leyre Romero Gormaz",
       "Luisina Giovannini",
       "Maria Camila Torres Murcia",
       "Maria Herazo Gonzalez",
+      "Rebeka Masarova",
       "Tamara Zidansek",
       "Varvara Lepchenko",
       "Veronika Erjavec",
       "Yuliana Lizarazo"
     ],
-    "aliveCount": 28,
-    "matchesSeen": 32
+    "aliveCount": 26,
+    "matchesSeen": 34
   },
   "ATP_SCORE_LOG": {
     "206173": [

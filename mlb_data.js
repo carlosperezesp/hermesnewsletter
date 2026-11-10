@@ -976,6 +976,37 @@ window.MLB_DATA = {
       "prevRank": 6
     },
     {
+      "id": 5080771,
+      "name": "Sal Stewart",
+      "first": "Sal",
+      "last": "Stewart",
+      "pos": "1B",
+      "teamCode": "CIN",
+      "age": 22,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png",
+      "colors": {
+        "primary": "#c6011f",
+        "secondary": "#000000"
+      },
+      "score": 80,
+      "stats": {
+        "type": "batting",
+        "ab": 623,
+        "hr": 32,
+        "rbi": 112,
+        "avg": 0.263,
+        "sb": 15,
+        "ops": 0.787
+      },
+      "legendScore": 44.5,
+      "currentScore": 80,
+      "battingScore": 80,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
+      "prevRank": 8
+    },
+    {
       "id": 5016968,
       "name": "Ben Rice",
       "first": "Ben",
@@ -1005,37 +1036,6 @@ window.MLB_DATA = {
       "twoWayBonus": 0,
       "rings": 0,
       "prevRank": 7
-    },
-    {
-      "id": 5080771,
-      "name": "Sal Stewart",
-      "first": "Sal",
-      "last": "Stewart",
-      "pos": "1B",
-      "teamCode": "CIN",
-      "age": 22,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png",
-      "colors": {
-        "primary": "#c6011f",
-        "secondary": "#000000"
-      },
-      "score": 79,
-      "stats": {
-        "type": "batting",
-        "ab": 623,
-        "hr": 32,
-        "rbi": 111,
-        "avg": 0.263,
-        "sb": 15,
-        "ops": 0.787
-      },
-      "legendScore": 44.0,
-      "currentScore": 79,
-      "battingScore": 79,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0,
-      "prevRank": 8
     },
     {
       "id": 34943,
@@ -3463,9 +3463,9 @@ window.MLB_DATA = {
         "ab": 541,
         "hr": 16,
         "rbi": 70,
-        "avg": 0.283,
+        "avg": 0.285,
         "sb": 17,
-        "ops": 0.761
+        "ops": 0.764
       },
       "legendScore": 35.8,
       "currentScore": 58,
@@ -3882,10 +3882,10 @@ window.MLB_DATA = {
         "type": "batting",
         "ab": 623,
         "hr": 24,
-        "rbi": 60,
-        "avg": 0.226,
+        "rbi": 59,
+        "avg": 0.225,
         "sb": 10,
-        "ops": 0.715
+        "ops": 0.712
       },
       "legendScore": 33.9,
       "currentScore": 56,
@@ -6829,11 +6829,11 @@ window.MLB_DATA = {
           "secondary": "#000000"
         },
         "age": 22,
-        "currentScore": 79,
-        "projectedScore": 66.6,
+        "currentScore": 80,
+        "projectedScore": 67.2,
         "threshold": 92.5,
-        "gap": 25.9,
-        "note": "Among the best players of their generation",
+        "gap": 25.3,
+        "note": "Elite start to career — ceiling is very high",
         "prevRank": 3
       },
       {
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-10 19:59 UTC",
+  "LAST_UPDATE": "2026-11-10 20:34 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
