@@ -163,6 +163,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "MEM",
+      "city": "Memphis Grizzlies",
+      "shortName": "Memphis",
+      "commonName": "Grizzlies",
+      "conf": "W",
+      "gp": 10,
+      "w": 7,
+      "l": 3,
+      "winPct": 0.7,
+      "gf": 1179,
+      "ga": 1108,
+      "gd": 71,
+      "score": 70,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+      "colors": {
+        "primary": "#5d76a9",
+        "secondary": "#12173f"
+      }
+    },
+    {
       "code": "GS",
       "city": "Golden State Warriors",
       "shortName": "Golden State",
@@ -200,26 +220,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#e03a3e",
         "secondary": "#c1d32f"
-      }
-    },
-    {
-      "code": "MEM",
-      "city": "Memphis Grizzlies",
-      "shortName": "Memphis",
-      "commonName": "Grizzlies",
-      "conf": "W",
-      "gp": 9,
-      "w": 6,
-      "l": 3,
-      "winPct": 0.667,
-      "gf": 1061,
-      "ga": 1006,
-      "gd": 55,
-      "score": 66,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
-      "colors": {
-        "primary": "#5d76a9",
-        "secondary": "#12173f"
       }
     },
     {
@@ -288,14 +288,14 @@ window.NBA_DATA = {
       "shortName": "Toronto",
       "commonName": "Raptors",
       "conf": "E",
-      "gp": 9,
+      "gp": 10,
       "w": 5,
-      "l": 4,
-      "winPct": 0.556,
-      "gf": 1064,
-      "ga": 1015,
-      "gd": 49,
-      "score": 55,
+      "l": 5,
+      "winPct": 0.5,
+      "gf": 1166,
+      "ga": 1133,
+      "gd": 33,
+      "score": 47,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
       "colors": {
         "primary": "#ce1141",
@@ -4551,7 +4551,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-10 02:44 UTC",
+  "LAST_UPDATE": "2026-11-10 03:39 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
