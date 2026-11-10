@@ -28175,7 +28175,7 @@ window.NHL_DATA = {
       "name": "Luca Del Bel Belluz",
       "pos": "C",
       "teamCode": "CBJ",
-      "age": 22,
+      "age": 23,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -38322,10 +38322,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-09 23:07 UTC",
+  "LAST_UPDATE": "2026-11-10 02:44 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-09T23:07:15Z"
+    "standingsDateTimeUtc": "2026-11-10T02:44:00Z"
   }
 };

@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-09 23:07 UTC
+// Auto-generated 2026-11-10 02:45 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-11-09 23:07 UTC",
+  "UPDATED": "2026-11-10 02:45 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -529,7 +529,7 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 4",
       "yusho": 1,
       "legendScore": 1.9,
-      "age": 32,
+      "age": 33,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "primary": "#BC002D"
