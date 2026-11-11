@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-10 20:36 UTC",
+  "UPDATED": "2026-11-11 00:43 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -375,24 +375,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-01"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jackson LaCombe",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Jackson LaCombe entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:Mohammed Siraj",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "Mohammed Siraj entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-27"
-    },
-    {
       "id": "tennis:out:ATP:Rafael Jodar:20261105",
       "sport": "tennis",
       "detail": "Tenis",
@@ -562,15 +544,6 @@ window.GLORY_DATA = {
       "text": "Kotoshoho cae del top-10 · banzuke",
       "weight": 74,
       "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:out:Nauman Ali",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "Nauman Ali cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-10-27"
     }
   ],
   "REPORTS": [],

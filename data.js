@@ -14376,7 +14376,7 @@ window.NHL_DATA = {
       "name": "Jean-Gabriel Pageau",
       "pos": "C",
       "teamCode": "NYI",
-      "age": 33,
+      "age": 34,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -38500,10 +38500,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-10 20:34 UTC",
+  "LAST_UPDATE": "2026-11-11 00:40 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-10T20:34:15Z"
+    "standingsDateTimeUtc": "2026-11-11T00:39:17Z"
   }
 };
