@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-11 01:20 UTC
+// Auto-generated 2026-11-11 12:45 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-11 01:20 UTC",
+  "UPDATED": "2026-11-11 12:45 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11029,9 +11029,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lorenzo Sonego",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 64.4,
           "l_score": 49.8,
           "match_score": 64.4

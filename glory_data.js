@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-11 01:20 UTC",
+  "UPDATED": "2026-11-11 12:45 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -51,13 +51,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-31"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.players:new1:Luka Doncic",
+      "id": "rank:nba:ROAD_TO_GLORY.players:new1:LeBron James",
       "sport": "nba",
       "detail": "NBA",
       "anchor": "nba-road-to-glory",
-      "text": "Luka Doncic es nuevo nº1 · Road to Glory",
+      "text": "LeBron James es nuevo nº1 · Road to Glory",
       "weight": 92,
-      "firstSeen": "2026-11-10"
+      "firstSeen": "2026-11-11"
     },
     {
       "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Joe Burrow",
@@ -123,6 +123,51 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Cale Makar entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Jayson Tatum",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Jayson Tatum entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Paul George",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Paul George entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Franz Wagner",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Franz Wagner entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Deni Avdija",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Deni Avdija entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-11"
+    },
+    {
       "id": "rank:nba:ROAD_TO_GLORY.players:in:Pascal Siakam",
       "sport": "nba",
       "detail": "NBA",
@@ -186,15 +231,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Julius Randle",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Julius Randle entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Darius Acuff Jr.",
       "sport": "nba",
       "detail": "NBA",
@@ -209,15 +245,6 @@ window.GLORY_DATA = {
       "detail": "NBA",
       "anchor": "nba-jovenes-promesas",
       "text": "Jeremiah Fears entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Keyonte George",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Keyonte George entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-09"
     },
@@ -276,15 +303,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-08"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Donovan Mitchell",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Donovan Mitchell entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
-    },
-    {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Dylan Harper",
       "sport": "nba",
       "detail": "NBA",
@@ -292,24 +310,6 @@ window.GLORY_DATA = {
       "text": "Dylan Harper entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Yaxel Lendeborg",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Yaxel Lendeborg entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Artemi Panarin",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Artemi Panarin entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-05"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Beckett Sennecke",
@@ -393,6 +393,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.players:out:Tyrese Maxey",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Tyrese Maxey cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-11-11"
+    },
+    {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Brandon Miller",
       "sport": "nba",
       "detail": "NBA",
@@ -407,15 +416,6 @@ window.GLORY_DATA = {
       "detail": "NBA",
       "anchor": "nba-road-to-glory",
       "text": "Stephen Curry cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:out:LeBron James",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "LeBron James cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-11-07"
     },
@@ -470,15 +470,6 @@ window.GLORY_DATA = {
       "detail": "NBA",
       "anchor": "nba-jovenes-promesas",
       "text": "Jalen Johnson cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Deni Avdija",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Deni Avdija cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-11-07"
     },
@@ -572,11 +563,11 @@ window.GLORY_DATA = {
       "Nathan MacKinnon",
       "Leon Draisaitl",
       "David Pastrnak",
-      "Artemi Panarin",
       "Auston Matthews",
       "Erik Karlsson",
       "Roman Josi",
-      "Matthew Tkachuk"
+      "Matthew Tkachuk",
+      "Cale Makar"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -603,22 +594,22 @@ window.GLORY_DATA = {
       "Connor Bedard"
     ],
     "nba:ROAD_TO_GLORY.players": [
+      "LeBron James",
       "Luka Doncic",
       "Giannis Antetokounmpo",
       "Kevin Durant",
       "Shai Gilgeous-Alexander",
+      "Jayson Tatum",
       "Jaylen Brown",
+      "Paul George",
       "Victor Wembanyama",
-      "Pascal Siakam",
-      "Donovan Mitchell",
-      "Tyrese Maxey",
-      "Julius Randle"
+      "Pascal Siakam"
     ],
     "nba:ROAD_TO_GLORY.teams": [
       "Boston Celtics",
       "Los Angeles Lakers",
-      "Oklahoma City Thunder",
       "Golden State Warriors",
+      "Oklahoma City Thunder",
       "San Antonio Spurs",
       "Minnesota Timberwolves",
       "Denver Nuggets",
@@ -632,11 +623,11 @@ window.GLORY_DATA = {
       "Darius Acuff Jr.",
       "Cameron Boozer",
       "Dylan Harper",
+      "Franz Wagner",
       "Cade Cunningham",
-      "Jeremiah Fears",
-      "Keyonte George",
-      "Yaxel Lendeborg",
-      "Darryn Peterson"
+      "Deni Avdija",
+      "Darryn Peterson",
+      "Jeremiah Fears"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",
