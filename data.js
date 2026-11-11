@@ -10309,7 +10309,7 @@ window.NHL_DATA = {
         "p": 11,
         "pm": 8,
         "toi": 16.9,
-        "shots": 27
+        "shots": 28
       },
       "trajectory": [
         39,
@@ -10836,7 +10836,7 @@ window.NHL_DATA = {
         "p": 10,
         "pm": 2,
         "toi": 17.6,
-        "shots": 49
+        "shots": 50
       },
       "trajectory": [
         39,
@@ -12194,7 +12194,7 @@ window.NHL_DATA = {
         "p": 8,
         "pm": -3,
         "toi": 15.5,
-        "shots": 26
+        "shots": 27
       },
       "trajectory": [
         38,
@@ -20638,7 +20638,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": -9,
         "toi": 15.9,
-        "shots": 29
+        "shots": 28
       },
       "trajectory": [
         38,
@@ -27288,9 +27288,9 @@ window.NHL_DATA = {
       "name": "Nico Myatovic",
       "pos": "LW",
       "teamCode": "ANA",
-      "age": 21,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -38625,10 +38625,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-11 14:33 UTC",
+  "LAST_UPDATE": "2026-11-11 19:51 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-11T14:33:00Z"
+    "standingsDateTimeUtc": "2026-11-11T19:50:45Z"
   }
 };
