@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-12 15:27 UTC
+// Auto-generated 2026-11-12 20:27 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-12 15:27 UTC",
+  "UPDATED": "2026-11-12 20:27 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1121,7 +1121,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 64.5
@@ -1189,7 +1189,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 63.9
@@ -6655,7 +6655,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 63.7
@@ -8463,7 +8463,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 49.7
@@ -8567,7 +8567,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 49.3
@@ -8675,7 +8675,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.8
@@ -8709,7 +8709,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -10973,15 +10973,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Lorenzo Musetti",
+          "w": "Ugo Humbert",
           "w_logo": "",
-          "l": "Ugo Humbert",
+          "l": "Lorenzo Musetti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 77.0,
-          "l_score": 63.3,
+          "scheduled": false,
+          "w_score": 63.3,
+          "l_score": 77.0,
           "match_score": 77.0
         },
         {
@@ -10990,9 +10990,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Holger Rune",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "w/o",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 74.2,
           "l_score": null,
           "match_score": 74.2
@@ -11012,15 +11012,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Aleksandr Shevchenko",
+          "w": "Thiago Agustin Tirante",
           "w_logo": "",
-          "l": "Thiago Agustin Tirante",
+          "l": "Aleksandr Shevchenko",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-5) 6-7 (5-7) 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 64.1,
+          "w_score": 64.1,
+          "l_score": null,
           "match_score": 64.1
         }
       ]
@@ -11184,9 +11184,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Marta Kostyuk",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 91.2,
           "l_score": 90.4,
           "match_score": 91.2
@@ -11213,54 +11213,54 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Irene Burillo",
+          "w": "Laura Samson",
           "w_logo": "",
-          "l": "Laura Samson",
+          "l": "Irene Burillo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 63.7,
+          "w_score": 63.7,
+          "l_score": null,
           "match_score": 63.7
         },
         {
           "round": "Quarterfinal",
-          "w": "Marina Bassols Ribera",
+          "w": "Bianca Andreescu",
           "w_logo": "",
-          "l": "Bianca Andreescu",
+          "l": "Marina Bassols Ribera",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 4-2 ret",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.7,
-          "l_score": 48.7,
+          "scheduled": false,
+          "w_score": 48.7,
+          "l_score": 49.7,
           "match_score": 49.7
         },
         {
           "round": "Quarterfinal",
-          "w": "Alice Tubello",
+          "w": "Polona Hercog",
           "w_logo": "",
-          "l": "Polona Hercog",
+          "l": "Alice Tubello",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.3,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 49.3,
           "match_score": 49.3
         },
         {
           "round": "Quarterfinal",
-          "w": "Andrea Lazaro Garcia",
+          "w": "Elizabeth Mandlik",
           "w_logo": "",
-          "l": "Elizabeth Mandlik",
+          "l": "Andrea Lazaro Garcia",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-0 7-6 (7-5)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 48.8,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 48.8,
           "match_score": 48.8
         }
       ]
@@ -11311,7 +11311,7 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "aliveCount": 15,
-    "matchesSeen": 24
+    "matchesSeen": 25
   },
   "WTA_TOURNAMENT": {
     "name": "FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
@@ -11380,7 +11380,7 @@ window.TENNIS_DATA = {
       "Yuliana Lizarazo"
     ],
     "aliveCount": 24,
-    "matchesSeen": 40
+    "matchesSeen": 42
   },
   "ATP_SCORE_LOG": {
     "206173": [

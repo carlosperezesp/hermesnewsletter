@@ -3,6 +3,28 @@
 window.NHL_DATA = {
   "TEAMS": [
     {
+      "code": "CAR",
+      "city": "Carolina Hurricanes",
+      "shortName": "Carolina",
+      "commonName": "Hurricanes",
+      "conf": "E",
+      "div": "Metro",
+      "gp": 20,
+      "w": 15,
+      "l": 3,
+      "ot": 2,
+      "pts": 32,
+      "gf": 82,
+      "ga": 46,
+      "gd": 36,
+      "score": 71,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+      "colors": {
+        "primary": "#cc0000",
+        "secondary": "#111111"
+      }
+    },
+    {
       "code": "EDM",
       "city": "Edmonton Oilers",
       "shortName": "Edmonton",
@@ -22,28 +44,6 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
-      }
-    },
-    {
-      "code": "CAR",
-      "city": "Carolina Hurricanes",
-      "shortName": "Carolina",
-      "commonName": "Hurricanes",
-      "conf": "E",
-      "div": "Metro",
-      "gp": 19,
-      "w": 14,
-      "l": 3,
-      "ot": 2,
-      "pts": 30,
-      "gf": 78,
-      "ga": 45,
-      "gd": 33,
-      "score": 70,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
-      "colors": {
-        "primary": "#cc0000",
-        "secondary": "#111111"
       }
     },
     {
@@ -383,15 +383,15 @@ window.NHL_DATA = {
       "commonName": "Kraken",
       "conf": "W",
       "div": "Pacific",
-      "gp": 16,
+      "gp": 17,
       "w": 9,
-      "l": 6,
+      "l": 7,
       "ot": 1,
       "pts": 19,
-      "gf": 57,
-      "ga": 57,
-      "gd": 0,
-      "score": 53,
+      "gf": 58,
+      "ga": 61,
+      "gd": -3,
+      "score": 52,
       "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
       "colors": {
         "primary": "#001628",
@@ -2340,7 +2340,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 9,
         "w": 5,
-        "svpct": 0.907,
+        "svpct": 0.908,
         "gaa": 2.5,
         "so": 2
       },
@@ -5717,37 +5717,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8475831,
-      "first": "Philipp",
-      "last": "Grubauer",
-      "name": "Philipp Grubauer",
-      "pos": "G",
-      "teamCode": "SEA",
-      "age": 34,
-      "country": "Germany",
-      "birthCountry": "DEU",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8475831.png",
-      "score": 62,
-      "stats": {
-        "gp": 10,
-        "w": 5,
-        "svpct": 0.89,
-        "gaa": 3.08,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        62
-      ]
-    },
-    {
       "id": 8479400,
       "first": "Pierre-Luc",
       "last": "Dubois",
@@ -6527,6 +6496,37 @@ window.NHL_DATA = {
         43,
         45,
         47,
+        60
+      ]
+    },
+    {
+      "id": 8475831,
+      "first": "Philipp",
+      "last": "Grubauer",
+      "name": "Philipp Grubauer",
+      "pos": "G",
+      "teamCode": "SEA",
+      "age": 34,
+      "country": "Germany",
+      "birthCountry": "DEU",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8475831.png",
+      "score": 60,
+      "stats": {
+        "gp": 11,
+        "w": 5,
+        "svpct": 0.887,
+        "gaa": 3.17,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
         60
       ]
     },
@@ -7364,10 +7364,10 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8483548.png",
       "score": 58,
       "stats": {
-        "gp": 7,
-        "w": 3,
-        "svpct": 0.869,
-        "gaa": 3.23,
+        "gp": 8,
+        "w": 4,
+        "svpct": 0.872,
+        "gaa": 2.96,
         "so": 0
       },
       "trajectory": [
@@ -17277,7 +17277,7 @@ window.NHL_DATA = {
         "p": 5,
         "pm": -4,
         "toi": 15.1,
-        "shots": 26
+        "shots": 27
       },
       "trajectory": [
         38,
@@ -22162,7 +22162,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": -3,
         "toi": 13.3,
-        "shots": 21
+        "shots": 22
       },
       "trajectory": [
         38,
@@ -25380,9 +25380,9 @@ window.NHL_DATA = {
       "name": "Jack Devine",
       "pos": "RW",
       "teamCode": "FLA",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -38533,9 +38533,9 @@ window.NHL_DATA = {
         "city": "Carolina Hurricanes",
         "era": "2019–present",
         "cups": 0,
-        "dynastyScore": 50.5,
+        "dynastyScore": 51.1,
         "threshold": 89.7,
-        "gap": 39.2,
+        "gap": 38.6,
         "note": "6 straight playoff runs · no Cup yet",
         "needs": "Needs at least one Cup + years of dominance",
         "colors": {
@@ -38853,10 +38853,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-12 15:26 UTC",
+  "LAST_UPDATE": "2026-11-12 20:26 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-12T15:25:45Z"
+    "standingsDateTimeUtc": "2026-11-12T20:25:45Z"
   }
 };
