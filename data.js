@@ -4017,7 +4017,7 @@ window.NHL_DATA = {
       "name": "Elias Pettersson",
       "pos": "C",
       "teamCode": "VAN",
-      "age": 27,
+      "age": 28,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -7055,7 +7055,7 @@ window.NHL_DATA = {
       "name": "Shane Pinto",
       "pos": "C",
       "teamCode": "OTT",
-      "age": 25,
+      "age": 26,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -7079,8 +7079,7 @@ window.NHL_DATA = {
         45,
         47,
         59
-      ],
-      "legendScore": 48.9
+      ]
     },
     {
       "id": 8482137,
@@ -7812,7 +7811,7 @@ window.NHL_DATA = {
       "name": "Tomas Hertl",
       "pos": "C",
       "teamCode": "VGK",
-      "age": 32,
+      "age": 33,
       "country": "Czechia",
       "birthCountry": "CZE",
       "colors": {
@@ -16496,7 +16495,7 @@ window.NHL_DATA = {
       "name": "Adam Larsson",
       "pos": "D",
       "teamCode": "SEA",
-      "age": 33,
+      "age": 34,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -20226,9 +20225,9 @@ window.NHL_DATA = {
       "name": "Daniil But",
       "pos": "LW",
       "teamCode": "UTA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 21,
+      "country": "Russia",
+      "birthCountry": "RUS",
       "colors": {
         "primary": "#69b3e7",
         "secondary": "#010101"
@@ -25803,7 +25802,7 @@ window.NHL_DATA = {
       "name": "Samuel Honzek",
       "pos": "LW",
       "teamCode": "CGY",
-      "age": 21,
+      "age": 22,
       "country": "Slovakia",
       "birthCountry": "SVK",
       "colors": {
@@ -38625,10 +38624,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-11 19:51 UTC",
+  "LAST_UPDATE": "2026-11-12 01:54 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-11T19:50:45Z"
+    "standingsDateTimeUtc": "2026-11-12T01:53:45Z"
   }
 };
