@@ -1505,7 +1505,7 @@ window.NFL_DATA = {
       "name": "Drew Lock",
       "pos": "QB",
       "teamCode": "SEA",
-      "age": 29,
+      "age": 30,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3924327.png",
       "colors": {
         "primary": "#002244",
@@ -2205,7 +2205,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-12 02:18 UTC",
+  "LAST_UPDATE": "2026-11-12 13:46 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

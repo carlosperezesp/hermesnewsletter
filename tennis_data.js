@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-12 02:20 UTC
+// Auto-generated 2026-11-12 13:48 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-12 02:20 UTC",
+  "UPDATED": "2026-11-12 13:48 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10999,15 +10999,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Alex Michelsen",
+          "w": "Alejandro Tabilo",
           "w_logo": "",
-          "l": "Alejandro Tabilo",
+          "l": "Alex Michelsen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.0,
-          "l_score": 64.4,
+          "scheduled": false,
+          "w_score": 64.4,
+          "l_score": 65.0,
           "match_score": 65.0
         },
         {

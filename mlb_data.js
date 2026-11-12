@@ -4411,7 +4411,7 @@ window.MLB_DATA = {
       "last": "Bleday",
       "pos": "LF",
       "teamCode": "CIN",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42410.png",
       "colors": {
         "primary": "#c6011f",
@@ -4427,7 +4427,7 @@ window.MLB_DATA = {
         "sb": 6,
         "ops": 0.74
       },
-      "legendScore": 35.3,
+      "legendScore": 36.2,
       "currentScore": 54,
       "battingScore": 54,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-12 02:18 UTC",
+  "LAST_UPDATE": "2026-11-12 13:46 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
