@@ -983,7 +983,7 @@ window.NHL_DATA = {
         81
       ],
       "legendScore": 57.6,
-      "prevRank": 9
+      "prevRank": 8
     },
     {
       "id": 8481611,
@@ -1015,7 +1015,7 @@ window.NHL_DATA = {
         60,
         80
       ],
-      "prevRank": 10
+      "prevRank": 9
     },
     {
       "id": 8481605,
@@ -1050,7 +1050,7 @@ window.NHL_DATA = {
         79
       ],
       "legendScore": 42.6,
-      "prevRank": 8
+      "prevRank": 10
     },
     {
       "id": 8484170,
@@ -20034,9 +20034,9 @@ window.NHL_DATA = {
       "name": "Kenny Connors",
       "pos": "C",
       "teamCode": "LAK",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -38422,7 +38422,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 12,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 8
       },
       {
         "id": 8474600,
@@ -38441,7 +38441,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 16,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 8479314,
@@ -38460,7 +38460,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 11,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 9
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -38678,7 +38678,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 31.8,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 6
+        "prevRank": 3
       },
       {
         "id": 8484762,
@@ -38696,7 +38696,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "id": 8483457,
@@ -38714,7 +38714,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.0,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 7
+        "prevRank": 5
       },
       {
         "id": 8484153,
@@ -38732,7 +38732,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.2,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 4
+        "prevRank": 6
       },
       {
         "id": 8481605,
@@ -38750,7 +38750,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 3
+        "prevRank": 7
       },
       {
         "id": 8483445,
@@ -38786,7 +38786,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 35.5,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 8481559,
@@ -38804,7 +38804,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 35.6,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 9
+        "prevRank": 10
       }
     ]
   },
@@ -38853,10 +38853,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-12 13:46 UTC",
+  "LAST_UPDATE": "2026-11-12 15:26 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-12T13:45:30Z"
+    "standingsDateTimeUtc": "2026-11-12T15:25:45Z"
   }
 };

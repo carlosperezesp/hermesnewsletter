@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-12 13:48 UTC
+// Auto-generated 2026-11-12 15:27 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-12 13:48 UTC",
+  "UPDATED": "2026-11-12 15:27 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1053,7 +1053,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 65.0
@@ -11003,7 +11003,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alex Michelsen",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 7-6 (7-2)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 64.4,
@@ -11012,15 +11012,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Thiago Agustin Tirante",
+          "w": "Aleksandr Shevchenko",
           "w_logo": "",
-          "l": "Aleksandr Shevchenko",
+          "l": "Thiago Agustin Tirante",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 64.1,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 64.1,
           "match_score": 64.1
         }
       ]
@@ -11213,15 +11213,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Laura Samson",
+          "w": "Irene Burillo",
           "w_logo": "",
-          "l": "Irene Burillo",
+          "l": "Laura Samson",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 63.7,
           "match_score": 63.7
         },
         {
@@ -11256,9 +11256,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elizabeth Mandlik",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.8,
           "l_score": null,
           "match_score": 48.8
