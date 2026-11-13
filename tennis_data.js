@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-13 01:07 UTC
+// Auto-generated 2026-11-13 01:59 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-13 01:07 UTC",
+  "UPDATED": "2026-11-13 01:59 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11008,15 +11008,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Group Stage",
-          "w": "Linda Noskova",
+          "w": "Jessica Pegula",
           "w_logo": "",
-          "l": "Jessica Pegula",
+          "l": "Linda Noskova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-2) 4-6 7-5",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 78.5,
-          "l_score": 89.8,
+          "w_score": 89.8,
+          "l_score": 78.5,
           "match_score": 89.8
         }
       ]
