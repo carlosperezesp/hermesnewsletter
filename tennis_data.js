@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-13 14:46 UTC
+// Auto-generated 2026-11-13 20:03 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-13 14:46 UTC",
+  "UPDATED": "2026-11-13 20:03 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 77.2
@@ -577,7 +577,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 73.9
@@ -1121,7 +1121,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 64.5
@@ -1189,7 +1189,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 63.9
@@ -5462,7 +5462,7 @@ window.TENNIS_DATA = {
       "prevListRank": 9,
       "tournamentStatus": {
         "tournament": "FAGE WTA Finals Indian Wells",
-        "state": "alive",
+        "state": "out",
         "round": "Group Stage",
         "reason": "Eliminado en Group Stage"
       },
@@ -5869,10 +5869,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "FAGE WTA Finals Indian Wells",
+        "state": "alive",
+        "round": "Group Stage",
+        "reason": ""
       },
       "prevActiveScore": 76.1
     },
@@ -6655,7 +6655,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 63.7
@@ -8709,7 +8709,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "DIRECTV Open Presentado por Compesar",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -10960,15 +10960,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Lorenzo Musetti",
+          "w": "Taylor Fritz",
           "w_logo": "",
-          "l": "Taylor Fritz",
+          "l": "Lorenzo Musetti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 77.0,
-          "l_score": 74.2,
+          "scheduled": false,
+          "w_score": 74.2,
+          "l_score": 77.0,
           "match_score": 77.0
         },
         {
@@ -10977,7 +10977,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alejandro Tabilo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 7-6 (7-1)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 64.1,
@@ -11104,13 +11104,13 @@ window.TENNIS_DATA = {
           "round": "Group Stage",
           "w": "Mirra Andreeva",
           "w_logo": "",
-          "l": "Karolina Muchova",
+          "l": "Diana Shnaider",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
           "w_score": 92.2,
-          "l_score": 85.7,
+          "l_score": 76.1,
           "match_score": 92.2
         }
       ]
@@ -11122,15 +11122,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Laura Samson",
+          "w": "Elizabeth Mandlik",
           "w_logo": "",
-          "l": "Elizabeth Mandlik",
+          "l": "Laura Samson",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 63.7,
           "match_score": 63.7
         },
         {
@@ -11139,9 +11139,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polona Hercog",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.7,
           "l_score": null,
           "match_score": 48.7
@@ -11194,7 +11194,7 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "aliveCount": 15,
-    "matchesSeen": 26
+    "matchesSeen": 27
   },
   "WTA_TOURNAMENT": {
     "name": "FAGE WTA Finals Indian Wells · Austin 125 · DIRECTV Open Presentado por Compesar",
@@ -11225,13 +11225,13 @@ window.TENNIS_DATA = {
       "Bianca Andreescu",
       "Carole Monnet",
       "Coco Gauff",
+      "Diana Shnaider",
       "Elina Svitolina",
       "Elizabeth Mandlik",
       "Irene Burillo",
       "Jazmin Ortenzi",
       "Jessica Pegula",
       "Julia Grabher",
-      "Karolina Muchova",
       "Laura Pigossi",
       "Laura Samson",
       "Linda Noskova",
@@ -11249,6 +11249,7 @@ window.TENNIS_DATA = {
       "Dalila Jakupovic",
       "Julia Riera",
       "Julieta Pareja",
+      "Karolina Muchova",
       "Katrina Scott",
       "Leyre Romero Gormaz",
       "Luisina Giovannini",
@@ -11263,7 +11264,7 @@ window.TENNIS_DATA = {
       "Yuliana Lizarazo"
     ],
     "aliveCount": 23,
-    "matchesSeen": 43
+    "matchesSeen": 44
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -16197,6 +16197,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8475151,
+      "first": "Kyle",
+      "last": "Palmieri",
+      "name": "Kyle Palmieri",
+      "pos": "C",
+      "teamCode": "NYI",
+      "age": 35,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#00539b",
+        "secondary": "#f47d30"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8475151.png",
+      "score": 49,
+      "stats": {
+        "gp": 18,
+        "g": 3,
+        "a": 3,
+        "p": 6,
+        "pm": -1,
+        "toi": 16.8,
+        "shots": 37
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        49
+      ]
+    },
+    {
       "id": 8484152,
       "first": "Luca",
       "last": "Cagnoni",
@@ -17769,39 +17802,6 @@ window.NHL_DATA = {
         "pm": 4,
         "toi": 11.2,
         "shots": 15
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        48
-      ]
-    },
-    {
-      "id": 8475151,
-      "first": "Kyle",
-      "last": "Palmieri",
-      "name": "Kyle Palmieri",
-      "pos": "C",
-      "teamCode": "NYI",
-      "age": 35,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#00539b",
-        "secondary": "#f47d30"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8475151.png",
-      "score": 48,
-      "stats": {
-        "gp": 18,
-        "g": 3,
-        "a": 2,
-        "p": 5,
-        "pm": -1,
-        "toi": 16.8,
-        "shots": 37
       },
       "trajectory": [
         38,
@@ -23990,9 +23990,9 @@ window.NHL_DATA = {
       "name": "Gavin Brindley",
       "pos": "C",
       "teamCode": "COL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#6f263d",
         "secondary": "#236192"
@@ -25376,9 +25376,9 @@ window.NHL_DATA = {
       "name": "Samuel Honzek",
       "pos": "LW",
       "teamCode": "CGY",
-      "age": 22,
-      "country": "Slovakia",
-      "birthCountry": "SVK",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
@@ -26168,9 +26168,9 @@ window.NHL_DATA = {
       "name": "Ben Jones",
       "pos": "C",
       "teamCode": "CGY",
-      "age": 27,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
@@ -38898,10 +38898,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-13 14:43 UTC",
+  "LAST_UPDATE": "2026-11-13 20:01 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-13T14:43:00Z"
+    "standingsDateTimeUtc": "2026-11-13T20:00:30Z"
   }
 };
