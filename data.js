@@ -6603,7 +6603,7 @@ window.NHL_DATA = {
       "name": "Sean Walker",
       "pos": "D",
       "teamCode": "CAR",
-      "age": 31,
+      "age": 32,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -25280,7 +25280,7 @@ window.NHL_DATA = {
       "name": "Brenden Dillon",
       "pos": "D",
       "teamCode": "NJD",
-      "age": 35,
+      "age": 36,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -38852,10 +38852,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-12 21:03 UTC",
+  "LAST_UPDATE": "2026-11-13 01:05 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-12T21:02:45Z"
+    "standingsDateTimeUtc": "2026-11-13T01:04:45Z"
   }
 };
