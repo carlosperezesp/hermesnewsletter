@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-13 01:59 UTC",
+  "UPDATED": "2026-11-13 13:09 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -123,6 +123,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Darryn Peterson",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Darryn Peterson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Jake Guentzel",
       "sport": "nhl",
       "detail": "NHL",
@@ -182,15 +191,6 @@ window.GLORY_DATA = {
       "detail": "NBA",
       "anchor": "nba-jovenes-promesas",
       "text": "Franz Wagner entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Deni Avdija",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Deni Avdija entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-11"
     },
@@ -537,8 +537,8 @@ window.GLORY_DATA = {
       "Leon Draisaitl",
       "David Pastrnak",
       "Auston Matthews",
-      "Erik Karlsson",
       "Jake Guentzel",
+      "Erik Karlsson",
       "Roman Josi",
       "Matthew Tkachuk"
     ],
@@ -549,8 +549,8 @@ window.GLORY_DATA = {
       "St. Louis Blues",
       "Carolina Hurricanes",
       "Edmonton Oilers",
-      "Boston Bruins",
       "Minnesota Wild",
+      "Boston Bruins",
       "Dallas Stars",
       "New York Rangers"
     ],
@@ -559,10 +559,10 @@ window.GLORY_DATA = {
       "Matthew Schaefer",
       "Macklin Celebrini",
       "Beckett Sennecke",
-      "Lane Hutson",
       "Leo Carlsson",
       "Jackson LaCombe",
       "Cutter Gauthier",
+      "Lane Hutson",
       "Connor Bedard",
       "Jack Hughes"
     ],
@@ -571,8 +571,8 @@ window.GLORY_DATA = {
       "LeBron James",
       "Giannis Antetokounmpo",
       "Luka Doncic",
-      "Nikola Jokic",
       "Kevin Durant",
+      "Nikola Jokic",
       "Shai Gilgeous-Alexander",
       "Jayson Tatum",
       "Anthony Davis",
@@ -583,8 +583,8 @@ window.GLORY_DATA = {
       "Los Angeles Lakers",
       "Golden State Warriors",
       "San Antonio Spurs",
-      "Oklahoma City Thunder",
       "Minnesota Timberwolves",
+      "Oklahoma City Thunder",
       "Denver Nuggets",
       "New York Knicks",
       "Indiana Pacers",
@@ -596,11 +596,11 @@ window.GLORY_DATA = {
       "Darius Acuff Jr.",
       "Caleb Wilson",
       "Cameron Boozer",
+      "Cade Cunningham",
       "Dylan Harper",
       "Alperen Sengun",
       "Franz Wagner",
-      "Cade Cunningham",
-      "Deni Avdija"
+      "Darryn Peterson"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",
@@ -654,8 +654,8 @@ window.GLORY_DATA = {
       "C.J. Stroud",
       "Drake Maye",
       "Bryce Young",
-      "Caleb Williams",
       "Jayden Daniels",
+      "Caleb Williams",
       "Cam Ward"
     ],
     "tennis:ATP": [

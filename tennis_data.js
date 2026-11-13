@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-13 01:59 UTC
+// Auto-generated 2026-11-13 13:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-13 01:59 UTC",
+  "UPDATED": "2026-11-13 13:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5259,7 +5259,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "FAGE WTA Finals Indian Wells",
         "state": "alive",
-        "round": "Group Stage",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 92.2
@@ -5429,7 +5429,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "FAGE WTA Finals Indian Wells",
         "state": "alive",
-        "round": "Group Stage",
+        "round": "Semifinal",
         "reason": "Eliminado en Group Stage"
       },
       "prevActiveScore": 89.8
@@ -11263,7 +11263,7 @@ window.TENNIS_DATA = {
       "Yuliana Lizarazo"
     ],
     "aliveCount": 23,
-    "matchesSeen": 42
+    "matchesSeen": 43
   },
   "ATP_SCORE_LOG": {
     "206173": [

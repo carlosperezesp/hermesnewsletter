@@ -308,16 +308,16 @@ window.NFL_DATA = {
       "commonName": "Giants",
       "conf": "NFC",
       "div": "NFC East",
-      "gp": 8,
+      "gp": 9,
       "w": 5,
-      "l": 2,
+      "l": 3,
       "t": 1,
-      "winPct": 0.688,
-      "pf": 182,
-      "pa": 172,
-      "pd": 10,
+      "winPct": 0.611,
+      "pf": 203,
+      "pa": 196,
+      "pd": 7,
       "seed": 3,
-      "score": 56,
+      "score": 50,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
       "colors": {
         "primary": "#0b2265",
@@ -454,7 +454,7 @@ window.NFL_DATA = {
       "pf": 202,
       "pa": 178,
       "pd": 24,
-      "seed": 12,
+      "seed": 13,
       "score": 29,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
       "colors": {
@@ -509,6 +509,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "WSH",
+      "city": "Washington Commanders",
+      "shortName": "Washington",
+      "commonName": "Commanders",
+      "conf": "NFC",
+      "div": "NFC East",
+      "gp": 9,
+      "w": 3,
+      "l": 5,
+      "t": 1,
+      "winPct": 0.389,
+      "pf": 196,
+      "pa": 223,
+      "pd": -27,
+      "seed": 11,
+      "score": 29,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+      "colors": {
+        "primary": "#5a1414",
+        "secondary": "#ffb612"
+      }
+    },
+    {
       "code": "NO",
       "city": "New Orleans Saints",
       "shortName": "New Orleans",
@@ -523,7 +546,7 @@ window.NFL_DATA = {
       "pf": 185,
       "pa": 216,
       "pd": -31,
-      "seed": 11,
+      "seed": 12,
       "score": 27,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
       "colors": {
@@ -546,7 +569,7 @@ window.NFL_DATA = {
       "pf": 188,
       "pa": 223,
       "pd": -35,
-      "seed": 13,
+      "seed": 14,
       "score": 24,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
       "colors": {
@@ -569,34 +592,11 @@ window.NFL_DATA = {
       "pf": 178,
       "pa": 255,
       "pd": -77,
-      "seed": 14,
+      "seed": 15,
       "score": 20,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
       "colors": {
         "primary": "#97233f",
-        "secondary": "#ffb612"
-      }
-    },
-    {
-      "code": "WSH",
-      "city": "Washington Commanders",
-      "shortName": "Washington",
-      "commonName": "Commanders",
-      "conf": "NFC",
-      "div": "NFC East",
-      "gp": 8,
-      "w": 2,
-      "l": 5,
-      "t": 1,
-      "winPct": 0.312,
-      "pf": 172,
-      "pa": 202,
-      "pd": -30,
-      "seed": 15,
-      "score": 22,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
-      "colors": {
-        "primary": "#5a1414",
         "secondary": "#ffb612"
       }
     },
@@ -1176,6 +1176,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 4426348,
+      "name": "Jayden Daniels",
+      "pos": "QB",
+      "teamCode": "WSH",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
+      "colors": {
+        "primary": "#5a1414",
+        "secondary": "#ffb612"
+      },
+      "score": 69,
+      "stats": {
+        "type": "passing",
+        "cmp": 138,
+        "att": 213,
+        "pct": 64.8,
+        "yds": 1499,
+        "ypa": 7.0,
+        "td": 10,
+        "int": 2,
+        "rushYds": 280,
+        "rushTd": 3
+      }
+    },
+    {
       "id": 3122840,
       "name": "Deshaun Watson",
       "pos": "QB",
@@ -1248,31 +1273,6 @@ window.NFL_DATA = {
         "int": 5,
         "rushYds": 145,
         "rushTd": 1
-      }
-    },
-    {
-      "id": 4426348,
-      "name": "Jayden Daniels",
-      "pos": "QB",
-      "teamCode": "WSH",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
-      "colors": {
-        "primary": "#5a1414",
-        "secondary": "#ffb612"
-      },
-      "score": 63,
-      "stats": {
-        "type": "passing",
-        "cmp": 115,
-        "att": 180,
-        "pct": 63.9,
-        "yds": 1250,
-        "ypa": 6.9,
-        "td": 7,
-        "int": 0,
-        "rushYds": 252,
-        "rushTd": 3
       }
     },
     {
@@ -1446,7 +1446,7 @@ window.NFL_DATA = {
         "ypa": 6.2,
         "td": 8,
         "int": 5,
-        "rushYds": 61,
+        "rushYds": 62,
         "rushTd": 0
       }
     },
@@ -1576,6 +1576,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 4433970,
+      "name": "J.J. McCarthy",
+      "pos": "QB",
+      "teamCode": "NYG",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4433970.png",
+      "colors": {
+        "primary": "#0b2265",
+        "secondary": "#a71930"
+      },
+      "score": 47,
+      "stats": {
+        "type": "passing",
+        "cmp": 66,
+        "att": 104,
+        "pct": 63.5,
+        "yds": 915,
+        "ypa": 8.8,
+        "td": 2,
+        "int": 2,
+        "rushYds": 85,
+        "rushTd": 1
+      }
+    },
+    {
       "id": 3052587,
       "name": "Baker Mayfield",
       "pos": "QB",
@@ -1673,31 +1698,6 @@ window.NFL_DATA = {
         "int": 2,
         "rushYds": 26,
         "rushTd": 0
-      }
-    },
-    {
-      "id": 4433970,
-      "name": "J.J. McCarthy",
-      "pos": "QB",
-      "teamCode": "NYG",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4433970.png",
-      "colors": {
-        "primary": "#0b2265",
-        "secondary": "#a71930"
-      },
-      "score": 42,
-      "stats": {
-        "type": "passing",
-        "cmp": 43,
-        "att": 68,
-        "pct": 63.2,
-        "yds": 622,
-        "ypa": 9.1,
-        "td": 1,
-        "int": 1,
-        "rushYds": 51,
-        "rushTd": 1
       }
     },
     {
@@ -2140,6 +2140,23 @@ window.NFL_DATA = {
         "prevRank": 3
       },
       {
+        "id": 4426348,
+        "name": "Jayden Daniels",
+        "pos": "QB",
+        "teamCode": "WSH",
+        "colors": {
+          "primary": "#5a1414",
+          "secondary": "#ffb612"
+        },
+        "age": 25,
+        "currentScore": 69,
+        "projectedScore": 65.8,
+        "threshold": 90.0,
+        "gap": 24.2,
+        "note": "Joven con pedigrí — salto a elite pendiente",
+        "prevRank": 5
+      },
+      {
         "id": 4431611,
         "name": "Caleb Williams",
         "pos": "QB",
@@ -2155,23 +2172,6 @@ window.NFL_DATA = {
         "gap": 25.2,
         "note": "Joven con pedigrí — salto a elite pendiente",
         "prevRank": 4
-      },
-      {
-        "id": 4426348,
-        "name": "Jayden Daniels",
-        "pos": "QB",
-        "teamCode": "WSH",
-        "colors": {
-          "primary": "#5a1414",
-          "secondary": "#ffb612"
-        },
-        "age": 25,
-        "currentScore": 63,
-        "projectedScore": 61.8,
-        "threshold": 90.0,
-        "gap": 28.2,
-        "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 5
       },
       {
         "id": 4688380,
@@ -2205,7 +2205,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-13 01:57 UTC",
+  "LAST_UPDATE": "2026-11-13 13:07 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
