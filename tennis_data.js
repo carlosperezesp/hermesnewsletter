@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-13 20:03 UTC
+// Auto-generated 2026-11-13 20:39 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-13 20:03 UTC",
+  "UPDATED": "2026-11-13 20:39 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11102,15 +11102,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Group Stage",
-          "w": "Mirra Andreeva",
+          "w": "Diana Shnaider",
           "w_logo": "",
-          "l": "Diana Shnaider",
+          "l": "Mirra Andreeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 92.2,
-          "l_score": 76.1,
+          "scheduled": false,
+          "w_score": 76.1,
+          "l_score": 92.2,
           "match_score": 92.2
         }
       ]

@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-13 20:03 UTC",
+  "UPDATED": "2026-11-13 20:39 UTC",
   "EVENTS": [
+    {
+      "id": "nascar:win:NASCAR Cup Series at Miami:Ryan Blaney",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "text": "Ryan Blaney ganó en Homestead-Miami Speedway",
+      "weight": 100,
+      "firstSeen": "2026-11-13"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
       "sport": "nascar",
@@ -121,6 +129,24 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "rank:nascar:DRIVERS:in:Joey Logano",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "anchor": "nascar-cup-series",
+      "text": "Joey Logano entra en el top-10 · Cup Series",
+      "weight": 84,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "rank:nascar:DRIVERS:in:Christopher Bell",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "anchor": "nascar-cup-series",
+      "text": "Christopher Bell entra en el top-10 · Cup Series",
+      "weight": 84,
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Darryn Peterson",
@@ -382,6 +408,24 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "rank:nascar:DRIVERS:out:Carson Hocevar",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "anchor": "nascar-cup-series",
+      "text": "Carson Hocevar cae del top-10 · Cup Series",
+      "weight": 74,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "rank:nascar:DRIVERS:out:Daniel Suarez",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "anchor": "nascar-cup-series",
+      "text": "Daniel Suarez cae del top-10 · Cup Series",
+      "weight": 74,
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.players:out:Tyrese Maxey",
@@ -750,13 +794,13 @@ window.GLORY_DATA = {
       "Tyler Reddick",
       "Denny Hamlin",
       "Ryan Blaney",
+      "Kyle Larson",
+      "Chase Briscoe",
+      "Joey Logano",
+      "Ty Gibbs",
       "Chase Elliott",
       "Shane van Gisbergen",
-      "Ty Gibbs",
-      "Carson Hocevar",
-      "Chase Briscoe",
-      "Daniel Suarez",
-      "Kyle Larson"
+      "Christopher Bell"
     ],
     "nascar:LEGENDS": [
       "Richard Petty",
