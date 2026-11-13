@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-13 13:09 UTC
+// Auto-generated 2026-11-13 14:46 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-13 13:09 UTC",
+  "UPDATED": "2026-11-13 14:46 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10973,15 +10973,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Alejandro Tabilo",
+          "w": "Thiago Agustin Tirante",
           "w_logo": "",
-          "l": "Thiago Agustin Tirante",
+          "l": "Alejandro Tabilo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 64.4,
-          "l_score": 64.1,
+          "scheduled": false,
+          "w_score": 64.1,
+          "l_score": 64.4,
           "match_score": 64.4
         }
       ]

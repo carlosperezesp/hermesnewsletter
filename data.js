@@ -916,7 +916,7 @@ window.NHL_DATA = {
         83
       ],
       "legendScore": 57.5,
-      "prevRank": 8
+      "prevRank": 6
     },
     {
       "id": 8482661,
@@ -948,7 +948,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 6
+      "prevRank": 7
     },
     {
       "id": 8480981,
@@ -980,7 +980,7 @@ window.NHL_DATA = {
         60,
         80
       ],
-      "prevRank": 25
+      "prevRank": 8
     },
     {
       "id": 8480069,
@@ -1015,7 +1015,7 @@ window.NHL_DATA = {
         79
       ],
       "legendScore": 57.2,
-      "prevRank": 7
+      "prevRank": 9
     },
     {
       "id": 8481605,
@@ -38448,7 +38448,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 12,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 8474578,
@@ -38467,7 +38467,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 18,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 8474600,
@@ -38619,7 +38619,7 @@ window.NHL_DATA = {
           "primary": "#154734",
           "secondary": "#a6192e"
         },
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "teamCode": "BOS",
@@ -38635,7 +38635,7 @@ window.NHL_DATA = {
           "primary": "#ffb81c",
           "secondary": "#111111"
         },
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "teamCode": "DAL",
@@ -38759,7 +38759,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.2,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 6
+        "prevRank": 5
       },
       {
         "id": 8481605,
@@ -38777,7 +38777,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "id": 8483445,
@@ -38795,7 +38795,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.1,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 8483457,
@@ -38813,7 +38813,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.1,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 5
+        "prevRank": 8
       },
       {
         "id": 8484144,
@@ -38898,10 +38898,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-13 13:07 UTC",
+  "LAST_UPDATE": "2026-11-13 14:43 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-13T13:06:30Z"
+    "standingsDateTimeUtc": "2026-11-13T14:43:00Z"
   }
 };

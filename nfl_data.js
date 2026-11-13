@@ -2154,7 +2154,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 24.2,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "id": 4431611,
@@ -2171,7 +2171,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 25.2,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 4688380,
@@ -2205,7 +2205,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-13 13:07 UTC",
+  "LAST_UPDATE": "2026-11-13 14:43 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
