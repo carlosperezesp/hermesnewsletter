@@ -784,7 +784,7 @@ window.NBA_DATA = {
         "min": 35.2
       },
       "legendScore": 50.8,
-      "prevRank": 13
+      "prevRank": 7
     },
     {
       "id": 6583,
@@ -810,7 +810,7 @@ window.NBA_DATA = {
         "min": 34.1
       },
       "legendScore": 59.8,
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "id": 4432166,
@@ -836,7 +836,7 @@ window.NBA_DATA = {
         "min": 34.5
       },
       "legendScore": 51.8,
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 5041939,
@@ -862,7 +862,7 @@ window.NBA_DATA = {
         "min": 33.5
       },
       "legendScore": 45.8,
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 4566434,
@@ -7637,7 +7637,7 @@ window.NBA_DATA = {
         "gap": 27.6,
         "rings": 1,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 6
+        "prevRank": 5
       },
       {
         "id": 4278073,
@@ -7654,7 +7654,7 @@ window.NBA_DATA = {
         "gap": 30.6,
         "rings": 1,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "id": 4065648,
@@ -7671,7 +7671,7 @@ window.NBA_DATA = {
         "gap": 31.8,
         "rings": 1,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 6583,
@@ -7688,7 +7688,7 @@ window.NBA_DATA = {
         "gap": 32.3,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 3917376,
@@ -7705,7 +7705,7 @@ window.NBA_DATA = {
         "gap": 34.8,
         "rings": 1,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 4251,
@@ -7722,7 +7722,7 @@ window.NBA_DATA = {
         "gap": 36.2,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -7971,7 +7971,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 30.9,
         "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 8
+        "prevRank": 5
       },
       {
         "id": 4432166,
@@ -8005,7 +8005,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 30.9,
         "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 9
+        "prevRank": 7
       },
       {
         "id": 5041935,
@@ -8022,7 +8022,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 31.3,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 5
+        "prevRank": 8
       },
       {
         "id": 5037871,
@@ -8039,7 +8039,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 31.9,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 7
+        "prevRank": 9
       },
       {
         "id": 4683021,
@@ -8056,7 +8056,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 32.5,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ]
   },
@@ -8101,7 +8101,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-14 18:28 UTC",
+  "LAST_UPDATE": "2026-11-14 18:49 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

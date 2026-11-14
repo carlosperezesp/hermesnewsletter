@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-14 18:31 UTC
+// Auto-generated 2026-11-14 18:52 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-14 18:31 UTC",
+  "UPDATED": "2026-11-14 18:52 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11057,15 +11057,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Elizabeth Mandlik",
+          "w": "Bianca Andreescu",
           "w_logo": "",
-          "l": "Bianca Andreescu",
+          "l": "Elizabeth Mandlik",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 48.7,
+          "w_score": 48.7,
+          "l_score": null,
           "match_score": 48.7
         }
       ]
