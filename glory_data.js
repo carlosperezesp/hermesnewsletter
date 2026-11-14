@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-14 13:42 UTC",
+  "UPDATED": "2026-11-14 18:31 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Miami:Ryan Blaney",
@@ -131,6 +131,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Paul George",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Paul George entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Deni Avdija",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Deni Avdija entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-14"
+    },
+    {
       "id": "rank:nascar:DRIVERS:in:Joey Logano",
       "sport": "nascar",
       "detail": "NASCAR",
@@ -145,15 +163,6 @@ window.GLORY_DATA = {
       "detail": "NASCAR",
       "anchor": "nascar-cup-series",
       "text": "Christopher Bell entra en el top-10 · Cup Series",
-      "weight": 84,
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Darryn Peterson",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Darryn Peterson entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-13"
     },
@@ -410,6 +419,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.players:out:Kevin Durant",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Kevin Durant cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-11-14"
+    },
+    {
       "id": "rank:nascar:DRIVERS:out:Carson Hocevar",
       "sport": "nascar",
       "detail": "NASCAR",
@@ -615,12 +633,12 @@ window.GLORY_DATA = {
       "LeBron James",
       "Giannis Antetokounmpo",
       "Luka Doncic",
-      "Kevin Durant",
       "Nikola Jokic",
       "Shai Gilgeous-Alexander",
       "Jayson Tatum",
       "Anthony Davis",
-      "Jaylen Brown"
+      "Jaylen Brown",
+      "Paul George"
     ],
     "nba:ROAD_TO_GLORY.teams": [
       "Boston Celtics",
@@ -639,12 +657,12 @@ window.GLORY_DATA = {
       "Cooper Flagg",
       "Darius Acuff Jr.",
       "Caleb Wilson",
-      "Cameron Boozer",
-      "Cade Cunningham",
-      "Dylan Harper",
       "Alperen Sengun",
+      "Cade Cunningham",
       "Franz Wagner",
-      "Darryn Peterson"
+      "Cameron Boozer",
+      "Dylan Harper",
+      "Deni Avdija"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",

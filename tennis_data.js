@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-14 13:42 UTC
+// Auto-generated 2026-11-14 18:31 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-14 13:42 UTC",
+  "UPDATED": "2026-11-14 18:31 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1189,7 +1189,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Bybit Stockholm Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 63.9
@@ -10934,15 +10934,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Thiago Agustin Tirante",
+          "w": "Taylor Fritz",
           "w_logo": "",
-          "l": "Taylor Fritz",
+          "l": "Thiago Agustin Tirante",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 4-6 7-6 (7-3)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 64.1,
-          "l_score": 74.2,
+          "w_score": 74.2,
+          "l_score": 64.1,
           "match_score": 74.2
         }
       ]
@@ -11057,15 +11057,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Bianca Andreescu",
+          "w": "Elizabeth Mandlik",
           "w_logo": "",
-          "l": "Elizabeth Mandlik",
+          "l": "Bianca Andreescu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 48.7,
           "match_score": 48.7
         }
       ]

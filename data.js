@@ -2840,6 +2840,37 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8478499,
+      "first": "Adin",
+      "last": "Hill",
+      "name": "Adin Hill",
+      "pos": "G",
+      "teamCode": "VGK",
+      "age": 30,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#b4975a",
+        "secondary": "#333f48"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8478499.png",
+      "score": 68,
+      "stats": {
+        "gp": 10,
+        "w": 7,
+        "svpct": 0.908,
+        "gaa": 2.47,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        68
+      ]
+    },
+    {
       "id": 8477986,
       "first": "Brandon",
       "last": "Montour",
@@ -3101,37 +3132,6 @@ window.NHL_DATA = {
         44,
         46,
         68
-      ]
-    },
-    {
-      "id": 8478499,
-      "first": "Adin",
-      "last": "Hill",
-      "name": "Adin Hill",
-      "pos": "G",
-      "teamCode": "VGK",
-      "age": 30,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#b4975a",
-        "secondary": "#333f48"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8478499.png",
-      "score": 67,
-      "stats": {
-        "gp": 10,
-        "w": 7,
-        "svpct": 0.907,
-        "gaa": 2.47,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        67
       ]
     },
     {
@@ -8891,7 +8891,7 @@ window.NHL_DATA = {
         "p": 8,
         "pm": 8,
         "toi": 20.3,
-        "shots": 25
+        "shots": 26
       },
       "trajectory": [
         38,
@@ -14993,7 +14993,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": 2,
         "toi": 21.1,
-        "shots": 14
+        "shots": 13
       },
       "trajectory": [
         38,
@@ -20227,9 +20227,9 @@ window.NHL_DATA = {
       "name": "Mike Reilly",
       "pos": "D",
       "teamCode": "CAR",
-      "age": 33,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cc0000",
         "secondary": "#111111"
@@ -24088,9 +24088,9 @@ window.NHL_DATA = {
       "name": "Ilya Solovyov",
       "pos": "D",
       "teamCode": "PIT",
-      "age": 26,
-      "country": "Belarus",
-      "birthCountry": "BLR",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -38930,10 +38930,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-14 13:40 UTC",
+  "LAST_UPDATE": "2026-11-14 18:28 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-14T13:40:00Z"
+    "standingsDateTimeUtc": "2026-11-14T18:28:30Z"
   }
 };
