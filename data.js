@@ -925,7 +925,7 @@ window.NHL_DATA = {
       "name": "Jesper Wallstedt",
       "pos": "G",
       "teamCode": "MIN",
-      "age": 23,
+      "age": 24,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -7193,7 +7193,7 @@ window.NHL_DATA = {
       "name": "Matt Coronato",
       "pos": "RW",
       "teamCode": "CGY",
-      "age": 23,
+      "age": 24,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -7218,7 +7218,7 @@ window.NHL_DATA = {
         47,
         59
       ],
-      "legendScore": 49.3
+      "legendScore": 48.9
     },
     {
       "id": 8475324,
@@ -13078,7 +13078,7 @@ window.NHL_DATA = {
       "name": "Taylor Hall",
       "pos": "LW",
       "teamCode": "CAR",
-      "age": 34,
+      "age": 35,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -38898,10 +38898,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-13 20:38 UTC",
+  "LAST_UPDATE": "2026-11-14 00:53 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-13T20:37:45Z"
+    "standingsDateTimeUtc": "2026-11-14T00:53:00Z"
   }
 };
