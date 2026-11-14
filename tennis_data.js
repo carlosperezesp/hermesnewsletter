@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-14 12:13 UTC
+// Auto-generated 2026-11-14 13:42 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-14 12:13 UTC",
+  "UPDATED": "2026-11-14 13:42 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10934,15 +10934,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Taylor Fritz",
+          "w": "Thiago Agustin Tirante",
           "w_logo": "",
-          "l": "Thiago Agustin Tirante",
+          "l": "Taylor Fritz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 74.2,
-          "l_score": 64.1,
+          "scheduled": false,
+          "w_score": 64.1,
+          "l_score": 74.2,
           "match_score": 74.2
         }
       ]
