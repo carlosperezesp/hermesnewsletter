@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-14 18:52 UTC",
+  "UPDATED": "2026-11-14 23:57 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Miami:Ryan Blaney",
@@ -59,6 +59,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-31"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Matthew Schaefer",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Matthew Schaefer es nuevo nº1 · jóvenes promesas",
+      "weight": 92,
+      "firstSeen": "2026-11-14"
+    },
+    {
       "id": "rank:nba:ROAD_TO_GLORY.players:new1:Stephen Curry",
       "sport": "nba",
       "detail": "NBA",
@@ -84,15 +93,6 @@ window.GLORY_DATA = {
       "text": "C.J. Stroud es nuevo nº1 · jóvenes promesas",
       "weight": 92,
       "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Alexander Nikishin",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Alexander Nikishin es nuevo nº1 · jóvenes promesas",
-      "weight": 92,
-      "firstSeen": "2026-11-08"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:new1:Victor Wembanyama",
@@ -129,6 +129,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-14"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.players:in:Paul George",
@@ -599,8 +608,8 @@ window.GLORY_DATA = {
       "Leon Draisaitl",
       "David Pastrnak",
       "Auston Matthews",
-      "Jake Guentzel",
       "Erik Karlsson",
+      "Jake Guentzel",
       "Roman Josi",
       "Matthew Tkachuk"
     ],
@@ -617,15 +626,15 @@ window.GLORY_DATA = {
       "New York Rangers"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
-      "Alexander Nikishin",
       "Matthew Schaefer",
+      "Jackson LaCombe",
       "Macklin Celebrini",
       "Beckett Sennecke",
-      "Leo Carlsson",
-      "Jackson LaCombe",
-      "Cutter Gauthier",
       "Lane Hutson",
+      "Leo Carlsson",
+      "Cutter Gauthier",
       "Connor Bedard",
+      "Cole Hutson",
       "Jack Hughes"
     ],
     "nba:ROAD_TO_GLORY.players": [

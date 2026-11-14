@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-14 18:52 UTC
+// Auto-generated 2026-11-14 23:57 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-14 18:52 UTC",
+  "UPDATED": "2026-11-14 23:57 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5259,7 +5259,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "FAGE WTA Finals Indian Wells",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 92.2
@@ -5327,7 +5327,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "FAGE WTA Finals Indian Wells",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": "Eliminado en Group Stage"
       },
       "prevActiveScore": 90.4
@@ -5429,7 +5429,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "FAGE WTA Finals Indian Wells",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Group Stage",
         "reason": "Eliminado en Group Stage"
       },
       "prevActiveScore": 89.8
@@ -5769,7 +5769,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "FAGE WTA Finals Indian Wells",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Group Stage",
         "reason": ""
       },
       "prevActiveScore": 78.5
@@ -11028,9 +11028,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jessica Pegula",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 92.2,
           "l_score": 89.8,
           "match_score": 92.2
@@ -11041,9 +11041,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Linda Noskova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.4,
           "l_score": 78.5,
           "match_score": 90.4
@@ -11186,7 +11186,7 @@ window.TENNIS_DATA = {
       "Yuliana Lizarazo"
     ],
     "aliveCount": 22,
-    "matchesSeen": 45
+    "matchesSeen": 46
   },
   "ATP_SCORE_LOG": {
     "206173": [

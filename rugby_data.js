@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-11-14 18:51 UTC",
+  "UPDATED": "2026-11-14 23:56 UTC",
   "LAST_MATCH": "2026-11-14",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 374,
+    "incrementalMatches": 375,
     "teams": 162,
-    "matches": 10069,
+    "matches": 10070,
     "through": "2026-11-14"
   },
   "IMPORTANCE": 6.5,
@@ -39,6 +39,31 @@ window.RUGBY_DATA = {
         "awayScore": 15,
         "venue": "Allianz Stadium",
         "city": "London"
+      },
+      {
+        "date": "2026-11-14",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Ireland",
+          "teamCode": "IRE",
+          "colors": {
+            "primary": "#169b62",
+            "secondary": "#ff883e"
+          }
+        },
+        "away": {
+          "name": "Fiji",
+          "teamCode": "FIJ",
+          "colors": {
+            "primary": "#6ecff6",
+            "secondary": "#111111"
+          }
+        },
+        "homeScore": 43,
+        "awayScore": 15,
+        "venue": "Aviva Stadium",
+        "city": "Dublin"
       },
       {
         "date": "2026-11-14",
@@ -293,31 +318,6 @@ window.RUGBY_DATA = {
     ],
     "upcoming": [
       {
-        "date": "2026-11-14",
-        "status": "scheduled",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "Ireland",
-          "teamCode": "IRE",
-          "colors": {
-            "primary": "#169b62",
-            "secondary": "#ff883e"
-          }
-        },
-        "away": {
-          "name": "Fiji",
-          "teamCode": "FIJ",
-          "colors": {
-            "primary": "#6ecff6",
-            "secondary": "#111111"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Aviva Stadium",
-        "city": "Dublin"
-      },
-      {
         "date": "2026-11-15",
         "status": "scheduled",
         "competition": "Nations Championship",
@@ -557,15 +557,15 @@ window.RUGBY_DATA = {
       "name": "Ireland",
       "teamCode": "IRE",
       "country": "Ireland",
-      "elo": 2549.9,
-      "eloRaw": 2549.9,
-      "lastMatch": "2026-11-06",
-      "inactiveDays": 8,
+      "elo": 2554.4,
+      "eloRaw": 2554.4,
+      "lastMatch": "2026-11-14",
+      "inactiveDays": 0,
       "peakElo": 2684.1,
       "peakDate": "2023-10-07",
       "worldCups": 0,
       "record": {
-        "w": 380,
+        "w": 381,
         "l": 348,
         "d": 64
       },
@@ -573,7 +573,7 @@ window.RUGBY_DATA = {
         "primary": "#169b62",
         "secondary": "#ff883e"
       },
-      "note": "380V-348D-64E · último 2026-11-06 · raw 2550"
+      "note": "381V-348D-64E · último 2026-11-14 · raw 2554"
     },
     {
       "rank": 4,
@@ -695,23 +695,23 @@ window.RUGBY_DATA = {
       "name": "Fiji",
       "teamCode": "FIJ",
       "country": "Fiji",
-      "elo": 2157.7,
-      "eloRaw": 2157.7,
-      "lastMatch": "2026-11-07",
-      "inactiveDays": 7,
+      "elo": 2153.2,
+      "eloRaw": 2153.2,
+      "lastMatch": "2026-11-14",
+      "inactiveDays": 0,
       "peakElo": 2249.9,
       "peakDate": "2025-09-21",
       "worldCups": 0,
       "record": {
         "w": 184,
-        "l": 168,
+        "l": 169,
         "d": 11
       },
       "colors": {
         "primary": "#6ecff6",
         "secondary": "#111111"
       },
-      "note": "184V-168D-11E · último 2026-11-07 · raw 2158"
+      "note": "184V-169D-11E · último 2026-11-14 · raw 2153"
     },
     {
       "rank": 10,
