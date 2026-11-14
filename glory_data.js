@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-14 01:32 UTC",
+  "UPDATED": "2026-11-14 12:13 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Miami:Ryan Blaney",
@@ -625,9 +625,9 @@ window.GLORY_DATA = {
     "nba:ROAD_TO_GLORY.teams": [
       "Boston Celtics",
       "Los Angeles Lakers",
-      "Golden State Warriors",
       "San Antonio Spurs",
       "Minnesota Timberwolves",
+      "Golden State Warriors",
       "Oklahoma City Thunder",
       "Denver Nuggets",
       "New York Knicks",
