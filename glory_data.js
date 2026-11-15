@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-14 23:57 UTC",
+  "UPDATED": "2026-11-15 01:09 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Miami:Ryan Blaney",
@@ -41,22 +41,6 @@ window.GLORY_DATA = {
       "text": "Pedro Acosta ganó el Malaysian motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
-      "sport": "indycar",
-      "detail": "IndyCar",
-      "text": "Scott McLaughlin ganó en Grand Prix of Monterey",
-      "weight": 100,
-      "firstSeen": "2026-10-31"
-    },
-    {
-      "id": "f1:win:Mexico City Grand Prix:Charles Leclerc",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "Charles Leclerc ganó el Mexico City Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-10-31"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Matthew Schaefer",

@@ -741,7 +741,7 @@ window.NHL_DATA = {
         100
       ],
       "legendScore": 72.4,
-      "prevRank": 2
+      "prevRank": 1
     },
     {
       "id": 8480803,
@@ -776,7 +776,7 @@ window.NHL_DATA = {
         100
       ],
       "legendScore": 54.1,
-      "prevRank": 3
+      "prevRank": 2
     },
     {
       "id": 8480800,
@@ -811,7 +811,7 @@ window.NHL_DATA = {
         90
       ],
       "legendScore": 54.5,
-      "prevRank": 5
+      "prevRank": 3
     },
     {
       "id": 8477934,
@@ -881,7 +881,7 @@ window.NHL_DATA = {
         83
       ],
       "legendScore": 58.1,
-      "prevRank": 6
+      "prevRank": 5
     },
     {
       "id": 8474600,
@@ -916,7 +916,7 @@ window.NHL_DATA = {
         83
       ],
       "legendScore": 59.2,
-      "prevRank": 13
+      "prevRank": 6
     },
     {
       "id": 8480069,
@@ -951,7 +951,7 @@ window.NHL_DATA = {
         82
       ],
       "legendScore": 58.0,
-      "prevRank": 9
+      "prevRank": 7
     },
     {
       "id": 8481605,
@@ -986,7 +986,7 @@ window.NHL_DATA = {
         82
       ],
       "legendScore": 42.6,
-      "prevRank": 10
+      "prevRank": 8
     },
     {
       "id": 8482661,
@@ -1018,7 +1018,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 7
+      "prevRank": 9
     },
     {
       "id": 8480981,
@@ -1050,7 +1050,7 @@ window.NHL_DATA = {
         60,
         80
       ],
-      "prevRank": 8
+      "prevRank": 10
     },
     {
       "id": 8485366,
@@ -6248,7 +6248,7 @@ window.NHL_DATA = {
       "name": "Justin Barron",
       "pos": "D",
       "teamCode": "STL",
-      "age": 24,
+      "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -7035,7 +7035,7 @@ window.NHL_DATA = {
       "name": "Brett Pesce",
       "pos": "D",
       "teamCode": "NJD",
-      "age": 31,
+      "age": 32,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -8776,7 +8776,7 @@ window.NHL_DATA = {
       "name": "Mackie Samoskevich",
       "pos": "RW",
       "teamCode": "SEA",
-      "age": 23,
+      "age": 24,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -8801,7 +8801,7 @@ window.NHL_DATA = {
         46,
         57
       ],
-      "legendScore": 48.2
+      "legendScore": 47.8
     },
     {
       "id": 8483546,
@@ -18811,7 +18811,7 @@ window.NHL_DATA = {
       "name": "Ben Meyers",
       "pos": "C",
       "teamCode": "SEA",
-      "age": 27,
+      "age": 28,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -27029,9 +27029,9 @@ window.NHL_DATA = {
       "name": "Trey Taylor",
       "pos": "D",
       "teamCode": "DAL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 24,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#006847",
         "secondary": "#8f8f8c"
@@ -38427,7 +38427,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 18,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 8477404,
@@ -38446,7 +38446,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 12,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 8474600,
@@ -38666,7 +38666,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 27.3,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": 2
+        "prevRank": 1
       },
       {
         "id": 8481605,
@@ -38684,7 +38684,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 31.8,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 6
+        "prevRank": 2
       },
       {
         "id": 8484801,
@@ -38738,7 +38738,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.5,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 8
+        "prevRank": 5
       },
       {
         "id": 8484153,
@@ -38756,7 +38756,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.2,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "id": 8483445,
@@ -38792,7 +38792,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.9,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 8484873,
@@ -38810,7 +38810,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 35.2,
         "note": "Promising young talent — long road ahead",
-        "prevRank": null
+        "prevRank": 9
       },
       {
         "id": 8481559,
@@ -38877,10 +38877,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-14 23:55 UTC",
+  "LAST_UPDATE": "2026-11-15 01:07 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-14T23:54:45Z"
+    "standingsDateTimeUtc": "2026-11-15T01:06:45Z"
   }
 };
