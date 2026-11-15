@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-15 01:09 UTC
+// Auto-generated 2026-11-15 12:47 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-15 01:09 UTC",
+  "UPDATED": "2026-11-15 12:47 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -110,7 +110,7 @@ window.TENNIS_DATA = {
       "id": "104925",
       "name": "Novak Djokovic",
       "rank": 12,
-      "prevRank": 11,
+      "prevRank": 12,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
@@ -178,7 +178,7 @@ window.TENNIS_DATA = {
       "id": "126205",
       "name": "Tommy Paul",
       "rank": 13,
-      "prevRank": 14,
+      "prevRank": 13,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -212,7 +212,7 @@ window.TENNIS_DATA = {
       "id": "134770",
       "name": "Casper Ruud",
       "rank": 18,
-      "prevRank": 23,
+      "prevRank": 18,
       "country": "NOR",
       "logo": "https://flagcdn.com/24x18/no.png",
       "teamCode": "NOR",
@@ -245,14 +245,14 @@ window.TENNIS_DATA = {
     {
       "id": "212588",
       "name": "Rafael Jodar",
-      "rank": 11,
-      "prevRank": 10,
+      "rank": 10,
+      "prevRank": 11,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 78.0,
+      "activeScore": 78.2,
       "legendScore": 23.0,
       "age": 20,
       "surface": {
@@ -313,14 +313,14 @@ window.TENNIS_DATA = {
     {
       "id": "207518",
       "name": "Lorenzo Musetti",
-      "rank": 25,
-      "prevRank": 24,
+      "rank": 27,
+      "prevRank": 25,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 77.0,
+      "activeScore": 76.8,
       "legendScore": 25.6,
       "age": 24,
       "surface": {
@@ -381,14 +381,14 @@ window.TENNIS_DATA = {
     {
       "id": "200282",
       "name": "Alex De Minaur",
-      "rank": 9,
+      "rank": 11,
       "prevRank": 9,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 75.2,
+      "activeScore": 75.0,
       "legendScore": 33.8,
       "age": 27,
       "surface": {
@@ -415,14 +415,14 @@ window.TENNIS_DATA = {
     {
       "id": "200000",
       "name": "Felix Auger Aliassime",
-      "rank": 14,
-      "prevRank": 13,
+      "rank": 17,
+      "prevRank": 14,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 75.2,
+      "activeScore": 74.9,
       "legendScore": 33.3,
       "age": 26,
       "surface": {
@@ -449,14 +449,14 @@ window.TENNIS_DATA = {
     {
       "id": "208103",
       "name": "Jiri Lehecka",
-      "rank": 15,
+      "rank": 14,
       "prevRank": 15,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 74.6,
+      "activeScore": 74.7,
       "legendScore": 24.9,
       "age": 25,
       "surface": {
@@ -515,6 +515,40 @@ window.TENNIS_DATA = {
       "prevActiveScore": 74.5
     },
     {
+      "id": "126203",
+      "name": "Taylor Fritz",
+      "rank": 9,
+      "prevRank": 10,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 74.3,
+      "legendScore": 36.4,
+      "age": 29,
+      "surface": {
+        "hard": 0.667,
+        "clay": 0.333,
+        "grass": 0.867
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 12,
+        "weeks_no1": 0,
+        "top10_wins": 31
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 16,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 73.9
+    },
+    {
       "id": "126207",
       "name": "Frances Tiafoe",
       "rank": 8,
@@ -539,7 +573,7 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 16,
+      "prevListRank": 17,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "alive",
@@ -549,44 +583,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 74.2
     },
     {
-      "id": "126203",
-      "name": "Taylor Fritz",
-      "rank": 10,
-      "prevRank": 12,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "122330",
+      "name": "Alexander Bublik",
+      "rank": 25,
+      "prevRank": 26,
+      "country": "KAZ",
+      "logo": "https://flagcdn.com/24x18/kz.png",
+      "teamCode": "KAZ",
+      "primary": "#00AFCA",
       "secondary": "#FFFFFF",
-      "activeScore": 74.2,
-      "legendScore": 36.4,
+      "activeScore": 72.9,
+      "legendScore": 28.9,
       "age": 29,
       "surface": {
-        "hard": 0.667,
-        "clay": 0.333,
-        "grass": 0.867
+        "hard": 0.583,
+        "clay": 0.656,
+        "grass": 0.833
       },
       "stats": {
         "gs": 0,
-        "titles": 12,
+        "titles": 9,
         "weeks_no1": 0,
-        "top10_wins": 31
+        "top10_wins": 14
       },
       "leyendaScore": 0.0,
-      "prevListRank": 17,
+      "prevListRank": 18,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 73.9
+      "prevActiveScore": 72.8
     },
     {
       "id": "210530",
       "name": "Learner Tien",
       "rank": 22,
-      "prevRank": 19,
+      "prevRank": 22,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -607,7 +641,7 @@ window.TENNIS_DATA = {
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 18,
+      "prevListRank": 19,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -617,44 +651,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 73.2
     },
     {
-      "id": "122330",
-      "name": "Alexander Bublik",
-      "rank": 26,
-      "prevRank": 26,
-      "country": "KAZ",
-      "logo": "https://flagcdn.com/24x18/kz.png",
-      "teamCode": "KAZ",
-      "primary": "#00AFCA",
-      "secondary": "#FFFFFF",
-      "activeScore": 72.8,
-      "legendScore": 28.9,
-      "age": 29,
-      "surface": {
-        "hard": 0.583,
-        "clay": 0.656,
-        "grass": 0.833
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 9,
-        "weeks_no1": 0,
-        "top10_wins": 14
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 19,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 72.8
-    },
-    {
       "id": "126094",
       "name": "Andrey Rublev",
       "rank": 23,
-      "prevRank": 22,
+      "prevRank": 23,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -721,14 +721,14 @@ window.TENNIS_DATA = {
     {
       "id": "200473",
       "name": "Valentin Vacherot",
-      "rank": 27,
+      "rank": 26,
       "prevRank": 27,
       "country": "MON",
       "logo": "https://flagcdn.com/24x18/mc.png",
       "teamCode": "MON",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 72.4,
+      "activeScore": 72.5,
       "legendScore": 24.1,
       "age": 27,
       "surface": {
@@ -755,14 +755,14 @@ window.TENNIS_DATA = {
     {
       "id": "200221",
       "name": "Alejandro Davidovich Fokina",
-      "rank": 17,
+      "rank": 16,
       "prevRank": 17,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 71.7,
+      "activeScore": 71.8,
       "legendScore": 23.6,
       "age": 27,
       "surface": {
@@ -824,7 +824,7 @@ window.TENNIS_DATA = {
       "id": "211663",
       "name": "Joao Fonseca",
       "rank": 46,
-      "prevRank": 41,
+      "prevRank": 46,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
       "teamCode": "BRA",
@@ -858,7 +858,7 @@ window.TENNIS_DATA = {
       "id": "111575",
       "name": "Karen Khachanov",
       "rank": 24,
-      "prevRank": 25,
+      "prevRank": 24,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -892,7 +892,7 @@ window.TENNIS_DATA = {
       "id": "206909",
       "name": "Brandon Nakashima",
       "rank": 19,
-      "prevRank": 18,
+      "prevRank": 19,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -925,14 +925,14 @@ window.TENNIS_DATA = {
     {
       "id": "209860",
       "name": "Ignacio Buse",
-      "rank": 32,
-      "prevRank": 33,
+      "rank": 33,
+      "prevRank": 32,
       "country": "PER",
       "logo": "https://flagcdn.com/24x18/pe.png",
       "teamCode": "PER",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 66.7,
+      "activeScore": 66.6,
       "legendScore": 0.7,
       "age": 22,
       "surface": {
@@ -960,7 +960,7 @@ window.TENNIS_DATA = {
       "id": "128034",
       "name": "Hubert Hurkacz",
       "rank": 30,
-      "prevRank": 29,
+      "prevRank": 30,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
@@ -1062,7 +1062,7 @@ window.TENNIS_DATA = {
       "id": "126774",
       "name": "Stefanos Tsitsipas",
       "rank": 36,
-      "prevRank": 34,
+      "prevRank": 36,
       "country": "GRE",
       "logo": "https://flagcdn.com/24x18/gr.png",
       "teamCode": "GRE",
@@ -1093,10 +1093,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 65.1
     },
     {
+      "id": "202058",
+      "name": "Thiago Agustin Tirante",
+      "rank": 47,
+      "prevRank": 51,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 64.6,
+      "legendScore": 18.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.429,
+        "clay": 0.609,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 33,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 63.9
+    },
+    {
       "id": "126214",
       "name": "Alejandro Tabilo",
       "rank": 31,
-      "prevRank": 30,
+      "prevRank": 31,
       "country": "CHI",
       "logo": "https://flagcdn.com/24x18/cl.png",
       "teamCode": "CHI",
@@ -1117,7 +1151,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 33,
+      "prevListRank": 34,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -1130,7 +1164,7 @@ window.TENNIS_DATA = {
       "id": "209414",
       "name": "Luca Van Assche",
       "rank": 34,
-      "prevRank": 47,
+      "prevRank": 34,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -1151,7 +1185,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 34,
+      "prevListRank": 35,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -1161,44 +1195,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 62.9
     },
     {
-      "id": "202058",
-      "name": "Thiago Agustin Tirante",
-      "rank": 51,
-      "prevRank": 53,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 64.1,
-      "legendScore": 18.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.429,
-        "clay": 0.609,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 35,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 63.9
-    },
-    {
       "id": "207830",
       "name": "Tomas Machac",
       "rank": 60,
-      "prevRank": 69,
+      "prevRank": 60,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -1231,14 +1231,14 @@ window.TENNIS_DATA = {
     {
       "id": "144684",
       "name": "Alex Molcan",
-      "rank": 72,
-      "prevRank": 78,
+      "rank": 73,
+      "prevRank": 72,
       "country": "SVK",
       "logo": "https://flagcdn.com/24x18/sk.png",
       "teamCode": "SVK",
       "primary": "#0B4EA2",
       "secondary": "#FFFFFF",
-      "activeScore": 64.0,
+      "activeScore": 63.9,
       "legendScore": 19.0,
       "age": 28,
       "surface": {
@@ -1301,14 +1301,14 @@ window.TENNIS_DATA = {
     {
       "id": "200005",
       "name": "Ugo Humbert",
-      "rank": 39,
-      "prevRank": 38,
+      "rank": 38,
+      "prevRank": 39,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 63.3,
+      "activeScore": 63.5,
       "legendScore": 24.3,
       "age": 28,
       "surface": {
@@ -1336,7 +1336,7 @@ window.TENNIS_DATA = {
       "id": "144869",
       "name": "Tomas Martin Etcheverry",
       "rank": 29,
-      "prevRank": 31,
+      "prevRank": 29,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -1369,14 +1369,14 @@ window.TENNIS_DATA = {
     {
       "id": "134868",
       "name": "Tallon Griekspoor",
-      "rank": 49,
-      "prevRank": 50,
+      "rank": 50,
+      "prevRank": 49,
       "country": "NED",
       "logo": "https://flagcdn.com/24x18/nl.png",
       "teamCode": "NED",
       "primary": "#AE1C28",
       "secondary": "#FFFFFF",
-      "activeScore": 62.9,
+      "activeScore": 62.8,
       "legendScore": 21.2,
       "age": 30,
       "surface": {
@@ -1403,8 +1403,8 @@ window.TENNIS_DATA = {
     {
       "id": "208286",
       "name": "Matteo Arnaldi",
-      "rank": 38,
-      "prevRank": 36,
+      "rank": 37,
+      "prevRank": 38,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -1437,14 +1437,14 @@ window.TENNIS_DATA = {
     {
       "id": "111815",
       "name": "Cameron Norrie",
-      "rank": 53,
-      "prevRank": 45,
+      "rank": 52,
+      "prevRank": 53,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 62.5,
+      "activeScore": 62.6,
       "legendScore": 28.5,
       "age": 31,
       "surface": {
@@ -1469,44 +1469,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 63.4
     },
     {
-      "id": "208363",
-      "name": "Mariano Navone",
-      "rank": 48,
-      "prevRank": 48,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 61.7,
-      "legendScore": 16.8,
-      "age": 25,
-      "surface": {
-        "hard": 0.25,
-        "clay": 0.587,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 44,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 61.7
-    },
-    {
       "id": "122298",
       "name": "Botic Van De Zandschulp",
       "rank": 40,
-      "prevRank": 37,
+      "prevRank": 40,
       "country": "NED",
       "logo": "https://flagcdn.com/24x18/nl.png",
       "teamCode": "NED",
@@ -1527,7 +1493,7 @@ window.TENNIS_DATA = {
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 45,
+      "prevListRank": 44,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -1537,16 +1503,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 62.1
     },
     {
+      "id": "208363",
+      "name": "Mariano Navone",
+      "rank": 49,
+      "prevRank": 48,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.6,
+      "legendScore": 16.8,
+      "age": 25,
+      "surface": {
+        "hard": 0.25,
+        "clay": 0.587,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 45,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 61.7
+    },
+    {
       "id": "210084",
       "name": "Jakub Mensik",
-      "rank": 16,
+      "rank": 15,
       "prevRank": 16,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 60.9,
+      "activeScore": 61.0,
       "legendScore": 0.0,
       "age": 21,
       "surface": {
@@ -1608,7 +1608,7 @@ window.TENNIS_DATA = {
       "id": "132686",
       "name": "Nuno Borges",
       "rank": 41,
-      "prevRank": 49,
+      "prevRank": 41,
       "country": "POR",
       "logo": "https://flagcdn.com/24x18/pt.png",
       "teamCode": "POR",
@@ -1676,7 +1676,7 @@ window.TENNIS_DATA = {
       "id": "126239",
       "name": "Arthur Rinderknech",
       "rank": 58,
-      "prevRank": 68,
+      "prevRank": 58,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -1709,14 +1709,14 @@ window.TENNIS_DATA = {
     {
       "id": "209098",
       "name": "Hamad Medjedovic",
-      "rank": 80,
-      "prevRank": 77,
+      "rank": 79,
+      "prevRank": 80,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
       "primary": "#C6363C",
       "secondary": "#FFFFFF",
-      "activeScore": 59.8,
+      "activeScore": 59.9,
       "legendScore": 14.1,
       "age": 23,
       "surface": {
@@ -1744,7 +1744,7 @@ window.TENNIS_DATA = {
       "id": "144719",
       "name": "Jaume Munar",
       "rank": 70,
-      "prevRank": 65,
+      "prevRank": 70,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -1778,7 +1778,7 @@ window.TENNIS_DATA = {
       "id": "200267",
       "name": "Zizou Bergs",
       "rank": 44,
-      "prevRank": 40,
+      "prevRank": 44,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
@@ -1809,44 +1809,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 58.9
     },
     {
-      "id": "210338",
-      "name": "Arthur Gea",
-      "rank": 47,
-      "prevRank": 44,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 58.5,
-      "legendScore": 13.2,
-      "age": 21,
-      "surface": {
-        "hard": 0.5,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 54,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 58.8
-    },
-    {
       "id": "105870",
       "name": "Yannick Hanfmann",
       "rank": 67,
-      "prevRank": 58,
+      "prevRank": 67,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
@@ -1867,7 +1833,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 55,
+      "prevListRank": 54,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -1875,6 +1841,40 @@ window.TENNIS_DATA = {
         "reason": "No compite en Nitto ATP Finals"
       },
       "prevActiveScore": 59.5
+    },
+    {
+      "id": "210338",
+      "name": "Arthur Gea",
+      "rank": 48,
+      "prevRank": 47,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.3,
+      "legendScore": 13.2,
+      "age": 21,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 55,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 58.8
     },
     {
       "id": "120770",
@@ -1945,44 +1945,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.7
     },
     {
-      "id": "202104",
-      "name": "Sebastian Baez",
-      "rank": 52,
-      "prevRank": 52,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.2,
-      "legendScore": 20.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.448,
-        "clay": 0.5,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 7,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 58,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 57.2
-    },
-    {
       "id": "111460",
       "name": "Quentin Halys",
       "rank": 45,
-      "prevRank": 46,
+      "prevRank": 45,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -2003,7 +1969,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 59,
+      "prevListRank": 58,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -2013,10 +1979,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.0
     },
     {
+      "id": "202104",
+      "name": "Sebastian Baez",
+      "rank": 53,
+      "prevRank": 52,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.1,
+      "legendScore": 20.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.448,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 7,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 59,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 57.2
+    },
+    {
       "id": "200240",
       "name": "Vit Kopriva",
       "rank": 69,
-      "prevRank": 62,
+      "prevRank": 69,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -2050,7 +2050,7 @@ window.TENNIS_DATA = {
       "id": "206681",
       "name": "Fabian Marozsan",
       "rank": 63,
-      "prevRank": 61,
+      "prevRank": 63,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
@@ -2083,14 +2083,14 @@ window.TENNIS_DATA = {
     {
       "id": "133430",
       "name": "Denis Shapovalov",
-      "rank": 50,
-      "prevRank": 51,
+      "rank": 51,
+      "prevRank": 50,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 56.6,
+      "activeScore": 56.5,
       "legendScore": 26.9,
       "age": 27,
       "surface": {
@@ -2118,7 +2118,7 @@ window.TENNIS_DATA = {
       "id": "208169",
       "name": "Titouan Droguet",
       "rank": 81,
-      "prevRank": 79,
+      "prevRank": 81,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -2149,40 +2149,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 56.4
     },
     {
-      "id": "105526",
-      "name": "Jan Lennard Struff",
-      "rank": 37,
-      "prevRank": 39,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.4,
-      "legendScore": 19.0,
-      "age": 36,
-      "surface": {
-        "hard": 0.346,
-        "clay": 0.353,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 14
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 64,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 55.1
-    },
-    {
       "id": "210262",
       "name": "Jaime Faria",
       "rank": 57,
@@ -2207,7 +2173,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 65,
+      "prevListRank": 64,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -2217,10 +2183,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 55.2
     },
     {
+      "id": "105526",
+      "name": "Jan Lennard Struff",
+      "rank": 39,
+      "prevRank": 37,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.1,
+      "legendScore": 19.0,
+      "age": 36,
+      "surface": {
+        "hard": 0.346,
+        "clay": 0.353,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 14
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 65,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 55.1
+    },
+    {
       "id": "126504",
       "name": "Andrea Pellegrino",
-      "rank": 141,
-      "prevRank": 140,
+      "rank": 142,
+      "prevRank": 141,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -2253,7 +2253,7 @@ window.TENNIS_DATA = {
     {
       "id": "200059",
       "name": "Yibing Wu",
-      "rank": 105,
+      "rank": 106,
       "prevRank": 105,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
@@ -2288,7 +2288,7 @@ window.TENNIS_DATA = {
       "id": "200116",
       "name": "Camilo Ugo Carabelli",
       "rank": 65,
-      "prevRank": 81,
+      "prevRank": 65,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -2319,44 +2319,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.8
     },
     {
-      "id": "208882",
-      "name": "Roman Andres Burruchaga",
-      "rank": 79,
-      "prevRank": 76,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.2,
-      "legendScore": 13.2,
-      "age": 24,
-      "surface": {
-        "hard": null,
-        "clay": 0.476,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 69,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 54.5
-    },
-    {
       "id": "211776",
       "name": "Martin Landaluce",
       "rank": 71,
-      "prevRank": 67,
+      "prevRank": 71,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -2377,7 +2343,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 70,
+      "prevListRank": 69,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -2387,10 +2353,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 54.6
     },
     {
+      "id": "208882",
+      "name": "Roman Andres Burruchaga",
+      "rank": 80,
+      "prevRank": 79,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.0,
+      "legendScore": 13.2,
+      "age": 24,
+      "surface": {
+        "hard": null,
+        "clay": 0.476,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 70,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 54.5
+    },
+    {
       "id": "209279",
       "name": "Terence Atmane",
       "rank": 75,
-      "prevRank": 73,
+      "prevRank": 75,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -2423,14 +2423,14 @@ window.TENNIS_DATA = {
     {
       "id": "202385",
       "name": "Jenson Brooksby",
-      "rank": 93,
-      "prevRank": 94,
+      "rank": 94,
+      "prevRank": 93,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 53.7,
+      "activeScore": 53.6,
       "legendScore": 20.3,
       "age": 26,
       "surface": {
@@ -2453,40 +2453,6 @@ window.TENNIS_DATA = {
         "reason": "No compite en Nitto ATP Finals"
       },
       "prevActiveScore": 53.6
-    },
-    {
-      "id": "105227",
-      "name": "Marin Cilic",
-      "rank": 97,
-      "prevRank": 96,
-      "country": "CRO",
-      "logo": "https://flagcdn.com/24x18/hr.png",
-      "teamCode": "CRO",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.6,
-      "legendScore": 41.7,
-      "age": 38,
-      "surface": {
-        "hard": 0.481,
-        "clay": 0.333,
-        "grass": null
-      },
-      "stats": {
-        "gs": 1,
-        "titles": 18,
-        "weeks_no1": 0,
-        "top10_wins": 30
-      },
-      "leyendaScore": 3.4,
-      "prevListRank": 73,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 53.7
     },
     {
       "id": "111794",
@@ -2513,7 +2479,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 74,
+      "prevListRank": 73,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -2526,7 +2492,7 @@ window.TENNIS_DATA = {
       "id": "200175",
       "name": "Miomir Kecmanovic",
       "rank": 64,
-      "prevRank": 60,
+      "prevRank": 64,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
@@ -2547,7 +2513,7 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 75,
+      "prevListRank": 74,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -2557,10 +2523,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.8
     },
     {
+      "id": "105227",
+      "name": "Marin Cilic",
+      "rank": 99,
+      "prevRank": 97,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.3,
+      "legendScore": 41.7,
+      "age": 38,
+      "surface": {
+        "hard": 0.481,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 1,
+        "titles": 18,
+        "weeks_no1": 0,
+        "top10_wins": 30
+      },
+      "leyendaScore": 3.4,
+      "prevListRank": 75,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 53.7
+    },
+    {
       "id": "209976",
       "name": "Dino Prizmic",
       "rank": 89,
-      "prevRank": 92,
+      "prevRank": 89,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
@@ -2594,7 +2594,7 @@ window.TENNIS_DATA = {
       "id": "208260",
       "name": "Zachary Svajda",
       "rank": 78,
-      "prevRank": 75,
+      "prevRank": 78,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -2627,8 +2627,8 @@ window.TENNIS_DATA = {
     {
       "id": "105916",
       "name": "Marton Fucsovics",
-      "rank": 145,
-      "prevRank": 144,
+      "rank": 146,
+      "prevRank": 145,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
@@ -2662,7 +2662,7 @@ window.TENNIS_DATA = {
       "id": "208597",
       "name": "Chak Lam Coleman Wong",
       "rank": 84,
-      "prevRank": 85,
+      "prevRank": 84,
       "country": "HKG",
       "logo": "",
       "teamCode": "HKG",
@@ -2696,7 +2696,7 @@ window.TENNIS_DATA = {
       "id": "144895",
       "name": "Corentin Moutet",
       "rank": 108,
-      "prevRank": 111,
+      "prevRank": 108,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -2727,10 +2727,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.5
     },
     {
+      "id": "105807",
+      "name": "Pablo Carreno Busta",
+      "rank": 76,
+      "prevRank": 77,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.4,
+      "legendScore": 29.8,
+      "age": 35,
+      "surface": {
+        "hard": 0.368,
+        "clay": 0.429,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 7,
+        "weeks_no1": 0,
+        "top10_wins": 11
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 81,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 52.7
+    },
+    {
       "id": "208010",
       "name": "Pablo Llamas Ruiz",
-      "rank": 142,
-      "prevRank": 141,
+      "rank": 143,
+      "prevRank": 142,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -2751,7 +2785,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 81,
+      "prevListRank": 82,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -2761,44 +2795,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.4
     },
     {
-      "id": "105807",
-      "name": "Pablo Carreno Busta",
-      "rank": 77,
-      "prevRank": 74,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 52.3,
-      "legendScore": 29.8,
-      "age": 35,
-      "surface": {
-        "hard": 0.368,
-        "clay": 0.429,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 7,
-        "weeks_no1": 0,
-        "top10_wins": 11
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 82,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 52.7
-    },
-    {
       "id": "208233",
       "name": "Mattia Bellucci",
       "rank": 62,
-      "prevRank": 66,
+      "prevRank": 62,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -2831,7 +2831,7 @@ window.TENNIS_DATA = {
     {
       "id": "213608",
       "name": "Moise Kouame",
-      "rank": 132,
+      "rank": 133,
       "prevRank": 132,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
@@ -2866,7 +2866,7 @@ window.TENNIS_DATA = {
       "id": "126127",
       "name": "Benjamin Bonzi",
       "rank": 91,
-      "prevRank": 95,
+      "prevRank": 91,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -2899,8 +2899,8 @@ window.TENNIS_DATA = {
     {
       "id": "200615",
       "name": "Alexei Popyrin",
-      "rank": 125,
-      "prevRank": 126,
+      "rank": 129,
+      "prevRank": 125,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -2933,8 +2933,8 @@ window.TENNIS_DATA = {
     {
       "id": "209147",
       "name": "Vilius Gaubas",
-      "rank": 146,
-      "prevRank": 147,
+      "rank": 148,
+      "prevRank": 146,
       "country": "LTU",
       "logo": "https://flagcdn.com/24x18/lt.png",
       "teamCode": "LTU",
@@ -2967,14 +2967,14 @@ window.TENNIS_DATA = {
     {
       "id": "106218",
       "name": "Marcos Giron",
-      "rank": 94,
-      "prevRank": 89,
+      "rank": 95,
+      "prevRank": 94,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 50.9,
+      "activeScore": 50.8,
       "legendScore": 15.5,
       "age": 33,
       "surface": {
@@ -3035,8 +3035,8 @@ window.TENNIS_DATA = {
     {
       "id": "208024",
       "name": "Max Alcala Gurri",
-      "rank": 131,
-      "prevRank": 130,
+      "rank": 130,
+      "prevRank": 131,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -3070,7 +3070,7 @@ window.TENNIS_DATA = {
       "id": "209899",
       "name": "Ilia Simakin",
       "rank": 147,
-      "prevRank": 148,
+      "prevRank": 147,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -3103,14 +3103,14 @@ window.TENNIS_DATA = {
     {
       "id": "127157",
       "name": "Daniel Altmaier",
-      "rank": 73,
-      "prevRank": 63,
+      "rank": 72,
+      "prevRank": 73,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 50.5,
+      "activeScore": 50.7,
       "legendScore": 17.9,
       "age": 28,
       "surface": {
@@ -3135,9 +3135,43 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.7
     },
     {
+      "id": "207663",
+      "name": "Nikolas Sanchez Izquierdo",
+      "rank": 140,
+      "prevRank": 151,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.6,
+      "legendScore": 0.0,
+      "age": 27,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 93,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 50.6
+    },
+    {
       "id": "207411",
       "name": "Jesper De Jong",
-      "rank": 104,
+      "rank": 105,
       "prevRank": 104,
       "country": "NED",
       "logo": "https://flagcdn.com/24x18/nl.png",
@@ -3159,7 +3193,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 93,
+      "prevListRank": 94,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3172,7 +3206,7 @@ window.TENNIS_DATA = {
       "id": "207680",
       "name": "Facundo Diaz Acosta",
       "rank": 66,
-      "prevRank": 72,
+      "prevRank": 66,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -3193,7 +3227,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 94,
+      "prevListRank": 95,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3206,7 +3240,7 @@ window.TENNIS_DATA = {
       "id": "207494",
       "name": "Dalibor Svrcina",
       "rank": 112,
-      "prevRank": 119,
+      "prevRank": 112,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -3227,7 +3261,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 95,
+      "prevListRank": 96,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3240,7 +3274,7 @@ window.TENNIS_DATA = {
       "id": "105173",
       "name": "Adrian Mannarino",
       "rank": 61,
-      "prevRank": 59,
+      "prevRank": 61,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -3261,7 +3295,7 @@ window.TENNIS_DATA = {
         "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 96,
+      "prevListRank": 97,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3273,8 +3307,8 @@ window.TENNIS_DATA = {
     {
       "id": "132283",
       "name": "Lorenzo Sonego",
-      "rank": 115,
-      "prevRank": 106,
+      "rank": 109,
+      "prevRank": 115,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -3295,7 +3329,7 @@ window.TENNIS_DATA = {
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 97,
+      "prevListRank": 98,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3308,7 +3342,7 @@ window.TENNIS_DATA = {
       "id": "206499",
       "name": "Aleksandar Kovacevic",
       "rank": 83,
-      "prevRank": 84,
+      "prevRank": 83,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3329,7 +3363,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 98,
+      "prevListRank": 99,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3342,7 +3376,7 @@ window.TENNIS_DATA = {
       "id": "208014",
       "name": "Rinky Hijikata",
       "rank": 59,
-      "prevRank": 83,
+      "prevRank": 59,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -3363,7 +3397,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 99,
+      "prevListRank": 100,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3376,7 +3410,7 @@ window.TENNIS_DATA = {
       "id": "105477",
       "name": "Marco Trungelliti",
       "rank": 88,
-      "prevRank": 91,
+      "prevRank": 88,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -3397,7 +3431,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 100,
+      "prevListRank": 101,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3409,8 +3443,8 @@ window.TENNIS_DATA = {
     {
       "id": "105777",
       "name": "Grigor Dimitrov",
-      "rank": 135,
-      "prevRank": 134,
+      "rank": 134,
+      "prevRank": 135,
       "country": "BUL",
       "logo": "https://flagcdn.com/24x18/bg.png",
       "teamCode": "BUL",
@@ -3433,7 +3467,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
-      "prevListRank": 101,
+      "prevListRank": 102,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3445,14 +3479,14 @@ window.TENNIS_DATA = {
     {
       "id": "105932",
       "name": "Nikoloz Basilashvili",
-      "rank": 86,
-      "prevRank": 87,
+      "rank": 85,
+      "prevRank": 86,
       "country": "GEO",
       "logo": "https://flagcdn.com/24x18/ge.png",
       "teamCode": "GEO",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 49.2,
+      "activeScore": 49.3,
       "legendScore": 21.9,
       "age": 34,
       "surface": {
@@ -3467,7 +3501,7 @@ window.TENNIS_DATA = {
         "top10_wins": 9
       },
       "leyendaScore": 0.0,
-      "prevListRank": 102,
+      "prevListRank": 103,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3479,8 +3513,8 @@ window.TENNIS_DATA = {
     {
       "id": "207686",
       "name": "Alexander Shevchenko",
-      "rank": 107,
-      "prevRank": 108,
+      "rank": 100,
+      "prevRank": 107,
       "country": "KAZ",
       "logo": "https://flagcdn.com/24x18/kz.png",
       "teamCode": "KAZ",
@@ -3501,7 +3535,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 103,
+      "prevListRank": 104,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3513,14 +3547,14 @@ window.TENNIS_DATA = {
     {
       "id": "210116",
       "name": "Michael Zheng",
-      "rank": 100,
+      "rank": 98,
       "prevRank": 100,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 48.7,
+      "activeScore": 48.9,
       "legendScore": 13.2,
       "age": 22,
       "surface": {
@@ -3535,7 +3569,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 104,
+      "prevListRank": 105,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3547,8 +3581,8 @@ window.TENNIS_DATA = {
     {
       "id": "200624",
       "name": "Sebastian Korda",
-      "rank": 101,
-      "prevRank": 86,
+      "rank": 102,
+      "prevRank": 101,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3571,7 +3605,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 105,
+      "prevListRank": 106,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3584,7 +3618,7 @@ window.TENNIS_DATA = {
       "id": "126128",
       "name": "Roman Safiullin",
       "rank": 74,
-      "prevRank": 71,
+      "prevRank": 74,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -3605,7 +3639,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 106,
+      "prevListRank": 107,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3617,8 +3651,8 @@ window.TENNIS_DATA = {
     {
       "id": "210460",
       "name": "Nishesh Basavareddy",
-      "rank": 126,
-      "prevRank": 128,
+      "rank": 115,
+      "prevRank": 126,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3639,7 +3673,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 107,
+      "prevListRank": 108,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3652,7 +3686,7 @@ window.TENNIS_DATA = {
       "id": "210319",
       "name": "Ethan Quinn",
       "rank": 68,
-      "prevRank": 64,
+      "prevRank": 68,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3673,7 +3707,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 108,
+      "prevListRank": 109,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3685,7 +3719,7 @@ window.TENNIS_DATA = {
     {
       "id": "102093",
       "name": "Martin Damm",
-      "rank": 102,
+      "rank": 103,
       "prevRank": 102,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
@@ -3709,7 +3743,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
-      "prevListRank": 109,
+      "prevListRank": 110,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3721,8 +3755,8 @@ window.TENNIS_DATA = {
     {
       "id": "207681",
       "name": "Francisco Comesana",
-      "rank": 138,
-      "prevRank": 135,
+      "rank": 135,
+      "prevRank": 138,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -3743,7 +3777,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 110,
+      "prevListRank": 111,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3755,8 +3789,8 @@ window.TENNIS_DATA = {
     {
       "id": "207182",
       "name": "Emilio Nava",
-      "rank": 121,
-      "prevRank": 122,
+      "rank": 126,
+      "prevRank": 121,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3777,7 +3811,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 111,
+      "prevListRank": 112,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3789,14 +3823,14 @@ window.TENNIS_DATA = {
     {
       "id": "209259",
       "name": "Arthur Fery",
-      "rank": 33,
-      "prevRank": 32,
+      "rank": 32,
+      "prevRank": 33,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 46.4,
+      "activeScore": 46.5,
       "legendScore": 13.2,
       "age": 24,
       "surface": {
@@ -3813,7 +3847,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 112,
+      "prevListRank": 113,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3825,14 +3859,14 @@ window.TENNIS_DATA = {
     {
       "id": "208021",
       "name": "Kyrian Jacquet",
-      "rank": 85,
-      "prevRank": 80,
+      "rank": 86,
+      "prevRank": 85,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 46.4,
+      "activeScore": 46.3,
       "legendScore": 0.0,
       "age": 25,
       "surface": {
@@ -3847,7 +3881,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 113,
+      "prevListRank": 114,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3860,7 +3894,7 @@ window.TENNIS_DATA = {
       "id": "207985",
       "name": "Jacob Fearnley",
       "rank": 87,
-      "prevRank": 90,
+      "prevRank": 87,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -3881,7 +3915,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 114,
+      "prevListRank": 115,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3894,7 +3928,7 @@ window.TENNIS_DATA = {
       "id": "106000",
       "name": "Damir Dzumhur",
       "rank": 90,
-      "prevRank": 88,
+      "prevRank": 90,
       "country": "BIH",
       "logo": "https://flagcdn.com/24x18/ba.png",
       "teamCode": "BIH",
@@ -3915,7 +3949,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 115,
+      "prevListRank": 116,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3927,8 +3961,8 @@ window.TENNIS_DATA = {
     {
       "id": "208659",
       "name": "Giovanni Mpetshi Perricard",
-      "rank": 140,
-      "prevRank": 145,
+      "rank": 139,
+      "prevRank": 140,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -3949,7 +3983,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 116,
+      "prevListRank": 117,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3961,8 +3995,8 @@ window.TENNIS_DATA = {
     {
       "id": "200443",
       "name": "Adam Walton",
-      "rank": 96,
-      "prevRank": 98,
+      "rank": 97,
+      "prevRank": 96,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -3983,7 +4017,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 117,
+      "prevListRank": 118,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -3995,53 +4029,19 @@ window.TENNIS_DATA = {
     {
       "id": "210389",
       "name": "Toby Samuel",
-      "rank": 95,
-      "prevRank": 97,
+      "rank": 92,
+      "prevRank": 95,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 44.9,
+      "activeScore": 45.3,
       "legendScore": 0.0,
       "age": 24,
       "surface": {
         "hard": null,
         "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 118,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 44.7
-    },
-    {
-      "id": "105902",
-      "name": "James Duckworth",
-      "rank": 76,
-      "prevRank": 70,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 44.8,
-      "legendScore": 9.7,
-      "age": 34,
-      "surface": {
-        "hard": 0.364,
-        "clay": 0.2,
         "grass": null
       },
       "stats": {
@@ -4058,13 +4058,47 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
+      "prevActiveScore": 44.7
+    },
+    {
+      "id": "105902",
+      "name": "James Duckworth",
+      "rank": 77,
+      "prevRank": 76,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.7,
+      "legendScore": 9.7,
+      "age": 34,
+      "surface": {
+        "hard": 0.364,
+        "clay": 0.2,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 120,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
       "prevActiveScore": 45.5
     },
     {
       "id": "200514",
       "name": "Jurij Rodionov",
-      "rank": 118,
-      "prevRank": 142,
+      "rank": 120,
+      "prevRank": 118,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
@@ -4085,7 +4119,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 120,
+      "prevListRank": 121,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4098,7 +4132,7 @@ window.TENNIS_DATA = {
       "id": "111581",
       "name": "Michael Mmoh",
       "rank": 150,
-      "prevRank": 149,
+      "prevRank": 150,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -4121,7 +4155,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 20,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 121,
+      "prevListRank": 122,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4133,8 +4167,8 @@ window.TENNIS_DATA = {
     {
       "id": "111513",
       "name": "Laslo Djere",
-      "rank": 133,
-      "prevRank": 137,
+      "rank": 136,
+      "prevRank": 133,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
@@ -4155,7 +4189,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 122,
+      "prevListRank": 123,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4168,7 +4202,7 @@ window.TENNIS_DATA = {
       "id": "126846",
       "name": "Aleksandar Vukic",
       "rank": 137,
-      "prevRank": 127,
+      "prevRank": 137,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -4189,7 +4223,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 123,
+      "prevListRank": 124,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4201,8 +4235,8 @@ window.TENNIS_DATA = {
     {
       "id": "210012",
       "name": "Henrique Rocha",
-      "rank": 111,
-      "prevRank": 99,
+      "rank": 114,
+      "prevRank": 111,
       "country": "POR",
       "logo": "https://flagcdn.com/24x18/pt.png",
       "teamCode": "POR",
@@ -4225,7 +4259,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 124,
+      "prevListRank": 125,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4237,8 +4271,8 @@ window.TENNIS_DATA = {
     {
       "id": "124116",
       "name": "Sebastian Ofner",
-      "rank": 120,
-      "prevRank": 121,
+      "rank": 123,
+      "prevRank": 120,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
@@ -4259,7 +4293,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 125,
+      "prevListRank": 126,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4271,8 +4305,8 @@ window.TENNIS_DATA = {
     {
       "id": "208316",
       "name": "Valentin Royer",
-      "rank": 119,
-      "prevRank": 120,
+      "rank": 122,
+      "prevRank": 119,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -4293,7 +4327,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 126,
+      "prevListRank": 127,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4305,7 +4339,7 @@ window.TENNIS_DATA = {
     {
       "id": "200384",
       "name": "Hugo Gaston",
-      "rank": 109,
+      "rank": 110,
       "prevRank": 109,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
@@ -4327,7 +4361,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 127,
+      "prevListRank": 128,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4339,8 +4373,8 @@ window.TENNIS_DATA = {
     {
       "id": "106198",
       "name": "Hugo Dellien",
-      "rank": 106,
-      "prevRank": 107,
+      "rank": 107,
+      "prevRank": 106,
       "country": "BOL",
       "logo": "https://flagcdn.com/24x18/bo.png",
       "teamCode": "BOL",
@@ -4361,7 +4395,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 128,
+      "prevListRank": 129,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4373,8 +4407,8 @@ window.TENNIS_DATA = {
     {
       "id": "208843",
       "name": "Jerome Kym",
-      "rank": 143,
-      "prevRank": 164,
+      "rank": 144,
+      "prevRank": 143,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
@@ -4397,7 +4431,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 129,
+      "prevListRank": 130,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4409,8 +4443,8 @@ window.TENNIS_DATA = {
     {
       "id": "210748",
       "name": "Federico Cina",
-      "rank": 139,
-      "prevRank": 136,
+      "rank": 138,
+      "prevRank": 139,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -4431,7 +4465,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 130,
+      "prevListRank": 131,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4443,8 +4477,8 @@ window.TENNIS_DATA = {
     {
       "id": "209284",
       "name": "Elmer Moller",
-      "rank": 148,
-      "prevRank": 150,
+      "rank": 149,
+      "prevRank": 148,
       "country": "DEN",
       "logo": "https://flagcdn.com/24x18/dk.png",
       "teamCode": "DEN",
@@ -4467,7 +4501,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
-      "prevListRank": 131,
+      "prevListRank": 132,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4479,7 +4513,7 @@ window.TENNIS_DATA = {
     {
       "id": "144750",
       "name": "Lloyd Harris",
-      "rank": 103,
+      "rank": 104,
       "prevRank": 103,
       "country": "RSA",
       "logo": "https://flagcdn.com/24x18/za.png",
@@ -4503,7 +4537,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 132,
+      "prevListRank": 133,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4515,8 +4549,8 @@ window.TENNIS_DATA = {
     {
       "id": "208852",
       "name": "Stefanos Sakellaridis",
-      "rank": 130,
-      "prevRank": 129,
+      "rank": 132,
+      "prevRank": 130,
       "country": "GRE",
       "logo": "https://flagcdn.com/24x18/gr.png",
       "teamCode": "GRE",
@@ -4539,7 +4573,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 133,
+      "prevListRank": 134,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4551,8 +4585,8 @@ window.TENNIS_DATA = {
     {
       "id": "202261",
       "name": "Otto Virtanen",
-      "rank": 127,
-      "prevRank": 116,
+      "rank": 116,
+      "prevRank": 127,
       "country": "FIN",
       "logo": "https://flagcdn.com/24x18/fi.png",
       "teamCode": "FIN",
@@ -4575,7 +4609,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 134,
+      "prevListRank": 135,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4587,14 +4621,14 @@ window.TENNIS_DATA = {
     {
       "id": "205734",
       "name": "Thiago Seyboth Wild",
-      "rank": 98,
-      "prevRank": 110,
+      "rank": 101,
+      "prevRank": 98,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
       "teamCode": "BRA",
       "primary": "#009C3B",
       "secondary": "#FFFFFF",
-      "activeScore": 35.4,
+      "activeScore": 35.2,
       "legendScore": 12.8,
       "age": 26,
       "surface": {
@@ -4611,7 +4645,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 15,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 135,
+      "prevListRank": 136,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4623,8 +4657,8 @@ window.TENNIS_DATA = {
     {
       "id": "207352",
       "name": "Bu Yunchaokete",
-      "rank": 92,
-      "prevRank": 93,
+      "rank": 93,
+      "prevRank": 92,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -4647,7 +4681,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 136,
+      "prevListRank": 137,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4659,8 +4693,8 @@ window.TENNIS_DATA = {
     {
       "id": "200436",
       "name": "Zsombor Piros",
-      "rank": 99,
-      "prevRank": 101,
+      "rank": 96,
+      "prevRank": 99,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
@@ -4683,7 +4717,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 137,
+      "prevListRank": 138,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4695,8 +4729,8 @@ window.TENNIS_DATA = {
     {
       "id": "123828",
       "name": "Jan Choinski",
-      "rank": 110,
-      "prevRank": 113,
+      "rank": 111,
+      "prevRank": 110,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -4719,42 +4753,6 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 138,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 35.0
-    },
-    {
-      "id": "208361",
-      "name": "Gustavo Heide",
-      "rank": 113,
-      "prevRank": 112,
-      "country": "BRA",
-      "logo": "https://flagcdn.com/24x18/br.png",
-      "teamCode": "BRA",
-      "primary": "#009C3B",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 0.0,
-      "age": 24,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 14,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
@@ -4767,8 +4765,8 @@ window.TENNIS_DATA = {
     {
       "id": "200711",
       "name": "Nicolas Mejia",
-      "rank": 114,
-      "prevRank": 115,
+      "rank": 113,
+      "prevRank": 114,
       "country": "COL",
       "logo": "https://flagcdn.com/24x18/co.png",
       "teamCode": "COL",
@@ -4801,18 +4799,18 @@ window.TENNIS_DATA = {
       "prevActiveScore": 35.0
     },
     {
-      "id": "208013",
-      "name": "Dane Sweeny",
-      "rank": 116,
-      "prevRank": 114,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
+      "id": "208361",
+      "name": "Gustavo Heide",
+      "rank": 118,
+      "prevRank": 113,
+      "country": "BRA",
+      "logo": "https://flagcdn.com/24x18/br.png",
+      "teamCode": "BRA",
+      "primary": "#009C3B",
       "secondary": "#FFFFFF",
       "activeScore": 35.0,
-      "legendScore": 13.2,
-      "age": 25,
+      "legendScore": 0.0,
+      "age": 24,
       "surface": {
         "hard": null,
         "clay": null,
@@ -4824,7 +4822,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "inactiveWeeks": 18,
+      "inactiveWeeks": 14,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 141,
@@ -4837,81 +4835,9 @@ window.TENNIS_DATA = {
       "prevActiveScore": 35.0
     },
     {
-      "id": "210536",
-      "name": "Rei Sakamoto",
-      "rank": 122,
-      "prevRank": 123,
-      "country": "JPN",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "teamCode": "JPN",
-      "primary": "#BC002D",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 0.0,
-      "age": 20,
-      "surface": {
-        "hard": 0.167,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 10,
-      "inactivePenalty": 13.4,
-      "leyendaScore": 0.0,
-      "prevListRank": 142,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 35.0
-    },
-    {
-      "id": "200647",
-      "name": "Sho Shimabukuro",
-      "rank": 123,
-      "prevRank": 118,
-      "country": "JPN",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "teamCode": "JPN",
-      "primary": "#BC002D",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 0.0,
-      "age": 29,
-      "surface": {
-        "hard": 0.286,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 12,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 143,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 35.0
-    },
-    {
       "id": "124079",
       "name": "Pedro Martinez",
-      "rank": 124,
+      "rank": 119,
       "prevRank": 124,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
@@ -4935,7 +4861,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 144,
+      "prevListRank": 142,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4945,20 +4871,20 @@ window.TENNIS_DATA = {
       "prevActiveScore": 35.0
     },
     {
-      "id": "208278",
-      "name": "Shintaro Mochizuki",
-      "rank": 128,
-      "prevRank": 125,
-      "country": "JPN",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "teamCode": "JPN",
-      "primary": "#BC002D",
+      "id": "208013",
+      "name": "Dane Sweeny",
+      "rank": 121,
+      "prevRank": 116,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
       "secondary": "#FFFFFF",
       "activeScore": 35.0,
-      "legendScore": 10.2,
-      "age": 23,
+      "legendScore": 13.2,
+      "age": 25,
       "surface": {
-        "hard": 0.273,
+        "hard": null,
         "clay": null,
         "grass": null
       },
@@ -4966,12 +4892,48 @@ window.TENNIS_DATA = {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 0
       },
-      "inactiveWeeks": 14,
+      "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 145,
+      "prevListRank": 143,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "210536",
+      "name": "Rei Sakamoto",
+      "rank": 124,
+      "prevRank": 122,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "age": 20,
+      "surface": {
+        "hard": 0.167,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 10,
+      "inactivePenalty": 13.4,
+      "leyendaScore": 0.0,
+      "prevListRank": 144,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -4983,8 +4945,8 @@ window.TENNIS_DATA = {
     {
       "id": "206889",
       "name": "Clement Chidekh",
-      "rank": 129,
-      "prevRank": 131,
+      "rank": 125,
+      "prevRank": 129,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -5007,7 +4969,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 67,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 146,
+      "prevListRank": 145,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -5019,8 +4981,8 @@ window.TENNIS_DATA = {
     {
       "id": "127339",
       "name": "Borna Gojo",
-      "rank": 134,
-      "prevRank": 133,
+      "rank": 127,
+      "prevRank": 134,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
@@ -5043,7 +5005,79 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 53,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
+      "prevListRank": 146,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "200647",
+      "name": "Sho Shimabukuro",
+      "rank": 128,
+      "prevRank": 123,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "age": 29,
+      "surface": {
+        "hard": 0.286,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
       "prevListRank": 147,
+      "tournamentStatus": {
+        "tournament": "Nitto ATP Finals",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Nitto ATP Finals"
+      },
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "208278",
+      "name": "Shintaro Mochizuki",
+      "rank": 131,
+      "prevRank": 128,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 10.2,
+      "age": 23,
+      "surface": {
+        "hard": 0.273,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 14,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 148,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -5055,8 +5089,8 @@ window.TENNIS_DATA = {
     {
       "id": "212063",
       "name": "Matej Dodig",
-      "rank": 136,
-      "prevRank": 138,
+      "rank": 141,
+      "prevRank": 136,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
@@ -5079,7 +5113,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 44,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 148,
+      "prevListRank": 149,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "out",
@@ -5091,8 +5125,8 @@ window.TENNIS_DATA = {
     {
       "id": "209262",
       "name": "Tristan Schoolkate",
-      "rank": 144,
-      "prevRank": 143,
+      "rank": 145,
+      "prevRank": 144,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -5114,42 +5148,6 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 149,
-      "tournamentStatus": {
-        "tournament": "Nitto ATP Finals",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Nitto ATP Finals"
-      },
-      "prevActiveScore": 35.0
-    },
-    {
-      "id": "210464",
-      "name": "Darwin Blanch",
-      "rank": 149,
-      "prevRank": 139,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 0.0,
-      "age": 19,
-      "surface": {
-        "hard": 0.4,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 10,
-      "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
@@ -10332,22 +10330,22 @@ window.TENNIS_DATA = {
   "ATP_CHANGES": {
     "entered": [
       {
-        "name": "Taylor Fritz",
-        "rank": 10,
-        "country": "USA",
-        "logo": "https://flagcdn.com/24x18/us.png"
-      }
-    ],
-    "exited": [
-      {
         "name": "Rafael Jodar",
         "rank": 10,
         "country": "ESP",
         "logo": "https://flagcdn.com/24x18/es.png"
       }
     ],
+    "exited": [
+      {
+        "name": "Alex De Minaur",
+        "rank": 9,
+        "country": "AUS",
+        "logo": "https://flagcdn.com/24x18/au.png"
+      }
+    ],
     "prev_date": "",
-    "curr_date": "20261105"
+    "curr_date": "20261112"
   },
   "WTA_CHANGES": {
     "entered": [],
@@ -10906,9 +10904,9 @@ window.TENNIS_DATA = {
           "score": "6-2 4-6 7-6 (7-3)",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 74.2,
-          "l_score": 64.1,
-          "match_score": 74.2
+          "w_score": 74.3,
+          "l_score": 64.6,
+          "match_score": 74.3
         }
       ]
     }
@@ -10929,7 +10927,7 @@ window.TENNIS_DATA = {
           "day": "hoy",
           "scheduled": true,
           "w_score": 86.9,
-          "l_score": 78.0,
+          "l_score": 78.2,
           "match_score": 86.9
         },
         {
@@ -11671,7 +11669,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        78.0
+        78.2
       ]
     ],
     "106421": [
@@ -11811,7 +11809,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        77.0
+        76.8
       ]
     ],
     "210097": [
@@ -11951,7 +11949,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        75.2
+        75.0
       ]
     ],
     "200000": [
@@ -12021,7 +12019,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        75.2
+        74.9
       ]
     ],
     "208103": [
@@ -12091,7 +12089,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        74.6
+        74.7
       ]
     ],
     "207925": [
@@ -12164,6 +12162,76 @@ window.TENNIS_DATA = {
         74.5
       ]
     ],
+    "126203": [
+      [
+        "20261030",
+        73.7
+      ],
+      [
+        "20261031",
+        73.7
+      ],
+      [
+        "20261101",
+        73.7
+      ],
+      [
+        "20261102",
+        73.9
+      ],
+      [
+        "20261103",
+        73.9
+      ],
+      [
+        "20261104",
+        73.9
+      ],
+      [
+        "20261105",
+        73.9
+      ],
+      [
+        "20261106",
+        73.9
+      ],
+      [
+        "20261107",
+        73.9
+      ],
+      [
+        "20261108",
+        73.9
+      ],
+      [
+        "20261109",
+        74.2
+      ],
+      [
+        "20261110",
+        74.2
+      ],
+      [
+        "20261111",
+        74.2
+      ],
+      [
+        "20261112",
+        74.2
+      ],
+      [
+        "20261113",
+        74.2
+      ],
+      [
+        "20261114",
+        74.2
+      ],
+      [
+        "20261115",
+        74.3
+      ]
+    ],
     "126207": [
       [
         "20261030",
@@ -12234,74 +12302,74 @@ window.TENNIS_DATA = {
         74.2
       ]
     ],
-    "126203": [
+    "122330": [
       [
         "20261030",
-        73.7
+        73.4
       ],
       [
         "20261031",
-        73.7
+        73.4
       ],
       [
         "20261101",
-        73.7
+        73.4
       ],
       [
         "20261102",
-        73.9
+        72.8
       ],
       [
         "20261103",
-        73.9
+        72.8
       ],
       [
         "20261104",
-        73.9
+        72.8
       ],
       [
         "20261105",
-        73.9
+        72.8
       ],
       [
         "20261106",
-        73.9
+        72.8
       ],
       [
         "20261107",
-        73.9
+        72.8
       ],
       [
         "20261108",
-        73.9
+        72.8
       ],
       [
         "20261109",
-        74.2
+        72.8
       ],
       [
         "20261110",
-        74.2
+        72.8
       ],
       [
         "20261111",
-        74.2
+        72.8
       ],
       [
         "20261112",
-        74.2
+        72.8
       ],
       [
         "20261113",
-        74.2
+        72.8
       ],
       [
         "20261114",
-        74.2
+        72.8
       ],
       [
         "20261115",
-        74.2
+        72.9
       ]
     ],
     "210530": [
@@ -12344,76 +12412,6 @@ window.TENNIS_DATA = {
       [
         "20261108",
         73.2
-      ],
-      [
-        "20261109",
-        72.8
-      ],
-      [
-        "20261110",
-        72.8
-      ],
-      [
-        "20261111",
-        72.8
-      ],
-      [
-        "20261112",
-        72.8
-      ],
-      [
-        "20261113",
-        72.8
-      ],
-      [
-        "20261114",
-        72.8
-      ],
-      [
-        "20261115",
-        72.8
-      ]
-    ],
-    "122330": [
-      [
-        "20261030",
-        73.4
-      ],
-      [
-        "20261031",
-        73.4
-      ],
-      [
-        "20261101",
-        73.4
-      ],
-      [
-        "20261102",
-        72.8
-      ],
-      [
-        "20261103",
-        72.8
-      ],
-      [
-        "20261104",
-        72.8
-      ],
-      [
-        "20261105",
-        72.8
-      ],
-      [
-        "20261106",
-        72.8
-      ],
-      [
-        "20261107",
-        72.8
-      ],
-      [
-        "20261108",
-        72.8
       ],
       [
         "20261109",
@@ -12651,7 +12649,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        72.4
+        72.5
       ]
     ],
     "200221": [
@@ -12721,7 +12719,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        71.7
+        71.8
       ]
     ],
     "210696": [
@@ -13071,7 +13069,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        66.7
+        66.6
       ]
     ],
     "128034": [
@@ -13354,6 +13352,76 @@ window.TENNIS_DATA = {
         64.9
       ]
     ],
+    "202058": [
+      [
+        "20261030",
+        64.0
+      ],
+      [
+        "20261031",
+        64.0
+      ],
+      [
+        "20261101",
+        64.0
+      ],
+      [
+        "20261102",
+        63.9
+      ],
+      [
+        "20261103",
+        63.9
+      ],
+      [
+        "20261104",
+        63.9
+      ],
+      [
+        "20261105",
+        63.9
+      ],
+      [
+        "20261106",
+        63.9
+      ],
+      [
+        "20261107",
+        63.9
+      ],
+      [
+        "20261108",
+        63.9
+      ],
+      [
+        "20261109",
+        64.1
+      ],
+      [
+        "20261110",
+        64.1
+      ],
+      [
+        "20261111",
+        64.1
+      ],
+      [
+        "20261112",
+        64.1
+      ],
+      [
+        "20261113",
+        64.1
+      ],
+      [
+        "20261114",
+        64.1
+      ],
+      [
+        "20261115",
+        64.6
+      ]
+    ],
     "126214": [
       [
         "20261030",
@@ -13494,76 +13562,6 @@ window.TENNIS_DATA = {
         64.4
       ]
     ],
-    "202058": [
-      [
-        "20261030",
-        64.0
-      ],
-      [
-        "20261031",
-        64.0
-      ],
-      [
-        "20261101",
-        64.0
-      ],
-      [
-        "20261102",
-        63.9
-      ],
-      [
-        "20261103",
-        63.9
-      ],
-      [
-        "20261104",
-        63.9
-      ],
-      [
-        "20261105",
-        63.9
-      ],
-      [
-        "20261106",
-        63.9
-      ],
-      [
-        "20261107",
-        63.9
-      ],
-      [
-        "20261108",
-        63.9
-      ],
-      [
-        "20261109",
-        64.1
-      ],
-      [
-        "20261110",
-        64.1
-      ],
-      [
-        "20261111",
-        64.1
-      ],
-      [
-        "20261112",
-        64.1
-      ],
-      [
-        "20261113",
-        64.1
-      ],
-      [
-        "20261114",
-        64.1
-      ],
-      [
-        "20261115",
-        64.1
-      ]
-    ],
     "207830": [
       [
         "20261030",
@@ -13701,7 +13699,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        64.0
+        63.9
       ]
     ],
     "209260": [
@@ -13841,7 +13839,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        63.3
+        63.5
       ]
     ],
     "144869": [
@@ -13981,7 +13979,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        62.9
+        62.8
       ]
     ],
     "208286": [
@@ -14121,77 +14119,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        62.5
-      ]
-    ],
-    "208363": [
-      [
-        "20261030",
-        62.3
-      ],
-      [
-        "20261031",
-        62.3
-      ],
-      [
-        "20261101",
-        62.3
-      ],
-      [
-        "20261102",
-        61.7
-      ],
-      [
-        "20261103",
-        61.7
-      ],
-      [
-        "20261104",
-        61.7
-      ],
-      [
-        "20261105",
-        61.7
-      ],
-      [
-        "20261106",
-        61.7
-      ],
-      [
-        "20261107",
-        61.7
-      ],
-      [
-        "20261108",
-        61.7
-      ],
-      [
-        "20261109",
-        61.7
-      ],
-      [
-        "20261110",
-        61.7
-      ],
-      [
-        "20261111",
-        61.7
-      ],
-      [
-        "20261112",
-        61.7
-      ],
-      [
-        "20261113",
-        61.7
-      ],
-      [
-        "20261114",
-        61.7
-      ],
-      [
-        "20261115",
-        61.7
+        62.6
       ]
     ],
     "122298": [
@@ -14258,6 +14186,76 @@ window.TENNIS_DATA = {
       [
         "20261114",
         61.6
+      ],
+      [
+        "20261115",
+        61.6
+      ]
+    ],
+    "208363": [
+      [
+        "20261030",
+        62.3
+      ],
+      [
+        "20261031",
+        62.3
+      ],
+      [
+        "20261101",
+        62.3
+      ],
+      [
+        "20261102",
+        61.7
+      ],
+      [
+        "20261103",
+        61.7
+      ],
+      [
+        "20261104",
+        61.7
+      ],
+      [
+        "20261105",
+        61.7
+      ],
+      [
+        "20261106",
+        61.7
+      ],
+      [
+        "20261107",
+        61.7
+      ],
+      [
+        "20261108",
+        61.7
+      ],
+      [
+        "20261109",
+        61.7
+      ],
+      [
+        "20261110",
+        61.7
+      ],
+      [
+        "20261111",
+        61.7
+      ],
+      [
+        "20261112",
+        61.7
+      ],
+      [
+        "20261113",
+        61.7
+      ],
+      [
+        "20261114",
+        61.7
       ],
       [
         "20261115",
@@ -14331,7 +14329,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        60.9
+        61.0
       ]
     ],
     "209226": [
@@ -14681,7 +14679,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        59.8
+        59.9
       ]
     ],
     "144719": [
@@ -14824,76 +14822,6 @@ window.TENNIS_DATA = {
         58.5
       ]
     ],
-    "210338": [
-      [
-        "20261030",
-        58.8
-      ],
-      [
-        "20261031",
-        58.8
-      ],
-      [
-        "20261101",
-        58.8
-      ],
-      [
-        "20261102",
-        58.8
-      ],
-      [
-        "20261103",
-        58.8
-      ],
-      [
-        "20261104",
-        58.8
-      ],
-      [
-        "20261105",
-        58.8
-      ],
-      [
-        "20261106",
-        58.8
-      ],
-      [
-        "20261107",
-        58.8
-      ],
-      [
-        "20261108",
-        58.8
-      ],
-      [
-        "20261109",
-        58.5
-      ],
-      [
-        "20261110",
-        58.5
-      ],
-      [
-        "20261111",
-        58.5
-      ],
-      [
-        "20261112",
-        58.5
-      ],
-      [
-        "20261113",
-        58.5
-      ],
-      [
-        "20261114",
-        58.5
-      ],
-      [
-        "20261115",
-        58.5
-      ]
-    ],
     "105870": [
       [
         "20261030",
@@ -14962,6 +14890,76 @@ window.TENNIS_DATA = {
       [
         "20261115",
         58.4
+      ]
+    ],
+    "210338": [
+      [
+        "20261030",
+        58.8
+      ],
+      [
+        "20261031",
+        58.8
+      ],
+      [
+        "20261101",
+        58.8
+      ],
+      [
+        "20261102",
+        58.8
+      ],
+      [
+        "20261103",
+        58.8
+      ],
+      [
+        "20261104",
+        58.8
+      ],
+      [
+        "20261105",
+        58.8
+      ],
+      [
+        "20261106",
+        58.8
+      ],
+      [
+        "20261107",
+        58.8
+      ],
+      [
+        "20261108",
+        58.8
+      ],
+      [
+        "20261109",
+        58.5
+      ],
+      [
+        "20261110",
+        58.5
+      ],
+      [
+        "20261111",
+        58.5
+      ],
+      [
+        "20261112",
+        58.5
+      ],
+      [
+        "20261113",
+        58.5
+      ],
+      [
+        "20261114",
+        58.5
+      ],
+      [
+        "20261115",
+        58.3
       ]
     ],
     "120770": [
@@ -15104,76 +15102,6 @@ window.TENNIS_DATA = {
         57.7
       ]
     ],
-    "202104": [
-      [
-        "20261030",
-        57.5
-      ],
-      [
-        "20261031",
-        57.5
-      ],
-      [
-        "20261101",
-        57.5
-      ],
-      [
-        "20261102",
-        57.2
-      ],
-      [
-        "20261103",
-        57.2
-      ],
-      [
-        "20261104",
-        57.2
-      ],
-      [
-        "20261105",
-        57.2
-      ],
-      [
-        "20261106",
-        57.2
-      ],
-      [
-        "20261107",
-        57.2
-      ],
-      [
-        "20261108",
-        57.2
-      ],
-      [
-        "20261109",
-        57.2
-      ],
-      [
-        "20261110",
-        57.2
-      ],
-      [
-        "20261111",
-        57.2
-      ],
-      [
-        "20261112",
-        57.2
-      ],
-      [
-        "20261113",
-        57.2
-      ],
-      [
-        "20261114",
-        57.2
-      ],
-      [
-        "20261115",
-        57.2
-      ]
-    ],
     "111460": [
       [
         "20261030",
@@ -15238,6 +15166,76 @@ window.TENNIS_DATA = {
       [
         "20261114",
         57.1
+      ],
+      [
+        "20261115",
+        57.1
+      ]
+    ],
+    "202104": [
+      [
+        "20261030",
+        57.5
+      ],
+      [
+        "20261031",
+        57.5
+      ],
+      [
+        "20261101",
+        57.5
+      ],
+      [
+        "20261102",
+        57.2
+      ],
+      [
+        "20261103",
+        57.2
+      ],
+      [
+        "20261104",
+        57.2
+      ],
+      [
+        "20261105",
+        57.2
+      ],
+      [
+        "20261106",
+        57.2
+      ],
+      [
+        "20261107",
+        57.2
+      ],
+      [
+        "20261108",
+        57.2
+      ],
+      [
+        "20261109",
+        57.2
+      ],
+      [
+        "20261110",
+        57.2
+      ],
+      [
+        "20261111",
+        57.2
+      ],
+      [
+        "20261112",
+        57.2
+      ],
+      [
+        "20261113",
+        57.2
+      ],
+      [
+        "20261114",
+        57.2
       ],
       [
         "20261115",
@@ -15451,7 +15449,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        56.6
+        56.5
       ]
     ],
     "208169": [
@@ -15524,76 +15522,6 @@ window.TENNIS_DATA = {
         56.1
       ]
     ],
-    "105526": [
-      [
-        "20261030",
-        54.1
-      ],
-      [
-        "20261031",
-        54.1
-      ],
-      [
-        "20261101",
-        54.1
-      ],
-      [
-        "20261102",
-        55.1
-      ],
-      [
-        "20261103",
-        55.1
-      ],
-      [
-        "20261104",
-        55.1
-      ],
-      [
-        "20261105",
-        55.1
-      ],
-      [
-        "20261106",
-        55.1
-      ],
-      [
-        "20261107",
-        55.1
-      ],
-      [
-        "20261108",
-        55.1
-      ],
-      [
-        "20261109",
-        55.4
-      ],
-      [
-        "20261110",
-        55.4
-      ],
-      [
-        "20261111",
-        55.4
-      ],
-      [
-        "20261112",
-        55.4
-      ],
-      [
-        "20261113",
-        55.4
-      ],
-      [
-        "20261114",
-        55.4
-      ],
-      [
-        "20261115",
-        55.4
-      ]
-    ],
     "210262": [
       [
         "20261030",
@@ -15662,6 +15590,76 @@ window.TENNIS_DATA = {
       [
         "20261115",
         55.2
+      ]
+    ],
+    "105526": [
+      [
+        "20261030",
+        54.1
+      ],
+      [
+        "20261031",
+        54.1
+      ],
+      [
+        "20261101",
+        54.1
+      ],
+      [
+        "20261102",
+        55.1
+      ],
+      [
+        "20261103",
+        55.1
+      ],
+      [
+        "20261104",
+        55.1
+      ],
+      [
+        "20261105",
+        55.1
+      ],
+      [
+        "20261106",
+        55.1
+      ],
+      [
+        "20261107",
+        55.1
+      ],
+      [
+        "20261108",
+        55.1
+      ],
+      [
+        "20261109",
+        55.4
+      ],
+      [
+        "20261110",
+        55.4
+      ],
+      [
+        "20261111",
+        55.4
+      ],
+      [
+        "20261112",
+        55.4
+      ],
+      [
+        "20261113",
+        55.4
+      ],
+      [
+        "20261114",
+        55.4
+      ],
+      [
+        "20261115",
+        55.1
       ]
     ],
     "126504": [
@@ -15874,76 +15872,6 @@ window.TENNIS_DATA = {
         54.7
       ]
     ],
-    "208882": [
-      [
-        "20261030",
-        54.3
-      ],
-      [
-        "20261031",
-        54.3
-      ],
-      [
-        "20261101",
-        54.3
-      ],
-      [
-        "20261102",
-        54.5
-      ],
-      [
-        "20261103",
-        54.5
-      ],
-      [
-        "20261104",
-        54.5
-      ],
-      [
-        "20261105",
-        54.5
-      ],
-      [
-        "20261106",
-        54.5
-      ],
-      [
-        "20261107",
-        54.5
-      ],
-      [
-        "20261108",
-        54.5
-      ],
-      [
-        "20261109",
-        54.2
-      ],
-      [
-        "20261110",
-        54.2
-      ],
-      [
-        "20261111",
-        54.2
-      ],
-      [
-        "20261112",
-        54.2
-      ],
-      [
-        "20261113",
-        54.2
-      ],
-      [
-        "20261114",
-        54.2
-      ],
-      [
-        "20261115",
-        54.2
-      ]
-    ],
     "211776": [
       [
         "20261030",
@@ -16012,6 +15940,76 @@ window.TENNIS_DATA = {
       [
         "20261115",
         54.1
+      ]
+    ],
+    "208882": [
+      [
+        "20261030",
+        54.3
+      ],
+      [
+        "20261031",
+        54.3
+      ],
+      [
+        "20261101",
+        54.3
+      ],
+      [
+        "20261102",
+        54.5
+      ],
+      [
+        "20261103",
+        54.5
+      ],
+      [
+        "20261104",
+        54.5
+      ],
+      [
+        "20261105",
+        54.5
+      ],
+      [
+        "20261106",
+        54.5
+      ],
+      [
+        "20261107",
+        54.5
+      ],
+      [
+        "20261108",
+        54.5
+      ],
+      [
+        "20261109",
+        54.2
+      ],
+      [
+        "20261110",
+        54.2
+      ],
+      [
+        "20261111",
+        54.2
+      ],
+      [
+        "20261112",
+        54.2
+      ],
+      [
+        "20261113",
+        54.2
+      ],
+      [
+        "20261114",
+        54.2
+      ],
+      [
+        "20261115",
+        54.0
       ]
     ],
     "209279": [
@@ -16148,76 +16146,6 @@ window.TENNIS_DATA = {
       [
         "20261114",
         53.7
-      ],
-      [
-        "20261115",
-        53.7
-      ]
-    ],
-    "105227": [
-      [
-        "20261030",
-        53.6
-      ],
-      [
-        "20261031",
-        53.6
-      ],
-      [
-        "20261101",
-        53.6
-      ],
-      [
-        "20261102",
-        53.7
-      ],
-      [
-        "20261103",
-        53.7
-      ],
-      [
-        "20261104",
-        53.7
-      ],
-      [
-        "20261105",
-        53.7
-      ],
-      [
-        "20261106",
-        53.7
-      ],
-      [
-        "20261107",
-        53.7
-      ],
-      [
-        "20261108",
-        53.7
-      ],
-      [
-        "20261109",
-        53.6
-      ],
-      [
-        "20261110",
-        53.6
-      ],
-      [
-        "20261111",
-        53.6
-      ],
-      [
-        "20261112",
-        53.6
-      ],
-      [
-        "20261113",
-        53.6
-      ],
-      [
-        "20261114",
-        53.6
       ],
       [
         "20261115",
@@ -16358,6 +16286,76 @@ window.TENNIS_DATA = {
       [
         "20261114",
         53.3
+      ],
+      [
+        "20261115",
+        53.3
+      ]
+    ],
+    "105227": [
+      [
+        "20261030",
+        53.6
+      ],
+      [
+        "20261031",
+        53.6
+      ],
+      [
+        "20261101",
+        53.6
+      ],
+      [
+        "20261102",
+        53.7
+      ],
+      [
+        "20261103",
+        53.7
+      ],
+      [
+        "20261104",
+        53.7
+      ],
+      [
+        "20261105",
+        53.7
+      ],
+      [
+        "20261106",
+        53.7
+      ],
+      [
+        "20261107",
+        53.7
+      ],
+      [
+        "20261108",
+        53.7
+      ],
+      [
+        "20261109",
+        53.6
+      ],
+      [
+        "20261110",
+        53.6
+      ],
+      [
+        "20261111",
+        53.6
+      ],
+      [
+        "20261112",
+        53.6
+      ],
+      [
+        "20261113",
+        53.6
+      ],
+      [
+        "20261114",
+        53.6
       ],
       [
         "20261115",
@@ -16714,6 +16712,76 @@ window.TENNIS_DATA = {
         52.5
       ]
     ],
+    "105807": [
+      [
+        "20261030",
+        52.6
+      ],
+      [
+        "20261031",
+        52.6
+      ],
+      [
+        "20261101",
+        52.6
+      ],
+      [
+        "20261102",
+        52.7
+      ],
+      [
+        "20261103",
+        52.7
+      ],
+      [
+        "20261104",
+        52.7
+      ],
+      [
+        "20261105",
+        52.7
+      ],
+      [
+        "20261106",
+        52.7
+      ],
+      [
+        "20261107",
+        52.7
+      ],
+      [
+        "20261108",
+        52.7
+      ],
+      [
+        "20261109",
+        52.3
+      ],
+      [
+        "20261110",
+        52.3
+      ],
+      [
+        "20261111",
+        52.3
+      ],
+      [
+        "20261112",
+        52.3
+      ],
+      [
+        "20261113",
+        52.3
+      ],
+      [
+        "20261114",
+        52.3
+      ],
+      [
+        "20261115",
+        52.4
+      ]
+    ],
     "208010": [
       [
         "20261030",
@@ -16782,76 +16850,6 @@ window.TENNIS_DATA = {
       [
         "20261115",
         52.4
-      ]
-    ],
-    "105807": [
-      [
-        "20261030",
-        52.6
-      ],
-      [
-        "20261031",
-        52.6
-      ],
-      [
-        "20261101",
-        52.6
-      ],
-      [
-        "20261102",
-        52.7
-      ],
-      [
-        "20261103",
-        52.7
-      ],
-      [
-        "20261104",
-        52.7
-      ],
-      [
-        "20261105",
-        52.7
-      ],
-      [
-        "20261106",
-        52.7
-      ],
-      [
-        "20261107",
-        52.7
-      ],
-      [
-        "20261108",
-        52.7
-      ],
-      [
-        "20261109",
-        52.3
-      ],
-      [
-        "20261110",
-        52.3
-      ],
-      [
-        "20261111",
-        52.3
-      ],
-      [
-        "20261112",
-        52.3
-      ],
-      [
-        "20261113",
-        52.3
-      ],
-      [
-        "20261114",
-        52.3
-      ],
-      [
-        "20261115",
-        52.3
       ]
     ],
     "208233": [
@@ -17259,7 +17257,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        50.9
+        50.8
       ]
     ],
     "206736": [
@@ -17539,7 +17537,17 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        50.5
+        50.7
+      ]
+    ],
+    "207663": [
+      [
+        "20261108",
+        50.6
+      ],
+      [
+        "20261115",
+        50.6
       ]
     ],
     "207411": [
@@ -18239,7 +18247,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        49.2
+        49.3
       ]
     ],
     "207686": [
@@ -18379,7 +18387,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        48.7
+        48.9
       ]
     ],
     "200624": [
@@ -18939,7 +18947,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        46.4
+        46.5
       ]
     ],
     "208021": [
@@ -19009,7 +19017,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        46.4
+        46.3
       ]
     ],
     "207985": [
@@ -19359,7 +19367,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        44.9
+        45.3
       ]
     ],
     "105902": [
@@ -19429,7 +19437,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        44.8
+        44.7
       ]
     ],
     "200514": [
@@ -20513,7 +20521,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
-        35.4
+        35.2
       ]
     ],
     "207352": [
@@ -20726,6 +20734,76 @@ window.TENNIS_DATA = {
         35.0
       ]
     ],
+    "200711": [
+      [
+        "20261030",
+        35.0
+      ],
+      [
+        "20261031",
+        35.0
+      ],
+      [
+        "20261101",
+        35.0
+      ],
+      [
+        "20261102",
+        35.0
+      ],
+      [
+        "20261103",
+        35.0
+      ],
+      [
+        "20261104",
+        35.0
+      ],
+      [
+        "20261105",
+        35.0
+      ],
+      [
+        "20261106",
+        35.0
+      ],
+      [
+        "20261107",
+        35.0
+      ],
+      [
+        "20261108",
+        35.0
+      ],
+      [
+        "20261109",
+        35.0
+      ],
+      [
+        "20261110",
+        35.0
+      ],
+      [
+        "20261111",
+        35.0
+      ],
+      [
+        "20261112",
+        35.0
+      ],
+      [
+        "20261113",
+        35.0
+      ],
+      [
+        "20261114",
+        35.0
+      ],
+      [
+        "20261115",
+        35.0
+      ]
+    ],
     "208361": [
       [
         "20261030",
@@ -20796,7 +20874,7 @@ window.TENNIS_DATA = {
         35.0
       ]
     ],
-    "200711": [
+    "124079": [
       [
         "20261030",
         35.0
@@ -21006,216 +21084,6 @@ window.TENNIS_DATA = {
         35.0
       ]
     ],
-    "200647": [
-      [
-        "20261030",
-        35.0
-      ],
-      [
-        "20261031",
-        35.0
-      ],
-      [
-        "20261101",
-        35.0
-      ],
-      [
-        "20261102",
-        35.0
-      ],
-      [
-        "20261103",
-        35.0
-      ],
-      [
-        "20261104",
-        35.0
-      ],
-      [
-        "20261105",
-        35.0
-      ],
-      [
-        "20261106",
-        35.0
-      ],
-      [
-        "20261107",
-        35.0
-      ],
-      [
-        "20261108",
-        35.0
-      ],
-      [
-        "20261109",
-        35.0
-      ],
-      [
-        "20261110",
-        35.0
-      ],
-      [
-        "20261111",
-        35.0
-      ],
-      [
-        "20261112",
-        35.0
-      ],
-      [
-        "20261113",
-        35.0
-      ],
-      [
-        "20261114",
-        35.0
-      ],
-      [
-        "20261115",
-        35.0
-      ]
-    ],
-    "124079": [
-      [
-        "20261030",
-        35.0
-      ],
-      [
-        "20261031",
-        35.0
-      ],
-      [
-        "20261101",
-        35.0
-      ],
-      [
-        "20261102",
-        35.0
-      ],
-      [
-        "20261103",
-        35.0
-      ],
-      [
-        "20261104",
-        35.0
-      ],
-      [
-        "20261105",
-        35.0
-      ],
-      [
-        "20261106",
-        35.0
-      ],
-      [
-        "20261107",
-        35.0
-      ],
-      [
-        "20261108",
-        35.0
-      ],
-      [
-        "20261109",
-        35.0
-      ],
-      [
-        "20261110",
-        35.0
-      ],
-      [
-        "20261111",
-        35.0
-      ],
-      [
-        "20261112",
-        35.0
-      ],
-      [
-        "20261113",
-        35.0
-      ],
-      [
-        "20261114",
-        35.0
-      ],
-      [
-        "20261115",
-        35.0
-      ]
-    ],
-    "208278": [
-      [
-        "20261030",
-        35.0
-      ],
-      [
-        "20261031",
-        35.0
-      ],
-      [
-        "20261101",
-        35.0
-      ],
-      [
-        "20261102",
-        35.0
-      ],
-      [
-        "20261103",
-        35.0
-      ],
-      [
-        "20261104",
-        35.0
-      ],
-      [
-        "20261105",
-        35.0
-      ],
-      [
-        "20261106",
-        35.0
-      ],
-      [
-        "20261107",
-        35.0
-      ],
-      [
-        "20261108",
-        35.0
-      ],
-      [
-        "20261109",
-        35.0
-      ],
-      [
-        "20261110",
-        35.0
-      ],
-      [
-        "20261111",
-        35.0
-      ],
-      [
-        "20261112",
-        35.0
-      ],
-      [
-        "20261113",
-        35.0
-      ],
-      [
-        "20261114",
-        35.0
-      ],
-      [
-        "20261115",
-        35.0
-      ]
-    ],
     "206889": [
       [
         "20261030",
@@ -21356,6 +21224,146 @@ window.TENNIS_DATA = {
         35.0
       ]
     ],
+    "200647": [
+      [
+        "20261030",
+        35.0
+      ],
+      [
+        "20261031",
+        35.0
+      ],
+      [
+        "20261101",
+        35.0
+      ],
+      [
+        "20261102",
+        35.0
+      ],
+      [
+        "20261103",
+        35.0
+      ],
+      [
+        "20261104",
+        35.0
+      ],
+      [
+        "20261105",
+        35.0
+      ],
+      [
+        "20261106",
+        35.0
+      ],
+      [
+        "20261107",
+        35.0
+      ],
+      [
+        "20261108",
+        35.0
+      ],
+      [
+        "20261109",
+        35.0
+      ],
+      [
+        "20261110",
+        35.0
+      ],
+      [
+        "20261111",
+        35.0
+      ],
+      [
+        "20261112",
+        35.0
+      ],
+      [
+        "20261113",
+        35.0
+      ],
+      [
+        "20261114",
+        35.0
+      ],
+      [
+        "20261115",
+        35.0
+      ]
+    ],
+    "208278": [
+      [
+        "20261030",
+        35.0
+      ],
+      [
+        "20261031",
+        35.0
+      ],
+      [
+        "20261101",
+        35.0
+      ],
+      [
+        "20261102",
+        35.0
+      ],
+      [
+        "20261103",
+        35.0
+      ],
+      [
+        "20261104",
+        35.0
+      ],
+      [
+        "20261105",
+        35.0
+      ],
+      [
+        "20261106",
+        35.0
+      ],
+      [
+        "20261107",
+        35.0
+      ],
+      [
+        "20261108",
+        35.0
+      ],
+      [
+        "20261109",
+        35.0
+      ],
+      [
+        "20261110",
+        35.0
+      ],
+      [
+        "20261111",
+        35.0
+      ],
+      [
+        "20261112",
+        35.0
+      ],
+      [
+        "20261113",
+        35.0
+      ],
+      [
+        "20261114",
+        35.0
+      ],
+      [
+        "20261115",
+        35.0
+      ]
+    ],
     "212063": [
       [
         "20261030",
@@ -21427,76 +21435,6 @@ window.TENNIS_DATA = {
       ]
     ],
     "209262": [
-      [
-        "20261030",
-        35.0
-      ],
-      [
-        "20261031",
-        35.0
-      ],
-      [
-        "20261101",
-        35.0
-      ],
-      [
-        "20261102",
-        35.0
-      ],
-      [
-        "20261103",
-        35.0
-      ],
-      [
-        "20261104",
-        35.0
-      ],
-      [
-        "20261105",
-        35.0
-      ],
-      [
-        "20261106",
-        35.0
-      ],
-      [
-        "20261107",
-        35.0
-      ],
-      [
-        "20261108",
-        35.0
-      ],
-      [
-        "20261109",
-        35.0
-      ],
-      [
-        "20261110",
-        35.0
-      ],
-      [
-        "20261111",
-        35.0
-      ],
-      [
-        "20261112",
-        35.0
-      ],
-      [
-        "20261113",
-        35.0
-      ],
-      [
-        "20261114",
-        35.0
-      ],
-      [
-        "20261115",
-        35.0
-      ]
-    ],
-    "210464": [
       [
         "20261030",
         35.0
@@ -31943,14 +31881,14 @@ window.TENNIS_DATA = {
       "id": "212588",
       "name": "Rafael Jodar",
       "age": 20,
-      "rank": 11,
+      "rank": 10,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 78.0,
+      "activeScore": 78.2,
       "leyendaScore": 0.0,
-      "note": "Top 30 a los 20"
+      "note": "Top 10 a los 20"
     },
     {
       "id": "210530",
@@ -31995,14 +31933,14 @@ window.TENNIS_DATA = {
       "id": "209860",
       "name": "Ignacio Buse",
       "age": 22,
-      "rank": 32,
+      "rank": 33,
       "country": "PER",
       "logo": "https://flagcdn.com/24x18/pe.png",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 66.7,
+      "activeScore": 66.6,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 22 (#32)"
+      "note": "Irrumpe a los 22 (#33)"
     },
     {
       "id": "210506",

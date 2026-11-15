@@ -4981,7 +4981,7 @@ window.MLB_DATA = {
       "last": "Rogers",
       "pos": "SP",
       "teamCode": "BAL",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39640.png",
       "colors": {
         "primary": "#df4601",
@@ -4997,7 +4997,7 @@ window.MLB_DATA = {
         "so": 157,
         "whip": 1.18
       },
-      "legendScore": 33.7,
+      "legendScore": 34.5,
       "currentScore": 51,
       "battingScore": null,
       "pitchingScore": 51,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-15 01:07 UTC",
+  "LAST_UPDATE": "2026-11-15 12:44 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

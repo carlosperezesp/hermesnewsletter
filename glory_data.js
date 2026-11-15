@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-15 01:09 UTC",
+  "UPDATED": "2026-11-15 12:47 UTC",
   "EVENTS": [
+    {
+      "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
+      "sport": "indycar",
+      "detail": "IndyCar",
+      "text": "Scott McLaughlin ganó en Grand Prix of Monterey",
+      "weight": 100,
+      "firstSeen": "2026-11-15"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Miami:Ryan Blaney",
       "sport": "nascar",
@@ -97,6 +105,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-07"
     },
     {
+      "id": "tennis:in:ATP:Rafael Jodar:20261112",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Rafael Jodar entra en el top 10 ATP",
+      "weight": 90,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-11-15"
+    },
+    {
       "id": "tennis:in:ATP:Taylor Fritz:20261105",
       "sport": "tennis",
       "detail": "Tenis",
@@ -113,6 +130,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Lenni Hameenaho",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Lenni Hameenaho entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-15"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
@@ -304,15 +330,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-08"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jack Hughes",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Jack Hughes entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
-    },
-    {
       "id": "rank:nba:ROAD_TO_GLORY.players:in:Shai Gilgeous-Alexander",
       "sport": "nba",
       "detail": "NBA",
@@ -392,6 +409,15 @@ window.GLORY_DATA = {
       "text": "Asanoyama entra en el top-10 · banzuke",
       "weight": 84,
       "firstSeen": "2026-11-01"
+    },
+    {
+      "id": "tennis:out:ATP:Alex De Minaur:20261112",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Alex De Minaur sale del top 10 ATP",
+      "weight": 78,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-11-15"
     },
     {
       "id": "tennis:out:ATP:Rafael Jodar:20261105",
@@ -601,8 +627,8 @@ window.GLORY_DATA = {
       "Vegas Golden Knights",
       "Colorado Avalanche",
       "Florida Panthers",
-      "St. Louis Blues",
       "Carolina Hurricanes",
+      "St. Louis Blues",
       "Edmonton Oilers",
       "Minnesota Wild",
       "Boston Bruins",
@@ -611,15 +637,15 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
-      "Jackson LaCombe",
+      "Lenni Hameenaho",
       "Macklin Celebrini",
+      "Jackson LaCombe",
       "Beckett Sennecke",
+      "Cole Hutson",
       "Lane Hutson",
       "Leo Carlsson",
       "Cutter Gauthier",
-      "Connor Bedard",
-      "Cole Hutson",
-      "Jack Hughes"
+      "Connor Bedard"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -637,9 +663,9 @@ window.GLORY_DATA = {
       "Boston Celtics",
       "Los Angeles Lakers",
       "San Antonio Spurs",
-      "Minnesota Timberwolves",
       "Golden State Warriors",
       "Oklahoma City Thunder",
+      "Minnesota Timberwolves",
       "Denver Nuggets",
       "New York Knicks",
       "Indiana Pacers",
