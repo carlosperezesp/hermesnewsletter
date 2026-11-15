@@ -49,6 +49,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "DET",
+      "city": "Detroit Lions",
+      "shortName": "Detroit",
+      "commonName": "Lions",
+      "conf": "NFC",
+      "div": "NFC North",
+      "gp": 9,
+      "w": 7,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.778,
+      "pf": 257,
+      "pa": 199,
+      "pd": 58,
+      "seed": 2,
+      "score": 67,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+      "colors": {
+        "primary": "#0076b6",
+        "secondary": "#b0b7bc"
+      }
+    },
+    {
       "code": "CHI",
       "city": "Chicago Bears",
       "shortName": "Chicago",
@@ -63,7 +86,7 @@ window.NFL_DATA = {
       "pf": 241,
       "pa": 184,
       "pd": 57,
-      "seed": 2,
+      "seed": 5,
       "score": 67,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
       "colors": {
@@ -184,29 +207,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#101820",
         "secondary": "#ffb612"
-      }
-    },
-    {
-      "code": "DET",
-      "city": "Detroit Lions",
-      "shortName": "Detroit",
-      "commonName": "Lions",
-      "conf": "NFC",
-      "div": "NFC North",
-      "gp": 8,
-      "w": 6,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.75,
-      "pf": 222,
-      "pa": 189,
-      "pd": 33,
-      "seed": 5,
-      "score": 63,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-      "colors": {
-        "primary": "#0076b6",
-        "secondary": "#b0b7bc"
       }
     },
     {
@@ -331,16 +331,16 @@ window.NFL_DATA = {
       "commonName": "Patriots",
       "conf": "AFC",
       "div": "AFC East",
-      "gp": 9,
+      "gp": 10,
       "w": 5,
-      "l": 4,
+      "l": 5,
       "t": 0,
-      "winPct": 0.556,
-      "pf": 211,
-      "pa": 207,
-      "pd": 4,
-      "seed": 7,
-      "score": 45,
+      "winPct": 0.5,
+      "pf": 221,
+      "pa": 242,
+      "pd": -21,
+      "seed": 8,
+      "score": 38,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
       "colors": {
         "primary": "#002244",
@@ -362,7 +362,7 @@ window.NFL_DATA = {
       "pf": 161,
       "pa": 196,
       "pd": -35,
-      "seed": 8,
+      "seed": 7,
       "score": 41,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
       "colors": {
@@ -2205,7 +2205,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-15 14:06 UTC",
+  "LAST_UPDATE": "2026-11-15 19:05 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

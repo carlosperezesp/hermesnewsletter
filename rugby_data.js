@@ -1,20 +1,45 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-11-15 14:08 UTC",
-  "LAST_MATCH": "2026-11-14",
+  "UPDATED": "2026-11-15 19:06 UTC",
+  "LAST_MATCH": "2026-11-15",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 375,
+    "incrementalMatches": 376,
     "teams": 162,
-    "matches": 10070,
-    "through": "2026-11-14"
+    "matches": 10071,
+    "through": "2026-11-15"
   },
   "IMPORTANCE": 6.5,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-11-15",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Scotland",
+          "teamCode": "SCO",
+          "colors": {
+            "primary": "#005eb8",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "homeScore": 15,
+        "awayScore": 12,
+        "venue": "Scottish Gas Murrayfield",
+        "city": "Edinburgh"
+      },
       {
         "date": "2026-11-14",
         "status": "final",
@@ -289,59 +314,9 @@ window.RUGBY_DATA = {
         "awayScore": 12,
         "venue": "Aviva Stadium",
         "city": "Dublin"
-      },
-      {
-        "date": "2026-10-24",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "Fiji",
-          "teamCode": "FIJ",
-          "colors": {
-            "primary": "#6ecff6",
-            "secondary": "#111111"
-          }
-        },
-        "homeScore": 28,
-        "awayScore": 34,
-        "venue": "Prince Chichibu Memorial Stadium",
-        "city": "Tokyo"
       }
     ],
     "upcoming": [
-      {
-        "date": "2026-11-15",
-        "status": "scheduled",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "Scotland",
-          "teamCode": "SCO",
-          "colors": {
-            "primary": "#005eb8",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Scottish Gas Murrayfield",
-        "city": "Edinburgh"
-      },
       {
         "date": "2026-11-21",
         "status": "scheduled",
@@ -514,7 +489,7 @@ window.RUGBY_DATA = {
       "elo": 2689.3,
       "eloRaw": 2689.3,
       "lastMatch": "2026-11-13",
-      "inactiveDays": 1,
+      "inactiveDays": 2,
       "peakElo": 2739.8,
       "peakDate": "2026-09-12",
       "worldCups": 4,
@@ -537,7 +512,7 @@ window.RUGBY_DATA = {
       "elo": 2613.5,
       "eloRaw": 2613.5,
       "lastMatch": "2026-11-14",
-      "inactiveDays": 0,
+      "inactiveDays": 1,
       "peakElo": 2749.6,
       "peakDate": "2016-10-22",
       "worldCups": 3,
@@ -560,7 +535,7 @@ window.RUGBY_DATA = {
       "elo": 2554.4,
       "eloRaw": 2554.4,
       "lastMatch": "2026-11-14",
-      "inactiveDays": 0,
+      "inactiveDays": 1,
       "peakElo": 2684.1,
       "peakDate": "2023-10-07",
       "worldCups": 0,
@@ -583,7 +558,7 @@ window.RUGBY_DATA = {
       "elo": 2546.1,
       "eloRaw": 2546.1,
       "lastMatch": "2026-11-13",
-      "inactiveDays": 1,
+      "inactiveDays": 2,
       "peakElo": 2587.1,
       "peakDate": "2025-03-15",
       "worldCups": 0,
@@ -606,7 +581,7 @@ window.RUGBY_DATA = {
       "elo": 2442.5,
       "eloRaw": 2442.5,
       "lastMatch": "2026-11-14",
-      "inactiveDays": 0,
+      "inactiveDays": 1,
       "peakElo": 2568.0,
       "peakDate": "2019-10-26",
       "worldCups": 1,
@@ -626,15 +601,15 @@ window.RUGBY_DATA = {
       "name": "Scotland",
       "teamCode": "SCO",
       "country": "Scotland",
-      "elo": 2368.1,
-      "eloRaw": 2368.1,
-      "lastMatch": "2026-11-07",
-      "inactiveDays": 7,
+      "elo": 2378.8,
+      "eloRaw": 2378.8,
+      "lastMatch": "2026-11-15",
+      "inactiveDays": 0,
       "peakElo": 2384.1,
       "peakDate": "2026-07-18",
       "worldCups": 0,
       "record": {
-        "w": 346,
+        "w": 347,
         "l": 395,
         "d": 63
       },
@@ -642,30 +617,30 @@ window.RUGBY_DATA = {
         "primary": "#005eb8",
         "secondary": "#ffffff"
       },
-      "note": "346V-395D-63E · último 2026-11-07 · raw 2368"
+      "note": "347V-395D-63E · último 2026-11-15 · raw 2379"
     },
     {
       "rank": 7,
       "name": "Australia",
       "teamCode": "AUS",
       "country": "Australia",
-      "elo": 2271.3,
-      "eloRaw": 2271.3,
-      "lastMatch": "2026-11-08",
-      "inactiveDays": 6,
+      "elo": 2260.6,
+      "eloRaw": 2260.6,
+      "lastMatch": "2026-11-15",
+      "inactiveDays": 0,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
       "record": {
         "w": 353,
-        "l": 339,
+        "l": 340,
         "d": 21
       },
       "colors": {
         "primary": "#ffcd00",
         "secondary": "#00843d"
       },
-      "note": "353V-339D-21E · último 2026-11-08 · raw 2271"
+      "note": "353V-340D-21E · último 2026-11-15 · raw 2261"
     },
     {
       "rank": 8,
@@ -675,7 +650,7 @@ window.RUGBY_DATA = {
       "elo": 2258.0,
       "eloRaw": 2258.0,
       "lastMatch": "2026-11-14",
-      "inactiveDays": 0,
+      "inactiveDays": 1,
       "peakElo": 2354.6,
       "peakDate": "2025-11-16",
       "worldCups": 0,
@@ -698,7 +673,7 @@ window.RUGBY_DATA = {
       "elo": 2153.2,
       "eloRaw": 2153.2,
       "lastMatch": "2026-11-14",
-      "inactiveDays": 0,
+      "inactiveDays": 1,
       "peakElo": 2249.9,
       "peakDate": "2025-09-21",
       "worldCups": 0,
@@ -721,7 +696,7 @@ window.RUGBY_DATA = {
       "elo": 2152.4,
       "eloRaw": 2152.4,
       "lastMatch": "2026-11-14",
-      "inactiveDays": 0,
+      "inactiveDays": 1,
       "peakElo": 2470.8,
       "peakDate": "2019-03-16",
       "worldCups": 0,

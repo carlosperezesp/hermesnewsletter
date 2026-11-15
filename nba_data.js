@@ -654,7 +654,7 @@ window.NBA_DATA = {
         "min": 32.4
       },
       "legendScore": 67.3,
-      "prevRank": 3
+      "prevRank": 2
     },
     {
       "id": 5104157,
@@ -680,7 +680,7 @@ window.NBA_DATA = {
         "min": 29.3
       },
       "legendScore": 53.3,
-      "prevRank": 2
+      "prevRank": 3
     },
     {
       "id": 3112335,
@@ -758,7 +758,7 @@ window.NBA_DATA = {
         "min": 34.7
       },
       "legendScore": 52.3,
-      "prevRank": 9
+      "prevRank": 6
     },
     {
       "id": 4065648,
@@ -784,7 +784,7 @@ window.NBA_DATA = {
         "min": 34.0
       },
       "legendScore": 60.3,
-      "prevRank": 6
+      "prevRank": 7
     },
     {
       "id": 4871144,
@@ -810,7 +810,7 @@ window.NBA_DATA = {
         "min": 35.2
       },
       "legendScore": 50.8,
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "id": 6583,
@@ -836,7 +836,7 @@ window.NBA_DATA = {
         "min": 34.1
       },
       "legendScore": 59.8,
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 4566434,
@@ -862,7 +862,7 @@ window.NBA_DATA = {
         "min": 36.8
       },
       "legendScore": 51.8,
-      "prevRank": 11
+      "prevRank": 10
     },
     {
       "id": 3936299,
@@ -8129,7 +8129,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 30.4,
         "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 6
+        "prevRank": 4
       },
       {
         "id": 5095151,
@@ -8146,7 +8146,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 30.8,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 4871144,
@@ -8163,7 +8163,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 30.9,
         "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "id": 4566434,
@@ -8276,7 +8276,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-15 14:06 UTC",
+  "LAST_UPDATE": "2026-11-15 19:05 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

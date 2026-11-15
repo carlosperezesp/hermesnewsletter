@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-15 14:09 UTC
+// Auto-generated 2026-11-15 19:07 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-15 14:09 UTC",
+  "UPDATED": "2026-11-15 19:07 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -272,7 +272,7 @@ window.TENNIS_DATA = {
         "tournament": "Nitto ATP Finals",
         "state": "alive",
         "round": "Group Stage",
-        "reason": ""
+        "reason": "Eliminado en Group Stage"
       },
       "prevActiveScore": 78.2
     },
@@ -10919,15 +10919,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Rafael Jodar",
+          "w": "Alexander Zverev",
           "w_logo": "",
-          "l": "Alexander Zverev",
+          "l": "Rafael Jodar",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 78.2,
-          "l_score": 86.9,
+          "w_score": 86.9,
+          "l_score": 78.2,
           "match_score": 86.9
         },
         {

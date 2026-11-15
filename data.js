@@ -10925,7 +10925,7 @@ window.NHL_DATA = {
         "p": 7,
         "pm": -1,
         "toi": 20.8,
-        "shots": 52
+        "shots": 53
       },
       "trajectory": [
         38,
@@ -16023,7 +16023,7 @@ window.NHL_DATA = {
         "p": 9,
         "pm": -1,
         "toi": 13.6,
-        "shots": 24
+        "shots": 25
       },
       "trajectory": [
         39,
@@ -19532,6 +19532,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8479591,
+      "first": "Michael",
+      "last": "Eyssimont",
+      "name": "Michael Eyssimont",
+      "pos": "C",
+      "teamCode": "BOS",
+      "age": 30,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#ffb81c",
+        "secondary": "#111111"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8479591.png",
+      "score": 47,
+      "stats": {
+        "gp": 3,
+        "g": 1,
+        "a": 0,
+        "p": 1,
+        "pm": -2,
+        "toi": 9.6,
+        "shots": 9
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        47
+      ]
+    },
+    {
       "id": 8476422,
       "first": "Mike",
       "last": "Reilly",
@@ -20744,39 +20777,6 @@ window.NHL_DATA = {
         "pm": -1,
         "toi": 14.6,
         "shots": 3
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        46
-      ]
-    },
-    {
-      "id": 8479591,
-      "first": "Michael",
-      "last": "Eyssimont",
-      "name": "Michael Eyssimont",
-      "pos": "C",
-      "teamCode": "BOS",
-      "age": 30,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#ffb81c",
-        "secondary": "#111111"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8479591.png",
-      "score": 46,
-      "stats": {
-        "gp": 3,
-        "g": 1,
-        "a": 0,
-        "p": 1,
-        "pm": -2,
-        "toi": 9.6,
-        "shots": 8
       },
       "trajectory": [
         37,
@@ -28119,9 +28119,9 @@ window.NHL_DATA = {
       "name": "David Reinbacher",
       "pos": "D",
       "teamCode": "MTL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "Austria",
+      "birthCountry": "AUT",
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -38940,10 +38940,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-15 14:06 UTC",
+  "LAST_UPDATE": "2026-11-15 19:05 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-15T14:06:30Z"
+    "standingsDateTimeUtc": "2026-11-15T19:05:00Z"
   }
 };
