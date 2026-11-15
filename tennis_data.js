@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-15 12:47 UTC
+// Auto-generated 2026-11-15 14:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-15 12:47 UTC",
+  "UPDATED": "2026-11-15 14:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10919,15 +10919,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Alexander Zverev",
+          "w": "Rafael Jodar",
           "w_logo": "",
-          "l": "Rafael Jodar",
+          "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 86.9,
-          "l_score": 78.2,
+          "scheduled": false,
+          "w_score": 78.2,
+          "l_score": 86.9,
           "match_score": 86.9
         },
         {

@@ -631,6 +631,32 @@ window.NBA_DATA = {
       "prevRank": 1
     },
     {
+      "id": 3032977,
+      "name": "Giannis Antetokounmpo",
+      "first": "Giannis",
+      "last": "Antetokounmpo",
+      "pos": "F",
+      "teamCode": "MIA",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3032977.png",
+      "colors": {
+        "primary": "#98002e",
+        "secondary": "#f9a01b"
+      },
+      "score": 88,
+      "stats": {
+        "gp": 13,
+        "pts": 28.9,
+        "reb": 12.5,
+        "ast": 5.2,
+        "stl": 0.8,
+        "blk": 1.2,
+        "min": 32.4
+      },
+      "legendScore": 67.3,
+      "prevRank": 3
+    },
+    {
       "id": 5104157,
       "name": "Victor Wembanyama",
       "first": "Victor",
@@ -657,32 +683,6 @@ window.NBA_DATA = {
       "prevRank": 2
     },
     {
-      "id": 3032977,
-      "name": "Giannis Antetokounmpo",
-      "first": "Giannis",
-      "last": "Antetokounmpo",
-      "pos": "F",
-      "teamCode": "MIA",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3032977.png",
-      "colors": {
-        "primary": "#98002e",
-        "secondary": "#f9a01b"
-      },
-      "score": 87,
-      "stats": {
-        "gp": 12,
-        "pts": 28.5,
-        "reb": 12.3,
-        "ast": 4.9,
-        "stl": 0.8,
-        "blk": 1.0,
-        "min": 32.5
-      },
-      "legendScore": 66.7,
-      "prevRank": 3
-    },
-    {
       "id": 3112335,
       "name": "Nikola Jokic",
       "first": "Nikola",
@@ -695,17 +695,17 @@ window.NBA_DATA = {
         "primary": "#0e2240",
         "secondary": "#fec524"
       },
-      "score": 83,
+      "score": 84,
       "stats": {
-        "gp": 10,
-        "pts": 23.5,
-        "reb": 10.8,
-        "ast": 9.0,
-        "stl": 1.8,
-        "blk": 1.2,
-        "min": 36.3
+        "gp": 11,
+        "pts": 23.7,
+        "reb": 10.5,
+        "ast": 9.1,
+        "stl": 1.9,
+        "blk": 1.1,
+        "min": 36.5
       },
-      "legendScore": 64.5,
+      "legendScore": 65.0,
       "prevRank": 4
     },
     {
@@ -733,6 +733,32 @@ window.NBA_DATA = {
       },
       "legendScore": 61.5,
       "prevRank": 5
+    },
+    {
+      "id": 4432166,
+      "name": "Cade Cunningham",
+      "first": "Cade",
+      "last": "Cunningham",
+      "pos": "G",
+      "teamCode": "DET",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432166.png",
+      "colors": {
+        "primary": "#c8102e",
+        "secondary": "#006bb6"
+      },
+      "score": 81,
+      "stats": {
+        "gp": 12,
+        "pts": 25.7,
+        "reb": 5.2,
+        "ast": 7.9,
+        "stl": 1.5,
+        "blk": 0.9,
+        "min": 34.7
+      },
+      "legendScore": 52.3,
+      "prevRank": 9
     },
     {
       "id": 4065648,
@@ -813,58 +839,6 @@ window.NBA_DATA = {
       "prevRank": 8
     },
     {
-      "id": 4432166,
-      "name": "Cade Cunningham",
-      "first": "Cade",
-      "last": "Cunningham",
-      "pos": "G",
-      "teamCode": "DET",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432166.png",
-      "colors": {
-        "primary": "#c8102e",
-        "secondary": "#006bb6"
-      },
-      "score": 80,
-      "stats": {
-        "gp": 11,
-        "pts": 25.0,
-        "reb": 5.2,
-        "ast": 7.9,
-        "stl": 1.5,
-        "blk": 0.9,
-        "min": 34.5
-      },
-      "legendScore": 51.8,
-      "prevRank": 9
-    },
-    {
-      "id": 5041939,
-      "name": "Cooper Flagg",
-      "first": "Cooper",
-      "last": "Flagg",
-      "pos": "F",
-      "teamCode": "DAL",
-      "age": 19,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5041939.png",
-      "colors": {
-        "primary": "#00538c",
-        "secondary": "#002b5e"
-      },
-      "score": 80,
-      "stats": {
-        "gp": 11,
-        "pts": 24.6,
-        "reb": 6.9,
-        "ast": 6.5,
-        "stl": 2.2,
-        "blk": 0.7,
-        "min": 33.5
-      },
-      "legendScore": 45.8,
-      "prevRank": 10
-    },
-    {
       "id": 4566434,
       "name": "Franz Wagner",
       "first": "Franz",
@@ -887,7 +861,8 @@ window.NBA_DATA = {
         "blk": 0.1,
         "min": 36.8
       },
-      "legendScore": 51.8
+      "legendScore": 51.8,
+      "prevRank": 11
     },
     {
       "id": 3936299,
@@ -904,15 +879,40 @@ window.NBA_DATA = {
       },
       "score": 80,
       "stats": {
-        "gp": 10,
-        "pts": 26.2,
-        "reb": 5.0,
-        "ast": 5.9,
-        "stl": 0.9,
-        "blk": 0.9,
-        "min": 36.4
+        "gp": 11,
+        "pts": 25.9,
+        "reb": 5.2,
+        "ast": 6.2,
+        "stl": 0.8,
+        "blk": 1.0,
+        "min": 36.5
       },
       "legendScore": 55.8
+    },
+    {
+      "id": 5041939,
+      "name": "Cooper Flagg",
+      "first": "Cooper",
+      "last": "Flagg",
+      "pos": "F",
+      "teamCode": "DAL",
+      "age": 19,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5041939.png",
+      "colors": {
+        "primary": "#00538c",
+        "secondary": "#002b5e"
+      },
+      "score": 79,
+      "stats": {
+        "gp": 12,
+        "pts": 24.1,
+        "reb": 7.0,
+        "ast": 6.4,
+        "stl": 2.0,
+        "blk": 0.8,
+        "min": 33.9
+      },
+      "legendScore": 45.2
     },
     {
       "id": 4431678,
@@ -1254,13 +1254,13 @@ window.NBA_DATA = {
       },
       "score": 72,
       "stats": {
-        "gp": 12,
-        "pts": 19.4,
-        "reb": 8.8,
-        "ast": 3.2,
-        "stl": 2.0,
-        "blk": 0.7,
-        "min": 33.6
+        "gp": 13,
+        "pts": 19.5,
+        "reb": 8.5,
+        "ast": 3.3,
+        "stl": 2.1,
+        "blk": 0.8,
+        "min": 33.8
       },
       "legendScore": 51.3
     },
@@ -1315,6 +1315,31 @@ window.NBA_DATA = {
       "legendScore": 45.3
     },
     {
+      "id": 6442,
+      "name": "Kyrie Irving",
+      "first": "Kyrie",
+      "last": "Irving",
+      "pos": "G",
+      "teamCode": "DAL",
+      "age": 34,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/6442.png",
+      "colors": {
+        "primary": "#00538c",
+        "secondary": "#002b5e"
+      },
+      "score": 72,
+      "stats": {
+        "gp": 11,
+        "pts": 22.7,
+        "reb": 3.5,
+        "ast": 4.4,
+        "stl": 1.3,
+        "blk": 0.5,
+        "min": 30.7
+      },
+      "legendScore": 55.3
+    },
+    {
       "id": 4395625,
       "name": "RJ Barrett",
       "first": "RJ",
@@ -1354,13 +1379,13 @@ window.NBA_DATA = {
       },
       "score": 72,
       "stats": {
-        "gp": 12,
-        "pts": 21.8,
+        "gp": 13,
+        "pts": 21.9,
         "reb": 5.2,
-        "ast": 2.8,
-        "stl": 2.1,
-        "blk": 0.6,
-        "min": 32.8
+        "ast": 2.7,
+        "stl": 1.9,
+        "blk": 0.7,
+        "min": 32.6
       },
       "legendScore": 48.3
     },
@@ -1479,40 +1504,15 @@ window.NBA_DATA = {
       },
       "score": 70,
       "stats": {
-        "gp": 11,
-        "pts": 19.7,
-        "reb": 6.5,
+        "gp": 12,
+        "pts": 19.9,
+        "reb": 6.2,
         "ast": 5.0,
-        "stl": 0.7,
+        "stl": 0.9,
         "blk": 0.2,
-        "min": 33.2
+        "min": 33.0
       },
       "legendScore": 52.2
-    },
-    {
-      "id": 6442,
-      "name": "Kyrie Irving",
-      "first": "Kyrie",
-      "last": "Irving",
-      "pos": "G",
-      "teamCode": "DAL",
-      "age": 34,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/6442.png",
-      "colors": {
-        "primary": "#00538c",
-        "secondary": "#002b5e"
-      },
-      "score": 70,
-      "stats": {
-        "gp": 10,
-        "pts": 21.6,
-        "reb": 3.2,
-        "ast": 4.3,
-        "stl": 1.1,
-        "blk": 0.4,
-        "min": 30.1
-      },
-      "legendScore": 54.2
     },
     {
       "id": 4395725,
@@ -1729,13 +1729,13 @@ window.NBA_DATA = {
       },
       "score": 68,
       "stats": {
-        "gp": 12,
-        "pts": 16.9,
-        "reb": 2.2,
+        "gp": 13,
+        "pts": 16.8,
+        "reb": 2.4,
         "ast": 9.2,
         "stl": 1.2,
-        "blk": 0.6,
-        "min": 36.0
+        "blk": 0.7,
+        "min": 35.8
       },
       "legendScore": 48.1
     },
@@ -1779,15 +1779,40 @@ window.NBA_DATA = {
       },
       "score": 68,
       "stats": {
-        "gp": 12,
+        "gp": 13,
         "pts": 18.6,
-        "reb": 3.2,
+        "reb": 3.6,
         "ast": 6.2,
-        "stl": 1.8,
+        "stl": 1.9,
         "blk": 0.1,
-        "min": 27.5
+        "min": 27.7
       },
       "legendScore": 45.1
+    },
+    {
+      "id": 4397002,
+      "name": "Ayo Dosunmu",
+      "first": "Ayo",
+      "last": "Dosunmu",
+      "pos": "G",
+      "teamCode": "MIN",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397002.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#236192"
+      },
+      "score": 67,
+      "stats": {
+        "gp": 13,
+        "pts": 18.5,
+        "reb": 4.6,
+        "ast": 3.5,
+        "stl": 1.4,
+        "blk": 0.5,
+        "min": 31.2
+      },
+      "legendScore": 45.5
     },
     {
       "id": 5041935,
@@ -1804,13 +1829,13 @@ window.NBA_DATA = {
       },
       "score": 67,
       "stats": {
-        "gp": 12,
-        "pts": 15.6,
-        "reb": 9.8,
+        "gp": 13,
+        "pts": 15.5,
+        "reb": 9.7,
         "ast": 5.2,
-        "stl": 0.6,
-        "blk": 0.6,
-        "min": 31.7
+        "stl": 0.7,
+        "blk": 0.7,
+        "min": 31.5
       },
       "legendScore": 38.5
     },
@@ -1865,29 +1890,29 @@ window.NBA_DATA = {
       "legendScore": 72.5
     },
     {
-      "id": 4397002,
-      "name": "Ayo Dosunmu",
-      "first": "Ayo",
-      "last": "Dosunmu",
+      "id": 2595516,
+      "name": "Norman Powell",
+      "first": "Norman",
+      "last": "Powell",
       "pos": "G",
-      "teamCode": "MIN",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397002.png",
+      "teamCode": "CHI",
+      "age": 33,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/2595516.png",
       "colors": {
-        "primary": "#0c2340",
-        "secondary": "#236192"
+        "primary": "#ce1141",
+        "secondary": "#000000"
       },
-      "score": 66,
+      "score": 67,
       "stats": {
-        "gp": 12,
-        "pts": 18.1,
-        "reb": 4.7,
-        "ast": 3.8,
-        "stl": 1.2,
-        "blk": 0.5,
-        "min": 31.0
+        "gp": 10,
+        "pts": 21.1,
+        "reb": 3.0,
+        "ast": 1.8,
+        "stl": 1.5,
+        "blk": 0.2,
+        "min": 29.1
       },
-      "legendScore": 44.9
+      "legendScore": 52.5
     },
     {
       "id": 5037871,
@@ -1979,13 +2004,13 @@ window.NBA_DATA = {
       },
       "score": 66,
       "stats": {
-        "gp": 12,
-        "pts": 16.9,
-        "reb": 6.3,
-        "ast": 3.6,
-        "stl": 0.8,
+        "gp": 13,
+        "pts": 17.0,
+        "reb": 6.2,
+        "ast": 3.8,
+        "stl": 0.9,
         "blk": 0.8,
-        "min": 33.1
+        "min": 33.4
       },
       "legendScore": 44.9
     },
@@ -2240,29 +2265,29 @@ window.NBA_DATA = {
       "legendScore": 40.8
     },
     {
-      "id": 3157465,
-      "name": "Duncan Robinson",
-      "first": "Duncan",
-      "last": "Robinson",
+      "id": 4903027,
+      "name": "Cedric Coward",
+      "first": "Cedric",
+      "last": "Coward",
       "pos": "F",
-      "teamCode": "DET",
-      "age": 32,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3157465.png",
+      "teamCode": "MEM",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4903027.png",
       "colors": {
-        "primary": "#c8102e",
-        "secondary": "#006bb6"
+        "primary": "#5d76a9",
+        "secondary": "#12173f"
       },
       "score": 63,
       "stats": {
-        "gp": 11,
-        "pts": 18.1,
-        "reb": 1.9,
-        "ast": 2.2,
+        "gp": 12,
+        "pts": 13.8,
+        "reb": 8.8,
+        "ast": 3.1,
         "stl": 1.5,
-        "blk": 0.2,
-        "min": 31.7
+        "blk": 0.3,
+        "min": 28.8
       },
-      "legendScore": 49.3
+      "legendScore": 40.3
     },
     {
       "id": 4432848,
@@ -2304,13 +2329,13 @@ window.NBA_DATA = {
       },
       "score": 63,
       "stats": {
-        "gp": 13,
-        "pts": 15.5,
+        "gp": 14,
+        "pts": 15.3,
         "reb": 4.5,
-        "ast": 5.1,
-        "stl": 1.0,
+        "ast": 5.2,
+        "stl": 1.1,
         "blk": 0.5,
-        "min": 29.2
+        "min": 29.4
       },
       "legendScore": 37.3
     },
@@ -2390,6 +2415,31 @@ window.NBA_DATA = {
       "legendScore": 39.3
     },
     {
+      "id": 3157465,
+      "name": "Duncan Robinson",
+      "first": "Duncan",
+      "last": "Robinson",
+      "pos": "F",
+      "teamCode": "DET",
+      "age": 32,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3157465.png",
+      "colors": {
+        "primary": "#c8102e",
+        "secondary": "#006bb6"
+      },
+      "score": 62,
+      "stats": {
+        "gp": 12,
+        "pts": 17.4,
+        "reb": 1.8,
+        "ast": 2.1,
+        "stl": 1.3,
+        "blk": 0.2,
+        "min": 30.5
+      },
+      "legendScore": 48.7
+    },
+    {
       "id": 4431680,
       "name": "Onyeka Okongwu",
       "first": "Onyeka",
@@ -2413,6 +2463,31 @@ window.NBA_DATA = {
         "min": 30.0
       },
       "legendScore": 41.7
+    },
+    {
+      "id": 4397136,
+      "name": "Saddiq Bey",
+      "first": "Saddiq",
+      "last": "Bey",
+      "pos": "F",
+      "teamCode": "NO",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397136.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#85714d"
+      },
+      "score": 62,
+      "stats": {
+        "gp": 14,
+        "pts": 16.5,
+        "reb": 4.1,
+        "ast": 2.3,
+        "stl": 0.8,
+        "blk": 0.2,
+        "min": 28.4
+      },
+      "legendScore": 43.7
     },
     {
       "id": 4277847,
@@ -2465,31 +2540,6 @@ window.NBA_DATA = {
       "legendScore": 36.1
     },
     {
-      "id": 4903027,
-      "name": "Cedric Coward",
-      "first": "Cedric",
-      "last": "Coward",
-      "pos": "F",
-      "teamCode": "MEM",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4903027.png",
-      "colors": {
-        "primary": "#5d76a9",
-        "secondary": "#12173f"
-      },
-      "score": 61,
-      "stats": {
-        "gp": 11,
-        "pts": 12.9,
-        "reb": 8.5,
-        "ast": 3.0,
-        "stl": 1.5,
-        "blk": 0.2,
-        "min": 28.5
-      },
-      "legendScore": 39.1
-    },
-    {
       "id": 4066259,
       "name": "De'Aaron Fox",
       "first": "De'Aaron",
@@ -2540,56 +2590,6 @@ window.NBA_DATA = {
       "legendScore": 48.1
     },
     {
-      "id": 4278078,
-      "name": "P.J. Washington",
-      "first": "P.J.",
-      "last": "Washington",
-      "pos": "F",
-      "teamCode": "DAL",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4278078.png",
-      "colors": {
-        "primary": "#00538c",
-        "secondary": "#002b5e"
-      },
-      "score": 61,
-      "stats": {
-        "gp": 12,
-        "pts": 14.2,
-        "reb": 7.2,
-        "ast": 1.1,
-        "stl": 0.7,
-        "blk": 0.9,
-        "min": 32.2
-      },
-      "legendScore": 44.1
-    },
-    {
-      "id": 4397136,
-      "name": "Saddiq Bey",
-      "first": "Saddiq",
-      "last": "Bey",
-      "pos": "F",
-      "teamCode": "NO",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397136.png",
-      "colors": {
-        "primary": "#0c2340",
-        "secondary": "#85714d"
-      },
-      "score": 61,
-      "stats": {
-        "gp": 13,
-        "pts": 16.5,
-        "reb": 3.9,
-        "ast": 2.2,
-        "stl": 0.8,
-        "blk": 0.2,
-        "min": 27.5
-      },
-      "legendScore": 43.1
-    },
-    {
       "id": 5124612,
       "name": "VJ Edgecombe",
       "first": "VJ",
@@ -2629,13 +2629,13 @@ window.NBA_DATA = {
       },
       "score": 60,
       "stats": {
-        "gp": 10,
+        "gp": 11,
         "pts": 10.1,
-        "reb": 8.7,
+        "reb": 8.6,
         "ast": 5.1,
-        "stl": 1.3,
-        "blk": 0.8,
-        "min": 28.8
+        "stl": 1.4,
+        "blk": 0.9,
+        "min": 27.8
       },
       "legendScore": 38.6
     },
@@ -2688,6 +2688,31 @@ window.NBA_DATA = {
         "min": 27.2
       },
       "legendScore": 46.6
+    },
+    {
+      "id": 4278078,
+      "name": "P.J. Washington",
+      "first": "P.J.",
+      "last": "Washington",
+      "pos": "F",
+      "teamCode": "DAL",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4278078.png",
+      "colors": {
+        "primary": "#00538c",
+        "secondary": "#002b5e"
+      },
+      "score": 60,
+      "stats": {
+        "gp": 13,
+        "pts": 13.9,
+        "reb": 6.8,
+        "ast": 1.1,
+        "stl": 0.6,
+        "blk": 0.9,
+        "min": 31.8
+      },
+      "legendScore": 43.6
     },
     {
       "id": 4397183,
@@ -2765,6 +2790,31 @@ window.NBA_DATA = {
       "legendScore": 48.0
     },
     {
+      "id": 4431767,
+      "name": "Christian Braun",
+      "first": "Christian",
+      "last": "Braun",
+      "pos": "G",
+      "teamCode": "DEN",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4431767.png",
+      "colors": {
+        "primary": "#0e2240",
+        "secondary": "#fec524"
+      },
+      "score": 59,
+      "stats": {
+        "gp": 11,
+        "pts": 12.8,
+        "reb": 4.4,
+        "ast": 2.3,
+        "stl": 2.2,
+        "blk": 0.3,
+        "min": 33.8
+      },
+      "legendScore": 40.0
+    },
+    {
       "id": 5107199,
       "name": "Daniss Jenkins",
       "first": "Daniss",
@@ -2779,13 +2829,13 @@ window.NBA_DATA = {
       },
       "score": 59,
       "stats": {
-        "gp": 11,
-        "pts": 13.5,
-        "reb": 3.8,
+        "gp": 12,
+        "pts": 13.2,
+        "reb": 3.6,
         "ast": 4.3,
-        "stl": 0.9,
+        "stl": 1.0,
         "blk": 0.1,
-        "min": 27.5
+        "min": 28.1
       },
       "legendScore": 40.0
     },
@@ -2929,13 +2979,13 @@ window.NBA_DATA = {
       },
       "score": 59,
       "stats": {
-        "gp": 12,
-        "pts": 12.4,
-        "reb": 5.7,
+        "gp": 13,
+        "pts": 12.3,
+        "reb": 5.5,
         "ast": 2.9,
         "stl": 1.2,
-        "blk": 0.8,
-        "min": 30.2
+        "blk": 0.7,
+        "min": 30.6
       },
       "legendScore": 39.0
     },
@@ -2954,13 +3004,13 @@ window.NBA_DATA = {
       },
       "score": 59,
       "stats": {
-        "gp": 11,
-        "pts": 10.6,
-        "reb": 5.1,
-        "ast": 8.8,
-        "stl": 0.5,
-        "blk": 0.5,
-        "min": 28.6
+        "gp": 12,
+        "pts": 10.4,
+        "reb": 5.3,
+        "ast": 8.5,
+        "stl": 0.4,
+        "blk": 0.6,
+        "min": 28.4
       },
       "legendScore": 39.0
     },
@@ -2988,31 +3038,6 @@ window.NBA_DATA = {
         "min": 30.6
       },
       "legendScore": 40.0
-    },
-    {
-      "id": 4431767,
-      "name": "Christian Braun",
-      "first": "Christian",
-      "last": "Braun",
-      "pos": "G",
-      "teamCode": "DEN",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4431767.png",
-      "colors": {
-        "primary": "#0e2240",
-        "secondary": "#fec524"
-      },
-      "score": 58,
-      "stats": {
-        "gp": 10,
-        "pts": 12.4,
-        "reb": 4.1,
-        "ast": 2.4,
-        "stl": 2.0,
-        "blk": 0.2,
-        "min": 34.4
-      },
-      "legendScore": 39.5
     },
     {
       "id": 4065732,
@@ -3065,6 +3090,31 @@ window.NBA_DATA = {
       "legendScore": 47.5
     },
     {
+      "id": 6475,
+      "name": "Klay Thompson",
+      "first": "Klay",
+      "last": "Thompson",
+      "pos": "G",
+      "teamCode": "MIA",
+      "age": 36,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/6475.png",
+      "colors": {
+        "primary": "#98002e",
+        "secondary": "#f9a01b"
+      },
+      "score": 58,
+      "stats": {
+        "gp": 12,
+        "pts": 15.3,
+        "reb": 1.5,
+        "ast": 2.1,
+        "stl": 0.2,
+        "blk": 0.8,
+        "min": 24.4
+      },
+      "legendScore": 47.5
+    },
+    {
       "id": 4711294,
       "name": "Matas Buzelis",
       "first": "Matas",
@@ -3079,13 +3129,13 @@ window.NBA_DATA = {
       },
       "score": 58,
       "stats": {
-        "gp": 11,
-        "pts": 13.3,
-        "reb": 4.5,
+        "gp": 12,
+        "pts": 13.7,
+        "reb": 4.8,
         "ast": 2.0,
-        "stl": 0.5,
+        "stl": 0.4,
         "blk": 0.8,
-        "min": 26.5
+        "min": 26.8
       },
       "legendScore": 36.5
     },
@@ -3104,13 +3154,13 @@ window.NBA_DATA = {
       },
       "score": 58,
       "stats": {
-        "gp": 11,
-        "pts": 11.5,
-        "reb": 7.7,
-        "ast": 2.2,
+        "gp": 12,
+        "pts": 11.3,
+        "reb": 7.8,
+        "ast": 2.1,
         "stl": 1.0,
         "blk": 0.8,
-        "min": 27.0
+        "min": 26.6
       },
       "legendScore": 41.5
     },
@@ -3179,13 +3229,13 @@ window.NBA_DATA = {
       },
       "score": 57,
       "stats": {
-        "gp": 13,
-        "pts": 12.0,
-        "reb": 6.3,
-        "ast": 2.3,
-        "stl": 0.9,
+        "gp": 14,
+        "pts": 11.9,
+        "reb": 6.2,
+        "ast": 2.4,
+        "stl": 1.0,
         "blk": 0.8,
-        "min": 21.7
+        "min": 21.9
       },
       "legendScore": 34.9
     },
@@ -3238,6 +3288,31 @@ window.NBA_DATA = {
         "min": 26.5
       },
       "legendScore": 35.9
+    },
+    {
+      "id": 4432194,
+      "name": "Day'Ron Sharpe",
+      "first": "Day'Ron",
+      "last": "Sharpe",
+      "pos": "C",
+      "teamCode": "BKN",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432194.png",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#ffffff"
+      },
+      "score": 56,
+      "stats": {
+        "gp": 12,
+        "pts": 8.8,
+        "reb": 7.2,
+        "ast": 4.2,
+        "stl": 0.8,
+        "blk": 1.3,
+        "min": 23.7
+      },
+      "legendScore": 38.3
     },
     {
       "id": 3936099,
@@ -3340,31 +3415,6 @@ window.NBA_DATA = {
       "legendScore": 32.3
     },
     {
-      "id": 6475,
-      "name": "Klay Thompson",
-      "first": "Klay",
-      "last": "Thompson",
-      "pos": "G",
-      "teamCode": "MIA",
-      "age": 36,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/6475.png",
-      "colors": {
-        "primary": "#98002e",
-        "secondary": "#f9a01b"
-      },
-      "score": 56,
-      "stats": {
-        "gp": 11,
-        "pts": 14.4,
-        "reb": 1.5,
-        "ast": 1.9,
-        "stl": 0.2,
-        "blk": 0.7,
-        "min": 24.8
-      },
-      "legendScore": 46.3
-    },
-    {
       "id": 3134907,
       "name": "Kyle Kuzma",
       "first": "Kyle",
@@ -3388,6 +3438,31 @@ window.NBA_DATA = {
         "min": 27.2
       },
       "legendScore": 44.3
+    },
+    {
+      "id": 5041951,
+      "name": "Meleek Thomas",
+      "first": "Meleek",
+      "last": "Thomas",
+      "pos": "G",
+      "teamCode": "CLE",
+      "age": 20,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5041951.png",
+      "colors": {
+        "primary": "#860038",
+        "secondary": "#fdbb30"
+      },
+      "score": 56,
+      "stats": {
+        "gp": 11,
+        "pts": 13.6,
+        "reb": 2.6,
+        "ast": 1.5,
+        "stl": 1.1,
+        "blk": 0.3,
+        "min": 23.5
+      },
+      "legendScore": 33.3
     },
     {
       "id": 4433249,
@@ -3415,29 +3490,29 @@ window.NBA_DATA = {
       "legendScore": 37.3
     },
     {
-      "id": 5279130,
-      "name": "Nolan Traore",
-      "first": "Nolan",
-      "last": "Traore",
-      "pos": "G",
-      "teamCode": "BKN",
-      "age": 20,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5279130.png",
+      "id": 4278594,
+      "name": "Naji Marshall",
+      "first": "Naji",
+      "last": "Marshall",
+      "pos": "F",
+      "teamCode": "DAL",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4278594.png",
       "colors": {
-        "primary": "#000000",
-        "secondary": "#ffffff"
+        "primary": "#00538c",
+        "secondary": "#002b5e"
       },
       "score": 56,
       "stats": {
         "gp": 10,
-        "pts": 12.9,
-        "reb": 2.0,
-        "ast": 2.6,
-        "stl": 1.4,
-        "blk": 0.5,
-        "min": 22.1
+        "pts": 11.4,
+        "reb": 2.8,
+        "ast": 4.5,
+        "stl": 1.3,
+        "blk": 0.2,
+        "min": 25.1
       },
-      "legendScore": 33.3
+      "legendScore": 41.3
     },
     {
       "id": 4601025,
@@ -3504,13 +3579,13 @@ window.NBA_DATA = {
       },
       "score": 55,
       "stats": {
-        "gp": 10,
+        "gp": 11,
         "pts": 11.0,
         "reb": 5.0,
-        "ast": 2.1,
+        "ast": 2.0,
         "stl": 1.0,
         "blk": 0.5,
-        "min": 29.1
+        "min": 29.5
       },
       "legendScore": 43.8
     },
@@ -3540,27 +3615,27 @@ window.NBA_DATA = {
       "legendScore": 34.8
     },
     {
-      "id": 5041951,
-      "name": "Meleek Thomas",
-      "first": "Meleek",
-      "last": "Thomas",
+      "id": 5279130,
+      "name": "Nolan Traore",
+      "first": "Nolan",
+      "last": "Traore",
       "pos": "G",
-      "teamCode": "CLE",
+      "teamCode": "BKN",
       "age": 20,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5041951.png",
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5279130.png",
       "colors": {
-        "primary": "#860038",
-        "secondary": "#fdbb30"
+        "primary": "#000000",
+        "secondary": "#ffffff"
       },
       "score": 55,
       "stats": {
-        "gp": 10,
-        "pts": 13.0,
-        "reb": 2.5,
-        "ast": 1.4,
-        "stl": 1.2,
-        "blk": 0.3,
-        "min": 22.5
+        "gp": 11,
+        "pts": 12.7,
+        "reb": 1.9,
+        "ast": 2.5,
+        "stl": 1.3,
+        "blk": 0.5,
+        "min": 21.9
       },
       "legendScore": 32.8
     },
@@ -3640,31 +3715,6 @@ window.NBA_DATA = {
       "legendScore": 39.8
     },
     {
-      "id": 3032976,
-      "name": "Rudy Gobert",
-      "first": "Rudy",
-      "last": "Gobert",
-      "pos": "C",
-      "teamCode": "MIN",
-      "age": 34,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3032976.png",
-      "colors": {
-        "primary": "#0c2340",
-        "secondary": "#236192"
-      },
-      "score": 55,
-      "stats": {
-        "gp": 11,
-        "pts": 7.9,
-        "reb": 11.5,
-        "ast": 1.4,
-        "stl": 0.4,
-        "blk": 1.0,
-        "min": 29.3
-      },
-      "legendScore": 45.8
-    },
-    {
       "id": 4591725,
       "name": "Ryan Rollins",
       "first": "Ryan",
@@ -3715,6 +3765,31 @@ window.NBA_DATA = {
       "legendScore": 39.2
     },
     {
+      "id": 4433083,
+      "name": "Cam Spencer",
+      "first": "Cam",
+      "last": "Spencer",
+      "pos": "G",
+      "teamCode": "MEM",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4433083.png",
+      "colors": {
+        "primary": "#5d76a9",
+        "secondary": "#12173f"
+      },
+      "score": 54,
+      "stats": {
+        "gp": 13,
+        "pts": 10.2,
+        "reb": 3.0,
+        "ast": 5.1,
+        "stl": 0.8,
+        "blk": 0.1,
+        "min": 20.9
+      },
+      "legendScore": 38.2
+    },
+    {
       "id": 5093267,
       "name": "Collin Murray-Boyles",
       "first": "Collin",
@@ -3740,56 +3815,6 @@ window.NBA_DATA = {
       "legendScore": 33.2
     },
     {
-      "id": 4432194,
-      "name": "Day'Ron Sharpe",
-      "first": "Day'Ron",
-      "last": "Sharpe",
-      "pos": "C",
-      "teamCode": "BKN",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432194.png",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#ffffff"
-      },
-      "score": 54,
-      "stats": {
-        "gp": 11,
-        "pts": 8.2,
-        "reb": 6.8,
-        "ast": 4.1,
-        "stl": 0.7,
-        "blk": 1.5,
-        "min": 23.3
-      },
-      "legendScore": 37.2
-    },
-    {
-      "id": 5112087,
-      "name": "Jaylen Wells",
-      "first": "Jaylen",
-      "last": "Wells",
-      "pos": "F",
-      "teamCode": "MEM",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5112087.png",
-      "colors": {
-        "primary": "#5d76a9",
-        "secondary": "#12173f"
-      },
-      "score": 54,
-      "stats": {
-        "gp": 12,
-        "pts": 11.9,
-        "reb": 2.9,
-        "ast": 1.2,
-        "stl": 1.0,
-        "blk": 0.1,
-        "min": 27.2
-      },
-      "legendScore": 35.2
-    },
-    {
       "id": 3908845,
       "name": "John Collins",
       "first": "John",
@@ -3804,15 +3829,40 @@ window.NBA_DATA = {
       },
       "score": 54,
       "stats": {
-        "gp": 11,
-        "pts": 10.6,
-        "reb": 5.9,
+        "gp": 12,
+        "pts": 10.4,
+        "reb": 6.0,
         "ast": 0.7,
         "stl": 0.5,
-        "blk": 1.0,
-        "min": 26.4
+        "blk": 0.9,
+        "min": 26.3
       },
       "legendScore": 41.2
+    },
+    {
+      "id": 3032976,
+      "name": "Rudy Gobert",
+      "first": "Rudy",
+      "last": "Gobert",
+      "pos": "C",
+      "teamCode": "MIN",
+      "age": 34,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3032976.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#236192"
+      },
+      "score": 54,
+      "stats": {
+        "gp": 12,
+        "pts": 7.3,
+        "reb": 11.4,
+        "ast": 1.6,
+        "stl": 0.3,
+        "blk": 1.0,
+        "min": 29.1
+      },
+      "legendScore": 45.2
     },
     {
       "id": 4278580,
@@ -3865,31 +3915,6 @@ window.NBA_DATA = {
       "legendScore": 37.2
     },
     {
-      "id": 4433083,
-      "name": "Cam Spencer",
-      "first": "Cam",
-      "last": "Spencer",
-      "pos": "G",
-      "teamCode": "MEM",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4433083.png",
-      "colors": {
-        "primary": "#5d76a9",
-        "secondary": "#12173f"
-      },
-      "score": 53,
-      "stats": {
-        "gp": 12,
-        "pts": 9.7,
-        "reb": 3.2,
-        "ast": 4.8,
-        "stl": 0.8,
-        "blk": 0.1,
-        "min": 19.8
-      },
-      "legendScore": 37.7
-    },
-    {
       "id": 4278049,
       "name": "Daniel Gafford",
       "first": "Daniel",
@@ -3904,13 +3929,13 @@ window.NBA_DATA = {
       },
       "score": 53,
       "stats": {
-        "gp": 12,
-        "pts": 9.1,
-        "reb": 5.3,
-        "ast": 1.9,
-        "stl": 0.7,
-        "blk": 1.8,
-        "min": 21.5
+        "gp": 13,
+        "pts": 9.2,
+        "reb": 5.2,
+        "ast": 1.8,
+        "stl": 0.6,
+        "blk": 1.7,
+        "min": 21.2
       },
       "legendScore": 39.7
     },
@@ -3965,6 +3990,31 @@ window.NBA_DATA = {
       "legendScore": 37.7
     },
     {
+      "id": 5112087,
+      "name": "Jaylen Wells",
+      "first": "Jaylen",
+      "last": "Wells",
+      "pos": "F",
+      "teamCode": "MEM",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5112087.png",
+      "colors": {
+        "primary": "#5d76a9",
+        "secondary": "#12173f"
+      },
+      "score": 53,
+      "stats": {
+        "gp": 13,
+        "pts": 11.4,
+        "reb": 2.8,
+        "ast": 1.3,
+        "stl": 0.9,
+        "blk": 0.1,
+        "min": 27.1
+      },
+      "legendScore": 34.7
+    },
+    {
       "id": 2991070,
       "name": "Jerami Grant",
       "first": "Jerami",
@@ -4013,6 +4063,31 @@ window.NBA_DATA = {
         "min": 26.3
       },
       "legendScore": 36.7
+    },
+    {
+      "id": 4066372,
+      "name": "Kevin Huerter",
+      "first": "Kevin",
+      "last": "Huerter",
+      "pos": "G",
+      "teamCode": "DET",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066372.png",
+      "colors": {
+        "primary": "#c8102e",
+        "secondary": "#006bb6"
+      },
+      "score": 53,
+      "stats": {
+        "gp": 12,
+        "pts": 9.9,
+        "reb": 2.5,
+        "ast": 2.5,
+        "stl": 0.9,
+        "blk": 1.1,
+        "min": 24.4
+      },
+      "legendScore": 39.7
     },
     {
       "id": 2991139,
@@ -4090,6 +4165,31 @@ window.NBA_DATA = {
       "legendScore": 38.7
     },
     {
+      "id": 4432847,
+      "name": "Terrence Shannon Jr.",
+      "first": "Terrence",
+      "last": "Shannon Jr.",
+      "pos": "G",
+      "teamCode": "MIN",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432847.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#236192"
+      },
+      "score": 53,
+      "stats": {
+        "gp": 10,
+        "pts": 10.9,
+        "reb": 3.6,
+        "ast": 2.5,
+        "stl": 0.4,
+        "blk": 0.1,
+        "min": 21.5
+      },
+      "legendScore": 37.7
+    },
+    {
       "id": 4433137,
       "name": "Ziaire Williams",
       "first": "Ziaire",
@@ -4163,6 +4263,31 @@ window.NBA_DATA = {
         "min": 21.4
       },
       "legendScore": 32.1
+    },
+    {
+      "id": 4432810,
+      "name": "Isaiah Stewart",
+      "first": "Isaiah",
+      "last": "Stewart",
+      "pos": "C",
+      "teamCode": "MEM",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432810.png",
+      "colors": {
+        "primary": "#5d76a9",
+        "secondary": "#12173f"
+      },
+      "score": 52,
+      "stats": {
+        "gp": 10,
+        "pts": 10.9,
+        "reb": 3.3,
+        "ast": 0.9,
+        "stl": 0.1,
+        "blk": 0.9,
+        "min": 18.2
+      },
+      "legendScore": 36.1
     },
     {
       "id": 3134908,
@@ -4254,10 +4379,10 @@ window.NBA_DATA = {
       },
       "score": 52,
       "stats": {
-        "gp": 11,
-        "pts": 10.9,
-        "reb": 3.2,
-        "ast": 1.3,
+        "gp": 12,
+        "pts": 10.8,
+        "reb": 3.4,
+        "ast": 1.5,
         "stl": 0.6,
         "blk": 0.1,
         "min": 18.3
@@ -4279,40 +4404,15 @@ window.NBA_DATA = {
       },
       "score": 52,
       "stats": {
-        "gp": 11,
-        "pts": 10.0,
-        "reb": 2.4,
-        "ast": 2.9,
-        "stl": 1.0,
-        "blk": 0.2,
-        "min": 18.5
+        "gp": 12,
+        "pts": 10.5,
+        "reb": 2.2,
+        "ast": 3.0,
+        "stl": 0.9,
+        "blk": 0.3,
+        "min": 18.9
       },
       "legendScore": 37.1
-    },
-    {
-      "id": 5211175,
-      "name": "Zaccharie Risacher",
-      "first": "Zaccharie",
-      "last": "Risacher",
-      "pos": "F",
-      "teamCode": "DAL",
-      "age": 21,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5211175.png",
-      "colors": {
-        "primary": "#00538c",
-        "secondary": "#002b5e"
-      },
-      "score": 52,
-      "stats": {
-        "gp": 12,
-        "pts": 8.3,
-        "reb": 5.0,
-        "ast": 1.5,
-        "stl": 1.3,
-        "blk": 1.1,
-        "min": 24.2
-      },
-      "legendScore": 32.1
     },
     {
       "id": 4397040,
@@ -4390,6 +4490,31 @@ window.NBA_DATA = {
       "legendScore": 37.5
     },
     {
+      "id": 3978,
+      "name": "DeMar DeRozan",
+      "first": "DeMar",
+      "last": "DeRozan",
+      "pos": "G",
+      "teamCode": "DEN",
+      "age": 37,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3978.png",
+      "colors": {
+        "primary": "#0e2240",
+        "secondary": "#fec524"
+      },
+      "score": 51,
+      "stats": {
+        "gp": 10,
+        "pts": 9.9,
+        "reb": 2.1,
+        "ast": 2.9,
+        "stl": 0.6,
+        "blk": 0.2,
+        "min": 23.6
+      },
+      "legendScore": 43.5
+    },
+    {
       "id": 4432170,
       "name": "Isaiah Jackson",
       "first": "Isaiah",
@@ -4463,31 +4588,6 @@ window.NBA_DATA = {
         "min": 17.7
       },
       "legendScore": 32.5
-    },
-    {
-      "id": 4066372,
-      "name": "Kevin Huerter",
-      "first": "Kevin",
-      "last": "Huerter",
-      "pos": "G",
-      "teamCode": "DET",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066372.png",
-      "colors": {
-        "primary": "#c8102e",
-        "secondary": "#006bb6"
-      },
-      "score": 51,
-      "stats": {
-        "gp": 11,
-        "pts": 9.0,
-        "reb": 2.4,
-        "ast": 2.1,
-        "stl": 0.9,
-        "blk": 0.9,
-        "min": 23.2
-      },
-      "legendScore": 38.5
     },
     {
       "id": 4702352,
@@ -4565,6 +4665,56 @@ window.NBA_DATA = {
       "legendScore": 38.5
     },
     {
+      "id": 5023693,
+      "name": "Tyrese Proctor",
+      "first": "Tyrese",
+      "last": "Proctor",
+      "pos": "G",
+      "teamCode": "CLE",
+      "age": 22,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5023693.png",
+      "colors": {
+        "primary": "#860038",
+        "secondary": "#fdbb30"
+      },
+      "score": 51,
+      "stats": {
+        "gp": 13,
+        "pts": 9.3,
+        "reb": 3.5,
+        "ast": 2.8,
+        "stl": 0.5,
+        "blk": 0.0,
+        "min": 19.2
+      },
+      "legendScore": 32.5
+    },
+    {
+      "id": 5211175,
+      "name": "Zaccharie Risacher",
+      "first": "Zaccharie",
+      "last": "Risacher",
+      "pos": "F",
+      "teamCode": "DAL",
+      "age": 21,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5211175.png",
+      "colors": {
+        "primary": "#00538c",
+        "secondary": "#002b5e"
+      },
+      "score": 51,
+      "stats": {
+        "gp": 13,
+        "pts": 8.1,
+        "reb": 4.8,
+        "ast": 1.4,
+        "stl": 1.3,
+        "blk": 1.0,
+        "min": 23.5
+      },
+      "legendScore": 31.5
+    },
+    {
       "id": 4600663,
       "name": "Zach Edey",
       "first": "Zach",
@@ -4629,13 +4779,13 @@ window.NBA_DATA = {
       },
       "score": 50,
       "stats": {
-        "gp": 12,
-        "pts": 8.7,
+        "gp": 13,
+        "pts": 8.8,
         "reb": 2.8,
-        "ast": 1.7,
-        "stl": 0.4,
+        "ast": 1.6,
+        "stl": 0.5,
         "blk": 0.7,
-        "min": 26.2
+        "min": 25.9
       },
       "legendScore": 41.0
     },
@@ -4679,13 +4829,13 @@ window.NBA_DATA = {
       },
       "score": 50,
       "stats": {
-        "gp": 12,
-        "pts": 9.8,
+        "gp": 13,
+        "pts": 10.0,
         "reb": 1.4,
-        "ast": 2.9,
+        "ast": 2.8,
         "stl": 0.8,
         "blk": 0.4,
-        "min": 13.2
+        "min": 13.8
       },
       "legendScore": 36.0
     },
@@ -4738,6 +4888,31 @@ window.NBA_DATA = {
         "min": 21.5
       },
       "legendScore": 29.0
+    },
+    {
+      "id": 2995706,
+      "name": "Mario Hezonja",
+      "first": "Mario",
+      "last": "Hezonja",
+      "pos": "F",
+      "teamCode": "CLE",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/2995706.png",
+      "colors": {
+        "primary": "#860038",
+        "secondary": "#fdbb30"
+      },
+      "score": 50,
+      "stats": {
+        "gp": 14,
+        "pts": 8.6,
+        "reb": 5.4,
+        "ast": 1.6,
+        "stl": 0.6,
+        "blk": 0.2,
+        "min": 19.3
+      },
+      "legendScore": 41.0
     },
     {
       "id": 4711272,
@@ -4829,13 +5004,13 @@ window.NBA_DATA = {
       },
       "score": 49,
       "stats": {
-        "gp": 12,
+        "gp": 13,
         "pts": 6.7,
-        "reb": 5.6,
+        "reb": 5.5,
         "ast": 1.8,
         "stl": 0.7,
-        "blk": 0.4,
-        "min": 19.9
+        "blk": 0.5,
+        "min": 19.7
       },
       "legendScore": 40.4
     },
@@ -4865,31 +5040,6 @@ window.NBA_DATA = {
       "legendScore": 42.4
     },
     {
-      "id": 4997538,
-      "name": "Karlo Matkovic",
-      "first": "Karlo",
-      "last": "Matkovic",
-      "pos": "F",
-      "teamCode": "NO",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4997538.png",
-      "colors": {
-        "primary": "#0c2340",
-        "secondary": "#85714d"
-      },
-      "score": 49,
-      "stats": {
-        "gp": 12,
-        "pts": 7.9,
-        "reb": 4.2,
-        "ast": 1.1,
-        "stl": 0.7,
-        "blk": 0.5,
-        "min": 18.7
-      },
-      "legendScore": 34.4
-    },
-    {
       "id": 3914044,
       "name": "Landry Shamet",
       "first": "Landry",
@@ -4913,31 +5063,6 @@ window.NBA_DATA = {
         "min": 25.5
       },
       "legendScore": 38.4
-    },
-    {
-      "id": 2995706,
-      "name": "Mario Hezonja",
-      "first": "Mario",
-      "last": "Hezonja",
-      "pos": "F",
-      "teamCode": "CLE",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/2995706.png",
-      "colors": {
-        "primary": "#860038",
-        "secondary": "#fdbb30"
-      },
-      "score": 49,
-      "stats": {
-        "gp": 13,
-        "pts": 7.5,
-        "reb": 5.3,
-        "ast": 1.4,
-        "stl": 0.6,
-        "blk": 0.2,
-        "min": 18.2
-      },
-      "legendScore": 40.4
     },
     {
       "id": 4397014,
@@ -5140,6 +5265,31 @@ window.NBA_DATA = {
       "legendScore": 31.9
     },
     {
+      "id": 4997538,
+      "name": "Karlo Matkovic",
+      "first": "Karlo",
+      "last": "Matkovic",
+      "pos": "F",
+      "teamCode": "NO",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4997538.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#85714d"
+      },
+      "score": 48,
+      "stats": {
+        "gp": 13,
+        "pts": 7.7,
+        "reb": 4.1,
+        "ast": 1.1,
+        "stl": 0.6,
+        "blk": 0.5,
+        "min": 18.3
+      },
+      "legendScore": 33.9
+    },
+    {
       "id": 3907498,
       "name": "Matisse Thybulle",
       "first": "Matisse",
@@ -5254,63 +5404,13 @@ window.NBA_DATA = {
       },
       "score": 48,
       "stats": {
-        "gp": 10,
-        "pts": 7.1,
-        "reb": 5.6,
-        "ast": 0.5,
-        "stl": 0.6,
-        "blk": 0.5,
-        "min": 19.5
-      },
-      "legendScore": 31.9
-    },
-    {
-      "id": 5023693,
-      "name": "Tyrese Proctor",
-      "first": "Tyrese",
-      "last": "Proctor",
-      "pos": "G",
-      "teamCode": "CLE",
-      "age": 22,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5023693.png",
-      "colors": {
-        "primary": "#860038",
-        "secondary": "#fdbb30"
-      },
-      "score": 48,
-      "stats": {
-        "gp": 12,
-        "pts": 8.1,
-        "reb": 2.9,
-        "ast": 2.2,
-        "stl": 0.5,
-        "blk": 0.0,
-        "min": 17.9
-      },
-      "legendScore": 30.9
-    },
-    {
-      "id": 4896372,
-      "name": "Walter Clayton Jr.",
-      "first": "Walter",
-      "last": "Clayton Jr.",
-      "pos": "G",
-      "teamCode": "DAL",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4896372.png",
-      "colors": {
-        "primary": "#00538c",
-        "secondary": "#002b5e"
-      },
-      "score": 48,
-      "stats": {
         "gp": 11,
-        "pts": 7.0,
-        "reb": 3.0,
-        "ast": 3.5,
-        "stl": 0.6,
-        "blk": 0.2,
-        "min": 16.9
+        "pts": 6.9,
+        "reb": 5.4,
+        "ast": 0.5,
+        "stl": 0.5,
+        "blk": 0.5,
+        "min": 19.2
       },
       "legendScore": 31.9
     },
@@ -5404,13 +5504,13 @@ window.NBA_DATA = {
       },
       "score": 47,
       "stats": {
-        "gp": 12,
-        "pts": 6.2,
-        "reb": 6.4,
-        "ast": 0.6,
-        "stl": 0.2,
-        "blk": 1.0,
-        "min": 16.9
+        "gp": 13,
+        "pts": 5.9,
+        "reb": 6.3,
+        "ast": 0.5,
+        "stl": 0.3,
+        "blk": 0.9,
+        "min": 16.5
       },
       "legendScore": 28.3
     },
@@ -5529,15 +5629,40 @@ window.NBA_DATA = {
       },
       "score": 47,
       "stats": {
-        "gp": 11,
-        "pts": 6.9,
-        "reb": 4.8,
-        "ast": 1.2,
+        "gp": 12,
+        "pts": 6.7,
+        "reb": 4.6,
+        "ast": 1.1,
         "stl": 0.5,
         "blk": 0.1,
-        "min": 16.7
+        "min": 16.6
       },
       "legendScore": 28.3
+    },
+    {
+      "id": 4712896,
+      "name": "Noah Clowney",
+      "first": "Noah",
+      "last": "Clowney",
+      "pos": "F",
+      "teamCode": "BKN",
+      "age": 22,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4712896.png",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#ffffff"
+      },
+      "score": 47,
+      "stats": {
+        "gp": 12,
+        "pts": 6.8,
+        "reb": 4.6,
+        "ast": 0.8,
+        "stl": 0.4,
+        "blk": 0.7,
+        "min": 20.8
+      },
+      "legendScore": 30.3
     },
     {
       "id": 4602025,
@@ -5561,6 +5686,31 @@ window.NBA_DATA = {
         "stl": 0.8,
         "blk": 0.0,
         "min": 26.1
+      },
+      "legendScore": 31.3
+    },
+    {
+      "id": 4896372,
+      "name": "Walter Clayton Jr.",
+      "first": "Walter",
+      "last": "Clayton Jr.",
+      "pos": "G",
+      "teamCode": "DAL",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4896372.png",
+      "colors": {
+        "primary": "#00538c",
+        "secondary": "#002b5e"
+      },
+      "score": 47,
+      "stats": {
+        "gp": 12,
+        "pts": 6.6,
+        "reb": 2.9,
+        "ast": 3.3,
+        "stl": 0.6,
+        "blk": 0.2,
+        "min": 16.6
       },
       "legendScore": 31.3
     },
@@ -5615,29 +5765,29 @@ window.NBA_DATA = {
       "legendScore": 30.8
     },
     {
-      "id": 5105550,
-      "name": "GG Jackson",
-      "first": "GG",
-      "last": "Jackson",
-      "pos": "F",
-      "teamCode": "MEM",
-      "age": 21,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5105550.png",
+      "id": 2990984,
+      "name": "Buddy Hield",
+      "first": "Buddy",
+      "last": "Hield",
+      "pos": "G",
+      "teamCode": "CHI",
+      "age": 33,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/2990984.png",
       "colors": {
-        "primary": "#5d76a9",
-        "secondary": "#12173f"
+        "primary": "#ce1141",
+        "secondary": "#000000"
       },
       "score": 46,
       "stats": {
-        "gp": 11,
-        "pts": 7.0,
-        "reb": 3.3,
-        "ast": 1.1,
-        "stl": 0.4,
-        "blk": 0.5,
-        "min": 16.1
+        "gp": 10,
+        "pts": 7.3,
+        "reb": 2.1,
+        "ast": 1.8,
+        "stl": 0.7,
+        "blk": 0.2,
+        "min": 15.0
       },
-      "legendScore": 28.8
+      "legendScore": 40.8
     },
     {
       "id": 4277813,
@@ -5654,13 +5804,13 @@ window.NBA_DATA = {
       },
       "score": 46,
       "stats": {
-        "gp": 13,
-        "pts": 5.8,
+        "gp": 14,
+        "pts": 6.1,
         "reb": 2.9,
         "ast": 1.2,
         "stl": 0.9,
-        "blk": 0.5,
-        "min": 23.5
+        "blk": 0.4,
+        "min": 23.9
       },
       "legendScore": 35.8
     },
@@ -5713,6 +5863,31 @@ window.NBA_DATA = {
         "min": 16.7
       },
       "legendScore": 36.8
+    },
+    {
+      "id": 5044385,
+      "name": "Leonard Miller",
+      "first": "Leonard",
+      "last": "Miller",
+      "pos": "F",
+      "teamCode": "CHI",
+      "age": 22,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5044385.png",
+      "colors": {
+        "primary": "#ce1141",
+        "secondary": "#000000"
+      },
+      "score": 46,
+      "stats": {
+        "gp": 10,
+        "pts": 6.1,
+        "reb": 3.6,
+        "ast": 1.2,
+        "stl": 0.5,
+        "blk": 0.7,
+        "min": 16.0
+      },
+      "legendScore": 29.8
     },
     {
       "id": 3913174,
@@ -5790,31 +5965,6 @@ window.NBA_DATA = {
       "legendScore": 26.8
     },
     {
-      "id": 4712896,
-      "name": "Noah Clowney",
-      "first": "Noah",
-      "last": "Clowney",
-      "pos": "F",
-      "teamCode": "BKN",
-      "age": 22,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4712896.png",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#ffffff"
-      },
-      "score": 46,
-      "stats": {
-        "gp": 11,
-        "pts": 6.0,
-        "reb": 4.4,
-        "ast": 0.6,
-        "stl": 0.5,
-        "blk": 0.5,
-        "min": 19.5
-      },
-      "legendScore": 29.8
-    },
-    {
       "id": 4576060,
       "name": "Ryan Kalkbrenner",
       "first": "Ryan",
@@ -5865,6 +6015,31 @@ window.NBA_DATA = {
       "legendScore": 40.2
     },
     {
+      "id": 5105550,
+      "name": "GG Jackson",
+      "first": "GG",
+      "last": "Jackson",
+      "pos": "F",
+      "teamCode": "MEM",
+      "age": 21,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5105550.png",
+      "colors": {
+        "primary": "#5d76a9",
+        "secondary": "#12173f"
+      },
+      "score": 45,
+      "stats": {
+        "gp": 12,
+        "pts": 6.7,
+        "reb": 3.0,
+        "ast": 1.0,
+        "stl": 0.3,
+        "blk": 0.4,
+        "min": 15.0
+      },
+      "legendScore": 28.2
+    },
+    {
       "id": 4997536,
       "name": "Gui Santos",
       "first": "Gui",
@@ -5904,13 +6079,13 @@ window.NBA_DATA = {
       },
       "score": 45,
       "stats": {
-        "gp": 11,
-        "pts": 6.1,
-        "reb": 1.5,
-        "ast": 1.5,
-        "stl": 0.5,
-        "blk": 0.4,
-        "min": 21.1
+        "gp": 12,
+        "pts": 6.3,
+        "reb": 2.0,
+        "ast": 1.7,
+        "stl": 0.4,
+        "blk": 0.3,
+        "min": 21.9
       },
       "legendScore": 32.2
     },
@@ -5965,31 +6140,6 @@ window.NBA_DATA = {
       "legendScore": 40.2
     },
     {
-      "id": 4702177,
-      "name": "Keon Ellis",
-      "first": "Keon",
-      "last": "Ellis",
-      "pos": "G",
-      "teamCode": "BKN",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4702177.png",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#ffffff"
-      },
-      "score": 45,
-      "stats": {
-        "gp": 10,
-        "pts": 5.0,
-        "reb": 1.9,
-        "ast": 2.1,
-        "stl": 1.2,
-        "blk": 0.9,
-        "min": 22.9
-      },
-      "legendScore": 33.2
-    },
-    {
       "id": 4277951,
       "name": "Luka Garza",
       "first": "Luka",
@@ -6013,6 +6163,31 @@ window.NBA_DATA = {
         "min": 12.3
       },
       "legendScore": 34.2
+    },
+    {
+      "id": 4683771,
+      "name": "Ronald Holland II",
+      "first": "Ronald",
+      "last": "Holland II",
+      "pos": "F",
+      "teamCode": "DET",
+      "age": 21,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683771.png",
+      "colors": {
+        "primary": "#c8102e",
+        "secondary": "#006bb6"
+      },
+      "score": 45,
+      "stats": {
+        "gp": 12,
+        "pts": 4.9,
+        "reb": 3.8,
+        "ast": 1.8,
+        "stl": 0.6,
+        "blk": 0.8,
+        "min": 15.9
+      },
+      "legendScore": 28.2
     },
     {
       "id": 4888725,
@@ -6079,12 +6254,12 @@ window.NBA_DATA = {
       },
       "score": 45,
       "stats": {
-        "gp": 12,
-        "pts": 6.0,
-        "reb": 3.9,
-        "ast": 0.8,
+        "gp": 13,
+        "pts": 5.9,
+        "reb": 3.7,
+        "ast": 0.9,
         "stl": 0.5,
-        "blk": 0.2,
+        "blk": 0.3,
         "min": 18.2
       },
       "legendScore": 38.2
@@ -6204,15 +6379,40 @@ window.NBA_DATA = {
       },
       "score": 44,
       "stats": {
-        "gp": 11,
-        "pts": 6.1,
-        "reb": 2.3,
+        "gp": 12,
+        "pts": 6.0,
+        "reb": 2.2,
         "ast": 0.5,
         "stl": 0.8,
-        "blk": 0.4,
-        "min": 17.4
+        "blk": 0.3,
+        "min": 16.9
       },
       "legendScore": 39.6
+    },
+    {
+      "id": 4702177,
+      "name": "Keon Ellis",
+      "first": "Keon",
+      "last": "Ellis",
+      "pos": "G",
+      "teamCode": "BKN",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4702177.png",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#ffffff"
+      },
+      "score": 44,
+      "stats": {
+        "gp": 11,
+        "pts": 4.5,
+        "reb": 1.7,
+        "ast": 2.0,
+        "stl": 1.2,
+        "blk": 0.8,
+        "min": 21.5
+      },
+      "legendScore": 32.6
     },
     {
       "id": 4277848,
@@ -6229,13 +6429,13 @@ window.NBA_DATA = {
       },
       "score": 44,
       "stats": {
-        "gp": 10,
-        "pts": 5.8,
-        "reb": 3.3,
-        "ast": 0.6,
+        "gp": 11,
+        "pts": 5.9,
+        "reb": 3.6,
+        "ast": 0.5,
         "stl": 0.2,
         "blk": 0.5,
-        "min": 12.3
+        "min": 12.4
       },
       "legendScore": 33.6
     },
@@ -6265,31 +6465,6 @@ window.NBA_DATA = {
       "legendScore": 29.6
     },
     {
-      "id": 4683771,
-      "name": "Ronald Holland II",
-      "first": "Ronald",
-      "last": "Holland II",
-      "pos": "F",
-      "teamCode": "DET",
-      "age": 21,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683771.png",
-      "colors": {
-        "primary": "#c8102e",
-        "secondary": "#006bb6"
-      },
-      "score": 44,
-      "stats": {
-        "gp": 11,
-        "pts": 4.9,
-        "reb": 3.5,
-        "ast": 1.7,
-        "stl": 0.5,
-        "blk": 0.8,
-        "min": 15.4
-      },
-      "legendScore": 27.6
-    },
-    {
       "id": 2583632,
       "name": "Royce O'Neale",
       "first": "Royce",
@@ -6313,6 +6488,31 @@ window.NBA_DATA = {
         "min": 19.4
       },
       "legendScore": 39.6
+    },
+    {
+      "id": 5107157,
+      "name": "Ryan Conwell",
+      "first": "Ryan",
+      "last": "Conwell",
+      "pos": "G",
+      "teamCode": "MIA",
+      "age": 22,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5107157.png",
+      "colors": {
+        "primary": "#98002e",
+        "secondary": "#f9a01b"
+      },
+      "score": 44,
+      "stats": {
+        "gp": 11,
+        "pts": 6.1,
+        "reb": 1.8,
+        "ast": 1.3,
+        "stl": 0.6,
+        "blk": 0.0,
+        "min": 15.5
+      },
+      "legendScore": 28.6
     },
     {
       "id": 4683634,
@@ -6379,13 +6579,13 @@ window.NBA_DATA = {
       },
       "score": 43,
       "stats": {
-        "gp": 11,
-        "pts": 4.7,
-        "reb": 2.5,
-        "ast": 1.1,
+        "gp": 12,
+        "pts": 4.4,
+        "reb": 2.8,
+        "ast": 1.0,
         "stl": 0.6,
         "blk": 0.4,
-        "min": 18.8
+        "min": 18.2
       },
       "legendScore": 30.1
     },
@@ -6413,31 +6613,6 @@ window.NBA_DATA = {
         "min": 14.1
       },
       "legendScore": 34.1
-    },
-    {
-      "id": 4432247,
-      "name": "Jaylen Clark",
-      "first": "Jaylen",
-      "last": "Clark",
-      "pos": "G",
-      "teamCode": "MIN",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432247.png",
-      "colors": {
-        "primary": "#0c2340",
-        "secondary": "#236192"
-      },
-      "score": 43,
-      "stats": {
-        "gp": 11,
-        "pts": 4.9,
-        "reb": 2.3,
-        "ast": 0.8,
-        "stl": 0.9,
-        "blk": 0.2,
-        "min": 14.5
-      },
-      "legendScore": 31.1
     },
     {
       "id": 4683689,
@@ -6513,56 +6688,6 @@ window.NBA_DATA = {
         "min": 15.6
       },
       "legendScore": 32.1
-    },
-    {
-      "id": 5242496,
-      "name": "Noa Essengue",
-      "first": "Noa",
-      "last": "Essengue",
-      "pos": "F",
-      "teamCode": "CHI",
-      "age": 19,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5242496.png",
-      "colors": {
-        "primary": "#ce1141",
-        "secondary": "#000000"
-      },
-      "score": 43,
-      "stats": {
-        "gp": 10,
-        "pts": 5.5,
-        "reb": 3.3,
-        "ast": 0.7,
-        "stl": 0.3,
-        "blk": 0.3,
-        "min": 13.2
-      },
-      "legendScore": 25.1
-    },
-    {
-      "id": 5107157,
-      "name": "Ryan Conwell",
-      "first": "Ryan",
-      "last": "Conwell",
-      "pos": "G",
-      "teamCode": "MIA",
-      "age": 22,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5107157.png",
-      "colors": {
-        "primary": "#98002e",
-        "secondary": "#f9a01b"
-      },
-      "score": 43,
-      "stats": {
-        "gp": 10,
-        "pts": 5.8,
-        "reb": 1.6,
-        "ast": 1.3,
-        "stl": 0.6,
-        "blk": 0.0,
-        "min": 14.4
-      },
-      "legendScore": 28.1
     },
     {
       "id": 4433225,
@@ -6765,6 +6890,31 @@ window.NBA_DATA = {
       "legendScore": 32.5
     },
     {
+      "id": 4432247,
+      "name": "Jaylen Clark",
+      "first": "Jaylen",
+      "last": "Clark",
+      "pos": "G",
+      "teamCode": "MIN",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432247.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#236192"
+      },
+      "score": 42,
+      "stats": {
+        "gp": 12,
+        "pts": 4.5,
+        "reb": 2.1,
+        "ast": 0.8,
+        "stl": 0.9,
+        "blk": 0.2,
+        "min": 13.6
+      },
+      "legendScore": 30.5
+    },
+    {
       "id": 2528426,
       "name": "Jordan Clarkson",
       "first": "Jordan",
@@ -6863,6 +7013,31 @@ window.NBA_DATA = {
         "min": 15.0
       },
       "legendScore": 36.5
+    },
+    {
+      "id": 5242496,
+      "name": "Noa Essengue",
+      "first": "Noa",
+      "last": "Essengue",
+      "pos": "F",
+      "teamCode": "CHI",
+      "age": 19,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5242496.png",
+      "colors": {
+        "primary": "#ce1141",
+        "secondary": "#000000"
+      },
+      "score": 42,
+      "stats": {
+        "gp": 11,
+        "pts": 5.0,
+        "reb": 3.1,
+        "ast": 0.6,
+        "stl": 0.3,
+        "blk": 0.3,
+        "min": 12.6
+      },
+      "legendScore": 24.5
     },
     {
       "id": 5060701,
@@ -7090,6 +7265,31 @@ window.NBA_DATA = {
       "legendScore": 33.4
     },
     {
+      "id": 4701233,
+      "name": "Craig Porter Jr.",
+      "first": "Craig",
+      "last": "Porter Jr.",
+      "pos": "G",
+      "teamCode": "CLE",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4701233.png",
+      "colors": {
+        "primary": "#860038",
+        "secondary": "#fdbb30"
+      },
+      "score": 39,
+      "stats": {
+        "gp": 11,
+        "pts": 2.1,
+        "reb": 2.4,
+        "ast": 1.8,
+        "stl": 0.4,
+        "blk": 0.4,
+        "min": 11.6
+      },
+      "legendScore": 29.8
+    },
+    {
       "id": 6478,
       "name": "Nikola Vucevic",
       "first": "Nikola",
@@ -7129,40 +7329,15 @@ window.NBA_DATA = {
       },
       "score": 38,
       "stats": {
-        "gp": 10,
+        "gp": 11,
         "pts": 2.5,
-        "reb": 0.6,
-        "ast": 2.0,
-        "stl": 0.6,
+        "reb": 0.5,
+        "ast": 2.1,
+        "stl": 0.5,
         "blk": 0.2,
         "min": 10.5
       },
       "legendScore": 33.3
-    },
-    {
-      "id": 4701233,
-      "name": "Craig Porter Jr.",
-      "first": "Craig",
-      "last": "Porter Jr.",
-      "pos": "G",
-      "teamCode": "CLE",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4701233.png",
-      "colors": {
-        "primary": "#860038",
-        "secondary": "#fdbb30"
-      },
-      "score": 37,
-      "stats": {
-        "gp": 10,
-        "pts": 1.4,
-        "reb": 1.7,
-        "ast": 1.4,
-        "stl": 0.3,
-        "blk": 0.3,
-        "min": 10.0
-      },
-      "legendScore": 28.7
     },
     {
       "id": 4702384,
@@ -7598,9 +7773,9 @@ window.NBA_DATA = {
           "secondary": "#f9a01b"
         },
         "age": 31,
-        "careerScore": 66.7,
+        "careerScore": 67.3,
         "threshold": 92.1,
-        "gap": 25.4,
+        "gap": 24.8,
         "rings": 1,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": 3
@@ -7632,9 +7807,9 @@ window.NBA_DATA = {
           "secondary": "#fec524"
         },
         "age": 31,
-        "careerScore": 64.5,
+        "careerScore": 65.0,
         "threshold": 92.1,
-        "gap": 27.6,
+        "gap": 27.1,
         "rings": 1,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": 5
@@ -7788,7 +7963,7 @@ window.NBA_DATA = {
           "primary": "#1d428a",
           "secondary": "#ffc72c"
         },
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "teamCode": "OKC",
@@ -7804,7 +7979,7 @@ window.NBA_DATA = {
           "primary": "#007ac1",
           "secondary": "#ef3b24"
         },
-        "prevRank": 6
+        "prevRank": 5
       },
       {
         "teamCode": "MIN",
@@ -7820,7 +7995,7 @@ window.NBA_DATA = {
           "primary": "#0c2340",
           "secondary": "#236192"
         },
-        "prevRank": 4
+        "prevRank": 6
       },
       {
         "teamCode": "DEN",
@@ -7915,11 +8090,11 @@ window.NBA_DATA = {
           "secondary": "#002b5e"
         },
         "age": 19,
-        "currentScore": 80,
-        "projectedScore": 68.1,
+        "currentScore": 79,
+        "projectedScore": 67.5,
         "threshold": 92.1,
-        "gap": 24.0,
-        "note": "Elite start to career — ceiling is very high",
+        "gap": 24.6,
+        "note": "Among the best players of their generation",
         "prevRank": 2
       },
       {
@@ -7938,6 +8113,23 @@ window.NBA_DATA = {
         "gap": 25.1,
         "note": "Among the best players of their generation",
         "prevRank": 3
+      },
+      {
+        "id": 4432166,
+        "name": "Cade Cunningham",
+        "pos": "G",
+        "teamCode": "DET",
+        "colors": {
+          "primary": "#c8102e",
+          "secondary": "#006bb6"
+        },
+        "age": 25,
+        "currentScore": 81,
+        "projectedScore": 61.7,
+        "threshold": 92.1,
+        "gap": 30.4,
+        "note": "Elite current form — needs sustained peak + rings",
+        "prevRank": 6
       },
       {
         "id": 5095151,
@@ -7972,23 +8164,6 @@ window.NBA_DATA = {
         "gap": 30.9,
         "note": "Elite current form — needs sustained peak + rings",
         "prevRank": 5
-      },
-      {
-        "id": 4432166,
-        "name": "Cade Cunningham",
-        "pos": "G",
-        "teamCode": "DET",
-        "colors": {
-          "primary": "#c8102e",
-          "secondary": "#006bb6"
-        },
-        "age": 25,
-        "currentScore": 80,
-        "projectedScore": 61.2,
-        "threshold": 92.1,
-        "gap": 30.9,
-        "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 6
       },
       {
         "id": 4566434,
@@ -8101,7 +8276,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-15 12:44 UTC",
+  "LAST_UPDATE": "2026-11-15 14:06 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

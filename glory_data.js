@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-15 12:47 UTC",
+  "UPDATED": "2026-11-15 14:09 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -675,9 +675,9 @@ window.GLORY_DATA = {
       "Victor Wembanyama",
       "Cooper Flagg",
       "Darius Acuff Jr.",
+      "Cade Cunningham",
       "Caleb Wilson",
       "Alperen Sengun",
-      "Cade Cunningham",
       "Franz Wagner",
       "Cameron Boozer",
       "Dylan Harper",
