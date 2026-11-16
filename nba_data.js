@@ -3,6 +3,26 @@
 window.NBA_DATA = {
   "TEAMS": [
     {
+      "code": "SA",
+      "city": "San Antonio Spurs",
+      "shortName": "San Antonio",
+      "commonName": "Spurs",
+      "conf": "W",
+      "gp": 14,
+      "w": 12,
+      "l": 2,
+      "winPct": 0.857,
+      "gf": 1663,
+      "ga": 1483,
+      "gd": 180,
+      "score": 93,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+      "colors": {
+        "primary": "#c4ced4",
+        "secondary": "#000000"
+      }
+    },
+    {
       "code": "LAL",
       "city": "Los Angeles Lakers",
       "shortName": "Los Angeles",
@@ -20,26 +40,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#552583",
         "secondary": "#fdb927"
-      }
-    },
-    {
-      "code": "SA",
-      "city": "San Antonio Spurs",
-      "shortName": "San Antonio",
-      "commonName": "Spurs",
-      "conf": "W",
-      "gp": 13,
-      "w": 11,
-      "l": 2,
-      "winPct": 0.846,
-      "gf": 1553,
-      "ga": 1381,
-      "gd": 172,
-      "score": 93,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
-      "colors": {
-        "primary": "#c4ced4",
-        "secondary": "#000000"
       }
     },
     {
@@ -423,6 +423,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "LAC",
+      "city": "LA Clippers",
+      "shortName": "LA",
+      "commonName": "Clippers",
+      "conf": "W",
+      "gp": 12,
+      "w": 4,
+      "l": 8,
+      "winPct": 0.333,
+      "gf": 1348,
+      "ga": 1398,
+      "gd": -50,
+      "score": 20,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+      "colors": {
+        "primary": "#c8102e",
+        "secondary": "#1d428a"
+      }
+    },
+    {
       "code": "WSH",
       "city": "Washington Wizards",
       "shortName": "Washington",
@@ -483,26 +503,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "LAC",
-      "city": "LA Clippers",
-      "shortName": "LA",
-      "commonName": "Clippers",
-      "conf": "W",
-      "gp": 11,
-      "w": 3,
-      "l": 8,
-      "winPct": 0.273,
-      "gf": 1235,
-      "ga": 1293,
-      "gd": -58,
-      "score": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
-      "colors": {
-        "primary": "#c8102e",
-        "secondary": "#1d428a"
-      }
-    },
-    {
       "code": "BKN",
       "city": "Brooklyn Nets",
       "shortName": "Brooklyn",
@@ -548,13 +548,13 @@ window.NBA_DATA = {
       "shortName": "Utah",
       "commonName": "Jazz",
       "conf": "W",
-      "gp": 13,
+      "gp": 14,
       "w": 1,
-      "l": 12,
-      "winPct": 0.077,
-      "gf": 1397,
-      "ga": 1542,
-      "gd": -145,
+      "l": 13,
+      "winPct": 0.071,
+      "gf": 1499,
+      "ga": 1652,
+      "gd": -153,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
       "colors": {
@@ -8276,7 +8276,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-15 23:58 UTC",
+  "LAST_UPDATE": "2026-11-16 01:08 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

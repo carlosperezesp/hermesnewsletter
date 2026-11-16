@@ -14348,7 +14348,7 @@ window.NHL_DATA = {
       "name": "Emil Heineman",
       "pos": "LW",
       "teamCode": "NYI",
-      "age": 24,
+      "age": 25,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -14612,7 +14612,7 @@ window.NHL_DATA = {
       "name": "Linus Karlsson",
       "pos": "C",
       "teamCode": "VAN",
-      "age": 26,
+      "age": 27,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -17430,7 +17430,7 @@ window.NHL_DATA = {
       "name": "Paul Cotter",
       "pos": "LW",
       "teamCode": "VAN",
-      "age": 26,
+      "age": 27,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -17892,7 +17892,7 @@ window.NHL_DATA = {
       "name": "Aydar Suniev",
       "pos": "LW",
       "teamCode": "CGY",
-      "age": 21,
+      "age": 22,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -38940,10 +38940,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-15 23:58 UTC",
+  "LAST_UPDATE": "2026-11-16 01:08 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-15T23:57:44Z"
+    "standingsDateTimeUtc": "2026-11-16T01:08:00Z"
   }
 };

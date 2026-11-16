@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-15 23:58 UTC
+// Auto-generated 2026-11-16 01:09 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-11-15 23:58 UTC",
+  "UPDATED": "2026-11-16 01:09 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -458,22 +458,6 @@ window.GOLF_DATA = {
     }
   ],
   "PROSPECTS": [
-    {
-      "id": "ludvig_aberg",
-      "name": "Ludvig Aberg",
-      "country": "SWE",
-      "logo": "https://flagcdn.com/24x18/se.png",
-      "teamCode": "PGA",
-      "primary": "#006AA7",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#006AA7",
-        "secondary": "#FFFFFF"
-      },
-      "activeScore": 92,
-      "age": 26,
-      "note": "Ya entre la élite a los 26"
-    },
     {
       "id": "akshay_bhatia",
       "name": "Akshay Bhatia",
