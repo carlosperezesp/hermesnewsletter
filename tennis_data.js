@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-16 16:08 UTC
+// Auto-generated 2026-11-16 22:31 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-16 16:08 UTC",
+  "UPDATED": "2026-11-16 22:31 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -510,7 +510,7 @@ window.TENNIS_DATA = {
         "tournament": "Nitto ATP Finals",
         "state": "alive",
         "round": "Group Stage",
-        "reason": ""
+        "reason": "Eliminado en Group Stage"
       },
       "prevActiveScore": 74.5
     },
@@ -10945,9 +10945,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Flavio Cobolli",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 77.9,
           "l_score": 74.5,
           "match_score": 77.9
@@ -10989,9 +10989,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ipek Oz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 7-5 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 36.2,
           "l_score": null,
           "match_score": 36.2
@@ -11002,9 +11002,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Valeriya Strakhova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11028,9 +11028,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Luisina Giovannini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11041,33 +11041,20 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Victoria Jimenez Kasintseva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 3-6 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "R128",
-          "w": "Martina Trevisan",
+          "w": "Guiomar Maristany Zuleta De Reales",
           "w_logo": "",
-          "l": "Guiomar Maristany Zuleta De Reales",
+          "l": "Martina Trevisan",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "Nuria Brancaccio",
-          "w_logo": "",
-          "l": "Sofia Costoulas",
-          "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11081,6 +11068,19 @@ window.TENNIS_DATA = {
           "l": "Diletta Cherubini",
           "l_logo": "",
           "score": "7-5 6-3",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Sofia Costoulas",
+          "w_logo": "",
+          "l": "Nuria Brancaccio",
+          "l_logo": "",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11141,31 +11141,31 @@ window.TENNIS_DATA = {
       "Despina Papamichail",
       "Fernanda Labrana",
       "Guiomar Maristany Zuleta De Reales",
-      "Ipek Oz",
       "Irene Burillo",
       "Laura Samson",
       "Leyre Romero Gormaz",
       "Lucia Bronzetti",
       "Luisina Giovannini",
       "Maria Lourdes Carle",
-      "Martina Trevisan",
       "Miriam Bulgaru",
       "Nadia Podoroska",
-      "Nuria Brancaccio",
       "Polona Hercog",
       "Rebeka Masarova",
       "Sofia Costoulas",
       "Valeriya Strakhova",
       "Varvara Lepchenko",
-      "Veronika Erjavec",
-      "Victoria Jimenez Kasintseva"
+      "Veronika Erjavec"
     ],
     "out": [
       "Diletta Cherubini",
-      "Katrina Scott"
+      "Ipek Oz",
+      "Katrina Scott",
+      "Martina Trevisan",
+      "Nuria Brancaccio",
+      "Victoria Jimenez Kasintseva"
     ],
-    "aliveCount": 30,
-    "matchesSeen": 16
+    "aliveCount": 26,
+    "matchesSeen": 17
   },
   "ATP_SCORE_LOG": {
     "206173": [

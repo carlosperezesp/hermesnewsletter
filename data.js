@@ -1043,7 +1043,7 @@ window.NHL_DATA = {
         "p": 23,
         "pm": 4,
         "toi": 25.8,
-        "shots": 57
+        "shots": 58
       },
       "trajectory": [
         41,
@@ -1406,7 +1406,7 @@ window.NHL_DATA = {
         "p": 28,
         "pm": 10,
         "toi": 21.2,
-        "shots": 63
+        "shots": 64
       },
       "trajectory": [
         42,
@@ -1928,9 +1928,9 @@ window.NHL_DATA = {
       "name": "Zac Jones",
       "pos": "D",
       "teamCode": "UTA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 26,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#69b3e7",
         "secondary": "#010101"
@@ -2575,7 +2575,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 7,
         "w": 7,
-        "svpct": 0.916,
+        "svpct": 0.915,
         "gaa": 2.25,
         "so": 1
       },
@@ -6669,7 +6669,7 @@ window.NHL_DATA = {
         "p": 14,
         "pm": -10,
         "toi": 17.2,
-        "shots": 22
+        "shots": 23
       },
       "trajectory": [
         40,
@@ -7620,7 +7620,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 8,
         "w": 2,
-        "svpct": 0.893,
+        "svpct": 0.894,
         "gaa": 3.25,
         "so": 0
       },
@@ -8279,7 +8279,7 @@ window.NHL_DATA = {
         "p": 9,
         "pm": -1,
         "toi": 20.6,
-        "shots": 30
+        "shots": 29
       },
       "trajectory": [
         39,
@@ -14664,7 +14664,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": 2,
         "toi": 20.9,
-        "shots": 15
+        "shots": 14
       },
       "trajectory": [
         37,
@@ -14864,7 +14864,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": 3,
         "toi": 9.7,
-        "shots": 8
+        "shots": 9
       },
       "trajectory": [
         38,
@@ -15397,7 +15397,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": -3,
         "toi": 21.4,
-        "shots": 34
+        "shots": 35
       },
       "trajectory": [
         38,
@@ -16522,7 +16522,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": -6,
         "toi": 17.7,
-        "shots": 22
+        "shots": 23
       },
       "trajectory": [
         38,
@@ -18170,7 +18170,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": -1,
         "toi": 19.7,
-        "shots": 9
+        "shots": 8
       },
       "trajectory": [
         38,
@@ -21156,9 +21156,9 @@ window.NHL_DATA = {
       "name": "William Stromgren",
       "pos": "LW",
       "teamCode": "CGY",
-      "age": 23,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
@@ -24456,9 +24456,9 @@ window.NHL_DATA = {
       "name": "Isaac Howard",
       "pos": "LW",
       "teamCode": "EDM",
-      "age": 22,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
@@ -25149,9 +25149,9 @@ window.NHL_DATA = {
       "name": "Artem Duda",
       "pos": "D",
       "teamCode": "UTA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "Russia",
+      "birthCountry": "RUS",
       "colors": {
         "primary": "#69b3e7",
         "secondary": "#010101"
@@ -28812,9 +28812,9 @@ window.NHL_DATA = {
       "name": "Ben McCartney",
       "pos": "LW",
       "teamCode": "UTA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#69b3e7",
         "secondary": "#010101"
@@ -38922,10 +38922,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-16 16:06 UTC",
+  "LAST_UPDATE": "2026-11-16 22:29 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-16T16:05:30Z"
+    "standingsDateTimeUtc": "2026-11-16T22:29:30Z"
   }
 };

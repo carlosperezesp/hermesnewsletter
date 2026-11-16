@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-11-16 16:08 UTC",
+  "UPDATED": "2026-11-16 22:31 UTC",
   "LAST_MATCH": "2026-11-15",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 376,
-    "teams": 162,
-    "matches": 10071,
+    "incrementalMatches": 321,
+    "teams": 161,
+    "matches": 10016,
     "through": "2026-11-15"
   },
   "IMPORTANCE": 6.5,
@@ -466,6 +466,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Bluenergy Stadium",
         "city": "Udine"
+      },
+      {
+        "date": "2026-11-27",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Italy",
+          "teamCode": "ITA",
+          "colors": {
+            "primary": "#0066b3",
+            "secondary": "#009246"
+          }
+        },
+        "away": {
+          "name": "TBC",
+          "teamCode": "T",
+          "colors": {
+            "primary": "#8a8178",
+            "secondary": "#dedad6"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Allianz Stadium",
+        "city": "London"
       }
     ]
   },
@@ -578,8 +603,8 @@ window.RUGBY_DATA = {
       "name": "England",
       "teamCode": "ENG",
       "country": "England",
-      "elo": 2442.5,
-      "eloRaw": 2442.5,
+      "elo": 2442.4,
+      "eloRaw": 2442.4,
       "lastMatch": "2026-11-14",
       "inactiveDays": 1,
       "peakElo": 2568.0,
@@ -670,8 +695,8 @@ window.RUGBY_DATA = {
       "name": "Fiji",
       "teamCode": "FIJ",
       "country": "Fiji",
-      "elo": 2153.2,
-      "eloRaw": 2153.2,
+      "elo": 2153.1,
+      "eloRaw": 2153.1,
       "lastMatch": "2026-11-14",
       "inactiveDays": 1,
       "peakElo": 2249.9,
