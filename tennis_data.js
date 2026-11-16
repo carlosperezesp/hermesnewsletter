@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-16 13:42 UTC
+// Auto-generated 2026-11-16 16:08 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-16 13:42 UTC",
+  "UPDATED": "2026-11-16 16:08 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -578,7 +578,7 @@ window.TENNIS_DATA = {
         "tournament": "Nitto ATP Finals",
         "state": "alive",
         "round": "Group Stage",
-        "reason": ""
+        "reason": "Eliminado en Group Stage"
       },
       "prevActiveScore": 74.2
     },
@@ -10928,15 +10928,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Frances Tiafoe",
+          "w": "Carlos Alcaraz",
           "w_logo": "",
-          "l": "Carlos Alcaraz",
+          "l": "Frances Tiafoe",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 74.2,
-          "l_score": 90.9,
+          "w_score": 90.9,
+          "l_score": 74.2,
           "match_score": 90.9
         },
         {
@@ -11015,9 +11015,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Katrina Scott",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11050,19 +11050,6 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Diletta Cherubini",
-          "w_logo": "",
-          "l": "Rebeka Masarova",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
           "w": "Martina Trevisan",
           "w_logo": "",
           "l": "Guiomar Maristany Zuleta De Reales",
@@ -11080,9 +11067,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sofia Costoulas",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Rebeka Masarova",
+          "w_logo": "",
+          "l": "Diletta Cherubini",
+          "l_logo": "",
+          "score": "7-5 6-3",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11139,12 +11139,10 @@ window.TENNIS_DATA = {
       "Carole Monnet",
       "Darja Semenistaja",
       "Despina Papamichail",
-      "Diletta Cherubini",
       "Fernanda Labrana",
       "Guiomar Maristany Zuleta De Reales",
       "Ipek Oz",
       "Irene Burillo",
-      "Katrina Scott",
       "Laura Samson",
       "Leyre Romero Gormaz",
       "Lucia Bronzetti",
@@ -11162,8 +11160,11 @@ window.TENNIS_DATA = {
       "Veronika Erjavec",
       "Victoria Jimenez Kasintseva"
     ],
-    "out": [],
-    "aliveCount": 32,
+    "out": [
+      "Diletta Cherubini",
+      "Katrina Scott"
+    ],
+    "aliveCount": 30,
     "matchesSeen": 16
   },
   "ATP_SCORE_LOG": {
