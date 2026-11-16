@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-16 01:11 UTC",
+  "UPDATED": "2026-11-16 13:42 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -124,6 +124,33 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Kirill Kaprizov",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Kirill Kaprizov entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Kevin Durant",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Kevin Durant entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Darryn Peterson",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Darryn Peterson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-16"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Lenni Hameenaho",
       "sport": "nhl",
       "detail": "NHL",
@@ -138,24 +165,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-14"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Paul George",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Paul George entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-14"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Deni Avdija",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Deni Avdija entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-14"
     },
@@ -266,15 +275,6 @@ window.GLORY_DATA = {
       "text": "Cade Cunningham entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-10"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-09"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cutter Gauthier",
@@ -392,15 +392,6 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:out:Kevin Durant",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Kevin Durant cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-11-14"
     },
     {
       "id": "rank:nascar:DRIVERS:out:Carson Hocevar",
@@ -541,7 +532,7 @@ window.GLORY_DATA = {
       "Erik Karlsson",
       "Jake Guentzel",
       "Roman Josi",
-      "Matthew Tkachuk"
+      "Kirill Kaprizov"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -559,32 +550,32 @@ window.GLORY_DATA = {
       "Matthew Schaefer",
       "Lenni Hameenaho",
       "Macklin Celebrini",
-      "Jackson LaCombe",
       "Beckett Sennecke",
       "Cole Hutson",
       "Lane Hutson",
-      "Leo Carlsson",
+      "Jackson LaCombe",
       "Cutter Gauthier",
-      "Connor Bedard"
+      "Connor Bedard",
+      "Leo Carlsson"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
       "LeBron James",
       "Giannis Antetokounmpo",
       "Luka Doncic",
+      "Kevin Durant",
       "Nikola Jokic",
       "Shai Gilgeous-Alexander",
       "Jayson Tatum",
       "Anthony Davis",
-      "Jaylen Brown",
-      "Paul George"
+      "Jaylen Brown"
     ],
     "nba:ROAD_TO_GLORY.teams": [
       "Boston Celtics",
       "Los Angeles Lakers",
       "San Antonio Spurs",
-      "Golden State Warriors",
       "Oklahoma City Thunder",
+      "Golden State Warriors",
       "Minnesota Timberwolves",
       "Denver Nuggets",
       "New York Knicks",
@@ -601,7 +592,7 @@ window.GLORY_DATA = {
       "Franz Wagner",
       "Cameron Boozer",
       "Dylan Harper",
-      "Deni Avdija"
+      "Darryn Peterson"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",
@@ -641,11 +632,11 @@ window.GLORY_DATA = {
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Joe Burrow",
-      "Kirk Cousins",
       "Matthew Stafford",
       "Dak Prescott",
-      "Jordan Love",
+      "Kirk Cousins",
       "Jared Goff",
+      "Jordan Love",
       "Geno Smith",
       "Trevor Lawrence",
       "C.J. Stroud",
@@ -677,8 +668,8 @@ window.GLORY_DATA = {
       "Mirra Andreeva",
       "Coco Gauff",
       "Elina Svitolina",
-      "Iga Swiatek",
       "Marta Kostyuk",
+      "Iga Swiatek",
       "Jessica Pegula",
       "Karolina Muchova",
       "Sorana Cirstea"
