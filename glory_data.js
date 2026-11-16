@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-15 19:29 UTC",
+  "UPDATED": "2026-11-16 00:00 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -41,14 +41,6 @@ window.GLORY_DATA = {
       "text": "Lando Norris ganó el MSC Cruises São Paulo Grand Prix",
       "weight": 100,
       "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "motogp:win:Malaysian motorcycle Grand Prix:Pedro Acosta",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Pedro Acosta ganó el Malaysian motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-11-01"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Matthew Schaefer",
@@ -375,42 +367,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "rank:motogp:RIDERS:in:Enea Bastianini",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "anchor": "motogp-mundial",
-      "text": "Enea Bastianini entra en el top-10 · Mundial",
-      "weight": 84,
-      "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:in:Churanoumi",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Churanoumi entra en el top-10 · banzuke",
-      "weight": 84,
-      "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:in:Yoshinofuji",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Yoshinofuji entra en el top-10 · banzuke",
-      "weight": 84,
-      "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:in:Asanoyama",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Asanoyama entra en el top-10 · banzuke",
-      "weight": 84,
-      "firstSeen": "2026-11-01"
-    },
-    {
       "id": "tennis:out:ATP:Alex De Minaur:20261112",
       "sport": "tennis",
       "detail": "Tenis",
@@ -553,42 +509,6 @@ window.GLORY_DATA = {
       "text": "Jack Eichel cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "rank:motogp:RIDERS:out:Fermín Aldeguer",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "anchor": "motogp-mundial",
-      "text": "Fermín Aldeguer cae del top-10 · Mundial",
-      "weight": 74,
-      "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:out:Hakunofuji",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Hakunofuji cae del top-10 · banzuke",
-      "weight": 74,
-      "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:out:Daieisho",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Daieisho cae del top-10 · banzuke",
-      "weight": 74,
-      "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:out:Kotoshoho",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Kotoshoho cae del top-10 · banzuke",
-      "weight": 74,
-      "firstSeen": "2026-11-01"
     }
   ],
   "REPORTS": [],

@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-15 19:29 UTC
+// Auto-generated 2026-11-16 00:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-15 19:29 UTC",
+  "UPDATED": "2026-11-16 00:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -138,7 +138,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 86.3
+      "prevActiveScore": 86.2
     },
     {
       "id": "209950",
@@ -170,7 +170,7 @@ window.TENNIS_DATA = {
         "tournament": "Nitto ATP Finals",
         "state": "alive",
         "round": "Group Stage",
-        "reason": ""
+        "reason": "Eliminado en Group Stage"
       },
       "prevActiveScore": 83.4
     },
@@ -206,7 +206,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 79.5
+      "prevActiveScore": 79.6
     },
     {
       "id": "134770",
@@ -240,7 +240,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 79.0
+      "prevActiveScore": 79.5
     },
     {
       "id": "212588",
@@ -274,7 +274,7 @@ window.TENNIS_DATA = {
         "round": "Group Stage",
         "reason": "Eliminado en Group Stage"
       },
-      "prevActiveScore": 78.2
+      "prevActiveScore": 78.0
     },
     {
       "id": "106421",
@@ -342,7 +342,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 77.2
+      "prevActiveScore": 77.0
     },
     {
       "id": "210097",
@@ -444,7 +444,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 75.3
+      "prevActiveScore": 75.2
     },
     {
       "id": "208103",
@@ -546,7 +546,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 73.9
+      "prevActiveScore": 74.2
     },
     {
       "id": "126207",
@@ -648,7 +648,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 73.2
+      "prevActiveScore": 72.8
     },
     {
       "id": "126094",
@@ -682,7 +682,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 72.8
+      "prevActiveScore": 72.7
     },
     {
       "id": "202103",
@@ -730,7 +730,7 @@ window.TENNIS_DATA = {
       "secondary": "#FFFFFF",
       "activeScore": 72.5,
       "legendScore": 24.1,
-      "age": 27,
+      "age": 28,
       "surface": {
         "hard": 0.667,
         "clay": 0.6,
@@ -852,7 +852,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 70.3
+      "prevActiveScore": 69.7
     },
     {
       "id": "111575",
@@ -886,7 +886,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 68.0
+      "prevActiveScore": 68.2
     },
     {
       "id": "206909",
@@ -920,7 +920,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 67.2
+      "prevActiveScore": 67.1
     },
     {
       "id": "209860",
@@ -954,7 +954,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 66.6
+      "prevActiveScore": 66.7
     },
     {
       "id": "128034",
@@ -988,7 +988,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 65.5
+      "prevActiveScore": 65.4
     },
     {
       "id": "126610",
@@ -1090,7 +1090,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 65.1
+      "prevActiveScore": 64.9
     },
     {
       "id": "202058",
@@ -1124,7 +1124,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 63.9
+      "prevActiveScore": 64.1
     },
     {
       "id": "126214",
@@ -1158,7 +1158,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 64.5
+      "prevActiveScore": 64.4
     },
     {
       "id": "209414",
@@ -1192,7 +1192,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 62.9
+      "prevActiveScore": 64.4
     },
     {
       "id": "207830",
@@ -1226,7 +1226,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 62.9
+      "prevActiveScore": 64.0
     },
     {
       "id": "144684",
@@ -1262,7 +1262,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 63.3
+      "prevActiveScore": 64.0
     },
     {
       "id": "209260",
@@ -1330,7 +1330,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 63.5
+      "prevActiveScore": 63.3
     },
     {
       "id": "144869",
@@ -1364,7 +1364,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 62.8
+      "prevActiveScore": 63.1
     },
     {
       "id": "134868",
@@ -1398,7 +1398,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 62.8
+      "prevActiveScore": 62.9
     },
     {
       "id": "208286",
@@ -1432,7 +1432,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 62.9
+      "prevActiveScore": 62.7
     },
     {
       "id": "111815",
@@ -1466,7 +1466,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 63.4
+      "prevActiveScore": 62.5
     },
     {
       "id": "122298",
@@ -1500,7 +1500,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 62.1
+      "prevActiveScore": 61.6
     },
     {
       "id": "208363",
@@ -1636,7 +1636,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 59.5
+      "prevActiveScore": 60.5
     },
     {
       "id": "209920",
@@ -1704,7 +1704,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 58.7
+      "prevActiveScore": 59.9
     },
     {
       "id": "209098",
@@ -1738,7 +1738,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 60.2
+      "prevActiveScore": 59.8
     },
     {
       "id": "144719",
@@ -1772,7 +1772,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 59.6
+      "prevActiveScore": 59.0
     },
     {
       "id": "200267",
@@ -1806,7 +1806,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 58.9
+      "prevActiveScore": 58.5
     },
     {
       "id": "105870",
@@ -1840,7 +1840,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 59.5
+      "prevActiveScore": 58.4
     },
     {
       "id": "210338",
@@ -1874,7 +1874,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 58.8
+      "prevActiveScore": 58.5
     },
     {
       "id": "120770",
@@ -1976,7 +1976,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 57.0
+      "prevActiveScore": 57.1
     },
     {
       "id": "202104",
@@ -2044,7 +2044,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 57.9
+      "prevActiveScore": 57.1
     },
     {
       "id": "206681",
@@ -2078,7 +2078,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 57.0
+      "prevActiveScore": 56.7
     },
     {
       "id": "133430",
@@ -2112,7 +2112,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 56.5
+      "prevActiveScore": 56.6
     },
     {
       "id": "208169",
@@ -2146,7 +2146,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 56.4
+      "prevActiveScore": 56.1
     },
     {
       "id": "210262",
@@ -2214,7 +2214,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 55.1
+      "prevActiveScore": 55.4
     },
     {
       "id": "126504",
@@ -2316,7 +2316,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 52.8
+      "prevActiveScore": 54.7
     },
     {
       "id": "211776",
@@ -2350,7 +2350,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 54.6
+      "prevActiveScore": 54.1
     },
     {
       "id": "208882",
@@ -2384,7 +2384,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 54.5
+      "prevActiveScore": 54.2
     },
     {
       "id": "209279",
@@ -2418,7 +2418,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 54.1
+      "prevActiveScore": 53.8
     },
     {
       "id": "202385",
@@ -2452,7 +2452,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 53.6
+      "prevActiveScore": 53.7
     },
     {
       "id": "111794",
@@ -2520,7 +2520,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 53.8
+      "prevActiveScore": 53.3
     },
     {
       "id": "105227",
@@ -2554,7 +2554,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 53.7
+      "prevActiveScore": 53.6
     },
     {
       "id": "209976",
@@ -2588,7 +2588,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 52.8
+      "prevActiveScore": 53.2
     },
     {
       "id": "208260",
@@ -2622,7 +2622,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 53.2
+      "prevActiveScore": 52.8
     },
     {
       "id": "105916",
@@ -2690,7 +2690,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 52.4
+      "prevActiveScore": 52.5
     },
     {
       "id": "144895",
@@ -2758,7 +2758,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 52.7
+      "prevActiveScore": 52.3
     },
     {
       "id": "208010",
@@ -2826,7 +2826,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 51.5
+      "prevActiveScore": 52.1
     },
     {
       "id": "213608",
@@ -2894,7 +2894,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 51.1
+      "prevActiveScore": 51.5
     },
     {
       "id": "200615",
@@ -2996,7 +2996,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 51.5
+      "prevActiveScore": 50.9
     },
     {
       "id": "206736",
@@ -3132,7 +3132,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 51.7
+      "prevActiveScore": 50.5
     },
     {
       "id": "207663",
@@ -3234,7 +3234,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 49.3
+      "prevActiveScore": 50.1
     },
     {
       "id": "207494",
@@ -3302,7 +3302,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 50.2
+      "prevActiveScore": 49.9
     },
     {
       "id": "132283",
@@ -3370,7 +3370,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 49.6
+      "prevActiveScore": 49.7
     },
     {
       "id": "208014",
@@ -3404,7 +3404,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 46.7
+      "prevActiveScore": 49.6
     },
     {
       "id": "105477",
@@ -3438,7 +3438,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 49.1
+      "prevActiveScore": 49.5
     },
     {
       "id": "105777",
@@ -3508,7 +3508,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 49.0
+      "prevActiveScore": 49.2
     },
     {
       "id": "207686",
@@ -3612,7 +3612,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 50.4
+      "prevActiveScore": 48.7
     },
     {
       "id": "126128",
@@ -3646,7 +3646,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 49.0
+      "prevActiveScore": 48.6
     },
     {
       "id": "210460",
@@ -3714,7 +3714,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 47.8
+      "prevActiveScore": 47.4
     },
     {
       "id": "102093",
@@ -3854,7 +3854,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 46.5
+      "prevActiveScore": 46.4
     },
     {
       "id": "208021",
@@ -3888,7 +3888,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 47.0
+      "prevActiveScore": 46.4
     },
     {
       "id": "207985",
@@ -3922,7 +3922,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 45.9
+      "prevActiveScore": 46.2
     },
     {
       "id": "106000",
@@ -3956,7 +3956,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 46.1
+      "prevActiveScore": 45.9
     },
     {
       "id": "208659",
@@ -4024,7 +4024,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 45.2
+      "prevActiveScore": 45.4
     },
     {
       "id": "210389",
@@ -4058,7 +4058,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 44.7
+      "prevActiveScore": 44.9
     },
     {
       "id": "105902",
@@ -4092,7 +4092,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 45.5
+      "prevActiveScore": 44.8
     },
     {
       "id": "200514",
@@ -4266,7 +4266,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 42.1
+      "prevActiveScore": 42.0
     },
     {
       "id": "124116",
@@ -4438,7 +4438,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 53.8
+      "prevActiveScore": 38.8
     },
     {
       "id": "210748",
@@ -4652,7 +4652,7 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite en Nitto ATP Finals"
       },
-      "prevActiveScore": 35.2
+      "prevActiveScore": 35.4
     },
     {
       "id": "207352",
@@ -5187,10 +5187,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells",
-        "state": "alive",
-        "round": "Group Stage",
-        "reason": ""
+        "tournament": "LP Open by IND",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 100.0
     },
@@ -5221,10 +5221,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 93.3
     },
@@ -5255,10 +5255,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
+        "tournament": "LP Open by IND",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 92.2
     },
@@ -5289,10 +5289,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells",
-        "state": "alive",
-        "round": "Group Stage",
-        "reason": ""
+        "tournament": "LP Open by IND",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 91.2
     },
@@ -5323,10 +5323,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells",
-        "state": "alive",
-        "round": "F",
-        "reason": "Eliminado en Group Stage"
+        "tournament": "LP Open by IND",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 90.4
     },
@@ -5357,10 +5357,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 90.4
     },
@@ -5391,10 +5391,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells",
+        "tournament": "LP Open by IND",
         "state": "out",
-        "round": "Group Stage",
-        "reason": "Eliminado en Group Stage"
+        "round": "",
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 90.4
     },
@@ -5425,10 +5425,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells",
-        "state": "alive",
-        "round": "Group Stage",
-        "reason": "Eliminado en Group Stage"
+        "tournament": "LP Open by IND",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 89.8
     },
@@ -5459,10 +5459,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells",
+        "tournament": "LP Open by IND",
         "state": "out",
-        "round": "Group Stage",
-        "reason": "Eliminado en Group Stage"
+        "round": "",
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 85.7
     },
@@ -5493,12 +5493,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 85.8
+      "prevActiveScore": 85.7
     },
     {
       "id": "216153",
@@ -5527,12 +5527,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 84.1
+      "prevActiveScore": 84.0
     },
     {
       "id": "202505",
@@ -5561,12 +5561,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 83.4
+      "prevActiveScore": 83.2
     },
     {
       "id": "239475",
@@ -5595,12 +5595,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 83.3
+      "prevActiveScore": 83.2
     },
     {
       "id": "216081",
@@ -5629,10 +5629,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 81.5
     },
@@ -5663,12 +5663,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 80.3
+      "prevActiveScore": 81.0
     },
     {
       "id": "215713",
@@ -5697,12 +5697,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 79.5
+      "prevActiveScore": 79.4
     },
     {
       "id": "211768",
@@ -5731,12 +5731,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 79.3
+      "prevActiveScore": 79.2
     },
     {
       "id": "222328",
@@ -5765,10 +5765,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells",
-        "state": "alive",
-        "round": "Group Stage",
-        "reason": ""
+        "tournament": "LP Open by IND",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 78.5
     },
@@ -5799,10 +5799,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 19,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 77.4
     },
@@ -5833,12 +5833,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 76.6
+      "prevActiveScore": 76.5
     },
     {
       "id": "223670",
@@ -5867,10 +5867,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells",
+        "tournament": "LP Open by IND",
         "state": "out",
-        "round": "Group Stage",
-        "reason": "Eliminado en Group Stage"
+        "round": "",
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 76.1
     },
@@ -5901,10 +5901,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 76.1
     },
@@ -5935,10 +5935,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 75.5
     },
@@ -5969,12 +5969,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 75.7
+      "prevActiveScore": 75.5
     },
     {
       "id": "213631",
@@ -6003,12 +6003,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 72.1
+      "prevActiveScore": 72.0
     },
     {
       "id": "211533",
@@ -6037,10 +6037,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 71.8
     },
@@ -6071,10 +6071,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 71.1
     },
@@ -6105,12 +6105,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 70.9
+      "prevActiveScore": 71.0
     },
     {
       "id": "223253",
@@ -6139,12 +6139,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 69.2
+      "prevActiveScore": 69.5
     },
     {
       "id": "206252",
@@ -6173,12 +6173,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 69.5
+      "prevActiveScore": 69.4
     },
     {
       "id": "220367",
@@ -6207,10 +6207,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 69.1
     },
@@ -6241,10 +6241,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 69.1
     },
@@ -6275,12 +6275,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 68.3
+      "prevActiveScore": 68.1
     },
     {
       "id": "206420",
@@ -6309,10 +6309,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 67.1
     },
@@ -6343,10 +6343,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 67.0
     },
@@ -6377,10 +6377,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 66.6
     },
@@ -6411,12 +6411,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 65.7
+      "prevActiveScore": 65.8
     },
     {
       "id": "223360",
@@ -6445,12 +6445,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 66.0
+      "prevActiveScore": 65.8
     },
     {
       "id": "211107",
@@ -6479,12 +6479,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 65.7
+      "prevActiveScore": 65.5
     },
     {
       "id": "202663",
@@ -6513,12 +6513,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 61.8
+      "prevActiveScore": 65.0
     },
     {
       "id": "215785",
@@ -6547,12 +6547,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 64.4
+      "prevActiveScore": 64.2
     },
     {
       "id": "239383",
@@ -6581,10 +6581,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 64.0
     },
@@ -6615,10 +6615,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 63.8
     },
@@ -6685,10 +6685,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 62.8
     },
@@ -6719,12 +6719,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 62.7
+      "prevActiveScore": 62.4
     },
     {
       "id": "220704",
@@ -6753,10 +6753,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 62.2
     },
@@ -6787,12 +6787,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 61.9
+      "prevActiveScore": 61.8
     },
     {
       "id": "221909",
@@ -6821,10 +6821,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 61.0
     },
@@ -6855,12 +6855,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 61.1
+      "prevActiveScore": 60.9
     },
     {
       "id": "211337",
@@ -6889,10 +6889,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 60.9
     },
@@ -6923,12 +6923,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 62.0
+      "prevActiveScore": 60.9
     },
     {
       "id": "220714",
@@ -6957,12 +6957,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 61.1
+      "prevActiveScore": 60.9
     },
     {
       "id": "260172",
@@ -6991,12 +6991,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 60.7
+      "prevActiveScore": 60.6
     },
     {
       "id": "263857",
@@ -7025,12 +7025,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 60.7
+      "prevActiveScore": 60.6
     },
     {
       "id": "220520",
@@ -7059,10 +7059,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 60.2
     },
@@ -7093,10 +7093,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 59.9
     },
@@ -7127,12 +7127,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 60.1
+      "prevActiveScore": 59.9
     },
     {
       "id": "203501",
@@ -7161,12 +7161,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 60.5
+      "prevActiveScore": 59.9
     },
     {
       "id": "211817",
@@ -7195,12 +7195,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 59.4
+      "prevActiveScore": 59.3
     },
     {
       "id": "202499",
@@ -7229,10 +7229,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 59.2
     },
@@ -7263,10 +7263,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 58.8
     },
@@ -7297,10 +7297,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 57.9
     },
@@ -7331,12 +7331,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 57.8
+      "prevActiveScore": 57.5
     },
     {
       "id": "233741",
@@ -7365,12 +7365,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 57.8
+      "prevActiveScore": 57.5
     },
     {
       "id": "222045",
@@ -7399,12 +7399,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 56.8
+      "prevActiveScore": 57.4
     },
     {
       "id": "214040",
@@ -7433,12 +7433,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 57.4
+      "prevActiveScore": 57.3
     },
     {
       "id": "238184",
@@ -7467,10 +7467,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 57.1
     },
@@ -7503,10 +7503,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 57.0
     },
@@ -7537,10 +7537,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 57.0
     },
@@ -7571,10 +7571,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 56.8
     },
@@ -7605,12 +7605,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 56.4
+      "prevActiveScore": 56.8
     },
     {
       "id": "215035",
@@ -7639,12 +7639,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 55.9
+      "prevActiveScore": 55.8
     },
     {
       "id": "211684",
@@ -7673,12 +7673,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 55.8
+      "prevActiveScore": 55.7
     },
     {
       "id": "213710",
@@ -7707,12 +7707,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 55.7
+      "prevActiveScore": 55.6
     },
     {
       "id": "214082",
@@ -7741,12 +7741,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 55.8
+      "prevActiveScore": 55.5
     },
     {
       "id": "221333",
@@ -7775,10 +7775,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 55.3
     },
@@ -7809,12 +7809,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 54.4
+      "prevActiveScore": 54.3
     },
     {
       "id": "201709",
@@ -7843,12 +7843,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 54.4
+      "prevActiveScore": 54.1
     },
     {
       "id": "252499",
@@ -7877,12 +7877,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 53.8
+      "prevActiveScore": 53.6
     },
     {
       "id": "215910",
@@ -7911,12 +7911,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 53.1
+      "prevActiveScore": 52.9
     },
     {
       "id": "203530",
@@ -7945,12 +7945,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 53.4
+      "prevActiveScore": 52.8
     },
     {
       "id": "222145",
@@ -7979,12 +7979,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 50.7
+      "prevActiveScore": 52.6
     },
     {
       "id": "221354",
@@ -8013,10 +8013,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 52.5
     },
@@ -8047,12 +8047,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 52.5
+      "prevActiveScore": 52.2
     },
     {
       "id": "201533",
@@ -8081,12 +8081,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 52.0
+      "prevActiveScore": 51.8
     },
     {
       "id": "269714",
@@ -8115,10 +8115,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 51.8
     },
@@ -8149,10 +8149,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 51.8
     },
@@ -8168,7 +8168,7 @@ window.TENNIS_DATA = {
       "secondary": "#FFFFFF",
       "activeScore": 51.8,
       "legendScore": 0.0,
-      "age": 18,
+      "age": 19,
       "surface": {
         "hard": null,
         "clay": null,
@@ -8183,10 +8183,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 51.8
     },
@@ -8217,10 +8217,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 51.8
     },
@@ -8251,12 +8251,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 51.7
+      "prevActiveScore": 51.6
     },
     {
       "id": "222661",
@@ -8287,12 +8287,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 51.0
+      "prevActiveScore": 50.8
     },
     {
       "id": "222601",
@@ -8321,10 +8321,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 50.7
     },
@@ -8355,12 +8355,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 50.5
+      "prevActiveScore": 50.2
     },
     {
       "id": "201548",
@@ -8389,10 +8389,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 50.0
     },
@@ -8425,10 +8425,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 49.8
     },
@@ -8459,10 +8459,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 49.7
     },
@@ -8495,12 +8495,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 50.7
+      "prevActiveScore": 49.6
     },
     {
       "id": "214906",
@@ -8529,12 +8529,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 45.3
+      "prevActiveScore": 49.3
     },
     {
       "id": "220554",
@@ -8563,10 +8563,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 49.3
     },
@@ -8599,10 +8599,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 48.9
     },
@@ -8635,10 +8635,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 48.9
     },
@@ -8705,10 +8705,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 48.7
     },
@@ -8739,12 +8739,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 48.6
+      "prevActiveScore": 48.2
     },
     {
       "id": "215020",
@@ -8773,10 +8773,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 48.1
     },
@@ -8807,10 +8807,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 47.2
     },
@@ -8841,12 +8841,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 47.4
+      "prevActiveScore": 47.1
     },
     {
       "id": "216262",
@@ -8875,10 +8875,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 46.9
     },
@@ -8911,12 +8911,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 50.5
+      "prevActiveScore": 46.8
     },
     {
       "id": "243420",
@@ -8945,10 +8945,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 46.7
     },
@@ -8981,12 +8981,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 44.9
+      "prevActiveScore": 46.2
     },
     {
       "id": "221039",
@@ -9015,10 +9015,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 45.7
     },
@@ -9049,10 +9049,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 45.1
     },
@@ -9085,12 +9085,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 45.1
+      "prevActiveScore": 44.8
     },
     {
       "id": "220699",
@@ -9121,10 +9121,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 44.3
     },
@@ -9155,10 +9155,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 44.2
     },
@@ -9189,10 +9189,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 43.7
     },
@@ -9223,12 +9223,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 43.7
+      "prevActiveScore": 43.5
     },
     {
       "id": "211539",
@@ -9257,12 +9257,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 43.5
+      "prevActiveScore": 43.2
     },
     {
       "id": "214459",
@@ -9325,12 +9325,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 42.9
+      "prevActiveScore": 42.5
     },
     {
       "id": "220722",
@@ -9361,10 +9361,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 42.3
     },
@@ -9397,12 +9397,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 42.1
+      "prevActiveScore": 42.0
     },
     {
       "id": "215936",
@@ -9431,12 +9431,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 41.3
+      "prevActiveScore": 41.1
     },
     {
       "id": "216566",
@@ -9467,12 +9467,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 41.2
+      "prevActiveScore": 40.9
     },
     {
       "id": "206417",
@@ -9501,12 +9501,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 40.6
+      "prevActiveScore": 40.9
     },
     {
       "id": "214593",
@@ -9535,10 +9535,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 40.6
     },
@@ -9571,10 +9571,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 40.4
     },
@@ -9607,10 +9607,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 40.2
     },
@@ -9641,10 +9641,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 39.9
     },
@@ -9677,10 +9677,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 39.1
     },
@@ -9713,10 +9713,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 37.4
     },
@@ -9747,12 +9747,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 38.2
+      "prevActiveScore": 37.0
     },
     {
       "id": "215037",
@@ -9783,10 +9783,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 37.0
     },
@@ -9819,10 +9819,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "LP Open by IND",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 36.7
     },
@@ -9855,10 +9855,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 36.5
     },
@@ -9925,10 +9925,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 35.3
     },
@@ -9961,12 +9961,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 35.0
+      "prevActiveScore": 35.1
     },
     {
       "id": "211279",
@@ -9997,10 +9997,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 35.0
     },
@@ -10033,10 +10033,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 35.0
     },
@@ -10069,10 +10069,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 35.0
     },
@@ -10103,10 +10103,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 35.0
     },
@@ -10139,10 +10139,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 35.0
     },
@@ -10175,10 +10175,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 35.0
     },
@@ -10211,10 +10211,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 35.0
     },
@@ -10247,10 +10247,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 35.0
     },
@@ -10283,10 +10283,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
       "prevActiveScore": 35.0
     },
@@ -10319,12 +10319,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
+        "tournament": "LP Open by IND",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en LP Open by IND"
       },
-      "prevActiveScore": 50.0
+      "prevActiveScore": 35.0
     }
   ],
   "ATP_CHANGES": {
@@ -10891,22 +10891,35 @@ window.TENNIS_DATA = {
   ],
   "ATP_RECENT": [
     {
-      "name": "Bybit Stockholm Open",
-      "level": "ATP 250",
-      "surface": "",
+      "name": "Nitto ATP Finals",
+      "level": "ATP Finals",
+      "surface": "Hard",
       "matches": [
         {
-          "round": "F",
-          "w": "Taylor Fritz",
+          "round": "Group Stage",
+          "w": "Alexander Zverev",
           "w_logo": "",
-          "l": "Thiago Agustin Tirante",
+          "l": "Rafael Jodar",
           "l_logo": "",
-          "score": "6-2 4-6 7-6 (7-3)",
+          "score": "6-4 6-4",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 74.3,
-          "l_score": 64.6,
-          "match_score": 74.3
+          "w_score": 86.9,
+          "l_score": 78.2,
+          "match_score": 86.9
+        },
+        {
+          "round": "Group Stage",
+          "w": "Ben Shelton",
+          "w_logo": "",
+          "l": "Arthur Fils",
+          "l_logo": "",
+          "score": "6-2 3-6 6-3",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 75.2,
+          "l_score": 83.4,
+          "match_score": 83.4
         }
       ]
     }
@@ -10919,29 +10932,29 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Alexander Zverev",
+          "w": "Carlos Alcaraz",
           "w_logo": "",
-          "l": "Rafael Jodar",
-          "l_logo": "",
-          "score": "6-4 6-4",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": 86.9,
-          "l_score": 78.2,
-          "match_score": 86.9
-        },
-        {
-          "round": "Group Stage",
-          "w": "Arthur Fils",
-          "w_logo": "",
-          "l": "Ben Shelton",
+          "l": "Frances Tiafoe",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
-          "w_score": 83.4,
-          "l_score": 75.2,
-          "match_score": 83.4
+          "w_score": 90.9,
+          "l_score": 74.2,
+          "match_score": 90.9
+        },
+        {
+          "round": "Group Stage",
+          "w": "Daniil Medvedev",
+          "w_logo": "",
+          "l": "Flavio Cobolli",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 77.9,
+          "l_score": 74.5,
+          "match_score": 77.9
         }
       ]
     }
@@ -10953,72 +10966,130 @@ window.TENNIS_DATA = {
       "surface": "Hard",
       "matches": [
         {
-          "round": "Semifinal",
+          "round": "F",
           "w": "Mirra Andreeva",
           "w_logo": "",
-          "l": "Jessica Pegula",
+          "l": "Elina Svitolina",
           "l_logo": "",
-          "score": "6-3 6-4",
+          "score": "7-5 6-3",
           "day": "ayer",
           "scheduled": false,
           "w_score": 92.2,
-          "l_score": 89.8,
+          "l_score": 90.4,
           "match_score": 92.2
-        },
-        {
-          "round": "Semifinal",
-          "w": "Elina Svitolina",
-          "w_logo": "",
-          "l": "Linda Noskova",
-          "l_logo": "",
-          "score": "6-2 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 90.4,
-          "l_score": 78.5,
-          "match_score": 90.4
-        }
-      ]
-    },
-    {
-      "name": "DIRECTV Open Presentado por Compesar",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Bianca Andreescu",
-          "w_logo": "",
-          "l": "Elizabeth Mandlik",
-          "l_logo": "",
-          "score": "6-3 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 48.7,
-          "l_score": null,
-          "match_score": 48.7
         }
       ]
     }
   ],
   "WTA_TODAY": [
     {
-      "name": "FAGE WTA Finals Indian Wells",
-      "level": "WTA Finals",
-      "surface": "Hard",
+      "name": "LP Open by IND",
+      "level": "WTA 250",
+      "surface": "",
       "matches": [
         {
-          "round": "F",
-          "w": "Mirra Andreeva",
+          "round": "R128",
+          "w": "Guiomar Maristany Zuleta De Reales",
           "w_logo": "",
-          "l": "Elina Svitolina",
+          "l": "Martina Trevisan",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
-          "w_score": 92.2,
-          "l_score": 90.4,
-          "match_score": 92.2
+          "w_score": 36.7,
+          "l_score": null,
+          "match_score": 36.7
+        },
+        {
+          "round": "R128",
+          "w": "Leyre Romero Gormaz",
+          "w_logo": "",
+          "l": "Ipek Oz",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 36.1,
+          "l_score": null,
+          "match_score": 36.1
+        },
+        {
+          "round": "R128",
+          "w": "Anastasia Tikhonova",
+          "w_logo": "",
+          "l": "Valeriya Strakhova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Anastasia Zolotareva",
+          "w_logo": "",
+          "l": "Katrina Scott",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Ariana Geerlings",
+          "w_logo": "",
+          "l": "Luisina Giovannini",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Carole Monnet",
+          "w_logo": "",
+          "l": "Victoria Jimenez Kasintseva",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Diletta Cherubini",
+          "w_logo": "",
+          "l": "Rebeka Masarova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Nuria Brancaccio",
+          "w_logo": "",
+          "l": "Sofia Costoulas",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
         }
       ]
     }
@@ -11050,21 +11121,11 @@ window.TENNIS_DATA = {
     "matchesSeen": 12
   },
   "WTA_TOURNAMENT": {
-    "name": "FAGE WTA Finals Indian Wells · Austin 125 · LP Open by IND",
-    "level": "WTA Finals",
-    "surface": "Hard",
+    "name": "LP Open by IND",
+    "level": "WTA 250",
+    "surface": "",
     "tour": "WTA",
     "events": [
-      {
-        "name": "FAGE WTA Finals Indian Wells",
-        "level": "WTA Finals",
-        "surface": "Hard"
-      },
-      {
-        "name": "Austin 125",
-        "level": "WTA 250",
-        "surface": ""
-      },
       {
         "name": "LP Open by IND",
         "level": "WTA 250",
@@ -11073,50 +11134,44 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Alicia Herrero Linana",
+      "Anastasia Tikhonova",
       "Anastasia Zolotareva",
       "Andrea Lazaro Garcia",
       "Antonia Vergara Rivera",
-      "Aryna Sabalenka",
+      "Ariana Geerlings",
       "Barbara Gatica",
       "Carole Monnet",
-      "Coco Gauff",
       "Darja Semenistaja",
       "Despina Papamichail",
-      "Elina Svitolina",
+      "Diletta Cherubini",
       "Fernanda Labrana",
+      "Guiomar Maristany Zuleta De Reales",
       "Ipek Oz",
       "Irene Burillo",
-      "Jessica Pegula",
       "Katrina Scott",
       "Laura Samson",
       "Leyre Romero Gormaz",
-      "Linda Noskova",
       "Lucia Bronzetti",
+      "Luisina Giovannini",
       "Maria Lourdes Carle",
+      "Martina Trevisan",
       "Miriam Bulgaru",
-      "Mirra Andreeva",
       "Nadia Podoroska",
       "Nuria Brancaccio",
       "Polona Hercog",
+      "Rebeka Masarova",
       "Sofia Costoulas",
+      "Valeriya Strakhova",
       "Varvara Lepchenko",
       "Veronika Erjavec",
       "Victoria Jimenez Kasintseva"
     ],
-    "out": [
-      "Diana Shnaider",
-      "Karolina Muchova",
-      "Marta Kostyuk"
-    ],
-    "aliveCount": 30,
-    "matchesSeen": 27
+    "out": [],
+    "aliveCount": 32,
+    "matchesSeen": 16
   },
   "ATP_SCORE_LOG": {
     "206173": [
-      [
-        "20261030",
-        100.0
-      ],
       [
         "20261031",
         100.0
@@ -11179,15 +11234,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        100.0
+      ],
+      [
+        "20261116",
         100.0
       ]
     ],
     "207989": [
       [
-        "20261030",
-        90.7
-      ],
-      [
         "20261031",
         90.7
       ],
@@ -11249,15 +11304,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        90.9
+      ],
+      [
+        "20261116",
         90.9
       ]
     ],
     "100644": [
       [
-        "20261030",
-        86.7
-      ],
-      [
         "20261031",
         86.7
       ],
@@ -11319,15 +11374,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        86.9
+      ],
+      [
+        "20261116",
         86.9
       ]
     ],
     "104925": [
       [
-        "20261030",
-        86.0
-      ],
-      [
         "20261031",
         86.0
       ],
@@ -11389,15 +11444,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        86.2
+      ],
+      [
+        "20261116",
         86.2
       ]
     ],
     "209950": [
       [
-        "20261030",
-        83.2
-      ],
-      [
         "20261031",
         83.2
       ],
@@ -11459,15 +11514,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        83.4
+      ],
+      [
+        "20261116",
         83.4
       ]
     ],
     "126205": [
       [
-        "20261030",
-        79.3
-      ],
-      [
         "20261031",
         79.3
       ],
@@ -11529,15 +11584,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        79.6
+      ],
+      [
+        "20261116",
         79.6
       ]
     ],
     "134770": [
       [
-        "20261030",
-        78.6
-      ],
-      [
         "20261031",
         78.6
       ],
@@ -11599,15 +11654,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        79.5
+      ],
+      [
+        "20261116",
         79.5
       ]
     ],
     "212588": [
       [
-        "20261030",
-        77.9
-      ],
-      [
         "20261031",
         77.9
       ],
@@ -11669,15 +11724,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        78.2
+      ],
+      [
+        "20261116",
         78.2
       ]
     ],
     "106421": [
       [
-        "20261030",
-        77.7
-      ],
-      [
         "20261031",
         77.7
       ],
@@ -11739,15 +11794,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        77.9
+      ],
+      [
+        "20261116",
         77.9
       ]
     ],
     "207518": [
       [
-        "20261030",
-        76.8
-      ],
-      [
         "20261031",
         76.8
       ],
@@ -11809,15 +11864,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        76.8
+      ],
+      [
+        "20261116",
         76.8
       ]
     ],
     "210097": [
       [
-        "20261030",
-        75.1
-      ],
-      [
         "20261031",
         75.1
       ],
@@ -11879,15 +11934,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        75.2
+      ],
+      [
+        "20261116",
         75.2
       ]
     ],
     "200282": [
       [
-        "20261030",
-        75.0
-      ],
-      [
         "20261031",
         75.0
       ],
@@ -11950,13 +12005,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         75.0
+      ],
+      [
+        "20261116",
+        75.0
       ]
     ],
     "200000": [
-      [
-        "20261030",
-        76.0
-      ],
       [
         "20261031",
         76.0
@@ -12020,13 +12075,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         74.9
+      ],
+      [
+        "20261116",
+        74.9
       ]
     ],
     "208103": [
-      [
-        "20261030",
-        73.8
-      ],
       [
         "20261031",
         73.8
@@ -12090,13 +12145,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         74.7
+      ],
+      [
+        "20261116",
+        74.7
       ]
     ],
     "207925": [
-      [
-        "20261030",
-        74.4
-      ],
       [
         "20261031",
         74.4
@@ -12160,13 +12215,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         74.5
+      ],
+      [
+        "20261116",
+        74.5
       ]
     ],
     "126203": [
-      [
-        "20261030",
-        73.7
-      ],
       [
         "20261031",
         73.7
@@ -12230,13 +12285,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         74.3
+      ],
+      [
+        "20261116",
+        74.3
       ]
     ],
     "126207": [
-      [
-        "20261030",
-        74.0
-      ],
       [
         "20261031",
         74.0
@@ -12300,13 +12355,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         74.2
+      ],
+      [
+        "20261116",
+        74.2
       ]
     ],
     "122330": [
-      [
-        "20261030",
-        73.4
-      ],
       [
         "20261031",
         73.4
@@ -12370,13 +12425,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         72.9
+      ],
+      [
+        "20261116",
+        72.9
       ]
     ],
     "210530": [
-      [
-        "20261030",
-        73.2
-      ],
       [
         "20261031",
         73.2
@@ -12439,15 +12494,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        72.8
+      ],
+      [
+        "20261116",
         72.8
       ]
     ],
     "126094": [
       [
-        "20261030",
-        72.7
-      ],
-      [
         "20261031",
         72.7
       ],
@@ -12509,15 +12564,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        72.7
+      ],
+      [
+        "20261116",
         72.7
       ]
     ],
     "202103": [
       [
-        "20261030",
-        72.6
-      ],
-      [
         "20261031",
         72.6
       ],
@@ -12580,13 +12635,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         72.6
+      ],
+      [
+        "20261116",
+        72.6
       ]
     ],
     "200473": [
-      [
-        "20261030",
-        71.8
-      ],
       [
         "20261031",
         71.8
@@ -12650,13 +12705,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         72.5
+      ],
+      [
+        "20261116",
+        72.5
       ]
     ],
     "200221": [
-      [
-        "20261030",
-        71.9
-      ],
       [
         "20261031",
         71.9
@@ -12720,13 +12775,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         71.8
+      ],
+      [
+        "20261116",
+        71.8
       ]
     ],
     "210696": [
-      [
-        "20261030",
-        71.5
-      ],
       [
         "20261031",
         71.5
@@ -12789,15 +12844,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        71.5
+      ],
+      [
+        "20261116",
         71.5
       ]
     ],
     "211663": [
       [
-        "20261030",
-        70.3
-      ],
-      [
         "20261031",
         70.3
       ],
@@ -12859,15 +12914,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        69.7
+      ],
+      [
+        "20261116",
         69.7
       ]
     ],
     "111575": [
       [
-        "20261030",
-        68.1
-      ],
-      [
         "20261031",
         68.1
       ],
@@ -12929,15 +12984,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        68.2
+      ],
+      [
+        "20261116",
         68.2
       ]
     ],
     "206909": [
       [
-        "20261030",
-        67.2
-      ],
-      [
         "20261031",
         67.2
       ],
@@ -12999,15 +13054,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        67.1
+      ],
+      [
+        "20261116",
         67.1
       ]
     ],
     "209860": [
       [
-        "20261030",
-        66.7
-      ],
-      [
         "20261031",
         66.7
       ],
@@ -13069,15 +13124,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        66.6
+      ],
+      [
+        "20261116",
         66.6
       ]
     ],
     "128034": [
       [
-        "20261030",
-        65.6
-      ],
-      [
         "20261031",
         65.6
       ],
@@ -13139,15 +13194,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        65.4
+      ],
+      [
+        "20261116",
         65.4
       ]
     ],
     "126610": [
       [
-        "20261030",
-        64.7
-      ],
-      [
         "20261031",
         64.7
       ],
@@ -13209,15 +13264,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        65.4
+      ],
+      [
+        "20261116",
         65.4
       ]
     ],
     "210506": [
       [
-        "20261030",
-        65.0
-      ],
-      [
         "20261031",
         65.0
       ],
@@ -13279,15 +13334,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        65.0
+      ],
+      [
+        "20261116",
         65.0
       ]
     ],
     "126774": [
       [
-        "20261030",
-        65.1
-      ],
-      [
         "20261031",
         65.1
       ],
@@ -13350,13 +13405,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         64.9
+      ],
+      [
+        "20261116",
+        64.9
       ]
     ],
     "202058": [
-      [
-        "20261030",
-        64.0
-      ],
       [
         "20261031",
         64.0
@@ -13420,13 +13475,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         64.6
+      ],
+      [
+        "20261116",
+        64.6
       ]
     ],
     "126214": [
-      [
-        "20261030",
-        64.5
-      ],
       [
         "20261031",
         64.5
@@ -13489,15 +13544,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        64.4
+      ],
+      [
+        "20261116",
         64.4
       ]
     ],
     "209414": [
       [
-        "20261030",
-        62.9
-      ],
-      [
         "20261031",
         62.9
       ],
@@ -13559,15 +13614,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        64.4
+      ],
+      [
+        "20261116",
         64.4
       ]
     ],
     "207830": [
       [
-        "20261030",
-        62.6
-      ],
-      [
         "20261031",
         62.6
       ],
@@ -13629,15 +13684,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        64.0
+      ],
+      [
+        "20261116",
         64.0
       ]
     ],
     "144684": [
       [
-        "20261030",
-        62.9
-      ],
-      [
         "20261031",
         62.9
       ],
@@ -13699,15 +13754,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        63.9
+      ],
+      [
+        "20261116",
         63.9
       ]
     ],
     "209260": [
       [
-        "20261030",
-        63.4
-      ],
-      [
         "20261031",
         63.4
       ],
@@ -13769,15 +13824,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        63.8
+      ],
+      [
+        "20261116",
         63.8
       ]
     ],
     "200005": [
       [
-        "20261030",
-        63.4
-      ],
-      [
         "20261031",
         63.4
       ],
@@ -13839,15 +13894,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        63.5
+      ],
+      [
+        "20261116",
         63.5
       ]
     ],
     "144869": [
       [
-        "20261030",
-        63.0
-      ],
-      [
         "20261031",
         63.0
       ],
@@ -13909,15 +13964,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        63.1
+      ],
+      [
+        "20261116",
         63.1
       ]
     ],
     "134868": [
       [
-        "20261030",
-        62.8
-      ],
-      [
         "20261031",
         62.8
       ],
@@ -13979,15 +14034,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        62.8
+      ],
+      [
+        "20261116",
         62.8
       ]
     ],
     "208286": [
       [
-        "20261030",
-        62.8
-      ],
-      [
         "20261031",
         62.8
       ],
@@ -14050,13 +14105,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         62.7
+      ],
+      [
+        "20261116",
+        62.7
       ]
     ],
     "111815": [
-      [
-        "20261030",
-        63.9
-      ],
       [
         "20261031",
         63.9
@@ -14120,13 +14175,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         62.6
+      ],
+      [
+        "20261116",
+        62.6
       ]
     ],
     "122298": [
-      [
-        "20261030",
-        62.0
-      ],
       [
         "20261031",
         62.0
@@ -14189,15 +14244,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        61.6
+      ],
+      [
+        "20261116",
         61.6
       ]
     ],
     "208363": [
       [
-        "20261030",
-        62.3
-      ],
-      [
         "20261031",
         62.3
       ],
@@ -14260,13 +14315,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         61.6
+      ],
+      [
+        "20261116",
+        61.6
       ]
     ],
     "210084": [
-      [
-        "20261030",
-        60.8
-      ],
       [
         "20261031",
         60.8
@@ -14330,13 +14385,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         61.0
+      ],
+      [
+        "20261116",
+        61.0
       ]
     ],
     "209226": [
-      [
-        "20261030",
-        60.6
-      ],
       [
         "20261031",
         60.6
@@ -14399,15 +14454,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        60.7
+      ],
+      [
+        "20261116",
         60.7
       ]
     ],
     "132686": [
       [
-        "20261030",
-        59.0
-      ],
-      [
         "20261031",
         59.0
       ],
@@ -14469,15 +14524,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        60.5
+      ],
+      [
+        "20261116",
         60.5
       ]
     ],
     "209920": [
       [
-        "20261030",
-        59.8
-      ],
-      [
         "20261031",
         59.8
       ],
@@ -14539,15 +14594,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        59.9
+      ],
+      [
+        "20261116",
         59.9
       ]
     ],
     "126239": [
       [
-        "20261030",
-        59.5
-      ],
-      [
         "20261031",
         59.5
       ],
@@ -14609,15 +14664,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        59.9
+      ],
+      [
+        "20261116",
         59.9
       ]
     ],
     "209098": [
       [
-        "20261030",
-        60.0
-      ],
-      [
         "20261031",
         60.0
       ],
@@ -14680,13 +14735,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         59.9
+      ],
+      [
+        "20261116",
+        59.9
       ]
     ],
     "144719": [
-      [
-        "20261030",
-        59.5
-      ],
       [
         "20261031",
         59.5
@@ -14749,15 +14804,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        59.0
+      ],
+      [
+        "20261116",
         59.0
       ]
     ],
     "200267": [
       [
-        "20261030",
-        59.0
-      ],
-      [
         "20261031",
         59.0
       ],
@@ -14819,15 +14874,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        58.5
+      ],
+      [
+        "20261116",
         58.5
       ]
     ],
     "105870": [
       [
-        "20261030",
-        59.4
-      ],
-      [
         "20261031",
         59.4
       ],
@@ -14890,13 +14945,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         58.4
+      ],
+      [
+        "20261116",
+        58.4
       ]
     ],
     "210338": [
-      [
-        "20261030",
-        58.8
-      ],
       [
         "20261031",
         58.8
@@ -14960,13 +15015,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         58.3
+      ],
+      [
+        "20261116",
+        58.3
       ]
     ],
     "120770": [
-      [
-        "20261030",
-        57.7
-      ],
       [
         "20261031",
         57.7
@@ -15029,15 +15084,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.7
+      ],
+      [
+        "20261116",
         57.7
       ]
     ],
     "207678": [
       [
-        "20261030",
-        57.6
-      ],
-      [
         "20261031",
         57.6
       ],
@@ -15099,15 +15154,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.7
+      ],
+      [
+        "20261116",
         57.7
       ]
     ],
     "111460": [
       [
-        "20261030",
-        57.1
-      ],
-      [
         "20261031",
         57.1
       ],
@@ -15169,15 +15224,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.1
+      ],
+      [
+        "20261116",
         57.1
       ]
     ],
     "202104": [
       [
-        "20261030",
-        57.5
-      ],
-      [
         "20261031",
         57.5
       ],
@@ -15239,15 +15294,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.1
+      ],
+      [
+        "20261116",
         57.1
       ]
     ],
     "200240": [
       [
-        "20261030",
-        57.6
-      ],
-      [
         "20261031",
         57.6
       ],
@@ -15309,15 +15364,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.1
+      ],
+      [
+        "20261116",
         57.1
       ]
     ],
     "206681": [
       [
-        "20261030",
-        56.7
-      ],
-      [
         "20261031",
         56.7
       ],
@@ -15379,15 +15434,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        56.7
+      ],
+      [
+        "20261116",
         56.7
       ]
     ],
     "133430": [
       [
-        "20261030",
-        56.3
-      ],
-      [
         "20261031",
         56.3
       ],
@@ -15449,15 +15504,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        56.5
+      ],
+      [
+        "20261116",
         56.5
       ]
     ],
     "208169": [
       [
-        "20261030",
-        57.2
-      ],
-      [
         "20261031",
         57.2
       ],
@@ -15519,15 +15574,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        56.1
+      ],
+      [
+        "20261116",
         56.1
       ]
     ],
     "210262": [
       [
-        "20261030",
-        55.1
-      ],
-      [
         "20261031",
         55.1
       ],
@@ -15589,15 +15644,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        55.2
+      ],
+      [
+        "20261116",
         55.2
       ]
     ],
     "105526": [
       [
-        "20261030",
-        54.1
-      ],
-      [
         "20261031",
         54.1
       ],
@@ -15659,15 +15714,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        55.1
+      ],
+      [
+        "20261116",
         55.1
       ]
     ],
     "126504": [
       [
-        "20261030",
-        54.8
-      ],
-      [
         "20261031",
         54.8
       ],
@@ -15729,15 +15784,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        54.9
+      ],
+      [
+        "20261116",
         54.9
       ]
     ],
     "200059": [
       [
-        "20261030",
-        54.7
-      ],
-      [
         "20261031",
         54.7
       ],
@@ -15799,15 +15854,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        54.8
+      ],
+      [
+        "20261116",
         54.8
       ]
     ],
     "200116": [
       [
-        "20261030",
-        53.5
-      ],
-      [
         "20261031",
         53.5
       ],
@@ -15869,15 +15924,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        54.7
+      ],
+      [
+        "20261116",
         54.7
       ]
     ],
     "211776": [
       [
-        "20261030",
-        54.6
-      ],
-      [
         "20261031",
         54.6
       ],
@@ -15939,15 +15994,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        54.1
+      ],
+      [
+        "20261116",
         54.1
       ]
     ],
     "208882": [
       [
-        "20261030",
-        54.3
-      ],
-      [
         "20261031",
         54.3
       ],
@@ -16009,15 +16064,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        54.0
+      ],
+      [
+        "20261116",
         54.0
       ]
     ],
     "209279": [
       [
-        "20261030",
-        52.0
-      ],
-      [
         "20261031",
         52.0
       ],
@@ -16079,15 +16134,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        53.8
+      ],
+      [
+        "20261116",
         53.8
       ]
     ],
     "202385": [
       [
-        "20261030",
-        53.5
-      ],
-      [
         "20261031",
         53.5
       ],
@@ -16149,15 +16204,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        53.6
+      ],
+      [
+        "20261116",
         53.6
       ]
     ],
     "111794": [
       [
-        "20261030",
-        53.5
-      ],
-      [
         "20261031",
         53.5
       ],
@@ -16219,15 +16274,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        53.5
+      ],
+      [
+        "20261116",
         53.5
       ]
     ],
     "200175": [
       [
-        "20261030",
-        54.0
-      ],
-      [
         "20261031",
         54.0
       ],
@@ -16289,15 +16344,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        53.3
+      ],
+      [
+        "20261116",
         53.3
       ]
     ],
     "105227": [
       [
-        "20261030",
-        53.6
-      ],
-      [
         "20261031",
         53.6
       ],
@@ -16360,13 +16415,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         53.3
+      ],
+      [
+        "20261116",
+        53.3
       ]
     ],
     "209976": [
-      [
-        "20261030",
-        52.7
-      ],
       [
         "20261031",
         52.7
@@ -16429,15 +16484,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        53.2
+      ],
+      [
+        "20261116",
         53.2
       ]
     ],
     "208260": [
       [
-        "20261030",
-        53.0
-      ],
-      [
         "20261031",
         53.0
       ],
@@ -16499,15 +16554,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.8
+      ],
+      [
+        "20261116",
         52.8
       ]
     ],
     "105916": [
       [
-        "20261030",
-        52.5
-      ],
-      [
         "20261031",
         52.5
       ],
@@ -16569,15 +16624,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.6
+      ],
+      [
+        "20261116",
         52.6
       ]
     ],
     "208597": [
       [
-        "20261030",
-        52.1
-      ],
-      [
         "20261031",
         52.1
       ],
@@ -16639,15 +16694,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.5
+      ],
+      [
+        "20261116",
         52.5
       ]
     ],
     "144895": [
       [
-        "20261030",
-        52.4
-      ],
-      [
         "20261031",
         52.4
       ],
@@ -16709,15 +16764,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.5
+      ],
+      [
+        "20261116",
         52.5
       ]
     ],
     "105807": [
       [
-        "20261030",
-        52.6
-      ],
-      [
         "20261031",
         52.6
       ],
@@ -16779,15 +16834,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.4
+      ],
+      [
+        "20261116",
         52.4
       ]
     ],
     "208010": [
       [
-        "20261030",
-        52.4
-      ],
-      [
         "20261031",
         52.4
       ],
@@ -16849,15 +16904,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.4
+      ],
+      [
+        "20261116",
         52.4
       ]
     ],
     "208233": [
       [
-        "20261030",
-        51.5
-      ],
-      [
         "20261031",
         51.5
       ],
@@ -16919,6 +16974,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.1
+      ],
+      [
+        "20261116",
         52.1
       ]
     ],
@@ -16978,13 +17037,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         51.6
+      ],
+      [
+        "20261116",
+        51.6
       ]
     ],
     "126127": [
-      [
-        "20261030",
-        50.6
-      ],
       [
         "20261031",
         50.6
@@ -17047,15 +17106,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        51.5
+      ],
+      [
+        "20261116",
         51.5
       ]
     ],
     "200615": [
       [
-        "20261030",
-        51.1
-      ],
-      [
         "20261031",
         51.1
       ],
@@ -17117,15 +17176,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        51.1
+      ],
+      [
+        "20261116",
         51.1
       ]
     ],
     "209147": [
       [
-        "20261030",
-        50.9
-      ],
-      [
         "20261031",
         50.9
       ],
@@ -17187,15 +17246,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        51.0
+      ],
+      [
+        "20261116",
         51.0
       ]
     ],
     "106218": [
       [
-        "20261030",
-        51.5
-      ],
-      [
         "20261031",
         51.5
       ],
@@ -17257,15 +17316,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.8
+      ],
+      [
+        "20261116",
         50.8
       ]
     ],
     "206736": [
       [
-        "20261030",
-        50.7
-      ],
-      [
         "20261031",
         50.7
       ],
@@ -17327,15 +17386,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.8
+      ],
+      [
+        "20261116",
         50.8
       ]
     ],
     "208024": [
       [
-        "20261030",
-        50.7
-      ],
-      [
         "20261031",
         50.7
       ],
@@ -17397,15 +17456,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.8
+      ],
+      [
+        "20261116",
         50.8
       ]
     ],
     "209899": [
       [
-        "20261030",
-        50.7
-      ],
-      [
         "20261031",
         50.7
       ],
@@ -17467,15 +17526,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.8
+      ],
+      [
+        "20261116",
         50.8
       ]
     ],
     "127157": [
       [
-        "20261030",
-        52.1
-      ],
-      [
         "20261031",
         52.1
       ],
@@ -17537,6 +17596,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.7
+      ],
+      [
+        "20261116",
         50.7
       ]
     ],
@@ -17548,13 +17611,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         50.6
+      ],
+      [
+        "20261116",
+        50.6
       ]
     ],
     "207411": [
-      [
-        "20261030",
-        50.4
-      ],
       [
         "20261031",
         50.4
@@ -17617,15 +17680,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.4
+      ],
+      [
+        "20261116",
         50.4
       ]
     ],
     "207680": [
       [
-        "20261030",
-        49.6
-      ],
-      [
         "20261031",
         49.6
       ],
@@ -17687,15 +17750,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.1
+      ],
+      [
+        "20261116",
         50.1
       ]
     ],
     "207494": [
       [
-        "20261030",
-        50.0
-      ],
-      [
         "20261031",
         50.0
       ],
@@ -17757,15 +17820,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.0
+      ],
+      [
+        "20261116",
         50.0
       ]
     ],
     "105173": [
       [
-        "20261030",
-        48.5
-      ],
-      [
         "20261031",
         48.5
       ],
@@ -17827,15 +17890,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        49.9
+      ],
+      [
+        "20261116",
         49.9
       ]
     ],
     "132283": [
       [
-        "20261030",
-        50.9
-      ],
-      [
         "20261031",
         50.9
       ],
@@ -17897,15 +17960,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        49.8
+      ],
+      [
+        "20261116",
         49.8
       ]
     ],
     "206499": [
       [
-        "20261030",
-        49.6
-      ],
-      [
         "20261031",
         49.6
       ],
@@ -17967,15 +18030,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        49.7
+      ],
+      [
+        "20261116",
         49.7
       ]
     ],
     "208014": [
       [
-        "20261030",
-        46.4
-      ],
-      [
         "20261031",
         46.4
       ],
@@ -18037,15 +18100,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        49.6
+      ],
+      [
+        "20261116",
         49.6
       ]
     ],
     "105477": [
       [
-        "20261030",
-        49.3
-      ],
-      [
         "20261031",
         49.3
       ],
@@ -18107,15 +18170,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        49.5
+      ],
+      [
+        "20261116",
         49.5
       ]
     ],
     "105777": [
       [
-        "20261030",
-        49.4
-      ],
-      [
         "20261031",
         49.4
       ],
@@ -18178,13 +18241,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         49.4
+      ],
+      [
+        "20261116",
+        49.4
       ]
     ],
     "105932": [
-      [
-        "20261030",
-        48.0
-      ],
       [
         "20261031",
         48.0
@@ -18248,13 +18311,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         49.3
+      ],
+      [
+        "20261116",
+        49.3
       ]
     ],
     "207686": [
-      [
-        "20261030",
-        49.1
-      ],
       [
         "20261031",
         49.1
@@ -18318,13 +18381,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         49.2
+      ],
+      [
+        "20261116",
+        49.2
       ]
     ],
     "210116": [
-      [
-        "20261030",
-        48.6
-      ],
       [
         "20261031",
         48.6
@@ -18388,13 +18451,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         48.9
+      ],
+      [
+        "20261116",
+        48.9
       ]
     ],
     "200624": [
-      [
-        "20261030",
-        50.9
-      ],
       [
         "20261031",
         50.9
@@ -18457,15 +18520,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        48.7
+      ],
+      [
+        "20261116",
         48.7
       ]
     ],
     "126128": [
       [
-        "20261030",
-        49.1
-      ],
-      [
         "20261031",
         49.1
       ],
@@ -18527,15 +18590,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        48.6
+      ],
+      [
+        "20261116",
         48.6
       ]
     ],
     "210460": [
       [
-        "20261030",
-        47.4
-      ],
-      [
         "20261031",
         47.4
       ],
@@ -18597,15 +18660,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        47.5
+      ],
+      [
+        "20261116",
         47.5
       ]
     ],
     "210319": [
       [
-        "20261030",
-        48.0
-      ],
-      [
         "20261031",
         48.0
       ],
@@ -18667,15 +18730,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        47.4
+      ],
+      [
+        "20261116",
         47.4
       ]
     ],
     "102093": [
       [
-        "20261030",
-        47.3
-      ],
-      [
         "20261031",
         47.3
       ],
@@ -18737,15 +18800,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        47.4
+      ],
+      [
+        "20261116",
         47.4
       ]
     ],
     "207681": [
       [
-        "20261030",
-        47.0
-      ],
-      [
         "20261031",
         47.0
       ],
@@ -18807,15 +18870,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        47.0
+      ],
+      [
+        "20261116",
         47.0
       ]
     ],
     "207182": [
       [
-        "20261030",
-        46.6
-      ],
-      [
         "20261031",
         46.6
       ],
@@ -18877,15 +18940,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        46.6
+      ],
+      [
+        "20261116",
         46.6
       ]
     ],
     "209259": [
       [
-        "20261030",
-        46.1
-      ],
-      [
         "20261031",
         46.1
       ],
@@ -18947,15 +19010,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        46.5
+      ],
+      [
+        "20261116",
         46.5
       ]
     ],
     "208021": [
       [
-        "20261030",
-        47.1
-      ],
-      [
         "20261031",
         47.1
       ],
@@ -19017,15 +19080,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        46.3
+      ],
+      [
+        "20261116",
         46.3
       ]
     ],
     "207985": [
       [
-        "20261030",
-        46.3
-      ],
-      [
         "20261031",
         46.3
       ],
@@ -19087,15 +19150,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        46.2
+      ],
+      [
+        "20261116",
         46.2
       ]
     ],
     "106000": [
       [
-        "20261030",
-        46.7
-      ],
-      [
         "20261031",
         46.7
       ],
@@ -19157,15 +19220,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        45.9
+      ],
+      [
+        "20261116",
         45.9
       ]
     ],
     "208659": [
       [
-        "20261030",
-        45.5
-      ],
-      [
         "20261031",
         45.5
       ],
@@ -19227,15 +19290,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        45.5
+      ],
+      [
+        "20261116",
         45.5
       ]
     ],
     "200443": [
       [
-        "20261030",
-        45.2
-      ],
-      [
         "20261031",
         45.2
       ],
@@ -19298,13 +19361,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         45.4
+      ],
+      [
+        "20261116",
+        45.4
       ]
     ],
     "210389": [
-      [
-        "20261030",
-        44.6
-      ],
       [
         "20261031",
         44.6
@@ -19368,13 +19431,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         45.3
+      ],
+      [
+        "20261116",
+        45.3
       ]
     ],
     "105902": [
-      [
-        "20261030",
-        45.7
-      ],
       [
         "20261031",
         45.7
@@ -19438,13 +19501,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         44.7
+      ],
+      [
+        "20261116",
+        44.7
       ]
     ],
     "200514": [
-      [
-        "20261030",
-        44.5
-      ],
       [
         "20261031",
         44.5
@@ -19507,15 +19570,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        44.5
+      ],
+      [
+        "20261116",
         44.5
       ]
     ],
     "111581": [
       [
-        "20261030",
-        42.7
-      ],
-      [
         "20261031",
         42.7
       ],
@@ -19577,15 +19640,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        42.7
+      ],
+      [
+        "20261116",
         42.7
       ]
     ],
     "111513": [
       [
-        "20261030",
-        42.3
-      ],
-      [
         "20261031",
         42.3
       ],
@@ -19647,15 +19710,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        42.3
+      ],
+      [
+        "20261116",
         42.3
       ]
     ],
     "126846": [
       [
-        "20261030",
-        42.3
-      ],
-      [
         "20261031",
         42.3
       ],
@@ -19717,15 +19780,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        42.3
+      ],
+      [
+        "20261116",
         42.3
       ]
     ],
     "210012": [
       [
-        "20261030",
-        41.9
-      ],
-      [
         "20261031",
         41.9
       ],
@@ -19787,15 +19850,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        42.0
+      ],
+      [
+        "20261116",
         42.0
       ]
     ],
     "124116": [
       [
-        "20261030",
-        40.6
-      ],
-      [
         "20261031",
         40.6
       ],
@@ -19857,15 +19920,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        40.6
+      ],
+      [
+        "20261116",
         40.6
       ]
     ],
     "208316": [
       [
-        "20261030",
-        39.3
-      ],
-      [
         "20261031",
         39.3
       ],
@@ -19927,15 +19990,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        39.3
+      ],
+      [
+        "20261116",
         39.3
       ]
     ],
     "200384": [
       [
-        "20261030",
-        38.9
-      ],
-      [
         "20261031",
         38.9
       ],
@@ -19997,15 +20060,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        38.9
+      ],
+      [
+        "20261116",
         38.9
       ]
     ],
     "106198": [
       [
-        "20261030",
-        38.8
-      ],
-      [
         "20261031",
         38.8
       ],
@@ -20067,6 +20130,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        38.8
+      ],
+      [
+        "20261116",
         38.8
       ]
     ],
@@ -20102,13 +20169,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         38.8
+      ],
+      [
+        "20261116",
+        38.8
       ]
     ],
     "210748": [
-      [
-        "20261030",
-        38.6
-      ],
       [
         "20261031",
         38.6
@@ -20171,15 +20238,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        38.6
+      ],
+      [
+        "20261116",
         38.6
       ]
     ],
     "209284": [
       [
-        "20261030",
-        37.9
-      ],
-      [
         "20261031",
         37.9
       ],
@@ -20241,15 +20308,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        38.0
+      ],
+      [
+        "20261116",
         38.0
       ]
     ],
     "144750": [
       [
-        "20261030",
-        37.9
-      ],
-      [
         "20261031",
         37.9
       ],
@@ -20311,15 +20378,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        37.9
+      ],
+      [
+        "20261116",
         37.9
       ]
     ],
     "208852": [
       [
-        "20261030",
-        37.4
-      ],
-      [
         "20261031",
         37.4
       ],
@@ -20381,15 +20448,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        37.5
+      ],
+      [
+        "20261116",
         37.5
       ]
     ],
     "202261": [
       [
-        "20261030",
-        36.9
-      ],
-      [
         "20261031",
         36.9
       ],
@@ -20451,15 +20518,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        36.9
+      ],
+      [
+        "20261116",
         36.9
       ]
     ],
     "205734": [
       [
-        "20261030",
-        35.1
-      ],
-      [
         "20261031",
         35.1
       ],
@@ -20521,15 +20588,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.2
+      ],
+      [
+        "20261116",
         35.2
       ]
     ],
     "207352": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -20591,15 +20658,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "200436": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -20661,15 +20728,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "123828": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -20731,15 +20798,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "200711": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -20801,15 +20868,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "208361": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -20871,15 +20938,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "124079": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -20941,15 +21008,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "208013": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -21011,15 +21078,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "210536": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -21081,15 +21148,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "206889": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -21151,15 +21218,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "127339": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -21221,15 +21288,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "200647": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -21291,15 +21358,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "208278": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -21361,15 +21428,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "212063": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -21431,15 +21498,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "209262": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -21501,6 +21568,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ]
@@ -21508,10 +21579,6 @@ window.TENNIS_DATA = {
   "WTA_SCORE_LOG": {
     "214544": [
       [
-        "20261030",
-        100.0
-      ],
-      [
         "20261031",
         100.0
       ],
@@ -21573,15 +21640,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        100.0
+      ],
+      [
+        "20261116",
         100.0
       ]
     ],
     "214981": [
       [
-        "20261030",
-        93.3
-      ],
-      [
         "20261031",
         93.3
       ],
@@ -21643,15 +21710,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        93.3
+      ],
+      [
+        "20261116",
         93.3
       ]
     ],
     "259799": [
       [
-        "20261030",
-        92.2
-      ],
-      [
         "20261031",
         92.2
       ],
@@ -21713,15 +21780,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        92.2
+      ],
+      [
+        "20261116",
         92.2
       ]
     ],
     "221103": [
       [
-        "20261030",
-        91.1
-      ],
-      [
         "20261031",
         91.1
       ],
@@ -21783,15 +21850,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        91.2
+      ],
+      [
+        "20261116",
         91.2
       ]
     ],
     "202494": [
       [
-        "20261030",
-        90.4
-      ],
-      [
         "20261031",
         90.4
       ],
@@ -21853,15 +21920,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        90.4
+      ],
+      [
+        "20261116",
         90.4
       ]
     ],
     "216347": [
       [
-        "20261030",
-        90.5
-      ],
-      [
         "20261031",
         90.5
       ],
@@ -21923,15 +21990,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        90.4
+      ],
+      [
+        "20261116",
         90.4
       ]
     ],
     "216146": [
       [
-        "20261030",
-        90.4
-      ],
-      [
         "20261031",
         90.4
       ],
@@ -21993,15 +22060,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        90.4
+      ],
+      [
+        "20261116",
         90.4
       ]
     ],
     "202468": [
       [
-        "20261030",
-        89.9
-      ],
-      [
         "20261031",
         89.9
       ],
@@ -22063,15 +22130,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        89.8
+      ],
+      [
+        "20261116",
         89.8
       ]
     ],
     "214096": [
       [
-        "20261030",
-        85.7
-      ],
-      [
         "20261031",
         85.7
       ],
@@ -22133,15 +22200,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        85.7
+      ],
+      [
+        "20261116",
         85.7
       ]
     ],
     "201514": [
       [
-        "20261030",
-        85.7
-      ],
-      [
         "20261031",
         85.7
       ],
@@ -22203,15 +22270,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        85.7
+      ],
+      [
+        "20261116",
         85.7
       ]
     ],
     "216153": [
       [
-        "20261030",
-        84.7
-      ],
-      [
         "20261031",
         84.7
       ],
@@ -22273,15 +22340,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        84.0
+      ],
+      [
+        "20261116",
         84.0
       ]
     ],
     "202505": [
       [
-        "20261030",
-        83.2
-      ],
-      [
         "20261031",
         83.2
       ],
@@ -22343,15 +22410,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        83.2
+      ],
+      [
+        "20261116",
         83.2
       ]
     ],
     "239475": [
       [
-        "20261030",
-        84.1
-      ],
-      [
         "20261031",
         84.1
       ],
@@ -22413,15 +22480,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        83.2
+      ],
+      [
+        "20261116",
         83.2
       ]
     ],
     "216081": [
       [
-        "20261030",
-        81.7
-      ],
-      [
         "20261031",
         81.7
       ],
@@ -22483,15 +22550,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        81.5
+      ],
+      [
+        "20261116",
         81.5
       ]
     ],
     "201619": [
       [
-        "20261030",
-        80.7
-      ],
-      [
         "20261031",
         80.7
       ],
@@ -22553,15 +22620,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        81.0
+      ],
+      [
+        "20261116",
         81.0
       ]
     ],
     "215713": [
       [
-        "20261030",
-        79.5
-      ],
-      [
         "20261031",
         79.5
       ],
@@ -22623,15 +22690,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        79.4
+      ],
+      [
+        "20261116",
         79.4
       ]
     ],
     "211768": [
       [
-        "20261030",
-        79.2
-      ],
-      [
         "20261031",
         79.2
       ],
@@ -22693,15 +22760,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        79.2
+      ],
+      [
+        "20261116",
         79.2
       ]
     ],
     "222328": [
       [
-        "20261030",
-        78.4
-      ],
-      [
         "20261031",
         78.4
       ],
@@ -22763,15 +22830,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        78.5
+      ],
+      [
+        "20261116",
         78.5
       ]
     ],
     "210722": [
       [
-        "20261030",
-        77.4
-      ],
-      [
         "20261031",
         77.4
       ],
@@ -22833,15 +22900,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        77.4
+      ],
+      [
+        "20261116",
         77.4
       ]
     ],
     "221012": [
       [
-        "20261030",
-        76.5
-      ],
-      [
         "20261031",
         76.5
       ],
@@ -22903,15 +22970,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        76.5
+      ],
+      [
+        "20261116",
         76.5
       ]
     ],
     "223670": [
       [
-        "20261030",
-        75.9
-      ],
-      [
         "20261031",
         75.9
       ],
@@ -22973,15 +23040,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        76.1
+      ],
+      [
+        "20261116",
         76.1
       ]
     ],
     "260300": [
       [
-        "20261030",
-        76.2
-      ],
-      [
         "20261031",
         76.2
       ],
@@ -23043,15 +23110,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        76.1
+      ],
+      [
+        "20261116",
         76.1
       ]
     ],
     "214939": [
       [
-        "20261030",
-        75.6
-      ],
-      [
         "20261031",
         75.6
       ],
@@ -23113,15 +23180,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        75.5
+      ],
+      [
+        "20261116",
         75.5
       ]
     ],
     "201662": [
       [
-        "20261030",
-        75.7
-      ],
-      [
         "20261031",
         75.7
       ],
@@ -23183,15 +23250,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        75.5
+      ],
+      [
+        "20261116",
         75.5
       ]
     ],
     "213631": [
       [
-        "20261030",
-        72.0
-      ],
-      [
         "20261031",
         72.0
       ],
@@ -23253,15 +23320,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        72.0
+      ],
+      [
+        "20261116",
         72.0
       ]
     ],
     "211533": [
       [
-        "20261030",
-        71.6
-      ],
-      [
         "20261031",
         71.6
       ],
@@ -23323,15 +23390,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        71.8
+      ],
+      [
+        "20261116",
         71.8
       ]
     ],
     "211148": [
       [
-        "20261030",
-        71.1
-      ],
-      [
         "20261031",
         71.1
       ],
@@ -23393,15 +23460,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        71.1
+      ],
+      [
+        "20261116",
         71.1
       ]
     ],
     "215613": [
       [
-        "20261030",
-        70.9
-      ],
-      [
         "20261031",
         70.9
       ],
@@ -23463,15 +23530,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        71.0
+      ],
+      [
+        "20261116",
         71.0
       ]
     ],
     "223253": [
       [
-        "20261030",
-        69.0
-      ],
-      [
         "20261031",
         69.0
       ],
@@ -23533,15 +23600,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        69.5
+      ],
+      [
+        "20261116",
         69.5
       ]
     ],
     "206252": [
       [
-        "20261030",
-        69.8
-      ],
-      [
         "20261031",
         69.8
       ],
@@ -23603,15 +23670,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        69.4
+      ],
+      [
+        "20261116",
         69.4
       ]
     ],
     "220367": [
       [
-        "20261030",
-        68.5
-      ],
-      [
         "20261031",
         68.5
       ],
@@ -23673,15 +23740,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        69.1
+      ],
+      [
+        "20261116",
         69.1
       ]
     ],
     "220548": [
       [
-        "20261030",
-        69.1
-      ],
-      [
         "20261031",
         69.1
       ],
@@ -23743,15 +23810,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        69.1
+      ],
+      [
+        "20261116",
         69.1
       ]
     ],
     "221024": [
       [
-        "20261030",
-        68.3
-      ],
-      [
         "20261031",
         68.3
       ],
@@ -23813,15 +23880,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        68.1
+      ],
+      [
+        "20261116",
         68.1
       ]
     ],
     "206420": [
       [
-        "20261030",
-        67.0
-      ],
-      [
         "20261031",
         67.0
       ],
@@ -23883,15 +23950,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        67.1
+      ],
+      [
+        "20261116",
         67.1
       ]
     ],
     "220348": [
       [
-        "20261030",
-        67.0
-      ],
-      [
         "20261031",
         67.0
       ],
@@ -23953,15 +24020,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        67.0
+      ],
+      [
+        "20261116",
         67.0
       ]
     ],
     "215983": [
       [
-        "20261030",
-        66.6
-      ],
-      [
         "20261031",
         66.6
       ],
@@ -24023,15 +24090,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        66.6
+      ],
+      [
+        "20261116",
         66.6
       ]
     ],
     "206289": [
       [
-        "20261030",
-        65.7
-      ],
-      [
         "20261031",
         65.7
       ],
@@ -24093,15 +24160,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        65.8
+      ],
+      [
+        "20261116",
         65.8
       ]
     ],
     "223360": [
       [
-        "20261030",
-        66.0
-      ],
-      [
         "20261031",
         66.0
       ],
@@ -24163,15 +24230,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        65.8
+      ],
+      [
+        "20261116",
         65.8
       ]
     ],
     "211107": [
       [
-        "20261030",
-        65.8
-      ],
-      [
         "20261031",
         65.8
       ],
@@ -24233,15 +24300,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        65.5
+      ],
+      [
+        "20261116",
         65.5
       ]
     ],
     "202663": [
       [
-        "20261030",
-        61.4
-      ],
-      [
         "20261031",
         61.4
       ],
@@ -24303,15 +24370,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        65.0
+      ],
+      [
+        "20261116",
         65.0
       ]
     ],
     "215785": [
       [
-        "20261030",
-        64.6
-      ],
-      [
         "20261031",
         64.6
       ],
@@ -24373,15 +24440,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        64.2
+      ],
+      [
+        "20261116",
         64.2
       ]
     ],
     "239383": [
       [
-        "20261030",
-        64.2
-      ],
-      [
         "20261031",
         64.2
       ],
@@ -24443,15 +24510,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        64.0
+      ],
+      [
+        "20261116",
         64.0
       ]
     ],
     "214643": [
       [
-        "20261030",
-        63.4
-      ],
-      [
         "20261031",
         63.4
       ],
@@ -24513,15 +24580,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        63.8
+      ],
+      [
+        "20261116",
         63.8
       ]
     ],
     "266671": [
       [
-        "20261030",
-        63.7
-      ],
-      [
         "20261031",
         63.7
       ],
@@ -24583,15 +24650,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        63.7
+      ],
+      [
+        "20261116",
         63.7
       ]
     ],
     "220750": [
       [
-        "20261030",
-        62.9
-      ],
-      [
         "20261031",
         62.9
       ],
@@ -24653,15 +24720,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        62.8
+      ],
+      [
+        "20261116",
         62.8
       ]
     ],
     "211713": [
       [
-        "20261030",
-        62.2
-      ],
-      [
         "20261031",
         62.2
       ],
@@ -24723,15 +24790,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        62.4
+      ],
+      [
+        "20261116",
         62.4
       ]
     ],
     "220704": [
       [
-        "20261030",
-        62.2
-      ],
-      [
         "20261031",
         62.2
       ],
@@ -24793,15 +24860,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        62.2
+      ],
+      [
+        "20261116",
         62.2
       ]
     ],
     "211701": [
       [
-        "20261030",
-        61.7
-      ],
-      [
         "20261031",
         61.7
       ],
@@ -24863,15 +24930,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        61.8
+      ],
+      [
+        "20261116",
         61.8
       ]
     ],
     "221909": [
       [
-        "20261030",
-        60.7
-      ],
-      [
         "20261031",
         60.7
       ],
@@ -24933,15 +25000,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        61.0
+      ],
+      [
+        "20261116",
         61.0
       ]
     ],
     "211843": [
       [
-        "20261030",
-        61.1
-      ],
-      [
         "20261031",
         61.1
       ],
@@ -25003,15 +25070,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        60.9
+      ],
+      [
+        "20261116",
         60.9
       ]
     ],
     "211337": [
       [
-        "20261030",
-        61.2
-      ],
-      [
         "20261031",
         61.2
       ],
@@ -25073,15 +25140,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        60.9
+      ],
+      [
+        "20261116",
         60.9
       ]
     ],
     "220716": [
       [
-        "20261030",
-        62.0
-      ],
-      [
         "20261031",
         62.0
       ],
@@ -25143,15 +25210,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        60.9
+      ],
+      [
+        "20261116",
         60.9
       ]
     ],
     "220714": [
       [
-        "20261030",
-        61.6
-      ],
-      [
         "20261031",
         61.6
       ],
@@ -25213,15 +25280,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        60.9
+      ],
+      [
+        "20261116",
         60.9
       ]
     ],
     "260172": [
       [
-        "20261030",
-        60.7
-      ],
-      [
         "20261031",
         60.7
       ],
@@ -25283,15 +25350,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        60.6
+      ],
+      [
+        "20261116",
         60.6
       ]
     ],
     "263857": [
       [
-        "20261030",
-        60.7
-      ],
-      [
         "20261031",
         60.7
       ],
@@ -25353,15 +25420,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        60.6
+      ],
+      [
+        "20261116",
         60.6
       ]
     ],
     "220520": [
       [
-        "20261030",
-        60.2
-      ],
-      [
         "20261031",
         60.2
       ],
@@ -25423,15 +25490,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        60.2
+      ],
+      [
+        "20261116",
         60.2
       ]
     ],
     "230319": [
       [
-        "20261030",
-        59.7
-      ],
-      [
         "20261031",
         59.7
       ],
@@ -25493,15 +25560,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        59.9
+      ],
+      [
+        "20261116",
         59.9
       ]
     ],
     "216083": [
       [
-        "20261030",
-        60.3
-      ],
-      [
         "20261031",
         60.3
       ],
@@ -25563,15 +25630,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        59.9
+      ],
+      [
+        "20261116",
         59.9
       ]
     ],
     "203501": [
       [
-        "20261030",
-        60.4
-      ],
-      [
         "20261031",
         60.4
       ],
@@ -25633,15 +25700,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        59.9
+      ],
+      [
+        "20261116",
         59.9
       ]
     ],
     "211817": [
       [
-        "20261030",
-        59.4
-      ],
-      [
         "20261031",
         59.4
       ],
@@ -25703,15 +25770,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        59.3
+      ],
+      [
+        "20261116",
         59.3
       ]
     ],
     "202499": [
       [
-        "20261030",
-        59.7
-      ],
-      [
         "20261031",
         59.7
       ],
@@ -25773,15 +25840,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        59.2
+      ],
+      [
+        "20261116",
         59.2
       ]
     ],
     "221883": [
       [
-        "20261030",
-        58.5
-      ],
-      [
         "20261031",
         58.5
       ],
@@ -25843,6 +25910,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        58.8
+      ],
+      [
+        "20261116",
         58.8
       ]
     ],
@@ -25902,13 +25973,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         57.9
+      ],
+      [
+        "20261116",
+        57.9
       ]
     ],
     "214388": [
-      [
-        "20261030",
-        57.5
-      ],
       [
         "20261031",
         57.5
@@ -25971,15 +26042,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.5
+      ],
+      [
+        "20261116",
         57.5
       ]
     ],
     "233741": [
       [
-        "20261030",
-        57.2
-      ],
-      [
         "20261031",
         57.2
       ],
@@ -26041,15 +26112,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.5
+      ],
+      [
+        "20261116",
         57.5
       ]
     ],
     "222045": [
       [
-        "20261030",
-        56.5
-      ],
-      [
         "20261031",
         56.5
       ],
@@ -26111,15 +26182,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.4
+      ],
+      [
+        "20261116",
         57.4
       ]
     ],
     "214040": [
       [
-        "20261030",
-        58.0
-      ],
-      [
         "20261031",
         58.0
       ],
@@ -26181,15 +26252,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.3
+      ],
+      [
+        "20261116",
         57.3
       ]
     ],
     "238184": [
       [
-        "20261030",
-        56.9
-      ],
-      [
         "20261031",
         56.9
       ],
@@ -26251,15 +26322,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.1
+      ],
+      [
+        "20261116",
         57.1
       ]
     ],
     "211651": [
       [
-        "20261030",
-        56.4
-      ],
-      [
         "20261031",
         56.4
       ],
@@ -26321,15 +26392,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.0
+      ],
+      [
+        "20261116",
         57.0
       ]
     ],
     "221054": [
       [
-        "20261030",
-        57.0
-      ],
-      [
         "20261031",
         57.0
       ],
@@ -26391,15 +26462,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        57.0
+      ],
+      [
+        "20261116",
         57.0
       ]
     ],
     "219917": [
       [
-        "20261030",
-        56.0
-      ],
-      [
         "20261031",
         56.0
       ],
@@ -26461,15 +26532,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        56.8
+      ],
+      [
+        "20261116",
         56.8
       ]
     ],
     "220309": [
       [
-        "20261030",
-        56.8
-      ],
-      [
         "20261031",
         56.8
       ],
@@ -26531,15 +26602,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        56.8
+      ],
+      [
+        "20261116",
         56.8
       ]
     ],
     "215035": [
       [
-        "20261030",
-        56.2
-      ],
-      [
         "20261031",
         56.2
       ],
@@ -26601,15 +26672,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        55.8
+      ],
+      [
+        "20261116",
         55.8
       ]
     ],
     "211684": [
       [
-        "20261030",
-        55.8
-      ],
-      [
         "20261031",
         55.8
       ],
@@ -26671,15 +26742,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        55.7
+      ],
+      [
+        "20261116",
         55.7
       ]
     ],
     "213710": [
       [
-        "20261030",
-        55.8
-      ],
-      [
         "20261031",
         55.8
       ],
@@ -26741,15 +26812,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        55.6
+      ],
+      [
+        "20261116",
         55.6
       ]
     ],
     "214082": [
       [
-        "20261030",
-        55.5
-      ],
-      [
         "20261031",
         55.5
       ],
@@ -26811,15 +26882,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        55.5
+      ],
+      [
+        "20261116",
         55.5
       ]
     ],
     "221333": [
       [
-        "20261030",
-        55.3
-      ],
-      [
         "20261031",
         55.3
       ],
@@ -26881,15 +26952,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        55.3
+      ],
+      [
+        "20261116",
         55.3
       ]
     ],
     "215872": [
       [
-        "20261030",
-        51.6
-      ],
-      [
         "20261031",
         51.6
       ],
@@ -26951,15 +27022,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        54.3
+      ],
+      [
+        "20261116",
         54.3
       ]
     ],
     "201709": [
       [
-        "20261030",
-        53.9
-      ],
-      [
         "20261031",
         53.9
       ],
@@ -27021,15 +27092,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        54.1
+      ],
+      [
+        "20261116",
         54.1
       ]
     ],
     "252499": [
       [
-        "20261030",
-        53.5
-      ],
-      [
         "20261031",
         53.5
       ],
@@ -27091,15 +27162,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        53.6
+      ],
+      [
+        "20261116",
         53.6
       ]
     ],
     "215910": [
       [
-        "20261030",
-        54.1
-      ],
-      [
         "20261031",
         54.1
       ],
@@ -27161,15 +27232,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.9
+      ],
+      [
+        "20261116",
         52.9
       ]
     ],
     "203530": [
       [
-        "20261030",
-        55.4
-      ],
-      [
         "20261031",
         55.4
       ],
@@ -27231,15 +27302,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.8
+      ],
+      [
+        "20261116",
         52.8
       ]
     ],
     "222145": [
       [
-        "20261030",
-        54.2
-      ],
-      [
         "20261031",
         54.2
       ],
@@ -27301,15 +27372,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.6
+      ],
+      [
+        "20261116",
         52.6
       ]
     ],
     "221354": [
       [
-        "20261030",
-        52.5
-      ],
-      [
         "20261031",
         52.5
       ],
@@ -27371,15 +27442,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.5
+      ],
+      [
+        "20261116",
         52.5
       ]
     ],
     "213583": [
       [
-        "20261030",
-        52.0
-      ],
-      [
         "20261031",
         52.0
       ],
@@ -27441,15 +27512,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        52.2
+      ],
+      [
+        "20261116",
         52.2
       ]
     ],
     "201533": [
       [
-        "20261030",
-        52.3
-      ],
-      [
         "20261031",
         52.3
       ],
@@ -27511,15 +27582,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        51.8
+      ],
+      [
+        "20261116",
         51.8
       ]
     ],
     "269714": [
       [
-        "20261030",
-        51.8
-      ],
-      [
         "20261031",
         51.8
       ],
@@ -27581,15 +27652,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        51.8
+      ],
+      [
+        "20261116",
         51.8
       ]
     ],
     "260168": [
       [
-        "20261030",
-        51.8
-      ],
-      [
         "20261031",
         51.8
       ],
@@ -27651,15 +27722,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        51.8
+      ],
+      [
+        "20261116",
         51.8
       ]
     ],
     "259871": [
       [
-        "20261030",
-        51.8
-      ],
-      [
         "20261031",
         51.8
       ],
@@ -27721,15 +27792,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        51.8
+      ],
+      [
+        "20261116",
         51.8
       ]
     ],
     "267020": [
       [
-        "20261030",
-        51.8
-      ],
-      [
         "20261031",
         51.8
       ],
@@ -27791,15 +27862,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        51.8
+      ],
+      [
+        "20261116",
         51.8
       ]
     ],
     "238075": [
       [
-        "20261030",
-        51.6
-      ],
-      [
         "20261031",
         51.6
       ],
@@ -27861,15 +27932,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        51.6
+      ],
+      [
+        "20261116",
         51.6
       ]
     ],
     "222661": [
       [
-        "20261030",
-        51.0
-      ],
-      [
         "20261031",
         51.0
       ],
@@ -27931,15 +28002,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.8
+      ],
+      [
+        "20261116",
         50.8
       ]
     ],
     "222601": [
       [
-        "20261030",
-        51.1
-      ],
-      [
         "20261031",
         51.1
       ],
@@ -28001,15 +28072,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.7
+      ],
+      [
+        "20261116",
         50.7
       ]
     ],
     "259733": [
       [
-        "20261030",
-        48.5
-      ],
-      [
         "20261031",
         48.5
       ],
@@ -28071,15 +28142,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.2
+      ],
+      [
+        "20261116",
         50.2
       ]
     ],
     "201548": [
       [
-        "20261030",
-        50.0
-      ],
-      [
         "20261031",
         50.0
       ],
@@ -28141,15 +28212,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        50.0
+      ],
+      [
+        "20261116",
         50.0
       ]
     ],
     "222966": [
       [
-        "20261030",
-        49.8
-      ],
-      [
         "20261031",
         49.8
       ],
@@ -28211,15 +28282,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        49.8
+      ],
+      [
+        "20261116",
         49.8
       ]
     ],
     "215453": [
       [
-        "20261030",
-        49.7
-      ],
-      [
         "20261031",
         49.7
       ],
@@ -28281,15 +28352,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        49.7
+      ],
+      [
+        "20261116",
         49.7
       ]
     ],
     "223194": [
       [
-        "20261030",
-        50.4
-      ],
-      [
         "20261031",
         50.4
       ],
@@ -28351,15 +28422,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        49.6
+      ],
+      [
+        "20261116",
         49.6
       ]
     ],
     "214906": [
       [
-        "20261030",
-        45.3
-      ],
-      [
         "20261031",
         45.3
       ],
@@ -28421,6 +28492,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        49.3
+      ],
+      [
+        "20261116",
         49.3
       ]
     ],
@@ -28456,13 +28531,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         49.3
+      ],
+      [
+        "20261116",
+        49.3
       ]
     ],
     "203514": [
-      [
-        "20261030",
-        48.9
-      ],
       [
         "20261031",
         48.9
@@ -28525,15 +28600,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        48.9
+      ],
+      [
+        "20261116",
         48.9
       ]
     ],
     "247669": [
       [
-        "20261030",
-        48.9
-      ],
-      [
         "20261031",
         48.9
       ],
@@ -28595,15 +28670,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        48.9
+      ],
+      [
+        "20261116",
         48.9
       ]
     ],
     "210622": [
       [
-        "20261030",
-        48.8
-      ],
-      [
         "20261031",
         48.8
       ],
@@ -28665,15 +28740,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        48.8
+      ],
+      [
+        "20261116",
         48.8
       ]
     ],
     "215370": [
       [
-        "20261030",
-        48.7
-      ],
-      [
         "20261031",
         48.7
       ],
@@ -28735,15 +28810,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        48.7
+      ],
+      [
+        "20261116",
         48.7
       ]
     ],
     "213887": [
       [
-        "20261030",
-        48.8
-      ],
-      [
         "20261031",
         48.8
       ],
@@ -28805,15 +28880,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        48.2
+      ],
+      [
+        "20261116",
         48.2
       ]
     ],
     "215020": [
       [
-        "20261030",
-        51.6
-      ],
-      [
         "20261031",
         51.6
       ],
@@ -28875,15 +28950,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        48.1
+      ],
+      [
+        "20261116",
         48.1
       ]
     ],
     "221407": [
       [
-        "20261030",
-        47.2
-      ],
-      [
         "20261031",
         47.2
       ],
@@ -28945,15 +29020,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        47.2
+      ],
+      [
+        "20261116",
         47.2
       ]
     ],
     "220465": [
       [
-        "20261030",
-        46.9
-      ],
-      [
         "20261031",
         46.9
       ],
@@ -29015,6 +29090,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        47.1
+      ],
+      [
+        "20261116",
         47.1
       ]
     ],
@@ -29074,6 +29153,10 @@ window.TENNIS_DATA = {
       [
         "20261115",
         46.9
+      ],
+      [
+        "20261116",
+        46.9
       ]
     ],
     "221905": [
@@ -29108,13 +29191,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         46.8
+      ],
+      [
+        "20261116",
+        46.8
       ]
     ],
     "243420": [
-      [
-        "20261030",
-        46.7
-      ],
       [
         "20261031",
         46.7
@@ -29177,15 +29260,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        46.7
+      ],
+      [
+        "20261116",
         46.7
       ]
     ],
     "205925": [
       [
-        "20261030",
-        44.9
-      ],
-      [
         "20261031",
         44.9
       ],
@@ -29247,15 +29330,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        46.2
+      ],
+      [
+        "20261116",
         46.2
       ]
     ],
     "221039": [
       [
-        "20261030",
-        45.7
-      ],
-      [
         "20261031",
         45.7
       ],
@@ -29317,15 +29400,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        45.7
+      ],
+      [
+        "20261116",
         45.7
       ]
     ],
     "263644": [
       [
-        "20261030",
-        45.1
-      ],
-      [
         "20261031",
         45.1
       ],
@@ -29387,15 +29470,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        45.1
+      ],
+      [
+        "20261116",
         45.1
       ]
     ],
     "221237": [
       [
-        "20261030",
-        44.8
-      ],
-      [
         "20261031",
         44.8
       ],
@@ -29457,15 +29540,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        44.8
+      ],
+      [
+        "20261116",
         44.8
       ]
     ],
     "220699": [
       [
-        "20261030",
-        44.3
-      ],
-      [
         "20261031",
         44.3
       ],
@@ -29527,15 +29610,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        44.3
+      ],
+      [
+        "20261116",
         44.3
       ]
     ],
     "215899": [
       [
-        "20261030",
-        44.2
-      ],
-      [
         "20261031",
         44.2
       ],
@@ -29597,15 +29680,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        44.2
+      ],
+      [
+        "20261116",
         44.2
       ]
     ],
     "220435": [
       [
-        "20261030",
-        43.7
-      ],
-      [
         "20261031",
         43.7
       ],
@@ -29667,15 +29750,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        43.7
+      ],
+      [
+        "20261116",
         43.7
       ]
     ],
     "216016": [
       [
-        "20261030",
-        43.5
-      ],
-      [
         "20261031",
         43.5
       ],
@@ -29737,15 +29820,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        43.5
+      ],
+      [
+        "20261116",
         43.5
       ]
     ],
     "211539": [
       [
-        "20261030",
-        43.0
-      ],
-      [
         "20261031",
         43.0
       ],
@@ -29807,15 +29890,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        43.2
+      ],
+      [
+        "20261116",
         43.2
       ]
     ],
     "214459": [
       [
-        "20261030",
-        42.8
-      ],
-      [
         "20261031",
         42.8
       ],
@@ -29877,15 +29960,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        42.8
+      ],
+      [
+        "20261116",
         42.8
       ]
     ],
     "221257": [
       [
-        "20261030",
-        44.8
-      ],
-      [
         "20261031",
         44.8
       ],
@@ -29947,15 +30030,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        42.5
+      ],
+      [
+        "20261116",
         42.5
       ]
     ],
     "220722": [
       [
-        "20261030",
-        42.3
-      ],
-      [
         "20261031",
         42.3
       ],
@@ -30017,15 +30100,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        42.3
+      ],
+      [
+        "20261116",
         42.3
       ]
     ],
     "221406": [
       [
-        "20261030",
-        39.8
-      ],
-      [
         "20261031",
         39.8
       ],
@@ -30087,15 +30170,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        42.0
+      ],
+      [
+        "20261116",
         42.0
       ]
     ],
     "215936": [
       [
-        "20261030",
-        41.3
-      ],
-      [
         "20261031",
         41.3
       ],
@@ -30157,15 +30240,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        41.1
+      ],
+      [
+        "20261116",
         41.1
       ]
     ],
     "216566": [
       [
-        "20261030",
-        40.8
-      ],
-      [
         "20261031",
         40.8
       ],
@@ -30227,15 +30310,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        40.9
+      ],
+      [
+        "20261116",
         40.9
       ]
     ],
     "206417": [
       [
-        "20261030",
-        40.8
-      ],
-      [
         "20261031",
         40.8
       ],
@@ -30297,15 +30380,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        40.9
+      ],
+      [
+        "20261116",
         40.9
       ]
     ],
     "214593": [
       [
-        "20261030",
-        40.6
-      ],
-      [
         "20261031",
         40.6
       ],
@@ -30367,15 +30450,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        40.6
+      ],
+      [
+        "20261116",
         40.6
       ]
     ],
     "222290": [
       [
-        "20261030",
-        41.1
-      ],
-      [
         "20261031",
         41.1
       ],
@@ -30437,15 +30520,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        40.4
+      ],
+      [
+        "20261116",
         40.4
       ]
     ],
     "260664": [
       [
-        "20261030",
-        40.2
-      ],
-      [
         "20261031",
         40.2
       ],
@@ -30507,15 +30590,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        40.2
+      ],
+      [
+        "20261116",
         40.2
       ]
     ],
     "220416": [
       [
-        "20261030",
-        39.9
-      ],
-      [
         "20261031",
         39.9
       ],
@@ -30577,15 +30660,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        39.9
+      ],
+      [
+        "20261116",
         39.9
       ]
     ],
     "221124": [
       [
-        "20261030",
-        39.1
-      ],
-      [
         "20261031",
         39.1
       ],
@@ -30647,15 +30730,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        39.1
+      ],
+      [
+        "20261116",
         39.1
       ]
     ],
     "266376": [
       [
-        "20261030",
-        37.4
-      ],
-      [
         "20261031",
         37.4
       ],
@@ -30717,15 +30800,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        37.4
+      ],
+      [
+        "20261116",
         37.4
       ]
     ],
     "210886": [
       [
-        "20261030",
-        38.2
-      ],
-      [
         "20261031",
         38.2
       ],
@@ -30787,15 +30870,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        37.0
+      ],
+      [
+        "20261116",
         37.0
       ]
     ],
     "215037": [
       [
-        "20261030",
-        37.0
-      ],
-      [
         "20261031",
         37.0
       ],
@@ -30857,15 +30940,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        37.0
+      ],
+      [
+        "20261116",
         37.0
       ]
     ],
     "215571": [
       [
-        "20261030",
-        36.7
-      ],
-      [
         "20261031",
         36.7
       ],
@@ -30927,15 +31010,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        36.7
+      ],
+      [
+        "20261116",
         36.7
       ]
     ],
     "221243": [
       [
-        "20261030",
-        36.5
-      ],
-      [
         "20261031",
         36.5
       ],
@@ -30997,15 +31080,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        36.5
+      ],
+      [
+        "20261116",
         36.5
       ]
     ],
     "220742": [
       [
-        "20261030",
-        36.1
-      ],
-      [
         "20261031",
         36.1
       ],
@@ -31067,15 +31150,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        36.1
+      ],
+      [
+        "20261116",
         36.1
       ]
     ],
     "201585": [
       [
-        "20261030",
-        35.3
-      ],
-      [
         "20261031",
         35.3
       ],
@@ -31137,15 +31220,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.3
+      ],
+      [
+        "20261116",
         35.3
       ]
     ],
     "221236": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -31207,15 +31290,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.1
+      ],
+      [
+        "20261116",
         35.1
       ]
     ],
     "211279": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -31277,15 +31360,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "221307": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -31347,15 +31430,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "223333": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -31417,15 +31500,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "211814": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -31487,15 +31570,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "223168": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -31557,15 +31640,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "236955": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -31627,15 +31710,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
     "213666": [
       [
-        "20261030",
-        35.0
-      ],
-      [
         "20261031",
         35.0
       ],
@@ -31697,6 +31780,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ],
@@ -31756,13 +31843,13 @@ window.TENNIS_DATA = {
       [
         "20261115",
         35.0
+      ],
+      [
+        "20261116",
+        35.0
       ]
     ],
     "214461": [
-      [
-        "20261030",
-        35.0
-      ],
       [
         "20261031",
         35.0
@@ -31826,6 +31913,10 @@ window.TENNIS_DATA = {
       [
         "20261115",
         35.0
+      ],
+      [
+        "20261116",
+        35.0
       ]
     ],
     "215042": [
@@ -31859,6 +31950,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20261115",
+        35.0
+      ],
+      [
+        "20261116",
         35.0
       ]
     ]
