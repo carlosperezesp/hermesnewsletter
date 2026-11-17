@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-17 14:27 UTC
+// Auto-generated 2026-11-17 16:17 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-17 14:27 UTC",
+  "UPDATED": "2026-11-17 16:17 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9925,7 +9925,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "LP Open by IND",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -10941,15 +10941,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Group Stage",
-          "w": "Rafael Jodar",
+          "w": "Arthur Fils",
           "w_logo": "",
-          "l": "Arthur Fils",
+          "l": "Rafael Jodar",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-2 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 78.2,
-          "l_score": 83.4,
+          "w_score": 83.4,
+          "l_score": 78.2,
           "match_score": 83.4
         }
       ]
@@ -11102,15 +11102,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Lucia Bronzetti",
+          "w": "Alicia Herrero Linana",
           "w_logo": "",
-          "l": "Alicia Herrero Linana",
+          "l": "Lucia Bronzetti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.9,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.9,
           "match_score": 42.9
         },
         {
@@ -11128,11 +11128,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Darja Semenistaja",
+          "w": "Irene Burillo",
           "w_logo": "",
-          "l": "Irene Burillo",
+          "l": "Darja Semenistaja",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11154,11 +11154,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Varvara Lepchenko",
+          "w": "Nadia Podoroska",
           "w_logo": "",
-          "l": "Nadia Podoroska",
+          "l": "Varvara Lepchenko",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11227,7 +11227,6 @@ window.TENNIS_DATA = {
       "Ariana Geerlings",
       "Barbara Gatica",
       "Carole Monnet",
-      "Darja Semenistaja",
       "Despina Papamichail",
       "Fernanda Labrana",
       "Guiomar Maristany Zuleta De Reales",
@@ -11242,21 +11241,22 @@ window.TENNIS_DATA = {
       "Rebeka Masarova",
       "Sofia Costoulas",
       "Valeriya Strakhova",
-      "Varvara Lepchenko",
       "Veronika Erjavec"
     ],
     "out": [
       "Anastasia Tikhonova",
+      "Darja Semenistaja",
       "Diletta Cherubini",
       "Ipek Oz",
       "Katrina Scott",
       "Luisina Giovannini",
       "Martina Trevisan",
       "Nuria Brancaccio",
+      "Varvara Lepchenko",
       "Victoria Jimenez Kasintseva"
     ],
-    "aliveCount": 24,
-    "matchesSeen": 17
+    "aliveCount": 22,
+    "matchesSeen": 19
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -5383,9 +5383,9 @@ window.NHL_DATA = {
       "name": "Nikita Tolopilo",
       "pos": "G",
       "teamCode": "VAN",
-      "age": 26,
-      "country": "Belarus",
-      "birthCountry": "BLR",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#00843d"
@@ -5395,7 +5395,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 1,
         "w": 1,
-        "svpct": 0.944,
+        "svpct": 0.946,
         "gaa": 2.0,
         "so": 0
       },
@@ -5628,7 +5628,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": 0,
         "toi": 13.9,
-        "shots": 7
+        "shots": 8
       },
       "trajectory": [
         37,
@@ -39031,10 +39031,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-17 14:24 UTC",
+  "LAST_UPDATE": "2026-11-17 16:15 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-17T14:23:45Z"
+    "standingsDateTimeUtc": "2026-11-17T16:14:45Z"
   }
 };
