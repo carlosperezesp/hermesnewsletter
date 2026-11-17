@@ -4259,7 +4259,7 @@ window.MLB_DATA = {
       "name": "Salvador Perez",
       "first": "Salvador",
       "last": "Perez",
-      "pos": "DH",
+      "pos": "C",
       "teamCode": "KC",
       "age": 36,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31127.png",
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-17 16:15 UTC",
+  "LAST_UPDATE": "2026-11-17 21:19 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

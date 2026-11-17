@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-17 16:17 UTC
+// Auto-generated 2026-11-17 21:22 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-17 16:17 UTC",
+  "UPDATED": "2026-11-17 21:22 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9361,7 +9361,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "LP Open by IND",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -10928,15 +10928,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Alexander Zverev",
+          "w": "Ben Shelton",
           "w_logo": "",
-          "l": "Ben Shelton",
+          "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 86.9,
-          "l_score": 75.2,
+          "scheduled": false,
+          "w_score": 75.2,
+          "l_score": 86.9,
           "match_score": 86.9
         },
         {
@@ -11080,9 +11080,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Despina Papamichail",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.8,
           "l_score": null,
           "match_score": 63.8
@@ -11102,15 +11102,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Alicia Herrero Linana",
+          "w": "Lucia Bronzetti",
           "w_logo": "",
-          "l": "Lucia Bronzetti",
+          "l": "Alicia Herrero Linana",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 42.9,
+          "w_score": 42.9,
+          "l_score": null,
           "match_score": 42.9
         },
         {
@@ -11141,19 +11141,6 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Miriam Bulgaru",
-          "w_logo": "",
-          "l": "Polona Hercog",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
           "w": "Nadia Podoroska",
           "w_logo": "",
           "l": "Varvara Lepchenko",
@@ -11167,13 +11154,26 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
+          "w": "Polona Hercog",
+          "w_logo": "",
+          "l": "Miriam Bulgaru",
+          "l_logo": "",
+          "score": "7-6 (7-4) 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
           "w": "Veronika Erjavec",
           "w_logo": "",
           "l": "Maria Lourdes Carle",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-7 7-5 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11220,7 +11220,6 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Alicia Herrero Linana",
       "Anastasia Zolotareva",
       "Andrea Lazaro Garcia",
       "Antonia Vergara Rivera",
@@ -11234,8 +11233,6 @@ window.TENNIS_DATA = {
       "Laura Samson",
       "Leyre Romero Gormaz",
       "Lucia Bronzetti",
-      "Maria Lourdes Carle",
-      "Miriam Bulgaru",
       "Nadia Podoroska",
       "Polona Hercog",
       "Rebeka Masarova",
@@ -11244,19 +11241,22 @@ window.TENNIS_DATA = {
       "Veronika Erjavec"
     ],
     "out": [
+      "Alicia Herrero Linana",
       "Anastasia Tikhonova",
       "Darja Semenistaja",
       "Diletta Cherubini",
       "Ipek Oz",
       "Katrina Scott",
       "Luisina Giovannini",
+      "Maria Lourdes Carle",
       "Martina Trevisan",
+      "Miriam Bulgaru",
       "Nuria Brancaccio",
       "Varvara Lepchenko",
       "Victoria Jimenez Kasintseva"
     ],
-    "aliveCount": 22,
-    "matchesSeen": 19
+    "aliveCount": 19,
+    "matchesSeen": 22
   },
   "ATP_SCORE_LOG": {
     "206173": [
