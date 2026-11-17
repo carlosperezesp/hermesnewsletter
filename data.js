@@ -5449,7 +5449,7 @@ window.NHL_DATA = {
       "name": "Roope Hintz",
       "pos": "C",
       "teamCode": "DAL",
-      "age": 29,
+      "age": 30,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -22476,7 +22476,7 @@ window.NHL_DATA = {
       "name": "Adam Engstrom",
       "pos": "D",
       "teamCode": "MTL",
-      "age": 22,
+      "age": 23,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -38922,10 +38922,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-16 23:00 UTC",
+  "LAST_UPDATE": "2026-11-17 02:56 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-16T22:59:45Z"
+    "standingsDateTimeUtc": "2026-11-17T02:55:30Z"
   }
 };

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-16 23:02 UTC",
+  "UPDATED": "2026-11-17 02:58 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -113,15 +113,6 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "tennis:in:ATP:Rafael Jodar:20261029",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Rafael Jodar entra en el top 10 ATP",
-      "weight": 90,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-11-02"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Kirill Kaprizov",
@@ -358,15 +349,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Trevor Lawrence",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Trevor Lawrence entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "tennis:out:ATP:Alex De Minaur:20261112",
       "sport": "tennis",
       "detail": "Tenis",
@@ -383,15 +365,6 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "tennis:out:ATP:Felix Auger Aliassime:20261029",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Felix Auger Aliassime sale del top 10 ATP",
-      "weight": 78,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-11-02"
     },
     {
       "id": "rank:nascar:DRIVERS:out:Carson Hocevar",
