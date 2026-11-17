@@ -1,5 +1,5 @@
 window.NASCAR_DATA = {
-  "UPDATED": "2026-11-17 21:20 UTC",
+  "UPDATED": "2026-11-17 21:53 UTC",
   "SEASON": 2026,
   "ROUND": 40,
   "TOTAL_ROUNDS": 36,
@@ -1452,7 +1452,7 @@ window.NASCAR_DATA = {
       "playoffScore": 0.0,
       "score": 0.3,
       "legendScore": 0.0,
-      "age": 42
+      "age": 43
     }
   ],
   "PROSPECTS": [

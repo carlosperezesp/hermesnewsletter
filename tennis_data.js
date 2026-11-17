@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-17 21:22 UTC
+// Auto-generated 2026-11-17 21:54 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-17 21:22 UTC",
+  "UPDATED": "2026-11-17 21:54 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10928,15 +10928,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Ben Shelton",
+          "w": "Alexander Zverev",
           "w_logo": "",
-          "l": "Alexander Zverev",
+          "l": "Ben Shelton",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 75.2,
-          "l_score": 86.9,
+          "w_score": 86.9,
+          "l_score": 75.2,
           "match_score": 86.9
         },
         {
@@ -11093,9 +11093,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Barbara Gatica",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.8,
           "l_score": null,
           "match_score": 48.8
