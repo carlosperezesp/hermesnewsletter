@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-17 04:01 UTC",
+  "UPDATED": "2026-11-17 14:27 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -115,6 +115,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-09"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Deni Avdija",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Deni Avdija entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-17"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Kirill Kaprizov",
       "sport": "nhl",
       "detail": "NHL",
@@ -129,15 +138,6 @@ window.GLORY_DATA = {
       "detail": "NBA",
       "anchor": "nba-road-to-glory",
       "text": "Kevin Durant entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-16"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Darryn Peterson",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Darryn Peterson entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-16"
     },
@@ -536,8 +536,8 @@ window.GLORY_DATA = {
       "LeBron James",
       "Giannis Antetokounmpo",
       "Luka Doncic",
-      "Kevin Durant",
       "Nikola Jokic",
+      "Kevin Durant",
       "Shai Gilgeous-Alexander",
       "Jayson Tatum",
       "Anthony Davis",
@@ -549,8 +549,8 @@ window.GLORY_DATA = {
       "San Antonio Spurs",
       "Oklahoma City Thunder",
       "Minnesota Timberwolves",
-      "Denver Nuggets",
       "Golden State Warriors",
+      "Denver Nuggets",
       "New York Knicks",
       "Indiana Pacers",
       "Milwaukee Bucks"
@@ -561,11 +561,11 @@ window.GLORY_DATA = {
       "Darius Acuff Jr.",
       "Cade Cunningham",
       "Caleb Wilson",
-      "Alperen Sengun",
-      "Franz Wagner",
       "Cameron Boozer",
       "Dylan Harper",
-      "Darryn Peterson"
+      "Alperen Sengun",
+      "Franz Wagner",
+      "Deni Avdija"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",

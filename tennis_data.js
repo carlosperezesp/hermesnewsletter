@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-17 04:01 UTC
+// Auto-generated 2026-11-17 14:27 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-17 04:01 UTC",
+  "UPDATED": "2026-11-17 14:27 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10941,15 +10941,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Group Stage",
-          "w": "Arthur Fils",
+          "w": "Rafael Jodar",
           "w_logo": "",
-          "l": "Rafael Jodar",
+          "l": "Arthur Fils",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 83.4,
-          "l_score": 78.2,
+          "scheduled": false,
+          "w_score": 78.2,
+          "l_score": 83.4,
           "match_score": 83.4
         }
       ]
@@ -11132,9 +11132,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Irene Burillo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11158,9 +11158,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nadia Podoroska",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0

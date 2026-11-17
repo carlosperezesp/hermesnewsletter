@@ -431,7 +431,7 @@ window.NFL_DATA = {
       "pf": 251,
       "pa": 289,
       "pd": -38,
-      "seed": 10,
+      "seed": 9,
       "score": 29,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
       "colors": {
@@ -446,16 +446,16 @@ window.NFL_DATA = {
       "commonName": "Ravens",
       "conf": "AFC",
       "div": "AFC North",
-      "gp": 9,
+      "gp": 10,
       "w": 4,
-      "l": 5,
+      "l": 6,
       "t": 0,
-      "winPct": 0.444,
-      "pf": 189,
-      "pa": 236,
-      "pd": -47,
-      "seed": 9,
-      "score": 31,
+      "winPct": 0.4,
+      "pf": 209,
+      "pa": 259,
+      "pd": -50,
+      "seed": 10,
+      "score": 28,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
       "colors": {
         "primary": "#241773",
@@ -684,7 +684,7 @@ window.NFL_DATA = {
       "pf": 167,
       "pa": 239,
       "pd": -72,
-      "seed": 15,
+      "seed": 16,
       "score": 2,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
       "colors": {
@@ -707,7 +707,7 @@ window.NFL_DATA = {
       "pf": 148,
       "pa": 224,
       "pd": -76,
-      "seed": 14,
+      "seed": 15,
       "score": 2,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
       "colors": {
@@ -722,15 +722,15 @@ window.NFL_DATA = {
       "commonName": "Chargers",
       "conf": "AFC",
       "div": "AFC West",
-      "gp": 8,
-      "w": 0,
+      "gp": 9,
+      "w": 1,
       "l": 8,
       "t": 0,
-      "winPct": 0.0,
-      "pf": 121,
-      "pa": 219,
-      "pd": -98,
-      "seed": 16,
+      "winPct": 0.111,
+      "pf": 144,
+      "pa": 239,
+      "pd": -95,
+      "seed": 14,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
       "colors": {
@@ -1236,17 +1236,17 @@ window.NFL_DATA = {
         "primary": "#97233f",
         "secondary": "#ffb612"
       },
-      "score": 60,
+      "score": 63,
       "stats": {
         "type": "passing",
-        "cmp": 193,
-        "att": 305,
-        "pct": 63.3,
-        "yds": 1719,
-        "ypa": 5.6,
+        "cmp": 226,
+        "att": 354,
+        "pct": 63.8,
+        "yds": 2059,
+        "ypa": 5.8,
         "td": 10,
-        "int": 7,
-        "rushYds": 87,
+        "int": 8,
+        "rushYds": 89,
         "rushTd": 0
       }
     },
@@ -1501,6 +1501,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 4038941,
+      "name": "Justin Herbert",
+      "pos": "QB",
+      "teamCode": "LAC",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038941.png",
+      "colors": {
+        "primary": "#0080c6",
+        "secondary": "#ffb612"
+      },
+      "score": 49,
+      "stats": {
+        "type": "passing",
+        "cmp": 156,
+        "att": 253,
+        "pct": 61.7,
+        "yds": 1720,
+        "ypa": 6.8,
+        "td": 6,
+        "int": 11,
+        "rushYds": 241,
+        "rushTd": 3
+      }
+    },
+    {
       "id": 3917315,
       "name": "Kyler Murray",
       "pos": "QB",
@@ -1522,31 +1547,6 @@ window.NFL_DATA = {
         "td": 5,
         "int": 3,
         "rushYds": 167,
-        "rushTd": 2
-      }
-    },
-    {
-      "id": 4038941,
-      "name": "Justin Herbert",
-      "pos": "QB",
-      "teamCode": "LAC",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038941.png",
-      "colors": {
-        "primary": "#0080c6",
-        "secondary": "#ffb612"
-      },
-      "score": 48,
-      "stats": {
-        "type": "passing",
-        "cmp": 144,
-        "att": 235,
-        "pct": 61.3,
-        "yds": 1591,
-        "ypa": 6.8,
-        "td": 6,
-        "int": 11,
-        "rushYds": 190,
         "rushTd": 2
       }
     },
@@ -2205,7 +2205,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-17 03:59 UTC",
+  "LAST_UPDATE": "2026-11-17 14:24 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
