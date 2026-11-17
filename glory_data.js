@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-17 02:58 UTC",
+  "UPDATED": "2026-11-17 04:01 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -548,9 +548,9 @@ window.GLORY_DATA = {
       "Los Angeles Lakers",
       "San Antonio Spurs",
       "Oklahoma City Thunder",
-      "Golden State Warriors",
       "Minnesota Timberwolves",
       "Denver Nuggets",
+      "Golden State Warriors",
       "New York Knicks",
       "Indiana Pacers",
       "Milwaukee Bucks"

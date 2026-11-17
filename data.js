@@ -135,28 +135,6 @@ window.NHL_DATA = {
       }
     },
     {
-      "code": "MTL",
-      "city": "Montréal Canadiens",
-      "shortName": "Montréal",
-      "commonName": "Canadiens",
-      "conf": "E",
-      "div": "Atlantic",
-      "gp": 20,
-      "w": 12,
-      "l": 4,
-      "ot": 4,
-      "pts": 28,
-      "gf": 68,
-      "ga": 61,
-      "gd": 7,
-      "score": 61,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
-      "colors": {
-        "primary": "#af1e2d",
-        "secondary": "#192168"
-      }
-    },
-    {
       "code": "OTT",
       "city": "Ottawa Senators",
       "shortName": "Ottawa",
@@ -176,6 +154,28 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#c52032",
         "secondary": "#c2912c"
+      }
+    },
+    {
+      "code": "MTL",
+      "city": "Montréal Canadiens",
+      "shortName": "Montréal",
+      "commonName": "Canadiens",
+      "conf": "E",
+      "div": "Atlantic",
+      "gp": 21,
+      "w": 12,
+      "l": 5,
+      "ot": 4,
+      "pts": 28,
+      "gf": 69,
+      "ga": 64,
+      "gd": 5,
+      "score": 59,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
+      "colors": {
+        "primary": "#af1e2d",
+        "secondary": "#192168"
       }
     },
     {
@@ -220,6 +220,28 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#111111"
+      }
+    },
+    {
+      "code": "NYR",
+      "city": "New York Rangers",
+      "shortName": "NY Rangers",
+      "commonName": "Rangers",
+      "conf": "E",
+      "div": "Metro",
+      "gp": 22,
+      "w": 13,
+      "l": 8,
+      "ot": 1,
+      "pts": 27,
+      "gf": 67,
+      "ga": 58,
+      "gd": 9,
+      "score": 57,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+      "colors": {
+        "primary": "#0038a8",
+        "secondary": "#ce1126"
       }
     },
     {
@@ -286,28 +308,6 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#006847",
         "secondary": "#8f8f8c"
-      }
-    },
-    {
-      "code": "NYR",
-      "city": "New York Rangers",
-      "shortName": "NY Rangers",
-      "commonName": "Rangers",
-      "conf": "E",
-      "div": "Metro",
-      "gp": 21,
-      "w": 12,
-      "l": 8,
-      "ot": 1,
-      "pts": 25,
-      "gf": 64,
-      "ga": 57,
-      "gd": 7,
-      "score": 55,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
-      "colors": {
-        "primary": "#0038a8",
-        "secondary": "#ce1126"
       }
     },
     {
@@ -38682,9 +38682,9 @@ window.NHL_DATA = {
         "city": "New York Rangers",
         "era": "2022–present",
         "cups": 0,
-        "dynastyScore": 42.2,
+        "dynastyScore": 43.4,
         "threshold": 89.7,
-        "gap": 47.5,
+        "gap": 46.3,
         "note": "2024 Conference Finals · Panarin–Fox era",
         "needs": "Needs at least one Cup + years of dominance",
         "colors": {
@@ -38922,10 +38922,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-17 02:56 UTC",
+  "LAST_UPDATE": "2026-11-17 03:59 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-17T02:55:30Z"
+    "standingsDateTimeUtc": "2026-11-17T03:59:15Z"
   }
 };
