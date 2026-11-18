@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-18 20:54 UTC
+// Auto-generated 2026-11-18 21:35 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-18 20:54 UTC",
+  "UPDATED": "2026-11-18 21:35 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10945,7 +10945,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Flavio Cobolli",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (8-6) 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": 74.2,
