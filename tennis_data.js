@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-18 14:00 UTC
+// Auto-generated 2026-11-18 15:52 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-18 14:00 UTC",
+  "UPDATED": "2026-11-18 15:52 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10928,15 +10928,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Daniil Medvedev",
+          "w": "Carlos Alcaraz",
           "w_logo": "",
-          "l": "Carlos Alcaraz",
+          "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 77.9,
-          "l_score": 90.9,
+          "w_score": 90.9,
+          "l_score": 77.9,
           "match_score": 90.9
         },
         {
@@ -11119,9 +11119,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Guiomar Maristany Zuleta De Reales",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
