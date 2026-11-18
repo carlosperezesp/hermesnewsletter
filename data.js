@@ -2341,7 +2341,7 @@ window.NHL_DATA = {
         "g": 10,
         "a": 16,
         "p": 26,
-        "pm": 10,
+        "pm": 9,
         "toi": 20.1,
         "shots": 43
       },
@@ -18859,8 +18859,8 @@ window.NHL_DATA = {
         "g": 3,
         "a": 4,
         "p": 7,
-        "pm": -5,
-        "toi": 15.0,
+        "pm": -4,
+        "toi": 14.9,
         "shots": 49
       },
       "trajectory": [
@@ -21451,9 +21451,9 @@ window.NHL_DATA = {
       "name": "Calum Ritchie",
       "pos": "C",
       "teamCode": "NYI",
-      "age": 21,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00539b",
         "secondary": "#f47d30"
@@ -39019,10 +39019,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-18 15:49 UTC",
+  "LAST_UPDATE": "2026-11-18 20:53 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-18T15:49:15Z"
+    "standingsDateTimeUtc": "2026-11-18T20:52:45Z"
   }
 };

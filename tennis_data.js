@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-18 15:52 UTC
+// Auto-generated 2026-11-18 20:54 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-18 15:52 UTC",
+  "UPDATED": "2026-11-18 20:54 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10941,15 +10941,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Group Stage",
-          "w": "Flavio Cobolli",
+          "w": "Frances Tiafoe",
           "w_logo": "",
-          "l": "Frances Tiafoe",
+          "l": "Flavio Cobolli",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 74.5,
-          "l_score": 74.2,
+          "scheduled": false,
+          "w_score": 74.2,
+          "l_score": 74.5,
           "match_score": 74.5
         }
       ]
@@ -11080,9 +11080,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nadia Podoroska",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 36.2,
           "l_score": null,
           "match_score": 36.2
@@ -11102,24 +11102,24 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Polona Hercog",
+          "w": "Guiomar Maristany Zuleta De Reales",
           "w_logo": "",
-          "l": "Rebeka Masarova",
+          "l": "Sofia Costoulas",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "R64",
-          "w": "Sofia Costoulas",
+          "w": "Rebeka Masarova",
           "w_logo": "",
-          "l": "Guiomar Maristany Zuleta De Reales",
+          "l": "Polona Hercog",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
