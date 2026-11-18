@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-11-17 21:21 UTC",
+  "UPDATED": "2026-11-18 02:28 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1666,
+    "matches": 1664,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 971
+        "matches": 969
       },
       {
         "name": "IPL",
@@ -1712,12 +1712,12 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 86.8,
-          "batting": 33.2,
-          "bowling": 48.6,
-          "overall": 86.8,
-          "runs": 1259,
-          "wickets": 59
+          "score": 87.0,
+          "batting": 33.8,
+          "bowling": 48.0,
+          "overall": 87.0,
+          "runs": 1246,
+          "wickets": 58
         },
         {
           "id": "c-bosch",

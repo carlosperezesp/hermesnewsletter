@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-17 21:54 UTC",
+  "UPDATED": "2026-11-18 02:28 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -340,15 +340,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-04"
     },
     {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:SR Harmer",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "SR Harmer entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-03"
-    },
-    {
       "id": "tennis:out:ATP:Alex De Minaur:20261112",
       "sport": "tennis",
       "detail": "Tenis",
@@ -464,15 +455,6 @@ window.GLORY_DATA = {
       "text": "Jalen Duren cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:out:Jack Eichel",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Jack Eichel cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-11-03"
     }
   ],
   "REPORTS": [],
