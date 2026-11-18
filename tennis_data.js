@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-18 03:00 UTC
+// Auto-generated 2026-11-18 14:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-18 03:00 UTC",
+  "UPDATED": "2026-11-18 14:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10928,15 +10928,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Carlos Alcaraz",
+          "w": "Daniil Medvedev",
           "w_logo": "",
-          "l": "Daniil Medvedev",
+          "l": "Carlos Alcaraz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.9,
-          "l_score": 77.9,
+          "scheduled": false,
+          "w_score": 77.9,
+          "l_score": 90.9,
           "match_score": 90.9
         },
         {

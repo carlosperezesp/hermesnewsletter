@@ -1168,7 +1168,7 @@ window.MLB_DATA = {
       "last": "Vargas",
       "pos": "3B",
       "teamCode": "CHW",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42453.png",
       "colors": {
         "primary": "#27251f",
@@ -1184,7 +1184,7 @@ window.MLB_DATA = {
         "sb": 22,
         "ops": 0.837
       },
-      "legendScore": 46.8,
+      "legendScore": 47.6,
       "currentScore": 78,
       "battingScore": 78,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-18 02:58 UTC",
+  "LAST_UPDATE": "2026-11-18 13:58 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
