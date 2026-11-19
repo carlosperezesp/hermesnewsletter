@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-19 01:56 UTC",
+  "UPDATED": "2026-11-19 02:41 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -579,8 +579,8 @@ window.GLORY_DATA = {
       "Golden State Warriors",
       "Denver Nuggets",
       "New York Knicks",
-      "Indiana Pacers",
-      "Milwaukee Bucks"
+      "Milwaukee Bucks",
+      "Indiana Pacers"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
       "Victor Wembanyama",
