@@ -5971,7 +5971,7 @@ window.MLB_DATA = {
       "last": "Lugo",
       "pos": "SP",
       "teamCode": "KC",
-      "age": 36,
+      "age": 37,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34873.png",
       "colors": {
         "primary": "#004687",
@@ -5987,7 +5987,7 @@ window.MLB_DATA = {
         "so": 134,
         "whip": 1.47
       },
-      "legendScore": 32.2,
+      "legendScore": 33.0,
       "currentScore": 36,
       "battingScore": null,
       "pitchingScore": 36,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-19 02:39 UTC",
+  "LAST_UPDATE": "2026-11-19 14:26 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

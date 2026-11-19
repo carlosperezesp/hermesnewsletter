@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-19 02:41 UTC",
+  "UPDATED": "2026-11-19 14:29 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -115,20 +115,29 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-09"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "David Pastrnak entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Leo Carlsson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Leo Carlsson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-19"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-18"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:John Carlson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "John Carlson entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-11-18"
     },
@@ -167,15 +176,6 @@ window.GLORY_DATA = {
       "text": "Kirill Kaprizov entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-11-16"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Lenni Hameenaho",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Lenni Hameenaho entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-15"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
@@ -376,29 +376,11 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:out:David Pastrnak",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "David Pastrnak cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-11-18"
-    },
-    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:out:Roman Josi",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "Roman Josi cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-11-18"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Leo Carlsson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Leo Carlsson cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-11-18"
     },
@@ -527,12 +509,12 @@ window.GLORY_DATA = {
       "Connor McDavid",
       "Nathan MacKinnon",
       "Leon Draisaitl",
+      "David Pastrnak",
       "Auston Matthews",
       "Erik Karlsson",
       "Jake Guentzel",
       "Kirill Kaprizov",
-      "Matthew Tkachuk",
-      "John Carlson"
+      "Matthew Tkachuk"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -548,22 +530,22 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
-      "Lenni Hameenaho",
+      "Lane Hutson",
       "Macklin Celebrini",
       "Jackson LaCombe",
       "Beckett Sennecke",
       "Cutter Gauthier",
-      "Lane Hutson",
       "Brock Faber",
       "Cole Hutson",
-      "Connor Bedard"
+      "Connor Bedard",
+      "Leo Carlsson"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
       "LeBron James",
       "Giannis Antetokounmpo",
-      "Luka Doncic",
       "Nikola Jokic",
+      "Luka Doncic",
       "Shai Gilgeous-Alexander",
       "Jayson Tatum",
       "Anthony Davis",
@@ -574,10 +556,10 @@ window.GLORY_DATA = {
       "Boston Celtics",
       "Los Angeles Lakers",
       "San Antonio Spurs",
-      "Oklahoma City Thunder",
       "Minnesota Timberwolves",
-      "Golden State Warriors",
+      "Oklahoma City Thunder",
       "Denver Nuggets",
+      "Golden State Warriors",
       "New York Knicks",
       "Milwaukee Bucks",
       "Indiana Pacers"
@@ -586,13 +568,13 @@ window.GLORY_DATA = {
       "Victor Wembanyama",
       "Cooper Flagg",
       "Darius Acuff Jr.",
+      "Cameron Boozer",
       "Cade Cunningham",
       "Caleb Wilson",
-      "Cameron Boozer",
       "Franz Wagner",
       "Dylan Harper",
-      "Alperen Sengun",
-      "Scottie Barnes"
+      "Scottie Barnes",
+      "Alperen Sengun"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",
