@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-19 15:55 UTC
+// Auto-generated 2026-11-19 20:59 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-19 15:55 UTC",
+  "UPDATED": "2026-11-19 20:59 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9361,7 +9361,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "LP Open by IND",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -9925,7 +9925,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "LP Open by IND",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -10928,15 +10928,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Alexander Zverev",
+          "w": "Arthur Fils",
           "w_logo": "",
-          "l": "Arthur Fils",
+          "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 86.9,
-          "l_score": 83.4,
+          "scheduled": false,
+          "w_score": 83.4,
+          "l_score": 86.9,
           "match_score": 86.9
         },
         {
@@ -11050,15 +11050,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Carole Monnet",
+          "w": "Lucia Bronzetti",
           "w_logo": "",
-          "l": "Lucia Bronzetti",
+          "l": "Carole Monnet",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 1-6 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 42.9,
+          "w_score": 42.9,
+          "l_score": null,
           "match_score": 42.9
         },
         {
@@ -11067,22 +11067,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anastasia Zolotareva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "R64",
-          "w": "Veronika Erjavec",
+          "w": "Valeriya Strakhova",
           "w_logo": "",
-          "l": "Valeriya Strakhova",
+          "l": "Veronika Erjavec",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-6 (7-3)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11166,7 +11166,7 @@ window.TENNIS_DATA = {
       "Victoria Jimenez Kasintseva"
     ],
     "aliveCount": 16,
-    "matchesSeen": 25
+    "matchesSeen": 27
   },
   "ATP_SCORE_LOG": {
     "206173": [

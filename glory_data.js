@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-19 15:55 UTC",
+  "UPDATED": "2026-11-19 20:59 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",

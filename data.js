@@ -1238,7 +1238,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 14,
         "w": 10,
-        "svpct": 0.924,
+        "svpct": 0.923,
         "gaa": 2.19,
         "so": 2
       },
@@ -7984,7 +7984,7 @@ window.NHL_DATA = {
         "p": 10,
         "pm": 8,
         "toi": 15.5,
-        "shots": 20
+        "shots": 19
       },
       "trajectory": [
         39,
@@ -8518,7 +8518,7 @@ window.NHL_DATA = {
         "p": 15,
         "pm": -3,
         "toi": 18.5,
-        "shots": 61
+        "shots": 62
       },
       "trajectory": [
         40,
@@ -9072,7 +9072,7 @@ window.NHL_DATA = {
         "p": 14,
         "pm": 1,
         "toi": 18.3,
-        "shots": 50
+        "shots": 51
       },
       "trajectory": [
         40,
@@ -15925,7 +15925,7 @@ window.NHL_DATA = {
         "p": 9,
         "pm": 5,
         "toi": 15.4,
-        "shots": 19
+        "shots": 18
       },
       "trajectory": [
         39,
@@ -17412,7 +17412,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": 3,
         "toi": 9.4,
-        "shots": 11
+        "shots": 10
       },
       "trajectory": [
         38,
@@ -28877,9 +28877,9 @@ window.NHL_DATA = {
       "name": "Tyler Pitlick",
       "pos": "C",
       "teamCode": "MIN",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 35,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -39377,10 +39377,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-19 15:54 UTC",
+  "LAST_UPDATE": "2026-11-19 20:57 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-19T15:53:46Z"
+    "standingsDateTimeUtc": "2026-11-19T20:57:15Z"
   }
 };
