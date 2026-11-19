@@ -951,7 +951,7 @@ window.NHL_DATA = {
         83
       ],
       "legendScore": 58.0,
-      "prevRank": 8
+      "prevRank": 7
     },
     {
       "id": 8481605,
@@ -986,7 +986,7 @@ window.NHL_DATA = {
         82
       ],
       "legendScore": 42.3,
-      "prevRank": 9
+      "prevRank": 8
     },
     {
       "id": 8482661,
@@ -1018,7 +1018,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 10
+      "prevRank": 9
     },
     {
       "id": 8474600,
@@ -1053,7 +1053,7 @@ window.NHL_DATA = {
         80
       ],
       "legendScore": 58.3,
-      "prevRank": 11
+      "prevRank": 10
     },
     {
       "id": 8479323,
@@ -28052,9 +28052,9 @@ window.NHL_DATA = {
       "name": "Jansen Harkins",
       "pos": "C",
       "teamCode": "TBL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 29,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#002868",
         "secondary": "#ffffff"
@@ -38889,7 +38889,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 13,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 5
       },
       {
         "id": 8479318,
@@ -38908,7 +38908,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 11,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "id": 8474578,
@@ -38927,7 +38927,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 18,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "id": 8477404,
@@ -38946,7 +38946,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 12,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 8478864,
@@ -38965,7 +38965,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 7,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 8479314,
@@ -38984,7 +38984,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 11,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 9
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -39184,7 +39184,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 30.8,
         "note": "Among the best players of their generation",
-        "prevRank": 7
+        "prevRank": 2
       },
       {
         "id": 8484801,
@@ -39274,7 +39274,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 8484873,
@@ -39292,7 +39292,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.5,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 8484144,
@@ -39310,7 +39310,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 8484153,
@@ -39328,7 +39328,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ]
   },
@@ -39377,10 +39377,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-19 14:26 UTC",
+  "LAST_UPDATE": "2026-11-19 15:54 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-19T14:25:45Z"
+    "standingsDateTimeUtc": "2026-11-19T15:53:46Z"
   }
 };

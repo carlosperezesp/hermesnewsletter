@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-19 14:29 UTC
+// Auto-generated 2026-11-19 15:55 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-19 14:29 UTC",
+  "UPDATED": "2026-11-19 15:55 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -270,7 +270,7 @@ window.TENNIS_DATA = {
       "prevListRank": 8,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
-        "state": "alive",
+        "state": "out",
         "round": "Group Stage",
         "reason": "Eliminado en Group Stage"
       },
@@ -10941,15 +10941,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Group Stage",
-          "w": "Rafael Jodar",
+          "w": "Ben Shelton",
           "w_logo": "",
-          "l": "Ben Shelton",
+          "l": "Rafael Jodar",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (10-8) 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 78.2,
-          "l_score": 75.2,
+          "w_score": 75.2,
+          "l_score": 78.2,
           "match_score": 78.2
         }
       ]
@@ -11050,15 +11050,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Lucia Bronzetti",
+          "w": "Carole Monnet",
           "w_logo": "",
-          "l": "Carole Monnet",
+          "l": "Lucia Bronzetti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.9,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.9,
           "match_score": 42.9
         },
         {
@@ -11109,11 +11109,12 @@ window.TENNIS_DATA = {
       "Carlos Alcaraz",
       "Daniil Medvedev",
       "Flavio Cobolli",
-      "Frances Tiafoe",
+      "Frances Tiafoe"
+    ],
+    "out": [
       "Rafael Jodar"
     ],
-    "out": [],
-    "aliveCount": 8,
+    "aliveCount": 7,
     "matchesSeen": 12
   },
   "WTA_TOURNAMENT": {
