@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-19 20:59 UTC
+// Auto-generated 2026-11-19 21:48 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-19 20:59 UTC",
+  "UPDATED": "2026-11-19 21:48 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10928,15 +10928,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Arthur Fils",
+          "w": "Alexander Zverev",
           "w_logo": "",
-          "l": "Alexander Zverev",
+          "l": "Arthur Fils",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (8-6)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 83.4,
-          "l_score": 86.9,
+          "w_score": 86.9,
+          "l_score": 83.4,
           "match_score": 86.9
         },
         {
