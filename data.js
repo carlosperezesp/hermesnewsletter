@@ -10741,7 +10741,7 @@ window.NHL_DATA = {
       "name": "Patrick Kane",
       "pos": "RW",
       "teamCode": "CHI",
-      "age": 37,
+      "age": 38,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -16108,7 +16108,7 @@ window.NHL_DATA = {
       "name": "Martin Pospisil",
       "pos": "C",
       "teamCode": "CGY",
-      "age": 26,
+      "age": 27,
       "country": "Slovakia",
       "birthCountry": "SVK",
       "colors": {
@@ -22771,7 +22771,7 @@ window.NHL_DATA = {
       "name": "Cale Fleury",
       "pos": "D",
       "teamCode": "SEA",
-      "age": 27,
+      "age": 28,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -39019,10 +39019,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-18 21:33 UTC",
+  "LAST_UPDATE": "2026-11-19 01:52 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-18T21:32:45Z"
+    "standingsDateTimeUtc": "2026-11-19T01:52:15Z"
   }
 };

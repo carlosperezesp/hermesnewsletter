@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-18 21:33 UTC
+// Auto-generated 2026-11-19 01:53 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-11-18 21:33 UTC",
+  "UPDATED": "2026-11-19 01:53 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -308,7 +308,7 @@ window.SUMO_DATA = {
       "rankShort": "Ozeki",
       "yusho": 1,
       "legendScore": 1.9,
-      "age": 28,
+      "age": 29,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "primary": "#BC002D"

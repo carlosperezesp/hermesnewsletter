@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-18 21:35 UTC",
+  "UPDATED": "2026-11-19 01:56 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
@@ -356,15 +356,6 @@ window.GLORY_DATA = {
       "text": "Dylan Harper entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Beckett Sennecke",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Beckett Sennecke entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-04"
     },
     {
       "id": "tennis:out:ATP:Alex De Minaur:20261112",
