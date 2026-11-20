@@ -5161,7 +5161,7 @@ window.MLB_DATA = {
       "last": "Simpson",
       "pos": "LF",
       "teamCode": "TB",
-      "age": 25,
+      "age": 26,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4679983.png",
       "colors": {
         "primary": "#092c5c",
@@ -5177,7 +5177,7 @@ window.MLB_DATA = {
         "sb": 46,
         "ops": 0.689
       },
-      "legendScore": 30.1,
+      "legendScore": 30.9,
       "currentScore": 49,
       "battingScore": 49,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-20 02:24 UTC",
+  "LAST_UPDATE": "2026-11-20 14:01 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

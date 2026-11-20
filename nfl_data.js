@@ -371,6 +371,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "HOU",
+      "city": "Houston Texans",
+      "shortName": "Houston",
+      "commonName": "Texans",
+      "conf": "AFC",
+      "div": "AFC South",
+      "gp": 10,
+      "w": 4,
+      "l": 6,
+      "t": 0,
+      "winPct": 0.4,
+      "pf": 259,
+      "pa": 222,
+      "pd": 37,
+      "seed": 9,
+      "score": 35,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+      "colors": {
+        "primary": "#03202f",
+        "secondary": "#a71930"
+      }
+    },
+    {
       "code": "DAL",
       "city": "Dallas Cowboys",
       "shortName": "Dallas",
@@ -431,7 +454,7 @@ window.NFL_DATA = {
       "pf": 251,
       "pa": 289,
       "pd": -38,
-      "seed": 9,
+      "seed": 10,
       "score": 29,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
       "colors": {
@@ -454,7 +477,7 @@ window.NFL_DATA = {
       "pf": 209,
       "pa": 259,
       "pd": -50,
-      "seed": 10,
+      "seed": 11,
       "score": 28,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
       "colors": {
@@ -483,29 +506,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#d50a0a",
         "secondary": "#ff7900"
-      }
-    },
-    {
-      "code": "HOU",
-      "city": "Houston Texans",
-      "shortName": "Houston",
-      "commonName": "Texans",
-      "conf": "AFC",
-      "div": "AFC South",
-      "gp": 9,
-      "w": 3,
-      "l": 6,
-      "t": 0,
-      "winPct": 0.333,
-      "pf": 233,
-      "pa": 219,
-      "pd": 14,
-      "seed": 11,
-      "score": 28,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-      "colors": {
-        "primary": "#03202f",
-        "secondary": "#a71930"
       }
     },
     {
@@ -584,16 +584,16 @@ window.NFL_DATA = {
       "commonName": "Colts",
       "conf": "AFC",
       "div": "AFC South",
-      "gp": 10,
+      "gp": 11,
       "w": 3,
-      "l": 7,
+      "l": 8,
       "t": 0,
-      "winPct": 0.3,
-      "pf": 208,
-      "pa": 271,
-      "pd": -63,
+      "winPct": 0.273,
+      "pf": 211,
+      "pa": 297,
+      "pd": -86,
       "seed": 12,
-      "score": 19,
+      "score": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
       "colors": {
         "primary": "#002c5f",
@@ -767,6 +767,32 @@ window.NFL_DATA = {
       "prevRank": 1
     },
     {
+      "id": 4432577,
+      "name": "C.J. Stroud",
+      "pos": "QB",
+      "teamCode": "HOU",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432577.png",
+      "colors": {
+        "primary": "#03202f",
+        "secondary": "#a71930"
+      },
+      "score": 92,
+      "stats": {
+        "type": "passing",
+        "cmp": 222,
+        "att": 347,
+        "pct": 64.0,
+        "yds": 2656,
+        "ypa": 7.7,
+        "td": 22,
+        "int": 4,
+        "rushYds": 147,
+        "rushTd": 1
+      },
+      "prevRank": 4
+    },
+    {
       "id": 2577417,
       "name": "Dak Prescott",
       "pos": "QB",
@@ -817,32 +843,6 @@ window.NFL_DATA = {
         "rushTd": 0
       },
       "prevRank": 3
-    },
-    {
-      "id": 4432577,
-      "name": "C.J. Stroud",
-      "pos": "QB",
-      "teamCode": "HOU",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432577.png",
-      "colors": {
-        "primary": "#03202f",
-        "secondary": "#a71930"
-      },
-      "score": 87,
-      "stats": {
-        "type": "passing",
-        "cmp": 201,
-        "att": 320,
-        "pct": 62.8,
-        "yds": 2462,
-        "ypa": 7.7,
-        "td": 19,
-        "int": 3,
-        "rushYds": 120,
-        "rushTd": 0
-      },
-      "prevRank": 4
     },
     {
       "id": 4360310,
@@ -1280,7 +1280,7 @@ window.NFL_DATA = {
       "name": "Caleb Williams",
       "pos": "QB",
       "teamCode": "CHI",
-      "age": 24,
+      "age": 25,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431611.png",
       "colors": {
         "primary": "#0b162a",
@@ -1439,14 +1439,14 @@ window.NFL_DATA = {
       "score": 51,
       "stats": {
         "type": "passing",
-        "cmp": 193,
-        "att": 324,
-        "pct": 59.6,
-        "yds": 1830,
+        "cmp": 205,
+        "att": 351,
+        "pct": 58.4,
+        "yds": 1974,
         "ypa": 5.6,
         "td": 7,
-        "int": 12,
-        "rushYds": 95,
+        "int": 13,
+        "rushYds": 98,
         "rushTd": 0
       }
     },
@@ -2019,6 +2019,23 @@ window.NFL_DATA = {
         "prevRank": 6
       },
       {
+        "id": 4432577,
+        "name": "C.J. Stroud",
+        "pos": "QB",
+        "teamCode": "HOU",
+        "colors": {
+          "primary": "#03202f",
+          "secondary": "#a71930"
+        },
+        "age": 25,
+        "careerScore": 66.9,
+        "threshold": 90.0,
+        "gap": 23.1,
+        "rings": 0,
+        "note": "Largo camino: años elite y títulos por delante",
+        "prevRank": 9
+      },
+      {
         "id": 15864,
         "name": "Geno Smith",
         "pos": "QB",
@@ -2053,23 +2070,6 @@ window.NFL_DATA = {
         "prevRank": 8
       },
       {
-        "id": 4432577,
-        "name": "C.J. Stroud",
-        "pos": "QB",
-        "teamCode": "HOU",
-        "colors": {
-          "primary": "#03202f",
-          "secondary": "#a71930"
-        },
-        "age": 25,
-        "careerScore": 63.5,
-        "threshold": 90.0,
-        "gap": 26.5,
-        "rings": 0,
-        "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 9
-      },
-      {
         "id": 4361741,
         "name": "Brock Purdy",
         "pos": "QB",
@@ -2098,10 +2098,10 @@ window.NFL_DATA = {
           "secondary": "#a71930"
         },
         "age": 25,
-        "currentScore": 87,
-        "projectedScore": 77.8,
+        "currentScore": 92,
+        "projectedScore": 81.1,
         "threshold": 90.0,
-        "gap": 12.2,
+        "gap": 8.9,
         "note": "De los mejores de su generación",
         "prevRank": 1
       },
@@ -2157,23 +2157,6 @@ window.NFL_DATA = {
         "prevRank": 4
       },
       {
-        "id": 4431611,
-        "name": "Caleb Williams",
-        "pos": "QB",
-        "teamCode": "CHI",
-        "colors": {
-          "primary": "#0b162a",
-          "secondary": "#c83803"
-        },
-        "age": 24,
-        "currentScore": 58,
-        "projectedScore": 61.5,
-        "threshold": 90.0,
-        "gap": 28.5,
-        "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 5
-      },
-      {
         "id": 4688380,
         "name": "Cam Ward",
         "pos": "QB",
@@ -2189,6 +2172,23 @@ window.NFL_DATA = {
         "gap": 28.5,
         "note": "Joven con pedigrí — salto a elite pendiente",
         "prevRank": 6
+      },
+      {
+        "id": 4431611,
+        "name": "Caleb Williams",
+        "pos": "QB",
+        "teamCode": "CHI",
+        "colors": {
+          "primary": "#0b162a",
+          "secondary": "#c83803"
+        },
+        "age": 25,
+        "currentScore": 58,
+        "projectedScore": 58.5,
+        "threshold": 90.0,
+        "gap": 31.5,
+        "note": "Joven con pedigrí — salto a elite pendiente",
+        "prevRank": 5
       }
     ]
   },
@@ -2205,7 +2205,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-20 02:24 UTC",
+  "LAST_UPDATE": "2026-11-20 14:01 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

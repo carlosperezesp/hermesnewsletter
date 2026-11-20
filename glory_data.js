@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-20 02:26 UTC",
+  "UPDATED": "2026-11-20 14:03 UTC",
   "EVENTS": [
+    {
+      "id": "f1:win:Heineken Las Vegas Grand Prix:Sergio Pérez",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "Sergio Pérez ganó el Heineken Las Vegas Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-11-20"
+    },
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
       "sport": "indycar",
@@ -115,6 +123,33 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-09"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:John Carlson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "John Carlson entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Roman Josi",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Roman Josi entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Logan Cooley",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Logan Cooley entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-20"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
       "sport": "nhl",
       "detail": "NHL",
@@ -133,24 +168,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-19"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-18"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Brock Faber",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Brock Faber entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-18"
-    },
-    {
       "id": "rank:nba:ROAD_TO_GLORY.players:in:Karl-Anthony Towns",
       "sport": "nba",
       "detail": "NBA",
@@ -167,15 +184,6 @@ window.GLORY_DATA = {
       "text": "Scottie Barnes entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-18"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Kirill Kaprizov",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Kirill Kaprizov entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-16"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
@@ -376,15 +384,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:out:Roman Josi",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Roman Josi cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-11-18"
-    },
-    {
       "id": "rank:nascar:DRIVERS:out:Carson Hocevar",
       "sport": "nascar",
       "detail": "NASCAR",
@@ -513,8 +512,8 @@ window.GLORY_DATA = {
       "Auston Matthews",
       "Erik Karlsson",
       "Jake Guentzel",
-      "Kirill Kaprizov",
-      "Matthew Tkachuk"
+      "John Carlson",
+      "Roman Josi"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -522,8 +521,8 @@ window.GLORY_DATA = {
       "Florida Panthers",
       "St. Louis Blues",
       "Carolina Hurricanes",
-      "Edmonton Oilers",
       "Minnesota Wild",
+      "Edmonton Oilers",
       "Boston Bruins",
       "Dallas Stars",
       "New York Rangers"
@@ -535,10 +534,10 @@ window.GLORY_DATA = {
       "Jackson LaCombe",
       "Beckett Sennecke",
       "Cutter Gauthier",
-      "Brock Faber",
       "Cole Hutson",
       "Connor Bedard",
-      "Leo Carlsson"
+      "Leo Carlsson",
+      "Logan Cooley"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -556,8 +555,8 @@ window.GLORY_DATA = {
       "Boston Celtics",
       "Los Angeles Lakers",
       "San Antonio Spurs",
-      "Minnesota Timberwolves",
       "Oklahoma City Thunder",
+      "Minnesota Timberwolves",
       "Denver Nuggets",
       "Golden State Warriors",
       "New York Knicks",
@@ -619,9 +618,9 @@ window.GLORY_DATA = {
       "Kirk Cousins",
       "Jared Goff",
       "Jordan Love",
+      "C.J. Stroud",
       "Geno Smith",
       "Trevor Lawrence",
-      "C.J. Stroud",
       "Brock Purdy"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
@@ -629,8 +628,8 @@ window.GLORY_DATA = {
       "Drake Maye",
       "Bryce Young",
       "Jayden Daniels",
-      "Caleb Williams",
-      "Cam Ward"
+      "Cam Ward",
+      "Caleb Williams"
     ],
     "tennis:ATP": [
       "Jannik Sinner",

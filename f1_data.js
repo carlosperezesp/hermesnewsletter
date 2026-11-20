@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-20 02:25 UTC
+// Auto-generated 2026-11-20 14:01 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-11-20 02:25 UTC",
+  "UPDATED": "2026-11-20 14:01 UTC",
   "SEASON": "2026",
   "ROUND": 19,
   "TOTAL_ROUNDS": 25,
@@ -561,32 +561,32 @@ window.F1_DATA = {
     "includesSprint": false
   },
   "LAST_RACE": {
-    "name": "MSC Cruises São Paulo Grand Prix",
-    "date": "2026-11-06",
-    "circuit": "Autodromo Jose Carlos Pace",
+    "name": "Heineken Las Vegas Grand Prix",
+    "date": "2026-11-20",
+    "circuit": "Las Vegas Street Circuit",
     "round": 0,
     "state": "post",
     "podium": [
       {
         "position": 1,
-        "name": "Lando Norris",
-        "team": "mclaren",
+        "name": "Sergio Pérez",
+        "team": "",
         "time": "",
-        "primary": "#FF8000"
+        "primary": "#555555"
       },
       {
         "position": 2,
-        "name": "Kimi Antonelli",
-        "team": "mercedes",
+        "name": "Ryo Hirakawa",
+        "team": "",
         "time": "",
-        "primary": "#00D2BE"
+        "primary": "#555555"
       },
       {
         "position": 3,
-        "name": "Max Verstappen",
-        "team": "red_bull",
+        "name": "Rafael Câmara",
+        "team": "",
         "time": "",
-        "primary": "#3671C6"
+        "primary": "#555555"
       }
     ]
   },

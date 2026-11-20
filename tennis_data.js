@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-20 02:26 UTC
+// Auto-generated 2026-11-20 14:03 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-20 02:26 UTC",
+  "UPDATED": "2026-11-20 14:03 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10928,15 +10928,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Carlos Alcaraz",
+          "w": "Flavio Cobolli",
           "w_logo": "",
-          "l": "Flavio Cobolli",
+          "l": "Carlos Alcaraz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.9,
-          "l_score": 74.5,
+          "scheduled": false,
+          "w_score": 74.5,
+          "l_score": 90.9,
           "match_score": 90.9
         },
         {
