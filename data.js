@@ -881,7 +881,7 @@ window.NHL_DATA = {
         88
       ],
       "legendScore": 59.7,
-      "prevRank": 6
+      "prevRank": 5
     },
     {
       "id": 8485366,
@@ -916,7 +916,7 @@ window.NHL_DATA = {
         87
       ],
       "legendScore": 46.3,
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "id": 8480069,
@@ -1053,7 +1053,7 @@ window.NHL_DATA = {
         82
       ],
       "legendScore": 46.8,
-      "prevRank": 13
+      "prevRank": 10
     },
     {
       "id": 8479323,
@@ -14426,9 +14426,9 @@ window.NHL_DATA = {
       "name": "Philip Tomasino",
       "pos": "RW",
       "teamCode": "OTT",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#c52032",
         "secondary": "#c2912c"
@@ -14450,7 +14450,8 @@ window.NHL_DATA = {
         43,
         45,
         52
-      ]
+      ],
+      "legendScore": 45.1
     },
     {
       "id": 8481035,
@@ -18161,9 +18162,9 @@ window.NHL_DATA = {
       "name": "Tyler Boucher",
       "pos": "RW",
       "teamCode": "OTT",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#c52032",
         "secondary": "#c2912c"
@@ -26375,9 +26376,9 @@ window.NHL_DATA = {
       "name": "Alex Gagne",
       "pos": "D",
       "teamCode": "COL",
-      "age": 24,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#6f263d",
         "secondary": "#236192"
@@ -28355,9 +28356,9 @@ window.NHL_DATA = {
       "name": "Adam Beckman",
       "pos": "LW",
       "teamCode": "COL",
-      "age": 25,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#6f263d",
         "secondary": "#236192"
@@ -28982,9 +28983,9 @@ window.NHL_DATA = {
       "name": "Sammy Blais",
       "pos": "LW",
       "teamCode": "OTT",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 30,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#c52032",
         "secondary": "#c2912c"
@@ -39557,7 +39558,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 19,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 9
       },
       {
         "id": 8474600,
@@ -39576,7 +39577,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 16,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -39674,7 +39675,7 @@ window.NHL_DATA = {
           "primary": "#154734",
           "secondary": "#a6192e"
         },
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "teamCode": "EDM",
@@ -39690,7 +39691,7 @@ window.NHL_DATA = {
           "primary": "#041e42",
           "secondary": "#ff4c00"
         },
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "teamCode": "BOS",
@@ -39866,7 +39867,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.5,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 8484144,
@@ -39884,7 +39885,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.8,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 8484153,
@@ -39902,7 +39903,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 8483431,
@@ -39920,7 +39921,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 35.7,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ]
   },
@@ -39969,10 +39970,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-20 14:01 UTC",
+  "LAST_UPDATE": "2026-11-20 15:37 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-20T14:00:45Z"
+    "standingsDateTimeUtc": "2026-11-20T15:37:00Z"
   }
 };

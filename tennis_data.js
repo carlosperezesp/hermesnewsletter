@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-20 14:03 UTC
+// Auto-generated 2026-11-20 15:40 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-20 14:03 UTC",
+  "UPDATED": "2026-11-20 15:40 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -508,7 +508,7 @@ window.TENNIS_DATA = {
       "prevListRank": 15,
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
-        "state": "alive",
+        "state": "out",
         "round": "Group Stage",
         "reason": "Eliminado en Group Stage"
       },
@@ -10928,15 +10928,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Group Stage",
-          "w": "Flavio Cobolli",
+          "w": "Carlos Alcaraz",
           "w_logo": "",
-          "l": "Carlos Alcaraz",
+          "l": "Flavio Cobolli",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 74.5,
-          "l_score": 90.9,
+          "w_score": 90.9,
+          "l_score": 74.5,
           "match_score": 90.9
         },
         {
@@ -11063,15 +11063,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Leyre Romero Gormaz",
+          "w": "Irene Burillo",
           "w_logo": "",
-          "l": "Irene Burillo",
+          "l": "Leyre Romero Gormaz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 36.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 36.2,
           "match_score": 36.2
         }
       ]
@@ -11095,13 +11095,13 @@ window.TENNIS_DATA = {
       "Ben Shelton",
       "Carlos Alcaraz",
       "Daniil Medvedev",
-      "Flavio Cobolli",
       "Frances Tiafoe"
     ],
     "out": [
+      "Flavio Cobolli",
       "Rafael Jodar"
     ],
-    "aliveCount": 7,
+    "aliveCount": 6,
     "matchesSeen": 12
   },
   "WTA_TOURNAMENT": {
