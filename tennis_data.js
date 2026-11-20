@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-20 20:45 UTC
+// Auto-generated 2026-11-20 21:32 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-20 20:45 UTC",
+  "UPDATED": "2026-11-20 21:32 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -67,7 +67,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "alive",
-        "round": "Group Stage",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 90.9
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "alive",
-        "round": "Group Stage",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 86.9
@@ -305,7 +305,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "alive",
-        "round": "Group Stage",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 77.9
@@ -373,7 +373,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "alive",
-        "round": "Group Stage",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 75.2
@@ -10941,15 +10941,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Group Stage",
-          "w": "Frances Tiafoe",
+          "w": "Daniil Medvedev",
           "w_logo": "",
-          "l": "Daniil Medvedev",
+          "l": "Frances Tiafoe",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 74.2,
-          "l_score": 77.9,
+          "w_score": 77.9,
+          "l_score": 74.2,
           "match_score": 77.9
         }
       ]
@@ -11102,7 +11102,7 @@ window.TENNIS_DATA = {
       "Rafael Jodar"
     ],
     "aliveCount": 6,
-    "matchesSeen": 12
+    "matchesSeen": 14
   },
   "WTA_TOURNAMENT": {
     "name": "LP Open by IND",
