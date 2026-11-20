@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-20 15:40 UTC
+// Auto-generated 2026-11-20 20:45 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-20 15:40 UTC",
+  "UPDATED": "2026-11-20 20:45 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9361,7 +9361,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "LP Open by IND",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -9925,7 +9925,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "LP Open by IND",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -10941,15 +10941,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Group Stage",
-          "w": "Daniil Medvedev",
+          "w": "Frances Tiafoe",
           "w_logo": "",
-          "l": "Frances Tiafoe",
+          "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 77.9,
-          "l_score": 74.2,
+          "scheduled": false,
+          "w_score": 74.2,
+          "l_score": 77.9,
           "match_score": 77.9
         }
       ]
@@ -11041,9 +11041,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Guiomar Maristany Zuleta De Reales",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.8,
           "l_score": null,
           "match_score": 48.8
@@ -11054,24 +11054,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Valeriya Strakhova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.9,
           "l_score": null,
           "match_score": 42.9
         },
         {
           "round": "Quarterfinal",
-          "w": "Irene Burillo",
+          "w": "Leyre Romero Gormaz",
           "w_logo": "",
-          "l": "Leyre Romero Gormaz",
+          "l": "Irene Burillo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 36.2,
+          "w_score": 36.2,
+          "l_score": null,
           "match_score": 36.2
         }
       ]
@@ -11153,7 +11153,7 @@ window.TENNIS_DATA = {
       "Victoria Jimenez Kasintseva"
     ],
     "aliveCount": 16,
-    "matchesSeen": 28
+    "matchesSeen": 29
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -3112,7 +3112,7 @@ window.NHL_DATA = {
         "p": 6,
         "pm": 7,
         "toi": 23.6,
-        "shots": 22
+        "shots": 23
       },
       "trajectory": [
         38,
@@ -4629,7 +4629,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": 0,
         "toi": 17.2,
-        "shots": 6
+        "shots": 7
       },
       "trajectory": [
         37,
@@ -6128,7 +6128,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 5,
         "w": 3,
-        "svpct": 0.905,
+        "svpct": 0.906,
         "gaa": 2.47,
         "so": 0
       },
@@ -6329,7 +6329,7 @@ window.NHL_DATA = {
         "p": 14,
         "pm": -3,
         "toi": 19.9,
-        "shots": 59
+        "shots": 58
       },
       "trajectory": [
         40,
@@ -8001,7 +8001,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 7,
         "w": 2,
-        "svpct": 0.882,
+        "svpct": 0.883,
         "gaa": 3.38,
         "so": 1
       },
@@ -9085,7 +9085,7 @@ window.NHL_DATA = {
         "p": 8,
         "pm": -1,
         "toi": 16.3,
-        "shots": 26
+        "shots": 25
       },
       "trajectory": [
         38,
@@ -10578,7 +10578,7 @@ window.NHL_DATA = {
         "p": 13,
         "pm": 5,
         "toi": 16.0,
-        "shots": 48
+        "shots": 47
       },
       "trajectory": [
         39,
@@ -11798,7 +11798,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 7,
         "w": 3,
-        "svpct": 0.864,
+        "svpct": 0.865,
         "gaa": 3.47,
         "so": 0
       },
@@ -12427,7 +12427,7 @@ window.NHL_DATA = {
         "p": 6,
         "pm": -2,
         "toi": 17.9,
-        "shots": 25
+        "shots": 24
       },
       "trajectory": [
         38,
@@ -12870,37 +12870,6 @@ window.NHL_DATA = {
         53
       ],
       "legendScore": 48.7
-    },
-    {
-      "id": 8481692,
-      "first": "Dustin",
-      "last": "Wolf",
-      "name": "Dustin Wolf",
-      "pos": "G",
-      "teamCode": "CGY",
-      "age": 25,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#c8102e",
-        "secondary": "#f1be48"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8481692.png",
-      "score": 53,
-      "stats": {
-        "gp": 13,
-        "w": 5,
-        "svpct": 0.877,
-        "gaa": 3.43,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        53
-      ]
     },
     {
       "id": 8478542,
@@ -13892,6 +13861,37 @@ window.NHL_DATA = {
         52
       ],
       "legendScore": 45.1
+    },
+    {
+      "id": 8481692,
+      "first": "Dustin",
+      "last": "Wolf",
+      "name": "Dustin Wolf",
+      "pos": "G",
+      "teamCode": "CGY",
+      "age": 25,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#c8102e",
+        "secondary": "#f1be48"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8481692.png",
+      "score": 52,
+      "stats": {
+        "gp": 13,
+        "w": 5,
+        "svpct": 0.876,
+        "gaa": 3.43,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        52
+      ]
     },
     {
       "id": 8477456,
@@ -15237,7 +15237,7 @@ window.NHL_DATA = {
         "p": 8,
         "pm": -4,
         "toi": 15.7,
-        "shots": 22
+        "shots": 23
       },
       "trajectory": [
         38,
@@ -16061,7 +16061,7 @@ window.NHL_DATA = {
         "p": 6,
         "pm": -3,
         "toi": 17.0,
-        "shots": 48
+        "shots": 49
       },
       "trajectory": [
         38,
@@ -20784,7 +20784,7 @@ window.NHL_DATA = {
         "p": 1,
         "pm": 3,
         "toi": 18.5,
-        "shots": 22
+        "shots": 23
       },
       "trajectory": [
         37,
@@ -22564,7 +22564,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": -1,
         "toi": 11.0,
-        "shots": 6
+        "shots": 7
       },
       "trajectory": [
         38,
@@ -23571,9 +23571,9 @@ window.NHL_DATA = {
       "name": "Stian Solberg",
       "pos": "D",
       "teamCode": "ANA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 20,
+      "country": "Norway",
+      "birthCountry": "NOR",
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -24478,7 +24478,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": -7,
         "toi": 11.9,
-        "shots": 22
+        "shots": 23
       },
       "trajectory": [
         38,
@@ -25254,9 +25254,9 @@ window.NHL_DATA = {
       "name": "Anton Silaev",
       "pos": "D",
       "teamCode": "NJD",
-      "age": 20,
-      "country": "Russia",
-      "birthCountry": "RUS",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#111111"
@@ -25320,9 +25320,9 @@ window.NHL_DATA = {
       "name": "Avery Hayes",
       "pos": "RW",
       "teamCode": "PIT",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 24,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -29049,9 +29049,9 @@ window.NHL_DATA = {
       "name": "Tyler Pitlick",
       "pos": "C",
       "teamCode": "MIN",
-      "age": 35,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -39970,10 +39970,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-20 15:37 UTC",
+  "LAST_UPDATE": "2026-11-20 20:42 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-20T15:37:00Z"
+    "standingsDateTimeUtc": "2026-11-20T20:42:15Z"
   }
 };
