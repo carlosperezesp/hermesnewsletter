@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-21 01:33 UTC",
+  "UPDATED": "2026-11-21 02:34 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Heineken Las Vegas Grand Prix:Sergio Pérez",

@@ -183,6 +183,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "ATL",
+      "city": "Atlanta Hawks",
+      "shortName": "Atlanta",
+      "commonName": "Hawks",
+      "conf": "E",
+      "gp": 16,
+      "w": 10,
+      "l": 6,
+      "winPct": 0.625,
+      "gf": 1877,
+      "ga": 1834,
+      "gd": 43,
+      "score": 56,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+      "colors": {
+        "primary": "#e03a3e",
+        "secondary": "#c1d32f"
+      }
+    },
+    {
       "code": "NY",
       "city": "New York Knicks",
       "shortName": "New York",
@@ -220,26 +240,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#007ac1",
         "secondary": "#ef3b24"
-      }
-    },
-    {
-      "code": "ATL",
-      "city": "Atlanta Hawks",
-      "shortName": "Atlanta",
-      "commonName": "Hawks",
-      "conf": "E",
-      "gp": 15,
-      "w": 9,
-      "l": 6,
-      "winPct": 0.6,
-      "gf": 1766,
-      "ga": 1737,
-      "gd": 29,
-      "score": 53,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
-      "colors": {
-        "primary": "#e03a3e",
-        "secondary": "#c1d32f"
       }
     },
     {
@@ -508,14 +508,14 @@ window.NBA_DATA = {
       "shortName": "Charlotte",
       "commonName": "Hornets",
       "conf": "E",
-      "gp": 14,
+      "gp": 15,
       "w": 4,
-      "l": 10,
-      "winPct": 0.286,
-      "gf": 1402,
-      "ga": 1546,
-      "gd": -144,
-      "score": 5,
+      "l": 11,
+      "winPct": 0.267,
+      "gf": 1499,
+      "ga": 1657,
+      "gd": -158,
+      "score": 3,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
       "colors": {
         "primary": "#1d1160",
@@ -9276,7 +9276,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-21 01:31 UTC",
+  "LAST_UPDATE": "2026-11-21 02:31 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
