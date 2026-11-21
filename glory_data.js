@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-21 02:34 UTC",
+  "UPDATED": "2026-11-21 13:30 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Heineken Las Vegas Grand Prix:Sergio Pérez",
@@ -556,8 +556,8 @@ window.GLORY_DATA = {
       "Los Angeles Lakers",
       "San Antonio Spurs",
       "Oklahoma City Thunder",
-      "Minnesota Timberwolves",
       "Denver Nuggets",
+      "Minnesota Timberwolves",
       "Golden State Warriors",
       "New York Knicks",
       "Milwaukee Bucks",
@@ -567,13 +567,13 @@ window.GLORY_DATA = {
       "Victor Wembanyama",
       "Cooper Flagg",
       "Darius Acuff Jr.",
-      "Cameron Boozer",
       "Cade Cunningham",
-      "Caleb Wilson",
       "Franz Wagner",
+      "Caleb Wilson",
+      "Cameron Boozer",
       "Dylan Harper",
-      "Scottie Barnes",
-      "Alperen Sengun"
+      "Alperen Sengun",
+      "Scottie Barnes"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",

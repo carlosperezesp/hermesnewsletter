@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-21 02:32 UTC
+// Auto-generated 2026-11-21 13:28 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-11-21 02:32 UTC",
+  "UPDATED": "2026-11-21 13:28 UTC",
   "SEASON": "2026",
   "ROUND": 19,
   "TOTAL_ROUNDS": 25,
@@ -22,7 +22,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 390.0,
-      "lastWeekendPoints": 10.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 62.4,
       "stats": {
@@ -47,7 +47,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 279.0,
-      "lastWeekendPoints": 18.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 44.6,
       "stats": {
@@ -72,7 +72,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 262.0,
-      "lastWeekendPoints": 12.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 41.9,
       "stats": {
@@ -97,7 +97,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 261.0,
-      "lastWeekendPoints": 2.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 41.8,
       "stats": {
@@ -122,7 +122,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 249.0,
-      "lastWeekendPoints": 4.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 39.8,
       "stats": {
@@ -147,7 +147,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 246.0,
-      "lastWeekendPoints": 25.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 39.4,
       "stats": {
@@ -172,7 +172,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 152.0,
-      "lastWeekendPoints": 8.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 24.3,
       "stats": {
@@ -197,7 +197,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 122.0,
-      "lastWeekendPoints": 15.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 19.5,
       "stats": {
@@ -222,7 +222,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 89.0,
-      "lastWeekendPoints": 6.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 14.2,
       "stats": {
@@ -555,9 +555,9 @@ window.F1_DATA = {
     }
   ],
   "LAST_WEEKEND": {
-    "id": "600057448",
-    "name": "MSC Cruises São Paulo Grand Prix",
-    "label": "BRA",
+    "id": "600057449",
+    "name": "Heineken Las Vegas Grand Prix",
+    "label": "LAS",
     "includesSprint": false
   },
   "LAST_RACE": {

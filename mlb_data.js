@@ -5401,7 +5401,7 @@ window.MLB_DATA = {
       "last": "Valdez",
       "pos": "SP",
       "teamCode": "DET",
-      "age": 32,
+      "age": 33,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36581.png",
       "colors": {
         "primary": "#0c2340",
@@ -5417,7 +5417,7 @@ window.MLB_DATA = {
         "so": 135,
         "whip": 1.36
       },
-      "legendScore": 34.8,
+      "legendScore": 35.7,
       "currentScore": 47,
       "battingScore": null,
       "pitchingScore": 47,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-21 02:31 UTC",
+  "LAST_UPDATE": "2026-11-21 13:28 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
