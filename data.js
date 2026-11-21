@@ -9535,7 +9535,7 @@ window.NHL_DATA = {
       "name": "Sebastian Cossa",
       "pos": "G",
       "teamCode": "UTA",
-      "age": 23,
+      "age": 24,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -9700,7 +9700,7 @@ window.NHL_DATA = {
       "name": "Vladislav Gavrikov",
       "pos": "D",
       "teamCode": "NYR",
-      "age": 30,
+      "age": 31,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -25980,7 +25980,7 @@ window.NHL_DATA = {
       "name": "Nick DeSimone",
       "pos": "D",
       "teamCode": "UTA",
-      "age": 31,
+      "age": 32,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -26805,9 +26805,9 @@ window.NHL_DATA = {
       "name": "Taylor Raddysh",
       "pos": "RW",
       "teamCode": "NYR",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 28,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -39970,10 +39970,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-20 21:30 UTC",
+  "LAST_UPDATE": "2026-11-21 01:31 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-20T21:29:30Z"
+    "standingsDateTimeUtc": "2026-11-21T01:30:45Z"
   }
 };

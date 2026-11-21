@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-11-20 21:32 UTC",
+  "UPDATED": "2026-11-21 01:33 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1662,
+    "matches": 1659,
     "archives": [
       {
         "name": "Tests",
@@ -13,11 +13,11 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 171
+        "matches": 169
       },
       {
         "name": "T20Is",
-        "matches": 968
+        "matches": 967
       },
       {
         "name": "IPL",
@@ -1354,6 +1354,24 @@ window.CRICKET_DATA = {
           "wickets": 0
         },
         {
+          "id": "sufyan-mehmood",
+          "name": "Sufyan Mehmood",
+          "role": "Bowler",
+          "country": "Oman",
+          "teamCode": "OMA",
+          "colors": {
+            "primary": "#db161b",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/om.png",
+          "score": 69.0,
+          "batting": 69.0,
+          "bowling": 17.8,
+          "overall": 73.2,
+          "runs": 242,
+          "wickets": 19
+        },
+        {
           "id": "lg-pretorius",
           "name": "LG Pretorius",
           "role": "Batter",
@@ -1387,24 +1405,6 @@ window.CRICKET_DATA = {
           "bowling": 0.2,
           "overall": 7.6,
           "runs": 163,
-          "wickets": 0
-        },
-        {
-          "id": "mushfiqur-rahim",
-          "name": "Mushfiqur Rahim",
-          "role": "Batter",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
-          "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
-          },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 64.2,
-          "batting": 64.2,
-          "bowling": 0.5,
-          "overall": 11.8,
-          "runs": 869,
           "wickets": 0
         }
       ],
@@ -2130,10 +2130,10 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 68.6,
-          "batting": 18.9,
-          "bowling": 68.6,
-          "overall": 77.8,
+          "score": 69.0,
+          "batting": 19.0,
+          "bowling": 69.0,
+          "overall": 78.2,
           "runs": 340,
           "wickets": 96
         }
@@ -2268,24 +2268,6 @@ window.CRICKET_DATA = {
           "wickets": 68
         },
         {
-          "id": "rl-chase",
-          "name": "RL Chase",
-          "role": "Batter",
-          "country": "West Indies",
-          "teamCode": "WI",
-          "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
-          },
-          "logo": "",
-          "score": 85.0,
-          "batting": 26.1,
-          "bowling": 54.6,
-          "overall": 85.0,
-          "runs": 1808,
-          "wickets": 82
-        },
-        {
           "id": "ma-starc",
           "name": "MA Starc",
           "role": "Bowler",
@@ -2320,6 +2302,24 @@ window.CRICKET_DATA = {
           "overall": 84.7,
           "runs": 170,
           "wickets": 44
+        },
+        {
+          "id": "rl-chase",
+          "name": "RL Chase",
+          "role": "Batter",
+          "country": "West Indies",
+          "teamCode": "WI",
+          "colors": {
+            "primary": "#7a263a",
+            "secondary": "#f6c344"
+          },
+          "logo": "",
+          "score": 83.9,
+          "batting": 25.7,
+          "bowling": 54.0,
+          "overall": 83.9,
+          "runs": 1753,
+          "wickets": 81
         }
       ],
       "batting": [
