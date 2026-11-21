@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-21 14:49 UTC
+// Auto-generated 2026-11-21 19:49 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-21 14:49 UTC",
+  "UPDATED": "2026-11-21 19:49 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -373,7 +373,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Group Stage",
         "reason": ""
       },
       "prevActiveScore": 75.2
@@ -10928,15 +10928,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Ben Shelton",
+          "w": "Carlos Alcaraz",
           "w_logo": "",
-          "l": "Carlos Alcaraz",
+          "l": "Ben Shelton",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 6-3 7-6 (7-1)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 75.2,
-          "l_score": 90.9,
+          "w_score": 90.9,
+          "l_score": 75.2,
           "match_score": 90.9
         },
         {

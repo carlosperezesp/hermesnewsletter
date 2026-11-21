@@ -6147,9 +6147,9 @@ window.NHL_DATA = {
       "name": "Nikita Tolopilo",
       "pos": "G",
       "teamCode": "VAN",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 26,
+      "country": "Belarus",
+      "birthCountry": "BLR",
       "colors": {
         "primary": "#00205b",
         "secondary": "#00843d"
@@ -9831,9 +9831,9 @@ window.NHL_DATA = {
       "name": "Clay Stevenson",
       "pos": "G",
       "teamCode": "WPG",
-      "age": 27,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#7b303e"
@@ -20207,9 +20207,9 @@ window.NHL_DATA = {
       "name": "Max Sasson",
       "pos": "C",
       "teamCode": "VAN",
-      "age": 26,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#00843d"
@@ -27168,9 +27168,9 @@ window.NHL_DATA = {
       "name": "Jagger Firkus",
       "pos": "RW",
       "teamCode": "SEA",
-      "age": 22,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#001628",
         "secondary": "#99d9d9"
@@ -28290,9 +28290,9 @@ window.NHL_DATA = {
       "name": "Nico Myatovic",
       "pos": "LW",
       "teamCode": "ANA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 21,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -39970,10 +39970,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-21 14:47 UTC",
+  "LAST_UPDATE": "2026-11-21 19:46 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-21T14:47:00Z"
+    "standingsDateTimeUtc": "2026-11-21T19:46:00Z"
   }
 };
