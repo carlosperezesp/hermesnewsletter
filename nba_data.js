@@ -706,7 +706,7 @@ window.NBA_DATA = {
         "min": 33.4
       },
       "legendScore": 63.7,
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": 3112335,
@@ -732,7 +732,7 @@ window.NBA_DATA = {
         "min": 36.8
       },
       "legendScore": 66.1,
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 4432166,
@@ -784,7 +784,7 @@ window.NBA_DATA = {
         "min": 36.7
       },
       "legendScore": 53.5,
-      "prevRank": 8
+      "prevRank": 7
     },
     {
       "id": 4065648,
@@ -810,7 +810,7 @@ window.NBA_DATA = {
         "min": 34.1
       },
       "legendScore": 61.5,
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "id": 6583,
@@ -9079,7 +9079,7 @@ window.NBA_DATA = {
           "primary": "#0e2240",
           "secondary": "#fec524"
         },
-        "prevRank": 6
+        "prevRank": 5
       },
       {
         "teamCode": "MIN",
@@ -9095,7 +9095,7 @@ window.NBA_DATA = {
           "primary": "#0c2340",
           "secondary": "#236192"
         },
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "teamCode": "GS",
@@ -9229,7 +9229,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 29.3,
         "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "id": 4566434,
@@ -9246,7 +9246,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 29.3,
         "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 7
+        "prevRank": 5
       },
       {
         "id": 5095151,
@@ -9280,7 +9280,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 29.6,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 4
+        "prevRank": 7
       },
       {
         "id": 5037871,
@@ -9314,7 +9314,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 30.9,
         "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 4433134,
@@ -9331,7 +9331,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 30.9,
         "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 9
+        "prevRank": 10
       }
     ]
   },
@@ -9376,7 +9376,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-21 13:28 UTC",
+  "LAST_UPDATE": "2026-11-21 14:47 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

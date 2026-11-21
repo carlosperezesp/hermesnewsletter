@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-21 13:30 UTC
+// Auto-generated 2026-11-21 14:49 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-21 13:30 UTC",
+  "UPDATED": "2026-11-21 14:49 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10928,15 +10928,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Carlos Alcaraz",
+          "w": "Ben Shelton",
           "w_logo": "",
-          "l": "Ben Shelton",
+          "l": "Carlos Alcaraz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.9,
-          "l_score": 75.2,
+          "scheduled": false,
+          "w_score": 75.2,
+          "l_score": 90.9,
           "match_score": 90.9
         },
         {
