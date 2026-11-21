@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-21 19:49 UTC
+// Auto-generated 2026-11-21 20:14 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-21 19:49 UTC",
+  "UPDATED": "2026-11-21 20:14 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10941,15 +10941,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Alexander Zverev",
+          "w": "Daniil Medvedev",
           "w_logo": "",
-          "l": "Daniil Medvedev",
+          "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 86.9,
-          "l_score": 77.9,
+          "scheduled": false,
+          "w_score": 77.9,
+          "l_score": 86.9,
           "match_score": 86.9
         }
       ]
@@ -11028,9 +11028,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Leyre Romero Gormaz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.9,
           "l_score": 36.2,
           "match_score": 42.9
