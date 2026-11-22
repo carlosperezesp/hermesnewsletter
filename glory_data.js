@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-21 20:14 UTC",
+  "UPDATED": "2026-11-22 00:22 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Heineken Las Vegas Grand Prix:Sergio Pérez",
@@ -41,14 +41,6 @@ window.GLORY_DATA = {
       "text": "Marc Márquez ganó el Qatar motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "f1:win:MSC Cruises São Paulo Grand Prix:Lando Norris",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "Lando Norris ganó el MSC Cruises São Paulo Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-11-07"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Matthew Schaefer",
@@ -96,15 +88,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-08"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Boston Celtics",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-dinastias",
-      "text": "Boston Celtics es nuevo nº1 · dinastías",
-      "weight": 92,
-      "firstSeen": "2026-11-07"
-    },
-    {
       "id": "tennis:in:ATP:Rafael Jodar:20261112",
       "sport": "tennis",
       "detail": "Tenis",
@@ -123,31 +106,31 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:John Carlson",
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Kirill Kaprizov",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
-      "text": "John Carlson entra en el top-10 · Road to Glory",
+      "text": "Kirill Kaprizov entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-11-20"
+      "firstSeen": "2026-11-22"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Roman Josi",
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
-      "text": "Roman Josi entra en el top-10 · Road to Glory",
+      "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-11-20"
+      "firstSeen": "2026-11-22"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Logan Cooley",
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Alexander Nikishin",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
-      "text": "Logan Cooley entra en el top-10 · jóvenes promesas",
+      "text": "Alexander Nikishin entra en el top-10 · jóvenes promesas",
       "weight": 84,
-      "firstSeen": "2026-11-20"
+      "firstSeen": "2026-11-22"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
@@ -418,69 +401,6 @@ window.GLORY_DATA = {
       "text": "Brandon Miller cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-11-10"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:out:Kawhi Leonard",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Kawhi Leonard cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:out:Joel Embiid",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Joel Embiid cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Tyrese Maxey",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Tyrese Maxey cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Anthony Edwards",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Anthony Edwards cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Jalen Johnson",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Jalen Johnson cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Paolo Banchero",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Paolo Banchero cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Jalen Duren",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Jalen Duren cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-11-07"
     }
   ],
   "REPORTS": [],
@@ -512,8 +432,8 @@ window.GLORY_DATA = {
       "Auston Matthews",
       "Erik Karlsson",
       "Jake Guentzel",
-      "John Carlson",
-      "Roman Josi"
+      "Kirill Kaprizov",
+      "Matthew Tkachuk"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -537,7 +457,7 @@ window.GLORY_DATA = {
       "Cole Hutson",
       "Connor Bedard",
       "Leo Carlsson",
-      "Logan Cooley"
+      "Alexander Nikishin"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
