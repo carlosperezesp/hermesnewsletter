@@ -13547,7 +13547,7 @@ window.NHL_DATA = {
         "p": 12,
         "pm": -11,
         "toi": 16.6,
-        "shots": 47
+        "shots": 46
       },
       "trajectory": [
         39,
@@ -23180,9 +23180,9 @@ window.NHL_DATA = {
       "name": "Brett Berard",
       "pos": "LW",
       "teamCode": "MTL",
-      "age": 24,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -27239,9 +27239,9 @@ window.NHL_DATA = {
       "name": "David Reinbacher",
       "pos": "D",
       "teamCode": "MTL",
-      "age": 22,
-      "country": "Austria",
-      "birthCountry": "AUT",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -28691,9 +28691,9 @@ window.NHL_DATA = {
       "name": "Dillon Boucher",
       "pos": "LW",
       "teamCode": "CHI",
-      "age": 29,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cf0a2c",
         "secondary": "#111111"
@@ -29054,9 +29054,9 @@ window.NHL_DATA = {
       "name": "Steven Lorentz",
       "pos": "C",
       "teamCode": "CBJ",
-      "age": 30,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -29351,9 +29351,9 @@ window.NHL_DATA = {
       "name": "Luke Glendening",
       "pos": "C",
       "teamCode": "NYR",
-      "age": 37,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -39994,10 +39994,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-22 14:43 UTC",
+  "LAST_UPDATE": "2026-11-22 19:57 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-22T14:43:45Z"
+    "standingsDateTimeUtc": "2026-11-22T19:57:15Z"
   }
 };

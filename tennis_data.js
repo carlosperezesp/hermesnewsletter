@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-22 14:46 UTC
+// Auto-generated 2026-11-22 20:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-22 14:46 UTC",
+  "UPDATED": "2026-11-22 20:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Nitto ATP Finals",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 86.9
@@ -6651,9 +6651,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "LP Open by IND",
+        "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 63.7
@@ -7775,10 +7775,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "LP Open by IND · IEB+ Argentina Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "IEB+ Argentina Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 55.3
     },
@@ -9189,10 +9189,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "LP Open by IND · IEB+ Argentina Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "IEB+ Argentina Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 44.3
     },
@@ -9359,9 +9359,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "LP Open by IND",
+        "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -9923,9 +9923,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "LP Open by IND",
+        "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "F",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -10932,9 +10932,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 7-6 (9-7)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.9,
           "l_score": 86.9,
           "match_score": 90.9
@@ -11044,43 +11044,54 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Abigail Rencheli",
+      "Alicia Herrero Linana",
       "Anastasia Zolotareva",
       "Andrea Lazaro Garcia",
       "Ariana Geerlings",
+      "Ayana Akli",
+      "Berta Bonardi",
       "Carole Monnet",
+      "Despina Papamichail",
       "Fernanda Labrana",
       "Guiomar Maristany Zuleta De Reales",
+      "Ipek Oz",
       "Irene Burillo",
+      "Josefina Estevez",
+      "Julia Riera",
       "Laura Samson",
       "Leyre Romero Gormaz",
+      "Lourdes Ayala",
       "Lucia Bronzetti",
+      "Luna Maria Cinalli",
+      "Maria Lourdes Carle",
+      "Martina Trevisan",
       "Nadia Podoroska",
+      "Nuria Brancaccio",
       "Polona Hercog",
       "Rebeka Masarova",
       "Sofia Costoulas",
+      "Sol Ailin Larraya Guidi",
+      "Solana Sierra",
       "Valeriya Strakhova",
-      "Veronika Erjavec"
+      "Varvara Lepchenko",
+      "Veronika Erjavec",
+      "Victoria Bosio",
+      "Victoria Jimenez Kasintseva",
+      "Zhibek Kulambayeva"
     ],
     "out": [
-      "Alicia Herrero Linana",
       "Anastasia Tikhonova",
       "Antonia Vergara Rivera",
       "Barbara Gatica",
       "Darja Semenistaja",
-      "Despina Papamichail",
       "Diletta Cherubini",
-      "Ipek Oz",
       "Katrina Scott",
       "Luisina Giovannini",
-      "Maria Lourdes Carle",
-      "Martina Trevisan",
-      "Miriam Bulgaru",
-      "Nuria Brancaccio",
-      "Varvara Lepchenko",
-      "Victoria Jimenez Kasintseva"
+      "Miriam Bulgaru"
     ],
-    "aliveCount": 16,
-    "matchesSeen": 31
+    "aliveCount": 35,
+    "matchesSeen": 47
   },
   "ATP_SCORE_LOG": {
     "206173": [
