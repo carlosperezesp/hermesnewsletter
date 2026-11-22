@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-11-22 00:22 UTC",
+  "UPDATED": "2026-11-22 01:27 UTC",
   "LAST_MATCH": "2026-11-21",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -322,19 +322,19 @@ window.RUGBY_DATA = {
         "status": "scheduled",
         "competition": "Nations Championship",
         "home": {
-          "name": "Italy",
-          "teamCode": "ITA",
+          "name": "Ireland",
+          "teamCode": "IRE",
           "colors": {
-            "primary": "#0066b3",
-            "secondary": "#009246"
+            "primary": "#169b62",
+            "secondary": "#ff883e"
           }
         },
         "away": {
-          "name": "TBC",
-          "teamCode": "T",
+          "name": "Australia",
+          "teamCode": "AUS",
           "colors": {
-            "primary": "#8a8178",
-            "secondary": "#dedad6"
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
           }
         },
         "homeScore": null,
@@ -360,6 +360,106 @@ window.RUGBY_DATA = {
           "colors": {
             "primary": "#6ecff6",
             "secondary": "#111111"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Allianz Stadium",
+        "city": "London"
+      },
+      {
+        "date": "2026-11-28",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#ffffff",
+            "secondary": "#cf142b"
+          }
+        },
+        "away": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Allianz Stadium",
+        "city": "London"
+      },
+      {
+        "date": "2026-11-28",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Wales",
+          "teamCode": "WAL",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Allianz Stadium",
+        "city": "London"
+      },
+      {
+        "date": "2026-11-29",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Scotland",
+          "teamCode": "SCO",
+          "colors": {
+            "primary": "#005eb8",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Argentina",
+          "teamCode": "ARG",
+          "colors": {
+            "primary": "#75aadb",
+            "secondary": "#f6b40e"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Allianz Stadium",
+        "city": "London"
+      },
+      {
+        "date": "2026-11-29",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "France",
+          "teamCode": "FRA",
+          "colors": {
+            "primary": "#1d4f91",
+            "secondary": "#d80f2a"
+          }
+        },
+        "away": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
           }
         },
         "homeScore": null,
