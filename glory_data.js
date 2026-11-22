@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-22 01:28 UTC",
+  "UPDATED": "2026-11-22 13:23 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Heineken Las Vegas Grand Prix:Sergio Pérez",
@@ -41,6 +41,15 @@ window.GLORY_DATA = {
       "text": "Marc Márquez ganó el Qatar motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-11-08"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Los Angeles Lakers",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-dinastias",
+      "text": "Los Angeles Lakers es nuevo nº1 · dinastías",
+      "weight": 92,
+      "firstSeen": "2026-11-22"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Matthew Schaefer",
@@ -106,29 +115,29 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-09"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mark Scheifele",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Mark Scheifele entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-22"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Logan Mailloux",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Logan Mailloux entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-22"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Kirill Kaprizov",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "Kirill Kaprizov entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-22"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Matthew Tkachuk",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Matthew Tkachuk entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-22"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Alexander Nikishin",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Alexander Nikishin entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-22"
     },
@@ -403,8 +412,43 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-10"
     }
   ],
-  "REPORTS": [],
+  "REPORTS": [
+    {
+      "id": "sumo:basho:202611",
+      "sport": "sumo",
+      "competition": "Sumo",
+      "champion": "Onosato conquista el basho",
+      "scopeLabel": "Cabeza del banzuke",
+      "top5": [
+        {
+          "name": "Onosato",
+          "sub": "Yokozuna 1 East"
+        },
+        {
+          "name": "Hoshoryu",
+          "sub": "Yokozuna 1 West"
+        },
+        {
+          "name": "Aonishiki",
+          "sub": "Ozeki 1 East"
+        },
+        {
+          "name": "Kotozakura",
+          "sub": "Ozeki 1 West"
+        },
+        {
+          "name": "Kirishima",
+          "sub": "Ozeki 2 East"
+        }
+      ],
+      "firstSeen": "2026-11-22"
+    }
+  ],
   "REPORT_SEEN": [
+    {
+      "id": "sumo:basho:202611",
+      "firstSeen": "2026-11-22"
+    },
     {
       "id": "sumo:basho:202609",
       "firstSeen": "2026-09-27"
@@ -433,7 +477,7 @@ window.GLORY_DATA = {
       "Erik Karlsson",
       "Jake Guentzel",
       "Kirill Kaprizov",
-      "Matthew Tkachuk"
+      "Mark Scheifele"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -449,15 +493,15 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
-      "Lane Hutson",
       "Macklin Celebrini",
-      "Jackson LaCombe",
+      "Lane Hutson",
+      "Logan Mailloux",
       "Beckett Sennecke",
+      "Jackson LaCombe",
       "Cutter Gauthier",
-      "Cole Hutson",
       "Connor Bedard",
-      "Leo Carlsson",
-      "Alexander Nikishin"
+      "Cole Hutson",
+      "Leo Carlsson"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "Stephen Curry",
@@ -472,14 +516,14 @@ window.GLORY_DATA = {
       "Karl-Anthony Towns"
     ],
     "nba:ROAD_TO_GLORY.teams": [
-      "Boston Celtics",
       "Los Angeles Lakers",
+      "Boston Celtics",
       "San Antonio Spurs",
       "Oklahoma City Thunder",
       "Denver Nuggets",
       "Minnesota Timberwolves",
-      "Golden State Warriors",
       "New York Knicks",
+      "Golden State Warriors",
       "Milwaukee Bucks",
       "Indiana Pacers"
     ],
@@ -690,10 +734,10 @@ window.GLORY_DATA = {
     "f1:DRIVERS": [
       "Kimi Antonelli",
       "Max Verstappen",
-      "George Russell",
       "Lewis Hamilton",
-      "Charles Leclerc",
+      "George Russell",
       "Lando Norris",
+      "Charles Leclerc",
       "Oscar Piastri",
       "Isack Hadjar",
       "Liam Lawson",

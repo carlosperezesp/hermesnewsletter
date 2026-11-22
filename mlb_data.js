@@ -1651,7 +1651,7 @@ window.MLB_DATA = {
       "last": "Turang",
       "pos": "2B",
       "teamCode": "MIL",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41179.png",
       "colors": {
         "primary": "#ffc52f",
@@ -1667,7 +1667,7 @@ window.MLB_DATA = {
         "sb": 19,
         "ops": 0.816
       },
-      "legendScore": 42.4,
+      "legendScore": 43.2,
       "currentScore": 70,
       "battingScore": 70,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-22 01:25 UTC",
+  "LAST_UPDATE": "2026-11-22 13:21 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
