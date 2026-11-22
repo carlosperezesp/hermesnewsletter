@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-22 13:21 UTC
+// Auto-generated 2026-11-22 14:44 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-11-22 13:21 UTC",
+  "UPDATED": "2026-11-22 14:44 UTC",
   "SEASON": "2026",
   "ROUND": 19,
   "TOTAL_ROUNDS": 22,
@@ -282,34 +282,18 @@ window.MOTOGP_DATA = {
     }
   ],
   "LAST_RACE": {
-    "round": 20,
-    "name": "Qatar motorcycle Grand Prix",
-    "winner": "Marc Márquez",
-    "country": "SPA",
-    "bike": "Ducati",
-    "primary": "#CC0000",
+    "round": 21,
+    "name": "Portuguese motorcycle Grand Prix",
+    "winner": "Marco Bezzecchi",
+    "country": "ITA",
+    "bike": "Aprilia",
+    "primary": "#003366",
     "podium": [
       {
         "pos": 1,
-        "name": "Marc Márquez",
-        "country": "SPA",
-        "logo": "https://flagcdn.com/24x18/es.png",
-        "bike": "Ducati",
-        "primary": "#CC0000"
-      },
-      {
-        "pos": 2,
-        "name": "Marc Márquez",
-        "country": "SPA",
-        "logo": "https://flagcdn.com/24x18/es.png",
-        "bike": "Ducati",
-        "primary": "#CC0000"
-      },
-      {
-        "pos": 3,
-        "name": "Raúl Fernández",
-        "country": "SPA",
-        "logo": "https://flagcdn.com/24x18/es.png",
+        "name": "Marco Bezzecchi",
+        "country": "ITA",
+        "logo": "https://flagcdn.com/24x18/it.png",
         "bike": "Aprilia",
         "primary": "#003366"
       }

@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-22 13:23 UTC",
+  "UPDATED": "2026-11-22 14:46 UTC",
   "EVENTS": [
+    {
+      "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Marco Bezzecchi ganó el Portuguese motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-11-22"
+    },
     {
       "id": "f1:win:Heineken Las Vegas Grand Prix:Sergio Pérez",
       "sport": "f1",
