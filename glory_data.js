@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-22 20:29 UTC",
+  "UPDATED": "2026-11-23 00:56 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -41,14 +41,6 @@ window.GLORY_DATA = {
       "text": "Ryan Blaney ganó en Echopark Speedway",
       "weight": 100,
       "firstSeen": "2026-11-10"
-    },
-    {
-      "id": "motogp:win:Qatar motorcycle Grand Prix:Marc Márquez",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Marc Márquez ganó el Qatar motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-11-08"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Los Angeles Lakers",
@@ -94,15 +86,6 @@ window.GLORY_DATA = {
       "text": "C.J. Stroud es nuevo nº1 · jóvenes promesas",
       "weight": 92,
       "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:new1:Victor Wembanyama",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Victor Wembanyama es nuevo nº1 · jóvenes promesas",
-      "weight": 92,
-      "firstSeen": "2026-11-08"
     },
     {
       "id": "tennis:in:ATP:Rafael Jodar:20261112",
@@ -337,33 +320,6 @@ window.GLORY_DATA = {
       "text": "C.J. Stroud entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Connor Bedard",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Connor Bedard entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Shai Gilgeous-Alexander",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Shai Gilgeous-Alexander entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Dylan Harper",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Dylan Harper entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-08"
     },
     {
       "id": "tennis:out:ATP:Alex De Minaur:20261112",

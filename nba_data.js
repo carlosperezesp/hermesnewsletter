@@ -143,6 +143,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "ATL",
+      "city": "Atlanta Hawks",
+      "shortName": "Atlanta",
+      "commonName": "Hawks",
+      "conf": "E",
+      "gp": 17,
+      "w": 11,
+      "l": 6,
+      "winPct": 0.647,
+      "gf": 1984,
+      "ga": 1931,
+      "gd": 53,
+      "score": 59,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+      "colors": {
+        "primary": "#e03a3e",
+        "secondary": "#c1d32f"
+      }
+    },
+    {
       "code": "POR",
       "city": "Portland Trail Blazers",
       "shortName": "Portland",
@@ -188,14 +208,14 @@ window.NBA_DATA = {
       "shortName": "Detroit",
       "commonName": "Pistons",
       "conf": "E",
-      "gp": 15,
+      "gp": 16,
       "w": 10,
-      "l": 5,
-      "winPct": 0.667,
-      "gf": 1717,
-      "ga": 1630,
-      "gd": 87,
-      "score": 65,
+      "l": 6,
+      "winPct": 0.625,
+      "gf": 1814,
+      "ga": 1737,
+      "gd": 77,
+      "score": 60,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
       "colors": {
         "primary": "#c8102e",
@@ -220,26 +240,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#007ac1",
         "secondary": "#ef3b24"
-      }
-    },
-    {
-      "code": "ATL",
-      "city": "Atlanta Hawks",
-      "shortName": "Atlanta",
-      "commonName": "Hawks",
-      "conf": "E",
-      "gp": 16,
-      "w": 10,
-      "l": 6,
-      "winPct": 0.625,
-      "gf": 1877,
-      "ga": 1834,
-      "gd": 43,
-      "score": 56,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
-      "colors": {
-        "primary": "#e03a3e",
-        "secondary": "#c1d32f"
       }
     },
     {
@@ -9326,7 +9326,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-22 20:27 UTC",
+  "LAST_UPDATE": "2026-11-23 00:53 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-11-22 20:29 UTC",
+  "UPDATED": "2026-11-23 00:56 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1659,
+    "matches": 1657,
     "archives": [
       {
         "name": "Tests",
@@ -13,7 +13,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 169
+        "matches": 167
       },
       {
         "name": "T20Is",
@@ -314,6 +314,51 @@ window.CRICKET_DATA = {
       "logo": "https://flagcdn.com/24x18/za.png"
     },
     {
+      "id": "jnt-seales",
+      "name": "JNT Seales",
+      "role": "Bowler",
+      "score": 67.9,
+      "legendScore": 57.9,
+      "stats": {
+        "test": 53.1,
+        "odi": 75.0,
+        "t20": 77.2,
+        "franchise": 72.8,
+        "runs": 230,
+        "wickets": 105,
+        "matches": 60
+      },
+      "formatScores": {
+        "test": {
+          "overall": 52.2,
+          "batting": 9.6,
+          "bowling": 52.0
+        },
+        "odi": {
+          "overall": 58.8,
+          "batting": 10.4,
+          "bowling": 76.2
+        },
+        "t20": {
+          "overall": 62.7,
+          "batting": 10.7,
+          "bowling": 78.7
+        },
+        "franchise": {
+          "overall": 59.2,
+          "batting": 9.5,
+          "bowling": 72.9
+        }
+      },
+      "country": "West Indies",
+      "teamCode": "WI",
+      "colors": {
+        "primary": "#7a263a",
+        "secondary": "#f6c344"
+      },
+      "logo": ""
+    },
+    {
       "id": "pj-cummins",
       "name": "PJ Cummins",
       "role": "Bowler",
@@ -357,51 +402,6 @@ window.CRICKET_DATA = {
         "secondary": "#006341"
       },
       "logo": "https://flagcdn.com/24x18/au.png"
-    },
-    {
-      "id": "jnt-seales",
-      "name": "JNT Seales",
-      "role": "Bowler",
-      "score": 67.7,
-      "legendScore": 57.9,
-      "stats": {
-        "test": 53.1,
-        "odi": 74.6,
-        "t20": 76.9,
-        "franchise": 72.7,
-        "runs": 230,
-        "wickets": 105,
-        "matches": 61
-      },
-      "formatScores": {
-        "test": {
-          "overall": 52.2,
-          "batting": 9.6,
-          "bowling": 52.0
-        },
-        "odi": {
-          "overall": 58.4,
-          "batting": 10.3,
-          "bowling": 75.8
-        },
-        "t20": {
-          "overall": 62.3,
-          "batting": 10.6,
-          "bowling": 78.4
-        },
-        "franchise": {
-          "overall": 58.9,
-          "batting": 9.4,
-          "bowling": 72.8
-        }
-      },
-      "country": "West Indies",
-      "teamCode": "WI",
-      "colors": {
-        "primary": "#7a263a",
-        "secondary": "#f6c344"
-      },
-      "logo": ""
     },
     {
       "id": "jc-archer",
@@ -1438,10 +1438,10 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 75.8,
-          "batting": 10.3,
-          "bowling": 75.8,
-          "overall": 58.4,
+          "score": 76.2,
+          "batting": 10.4,
+          "bowling": 76.2,
+          "overall": 58.8,
           "runs": 230,
           "wickets": 105
         },
@@ -2004,10 +2004,10 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 78.4,
-          "batting": 10.6,
-          "bowling": 78.4,
-          "overall": 62.3,
+          "score": 78.7,
+          "batting": 10.7,
+          "bowling": 78.7,
+          "overall": 62.7,
           "runs": 230,
           "wickets": 105
         },
@@ -2316,9 +2316,9 @@ window.CRICKET_DATA = {
           "logo": "",
           "score": 83.9,
           "batting": 25.7,
-          "bowling": 54.0,
+          "bowling": 54.1,
           "overall": 83.9,
-          "runs": 1753,
+          "runs": 1729,
           "wickets": 81
         }
       ],
@@ -2642,10 +2642,10 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 72.8,
-          "batting": 9.4,
-          "bowling": 72.8,
-          "overall": 58.9,
+          "score": 72.9,
+          "batting": 9.5,
+          "bowling": 72.9,
+          "overall": 59.2,
           "runs": 230,
           "wickets": 105
         },
@@ -3495,16 +3495,16 @@ window.CRICKET_DATA = {
         "id": "jnt-seales",
         "name": "JNT Seales",
         "role": "Bowler",
-        "score": 67.7,
+        "score": 67.9,
         "legendScore": 57.9,
         "stats": {
           "test": 53.1,
-          "odi": 74.6,
-          "t20": 76.9,
-          "franchise": 72.7,
+          "odi": 75.0,
+          "t20": 77.2,
+          "franchise": 72.8,
           "runs": 230,
           "wickets": 105,
-          "matches": 61
+          "matches": 60
         },
         "formatScores": {
           "test": {
@@ -3513,19 +3513,19 @@ window.CRICKET_DATA = {
             "bowling": 52.0
           },
           "odi": {
-            "overall": 58.4,
-            "batting": 10.3,
-            "bowling": 75.8
+            "overall": 58.8,
+            "batting": 10.4,
+            "bowling": 76.2
           },
           "t20": {
-            "overall": 62.3,
-            "batting": 10.6,
-            "bowling": 78.4
+            "overall": 62.7,
+            "batting": 10.7,
+            "bowling": 78.7
           },
           "franchise": {
-            "overall": 58.9,
-            "batting": 9.4,
-            "bowling": 72.8
+            "overall": 59.2,
+            "batting": 9.5,
+            "bowling": 72.9
           }
         },
         "country": "West Indies",
