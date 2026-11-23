@@ -1,5 +1,5 @@
 window.NASCAR_DATA = {
-  "UPDATED": "2026-11-23 00:54 UTC",
+  "UPDATED": "2026-11-23 01:50 UTC",
   "SEASON": 2026,
   "ROUND": 40,
   "TOTAL_ROUNDS": 36,
@@ -84,7 +84,7 @@ window.NASCAR_DATA = {
       "playoffScore": 93.8,
       "score": 97.8,
       "legendScore": 14.2,
-      "age": 45
+      "age": 46
     },
     {
       "id": "ryan_blaney",

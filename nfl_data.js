@@ -147,16 +147,16 @@ window.NFL_DATA = {
       "commonName": "Jaguars",
       "conf": "AFC",
       "div": "AFC South",
-      "gp": 9,
+      "gp": 10,
       "w": 7,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "winPct": 0.778,
-      "pf": 269,
-      "pa": 144,
-      "pd": 125,
-      "seed": 3,
-      "score": 73,
+      "winPct": 0.7,
+      "pf": 287,
+      "pa": 167,
+      "pd": 120,
+      "seed": 4,
+      "score": 66,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
       "colors": {
         "primary": "#006778",
@@ -178,7 +178,7 @@ window.NFL_DATA = {
       "pf": 278,
       "pa": 193,
       "pd": 85,
-      "seed": 4,
+      "seed": 3,
       "score": 70,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
       "colors": {
@@ -279,6 +279,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "NYG",
+      "city": "New York Giants",
+      "shortName": "New York",
+      "commonName": "Giants",
+      "conf": "NFC",
+      "div": "NFC East",
+      "gp": 10,
+      "w": 6,
+      "l": 3,
+      "t": 1,
+      "winPct": 0.65,
+      "pf": 226,
+      "pa": 214,
+      "pd": 12,
+      "seed": 3,
+      "score": 53,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+      "colors": {
+        "primary": "#0b2265",
+        "secondary": "#a71930"
+      }
+    },
+    {
       "code": "GB",
       "city": "Green Bay Packers",
       "shortName": "Green Bay",
@@ -345,29 +368,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#003594",
         "secondary": "#869397"
-      }
-    },
-    {
-      "code": "NYG",
-      "city": "New York Giants",
-      "shortName": "New York",
-      "commonName": "Giants",
-      "conf": "NFC",
-      "div": "NFC East",
-      "gp": 9,
-      "w": 5,
-      "l": 3,
-      "t": 1,
-      "winPct": 0.611,
-      "pf": 203,
-      "pa": 196,
-      "pd": 7,
-      "seed": 3,
-      "score": 50,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-      "colors": {
-        "primary": "#0b2265",
-        "secondary": "#a71930"
       }
     },
     {
@@ -2205,7 +2205,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-23 00:53 UTC",
+  "LAST_UPDATE": "2026-11-23 01:50 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

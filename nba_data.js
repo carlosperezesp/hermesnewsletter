@@ -228,18 +228,38 @@ window.NBA_DATA = {
       "shortName": "Oklahoma City",
       "commonName": "Thunder",
       "conf": "W",
-      "gp": 16,
+      "gp": 17,
       "w": 10,
-      "l": 6,
-      "winPct": 0.625,
-      "gf": 1808,
-      "ga": 1736,
-      "gd": 72,
-      "score": 59,
+      "l": 7,
+      "winPct": 0.588,
+      "gf": 1921,
+      "ga": 1859,
+      "gd": 62,
+      "score": 55,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
       "colors": {
         "primary": "#007ac1",
         "secondary": "#ef3b24"
+      }
+    },
+    {
+      "code": "MIA",
+      "city": "Miami Heat",
+      "shortName": "Miami",
+      "commonName": "Heat",
+      "conf": "E",
+      "gp": 16,
+      "w": 10,
+      "l": 6,
+      "winPct": 0.625,
+      "gf": 1931,
+      "ga": 1911,
+      "gd": 20,
+      "score": 54,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+      "colors": {
+        "primary": "#98002e",
+        "secondary": "#f9a01b"
       }
     },
     {
@@ -280,26 +300,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#0e2240",
         "secondary": "#fec524"
-      }
-    },
-    {
-      "code": "MIA",
-      "city": "Miami Heat",
-      "shortName": "Miami",
-      "commonName": "Heat",
-      "conf": "E",
-      "gp": 15,
-      "w": 9,
-      "l": 6,
-      "winPct": 0.6,
-      "gf": 1808,
-      "ga": 1798,
-      "gd": 10,
-      "score": 50,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-      "colors": {
-        "primary": "#98002e",
-        "secondary": "#f9a01b"
       }
     },
     {
@@ -9004,9 +9004,9 @@ window.NBA_DATA = {
         "city": "Oklahoma City Thunder",
         "era": "2023–present",
         "rings": 1,
-        "dynastyScore": 54.5,
+        "dynastyScore": 52.2,
         "threshold": 89.4,
-        "gap": 34.9,
+        "gap": 37.2,
         "note": "2025 Champions · SGA Finals MVP · dynasty begins",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
@@ -9326,7 +9326,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-23 00:53 UTC",
+  "LAST_UPDATE": "2026-11-23 01:50 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
