@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-23 16:01 UTC",
+  "UPDATED": "2026-11-23 18:32 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",

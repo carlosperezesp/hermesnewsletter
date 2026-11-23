@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-23 16:01 UTC
+// Auto-generated 2026-11-23 18:32 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-23 16:01 UTC",
+  "UPDATED": "2026-11-23 18:32 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10045,22 +10045,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Varvara Lepchenko",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "Anastasia Zolotareva",
-          "w_logo": "",
-          "l": "Nuria Brancaccio",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10071,7 +10058,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Josefina Estevez",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10097,7 +10084,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexandra Osborne",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10109,6 +10096,19 @@ window.TENNIS_DATA = {
           "w": "Martina Trevisan",
           "w_logo": "",
           "l": "Ayana Akli",
+          "l_logo": "",
+          "score": "6-1 6-2",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Nuria Brancaccio",
+          "w_logo": "",
+          "l": "Anastasia Zolotareva",
           "l_logo": "",
           "score": "6-1 6-2",
           "day": "hoy",
@@ -10135,16 +10135,13 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Abigail Rencheli",
-      "Alexandra Osborne",
       "Alicia Herrero Linana",
-      "Anastasia Zolotareva",
       "Ariana Geerlings",
       "Carole Monnet",
       "Despina Papamichail",
       "Guiomar Maristany Zuleta De Reales",
       "Ipek Oz",
       "Irene Burillo",
-      "Josefina Estevez",
       "Julia Riera",
       "Laura Samson",
       "Leyre Romero Gormaz",
@@ -10166,10 +10163,13 @@ window.TENNIS_DATA = {
       "Zhibek Kulambayeva"
     ],
     "out": [
+      "Alexandra Osborne",
+      "Anastasia Zolotareva",
       "Ayana Akli",
-      "Berta Bonardi"
+      "Berta Bonardi",
+      "Josefina Estevez"
     ],
-    "aliveCount": 30,
+    "aliveCount": 27,
     "matchesSeen": 16
   },
   "ATP_SCORE_LOG": {
