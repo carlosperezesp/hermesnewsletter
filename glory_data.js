@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-23 01:51 UTC",
+  "UPDATED": "2026-11-23 16:01 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -43,6 +43,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-10"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.players:new1:LeBron James",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "LeBron James es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Dak Prescott",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Dak Prescott es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-11-23"
+    },
+    {
       "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Los Angeles Lakers",
       "sport": "nba",
       "detail": "NBA",
@@ -59,24 +77,6 @@ window.GLORY_DATA = {
       "text": "Matthew Schaefer es nuevo nº1 · jóvenes promesas",
       "weight": 92,
       "firstSeen": "2026-11-14"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:new1:Stephen Curry",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Stephen Curry es nuevo nº1 · Road to Glory",
-      "weight": 92,
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Joe Burrow",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Joe Burrow es nuevo nº1 · Road to Glory",
-      "weight": 92,
-      "firstSeen": "2026-11-09"
     },
     {
       "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:C.J. Stroud",
@@ -106,13 +106,31 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mark Scheifele",
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Roman Josi",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
-      "text": "Mark Scheifele entra en el top-10 · Road to Glory",
+      "text": "Roman Josi entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-11-22"
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:John Carlson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "John Carlson entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Jamal Murray",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Jamal Murray entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-23"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Logan Mailloux",
@@ -340,6 +358,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-09"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:out:Erik Karlsson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Erik Karlsson cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-11-23"
+    },
+    {
       "id": "rank:nascar:DRIVERS:out:Carson Hocevar",
       "sport": "nascar",
       "detail": "NASCAR",
@@ -433,15 +460,15 @@ window.GLORY_DATA = {
   "SNAPSHOTS": {
     "nhl:ROAD_TO_GLORY.players": [
       "Nikita Kucherov",
-      "Connor McDavid",
       "Nathan MacKinnon",
+      "Connor McDavid",
       "Leon Draisaitl",
       "David Pastrnak",
       "Auston Matthews",
-      "Erik Karlsson",
       "Jake Guentzel",
       "Kirill Kaprizov",
-      "Mark Scheifele"
+      "Roman Josi",
+      "John Carlson"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -457,18 +484,17 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
-      "Macklin Celebrini",
       "Lane Hutson",
+      "Macklin Celebrini",
       "Logan Mailloux",
       "Beckett Sennecke",
       "Jackson LaCombe",
       "Cutter Gauthier",
       "Connor Bedard",
-      "Cole Hutson",
-      "Leo Carlsson"
+      "Leo Carlsson",
+      "Cole Hutson"
     ],
     "nba:ROAD_TO_GLORY.players": [
-      "Stephen Curry",
       "LeBron James",
       "Giannis Antetokounmpo",
       "Nikola Jokic",
@@ -477,17 +503,18 @@ window.GLORY_DATA = {
       "Jayson Tatum",
       "Anthony Davis",
       "Jaylen Brown",
-      "Karl-Anthony Towns"
+      "Karl-Anthony Towns",
+      "Jamal Murray"
     ],
     "nba:ROAD_TO_GLORY.teams": [
       "Los Angeles Lakers",
       "Boston Celtics",
       "San Antonio Spurs",
-      "Oklahoma City Thunder",
       "Denver Nuggets",
+      "Oklahoma City Thunder",
       "Minnesota Timberwolves",
-      "New York Knicks",
       "Golden State Warriors",
+      "New York Knicks",
       "Milwaukee Bucks",
       "Indiana Pacers"
     ],
@@ -495,11 +522,11 @@ window.GLORY_DATA = {
       "Victor Wembanyama",
       "Cooper Flagg",
       "Darius Acuff Jr.",
-      "Cade Cunningham",
+      "Cameron Boozer",
       "Franz Wagner",
       "Caleb Wilson",
-      "Cameron Boozer",
       "Dylan Harper",
+      "Cade Cunningham",
       "Alperen Sengun",
       "Scottie Barnes"
     ],
@@ -540,23 +567,23 @@ window.GLORY_DATA = {
       "James Wood"
     ],
     "nfl:ROAD_TO_GLORY.players": [
+      "Dak Prescott",
       "Joe Burrow",
       "Matthew Stafford",
-      "Dak Prescott",
-      "Kirk Cousins",
       "Jared Goff",
+      "Kirk Cousins",
+      "Geno Smith",
+      "Brock Purdy",
       "Jordan Love",
       "C.J. Stroud",
-      "Geno Smith",
-      "Trevor Lawrence",
-      "Brock Purdy"
+      "Trevor Lawrence"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
       "C.J. Stroud",
-      "Drake Maye",
       "Bryce Young",
-      "Jayden Daniels",
+      "Drake Maye",
       "Cam Ward",
+      "Jayden Daniels",
       "Caleb Williams"
     ],
     "tennis:ATP": [
