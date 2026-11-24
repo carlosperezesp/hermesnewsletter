@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-24 05:23 UTC",
+  "UPDATED": "2026-11-24 15:56 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -402,8 +402,8 @@ window.GLORY_DATA = {
       "Leon Draisaitl",
       "David Pastrnak",
       "Auston Matthews",
-      "Jake Guentzel",
       "Kirill Kaprizov",
+      "Jake Guentzel",
       "Roman Josi",
       "John Carlson"
     ],

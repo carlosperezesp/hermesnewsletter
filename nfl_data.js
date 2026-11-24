@@ -754,14 +754,14 @@ window.NFL_DATA = {
       "score": 100,
       "stats": {
         "type": "passing",
-        "cmp": 254,
-        "att": 340,
-        "pct": 74.7,
-        "yds": 2795,
-        "ypa": 8.2,
-        "td": 27,
+        "cmp": 282,
+        "att": 380,
+        "pct": 74.2,
+        "yds": 3095,
+        "ypa": 8.1,
+        "td": 29,
         "int": 6,
-        "rushYds": 85,
+        "rushYds": 84,
         "rushTd": 0
       },
       "prevRank": 1
@@ -777,7 +777,7 @@ window.NFL_DATA = {
         "primary": "#003594",
         "secondary": "#869397"
       },
-      "score": 99,
+      "score": 94,
       "stats": {
         "type": "passing",
         "cmp": 276,
@@ -803,7 +803,7 @@ window.NFL_DATA = {
         "primary": "#aa0000",
         "secondary": "#b3995d"
       },
-      "score": 93,
+      "score": 88,
       "stats": {
         "type": "passing",
         "cmp": 206,
@@ -829,7 +829,7 @@ window.NFL_DATA = {
         "primary": "#e31837",
         "secondary": "#ffb612"
       },
-      "score": 93,
+      "score": 88,
       "stats": {
         "type": "passing",
         "cmp": 226,
@@ -855,7 +855,7 @@ window.NFL_DATA = {
         "primary": "#03202f",
         "secondary": "#a71930"
       },
-      "score": 92,
+      "score": 87,
       "stats": {
         "type": "passing",
         "cmp": 222,
@@ -881,7 +881,7 @@ window.NFL_DATA = {
         "primary": "#0076b6",
         "secondary": "#b0b7bc"
       },
-      "score": 91,
+      "score": 86,
       "stats": {
         "type": "passing",
         "cmp": 225,
@@ -907,7 +907,7 @@ window.NFL_DATA = {
         "primary": "#203731",
         "secondary": "#ffb612"
       },
-      "score": 88,
+      "score": 83,
       "stats": {
         "type": "passing",
         "cmp": 232,
@@ -933,7 +933,7 @@ window.NFL_DATA = {
         "primary": "#006778",
         "secondary": "#9f792c"
       },
-      "score": 88,
+      "score": 83,
       "stats": {
         "type": "passing",
         "cmp": 196,
@@ -959,7 +959,7 @@ window.NFL_DATA = {
         "primary": "#000000",
         "secondary": "#a5acaf"
       },
-      "score": 87,
+      "score": 82,
       "stats": {
         "type": "passing",
         "cmp": 249,
@@ -985,7 +985,7 @@ window.NFL_DATA = {
         "primary": "#0085ca",
         "secondary": "#101820"
       },
-      "score": 83,
+      "score": 79,
       "stats": {
         "type": "passing",
         "cmp": 225,
@@ -1011,7 +1011,7 @@ window.NFL_DATA = {
         "primary": "#125740",
         "secondary": "#000000"
       },
-      "score": 81,
+      "score": 77,
       "stats": {
         "type": "passing",
         "cmp": 213,
@@ -1036,7 +1036,7 @@ window.NFL_DATA = {
         "primary": "#003594",
         "secondary": "#ffd100"
       },
-      "score": 81,
+      "score": 77,
       "stats": {
         "type": "passing",
         "cmp": 248,
@@ -1061,7 +1061,7 @@ window.NFL_DATA = {
         "primary": "#101820",
         "secondary": "#ffb612"
       },
-      "score": 76,
+      "score": 73,
       "stats": {
         "type": "passing",
         "cmp": 220,
@@ -1086,7 +1086,7 @@ window.NFL_DATA = {
         "primary": "#d3bc8d",
         "secondary": "#101820"
       },
-      "score": 76,
+      "score": 73,
       "stats": {
         "type": "passing",
         "cmp": 254,
@@ -1111,7 +1111,7 @@ window.NFL_DATA = {
         "primary": "#002244",
         "secondary": "#c60c30"
       },
-      "score": 75,
+      "score": 71,
       "stats": {
         "type": "passing",
         "cmp": 181,
@@ -1136,7 +1136,7 @@ window.NFL_DATA = {
         "primary": "#00338d",
         "secondary": "#c60c30"
       },
-      "score": 74,
+      "score": 70,
       "stats": {
         "type": "passing",
         "cmp": 194,
@@ -1161,7 +1161,7 @@ window.NFL_DATA = {
         "primary": "#fb4f14",
         "secondary": "#002244"
       },
-      "score": 68,
+      "score": 65,
       "stats": {
         "type": "passing",
         "cmp": 193,
@@ -1186,7 +1186,7 @@ window.NFL_DATA = {
         "primary": "#97233f",
         "secondary": "#ffb612"
       },
-      "score": 67,
+      "score": 64,
       "stats": {
         "type": "passing",
         "cmp": 250,
@@ -1201,6 +1201,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 4426348,
+      "name": "Jayden Daniels",
+      "pos": "QB",
+      "teamCode": "WSH",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
+      "colors": {
+        "primary": "#5a1414",
+        "secondary": "#ffb612"
+      },
+      "score": 64,
+      "stats": {
+        "type": "passing",
+        "cmp": 161,
+        "att": 248,
+        "pct": 64.9,
+        "yds": 1788,
+        "ypa": 7.2,
+        "td": 10,
+        "int": 2,
+        "rushYds": 335,
+        "rushTd": 4
+      }
+    },
+    {
       "id": 4688380,
       "name": "Cam Ward",
       "pos": "QB",
@@ -1211,7 +1236,7 @@ window.NFL_DATA = {
         "primary": "#0c2340",
         "secondary": "#4b92db"
       },
-      "score": 65,
+      "score": 62,
       "stats": {
         "type": "passing",
         "cmp": 204,
@@ -1236,7 +1261,7 @@ window.NFL_DATA = {
         "primary": "#311d00",
         "secondary": "#ff3c00"
       },
-      "score": 65,
+      "score": 62,
       "stats": {
         "type": "passing",
         "cmp": 188,
@@ -1251,31 +1276,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "id": 4426348,
-      "name": "Jayden Daniels",
-      "pos": "QB",
-      "teamCode": "WSH",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
-      "colors": {
-        "primary": "#5a1414",
-        "secondary": "#ffb612"
-      },
-      "score": 64,
-      "stats": {
-        "type": "passing",
-        "cmp": 138,
-        "att": 213,
-        "pct": 64.8,
-        "yds": 1499,
-        "ypa": 7.0,
-        "td": 10,
-        "int": 2,
-        "rushYds": 280,
-        "rushTd": 3
-      }
-    },
-    {
       "id": 4431611,
       "name": "Caleb Williams",
       "pos": "QB",
@@ -1286,7 +1286,7 @@ window.NFL_DATA = {
         "primary": "#0b162a",
         "secondary": "#c83803"
       },
-      "score": 62,
+      "score": 60,
       "stats": {
         "type": "passing",
         "cmp": 149,
@@ -1311,7 +1311,7 @@ window.NFL_DATA = {
         "primary": "#a71930",
         "secondary": "#000000"
       },
-      "score": 60,
+      "score": 58,
       "stats": {
         "type": "passing",
         "cmp": 147,
@@ -1336,7 +1336,7 @@ window.NFL_DATA = {
         "primary": "#002244",
         "secondary": "#69be28"
       },
-      "score": 55,
+      "score": 53,
       "stats": {
         "type": "passing",
         "cmp": 68,
@@ -1351,31 +1351,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "id": 3912547,
-      "name": "Sam Darnold",
-      "pos": "QB",
-      "teamCode": "SEA",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3912547.png",
-      "colors": {
-        "primary": "#002244",
-        "secondary": "#69be28"
-      },
-      "score": 55,
-      "stats": {
-        "type": "passing",
-        "cmp": 127,
-        "att": 211,
-        "pct": 60.2,
-        "yds": 1478,
-        "ypa": 7.0,
-        "td": 10,
-        "int": 9,
-        "rushYds": 72,
-        "rushTd": 0
-      }
-    },
-    {
       "id": 4038941,
       "name": "Justin Herbert",
       "pos": "QB",
@@ -1386,7 +1361,7 @@ window.NFL_DATA = {
         "primary": "#0080c6",
         "secondary": "#ffb612"
       },
-      "score": 54,
+      "score": 53,
       "stats": {
         "type": "passing",
         "cmp": 171,
@@ -1401,6 +1376,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 3912547,
+      "name": "Sam Darnold",
+      "pos": "QB",
+      "teamCode": "SEA",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3912547.png",
+      "colors": {
+        "primary": "#002244",
+        "secondary": "#69be28"
+      },
+      "score": 53,
+      "stats": {
+        "type": "passing",
+        "cmp": 127,
+        "att": 211,
+        "pct": 60.2,
+        "yds": 1478,
+        "ypa": 7.0,
+        "td": 10,
+        "int": 9,
+        "rushYds": 72,
+        "rushTd": 0
+      }
+    },
+    {
       "id": 3916387,
       "name": "Lamar Jackson",
       "pos": "QB",
@@ -1411,7 +1411,7 @@ window.NFL_DATA = {
         "primary": "#241773",
         "secondary": "#9e7c0c"
       },
-      "score": 54,
+      "score": 52,
       "stats": {
         "type": "passing",
         "cmp": 68,
@@ -1436,7 +1436,7 @@ window.NFL_DATA = {
         "primary": "#004c54",
         "secondary": "#a5acaf"
       },
-      "score": 53,
+      "score": 51,
       "stats": {
         "type": "passing",
         "cmp": 89,
@@ -1461,7 +1461,7 @@ window.NFL_DATA = {
         "primary": "#002c5f",
         "secondary": "#a2aaad"
       },
-      "score": 52,
+      "score": 50,
       "stats": {
         "type": "passing",
         "cmp": 205,
@@ -1476,31 +1476,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "id": 4242512,
-      "name": "Malik Willis",
-      "pos": "QB",
-      "teamCode": "MIA",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242512.png",
-      "colors": {
-        "primary": "#008e97",
-        "secondary": "#fc4c02"
-      },
-      "score": 52,
-      "stats": {
-        "type": "passing",
-        "cmp": 121,
-        "att": 208,
-        "pct": 58.2,
-        "yds": 1396,
-        "ypa": 6.7,
-        "td": 6,
-        "int": 6,
-        "rushYds": 232,
-        "rushTd": 1
-      }
-    },
-    {
       "id": 2969939,
       "name": "Jameis Winston",
       "pos": "QB",
@@ -1511,7 +1486,7 @@ window.NFL_DATA = {
         "primary": "#0b2265",
         "secondary": "#a71930"
       },
-      "score": 51,
+      "score": 50,
       "stats": {
         "type": "passing",
         "cmp": 96,
@@ -1526,6 +1501,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 4242512,
+      "name": "Malik Willis",
+      "pos": "QB",
+      "teamCode": "MIA",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242512.png",
+      "colors": {
+        "primary": "#008e97",
+        "secondary": "#fc4c02"
+      },
+      "score": 50,
+      "stats": {
+        "type": "passing",
+        "cmp": 121,
+        "att": 208,
+        "pct": 58.2,
+        "yds": 1396,
+        "ypa": 6.7,
+        "td": 6,
+        "int": 6,
+        "rushYds": 232,
+        "rushTd": 1
+      }
+    },
+    {
       "id": 3917315,
       "name": "Kyler Murray",
       "pos": "QB",
@@ -1536,7 +1536,7 @@ window.NFL_DATA = {
         "primary": "#4f2683",
         "secondary": "#ffc62f"
       },
-      "score": 50,
+      "score": 49,
       "stats": {
         "type": "passing",
         "cmp": 100,
@@ -1561,7 +1561,7 @@ window.NFL_DATA = {
         "primary": "#d50a0a",
         "secondary": "#ff7900"
       },
-      "score": 49,
+      "score": 48,
       "stats": {
         "type": "passing",
         "cmp": 106,
@@ -1586,7 +1586,7 @@ window.NFL_DATA = {
         "primary": "#0b2265",
         "secondary": "#a71930"
       },
-      "score": 49,
+      "score": 47,
       "stats": {
         "type": "passing",
         "cmp": 84,
@@ -1611,7 +1611,7 @@ window.NFL_DATA = {
         "primary": "#241773",
         "secondary": "#9e7c0c"
       },
-      "score": 48,
+      "score": 47,
       "stats": {
         "type": "passing",
         "cmp": 76,
@@ -1623,31 +1623,6 @@ window.NFL_DATA = {
         "int": 1,
         "rushYds": 76,
         "rushTd": 0
-      }
-    },
-    {
-      "id": 2576980,
-      "name": "Marcus Mariota",
-      "pos": "QB",
-      "teamCode": "WSH",
-      "age": 33,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2576980.png",
-      "colors": {
-        "primary": "#5a1414",
-        "secondary": "#ffb612"
-      },
-      "score": 44,
-      "stats": {
-        "type": "passing",
-        "cmp": 33,
-        "att": 51,
-        "pct": 64.7,
-        "yds": 340,
-        "ypa": 6.7,
-        "td": 4,
-        "int": 0,
-        "rushYds": 49,
-        "rushTd": 1
       }
     },
     {
@@ -1676,28 +1651,28 @@ window.NFL_DATA = {
       }
     },
     {
-      "id": 4837248,
-      "name": "Fernando Mendoza",
+      "id": 2576980,
+      "name": "Marcus Mariota",
       "pos": "QB",
-      "teamCode": "LV",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4837248.png",
+      "teamCode": "WSH",
+      "age": 33,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2576980.png",
       "colors": {
-        "primary": "#000000",
-        "secondary": "#a5acaf"
+        "primary": "#5a1414",
+        "secondary": "#ffb612"
       },
-      "score": 42,
+      "score": 43,
       "stats": {
         "type": "passing",
-        "cmp": 41,
-        "att": 74,
-        "pct": 55.4,
-        "yds": 458,
-        "ypa": 6.2,
-        "td": 3,
-        "int": 1,
-        "rushYds": 47,
-        "rushTd": 0
+        "cmp": 33,
+        "att": 51,
+        "pct": 64.7,
+        "yds": 340,
+        "ypa": 6.7,
+        "td": 4,
+        "int": 0,
+        "rushYds": 49,
+        "rushTd": 1
       }
     },
     {
@@ -1722,6 +1697,31 @@ window.NFL_DATA = {
         "td": 2,
         "int": 2,
         "rushYds": 26,
+        "rushTd": 0
+      }
+    },
+    {
+      "id": 4837248,
+      "name": "Fernando Mendoza",
+      "pos": "QB",
+      "teamCode": "LV",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4837248.png",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#a5acaf"
+      },
+      "score": 41,
+      "stats": {
+        "type": "passing",
+        "cmp": 41,
+        "att": 74,
+        "pct": 55.4,
+        "yds": 458,
+        "ypa": 6.2,
+        "td": 3,
+        "int": 1,
+        "rushYds": 47,
         "rushTd": 0
       }
     },
@@ -2001,9 +2001,9 @@ window.NFL_DATA = {
           "secondary": "#869397"
         },
         "age": 33,
-        "careerScore": 81.4,
+        "careerScore": 78.1,
         "threshold": 90.0,
-        "gap": 8.6,
+        "gap": 11.9,
         "rings": 0,
         "note": "1–2 temporadas elite + un Super Bowl",
         "prevRank": 1
@@ -2035,9 +2035,9 @@ window.NFL_DATA = {
           "secondary": "#ffd100"
         },
         "age": 38,
-        "careerScore": 75.0,
+        "careerScore": 72.4,
         "threshold": 90.0,
-        "gap": 15.0,
+        "gap": 17.6,
         "rings": 1,
         "note": "2–3 años de pico + varios anillos",
         "prevRank": 3
@@ -2052,9 +2052,9 @@ window.NFL_DATA = {
           "secondary": "#b0b7bc"
         },
         "age": 32,
-        "careerScore": 74.8,
+        "careerScore": 71.4,
         "threshold": 90.0,
-        "gap": 15.2,
+        "gap": 18.6,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
         "prevRank": 4
@@ -2069,9 +2069,9 @@ window.NFL_DATA = {
           "secondary": "#a5acaf"
         },
         "age": 38,
-        "careerScore": 74.6,
+        "careerScore": 71.2,
         "threshold": 90.0,
-        "gap": 15.4,
+        "gap": 18.8,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
         "prevRank": 5
@@ -2086,11 +2086,11 @@ window.NFL_DATA = {
           "secondary": "#000000"
         },
         "age": 36,
-        "careerScore": 70.5,
+        "careerScore": 67.9,
         "threshold": 90.0,
-        "gap": 19.5,
+        "gap": 22.1,
         "rings": 0,
-        "note": "2–3 años de pico + varios anillos",
+        "note": "Largo camino: años elite y títulos por delante",
         "prevRank": 6
       },
       {
@@ -2103,11 +2103,11 @@ window.NFL_DATA = {
           "secondary": "#b3995d"
         },
         "age": 26,
-        "careerScore": 68.8,
+        "careerScore": 65.4,
         "threshold": 90.0,
-        "gap": 21.2,
+        "gap": 24.6,
         "rings": 0,
-        "note": "2–3 años de pico + varios anillos",
+        "note": "Largo camino: años elite y títulos por delante",
         "prevRank": 7
       },
       {
@@ -2120,9 +2120,9 @@ window.NFL_DATA = {
           "secondary": "#ffb612"
         },
         "age": 28,
-        "careerScore": 67.9,
+        "careerScore": 64.5,
         "threshold": 90.0,
-        "gap": 22.1,
+        "gap": 25.5,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
         "prevRank": 8
@@ -2137,9 +2137,9 @@ window.NFL_DATA = {
           "secondary": "#a71930"
         },
         "age": 25,
-        "careerScore": 66.9,
+        "careerScore": 63.5,
         "threshold": 90.0,
-        "gap": 23.1,
+        "gap": 26.5,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
         "prevRank": 9
@@ -2154,9 +2154,9 @@ window.NFL_DATA = {
           "secondary": "#9f792c"
         },
         "age": 27,
-        "careerScore": 66.6,
+        "careerScore": 63.3,
         "threshold": 90.0,
-        "gap": 23.4,
+        "gap": 26.7,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
         "prevRank": 10
@@ -2173,10 +2173,10 @@ window.NFL_DATA = {
           "secondary": "#a71930"
         },
         "age": 25,
-        "currentScore": 92,
-        "projectedScore": 81.1,
+        "currentScore": 87,
+        "projectedScore": 77.8,
         "threshold": 90.0,
-        "gap": 8.9,
+        "gap": 12.2,
         "note": "De los mejores de su generación",
         "prevRank": 1
       },
@@ -2190,10 +2190,10 @@ window.NFL_DATA = {
           "secondary": "#101820"
         },
         "age": 25,
-        "currentScore": 83,
-        "projectedScore": 75.1,
+        "currentScore": 79,
+        "projectedScore": 72.4,
         "threshold": 90.0,
-        "gap": 14.9,
+        "gap": 17.6,
         "note": "De los mejores de su generación",
         "prevRank": 2
       },
@@ -2207,10 +2207,10 @@ window.NFL_DATA = {
           "secondary": "#c60c30"
         },
         "age": 24,
-        "currentScore": 75,
-        "projectedScore": 72.8,
+        "currentScore": 71,
+        "projectedScore": 70.1,
         "threshold": 90.0,
-        "gap": 17.2,
+        "gap": 19.9,
         "note": "Joven con pedigrí — salto a elite pendiente",
         "prevRank": 3
       },
@@ -2224,10 +2224,10 @@ window.NFL_DATA = {
           "secondary": "#4b92db"
         },
         "age": 24,
-        "currentScore": 65,
-        "projectedScore": 66.2,
+        "currentScore": 62,
+        "projectedScore": 64.2,
         "threshold": 90.0,
-        "gap": 23.8,
+        "gap": 25.8,
         "note": "Joven con pedigrí — salto a elite pendiente",
         "prevRank": 4
       },
@@ -2258,10 +2258,10 @@ window.NFL_DATA = {
           "secondary": "#c83803"
         },
         "age": 25,
-        "currentScore": 62,
-        "projectedScore": 61.2,
+        "currentScore": 60,
+        "projectedScore": 59.8,
         "threshold": 90.0,
-        "gap": 28.8,
+        "gap": 30.2,
         "note": "Joven con pedigrí — salto a elite pendiente",
         "prevRank": 6
       }
@@ -2280,7 +2280,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-24 05:21 UTC",
+  "LAST_UPDATE": "2026-11-24 15:53 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
