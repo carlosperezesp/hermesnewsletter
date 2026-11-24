@@ -155,7 +155,7 @@ window.NFL_DATA = {
       "pf": 287,
       "pa": 167,
       "pd": 120,
-      "seed": 4,
+      "seed": 3,
       "score": 66,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
       "colors": {
@@ -170,16 +170,16 @@ window.NFL_DATA = {
       "commonName": "Bengals",
       "conf": "AFC",
       "div": "AFC North",
-      "gp": 9,
+      "gp": 10,
       "w": 7,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "winPct": 0.778,
-      "pf": 278,
-      "pa": 193,
-      "pd": 85,
-      "seed": 3,
-      "score": 70,
+      "winPct": 0.7,
+      "pf": 298,
+      "pa": 215,
+      "pd": 83,
+      "seed": 4,
+      "score": 63,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
       "colors": {
         "primary": "#fb4f14",
@@ -440,6 +440,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "WSH",
+      "city": "Washington Commanders",
+      "shortName": "Washington",
+      "commonName": "Commanders",
+      "conf": "NFC",
+      "div": "NFC East",
+      "gp": 10,
+      "w": 4,
+      "l": 5,
+      "t": 1,
+      "winPct": 0.45,
+      "pf": 218,
+      "pa": 243,
+      "pd": -25,
+      "seed": 11,
+      "score": 34,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+      "colors": {
+        "primary": "#5a1414",
+        "secondary": "#ffb612"
+      }
+    },
+    {
       "code": "LV",
       "city": "Las Vegas Raiders",
       "shortName": "Las Vegas",
@@ -506,29 +529,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#d50a0a",
         "secondary": "#ff7900"
-      }
-    },
-    {
-      "code": "WSH",
-      "city": "Washington Commanders",
-      "shortName": "Washington",
-      "commonName": "Commanders",
-      "conf": "NFC",
-      "div": "NFC East",
-      "gp": 9,
-      "w": 3,
-      "l": 5,
-      "t": 1,
-      "winPct": 0.389,
-      "pf": 196,
-      "pa": 223,
-      "pd": -27,
-      "seed": 11,
-      "score": 29,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
-      "colors": {
-        "primary": "#5a1414",
-        "secondary": "#ffb612"
       }
     },
     {
@@ -2280,7 +2280,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-24 01:10 UTC",
+  "LAST_UPDATE": "2026-11-24 04:47 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

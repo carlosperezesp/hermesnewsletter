@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-24 01:11 UTC",
+  "UPDATED": "2026-11-24 04:49 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -421,8 +421,8 @@ window.GLORY_DATA = {
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
-      "Lane Hutson",
       "Macklin Celebrini",
+      "Lane Hutson",
       "Logan Mailloux",
       "Beckett Sennecke",
       "Jackson LaCombe",
@@ -448,8 +448,8 @@ window.GLORY_DATA = {
       "Boston Celtics",
       "San Antonio Spurs",
       "Denver Nuggets",
-      "Oklahoma City Thunder",
       "Minnesota Timberwolves",
+      "Oklahoma City Thunder",
       "Golden State Warriors",
       "New York Knicks",
       "Milwaukee Bucks",
