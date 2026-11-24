@@ -846,7 +846,7 @@ window.NHL_DATA = {
         92
       ],
       "legendScore": 59.8,
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": 8477934,
@@ -881,7 +881,7 @@ window.NHL_DATA = {
         91
       ],
       "legendScore": 66.9,
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 8485366,
@@ -1053,7 +1053,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 11
+      "prevRank": 10
     },
     {
       "id": 8482733,
@@ -16626,7 +16626,7 @@ window.NHL_DATA = {
         "p": 10,
         "pm": 0,
         "toi": 14.0,
-        "shots": 48
+        "shots": 47
       },
       "trajectory": [
         39,
@@ -17719,7 +17719,7 @@ window.NHL_DATA = {
         "p": 5,
         "pm": -4,
         "toi": 17.3,
-        "shots": 26
+        "shots": 25
       },
       "trajectory": [
         38,
@@ -23544,9 +23544,9 @@ window.NHL_DATA = {
       "name": "Brett Berard",
       "pos": "LW",
       "teamCode": "MTL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 24,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -27535,9 +27535,9 @@ window.NHL_DATA = {
       "name": "David Reinbacher",
       "pos": "D",
       "teamCode": "MTL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "Austria",
+      "birthCountry": "AUT",
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -39587,7 +39587,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 7,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 8477404,
@@ -39606,7 +39606,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 12,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 8474600,
@@ -40037,10 +40037,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-24 15:53 UTC",
+  "LAST_UPDATE": "2026-11-24 17:57 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-24T15:53:00Z"
+    "standingsDateTimeUtc": "2026-11-24T17:57:00Z"
   }
 };

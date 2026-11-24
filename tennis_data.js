@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-24 15:56 UTC
+// Auto-generated 2026-11-24 17:59 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-24 15:56 UTC",
+  "UPDATED": "2026-11-24 17:59 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8392,9 +8392,9 @@ window.TENNIS_DATA = {
       "prevListRank": 121,
       "tournamentStatus": {
         "tournament": "IEB+ Argentina Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 42.9
     },
@@ -8887,7 +8887,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 46.7
@@ -10111,28 +10111,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Lucia Bronzetti",
+          "w": "Alicia Herrero Linana",
           "w_logo": "",
-          "l": "Alicia Herrero Linana",
+          "l": "Lucia Bronzetti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.9,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.9,
           "match_score": 42.9
         },
         {
           "round": "R128",
-          "w": "Luna Maria Cinalli",
+          "w": "Guiomar Maristany Zuleta De Reales",
           "w_logo": "",
-          "l": "Guiomar Maristany Zuleta De Reales",
+          "l": "Luna Maria Cinalli",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 36.7,
+          "w_score": 36.7,
+          "l_score": null,
           "match_score": 36.7
         },
         {
@@ -10214,8 +10214,6 @@ window.TENNIS_DATA = {
       "Laura Samson",
       "Leyre Romero Gormaz",
       "Lourdes Ayala",
-      "Lucia Bronzetti",
-      "Luna Maria Cinalli",
       "Maria Lourdes Carle",
       "Martina Trevisan",
       "Nadia Podoroska",
@@ -10236,11 +10234,13 @@ window.TENNIS_DATA = {
       "Berta Bonardi",
       "Despina Papamichail",
       "Josefina Estevez",
+      "Lucia Bronzetti",
+      "Luna Maria Cinalli",
       "Victoria Bosio",
       "Zhibek Kulambayeva"
     ],
-    "aliveCount": 23,
-    "matchesSeen": 18
+    "aliveCount": 21,
+    "matchesSeen": 20
   },
   "ATP_SCORE_LOG": {
     "206173": [

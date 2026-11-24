@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-24 15:56 UTC",
+  "UPDATED": "2026-11-24 17:59 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -88,6 +88,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-15"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.players:in:Kevin Durant",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-road-to-glory",
+      "text": "Kevin Durant entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Deni Avdija",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Deni Avdija entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-24"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Roman Josi",
       "sport": "nhl",
       "detail": "NHL",
@@ -102,15 +120,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "John Carlson entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-23"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Jamal Murray",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Jamal Murray entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-11-23"
     },
@@ -219,15 +228,6 @@ window.GLORY_DATA = {
       "detail": "NBA",
       "anchor": "nba-road-to-glory",
       "text": "Anthony Davis entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Caleb Wilson",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Caleb Wilson entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-12"
     },
@@ -435,13 +435,13 @@ window.GLORY_DATA = {
       "LeBron James",
       "Giannis Antetokounmpo",
       "Nikola Jokic",
+      "Kevin Durant",
       "Luka Doncic",
       "Shai Gilgeous-Alexander",
       "Jayson Tatum",
       "Anthony Davis",
       "Jaylen Brown",
-      "Karl-Anthony Towns",
-      "Jamal Murray"
+      "Karl-Anthony Towns"
     ],
     "nba:ROAD_TO_GLORY.teams": [
       "Los Angeles Lakers",
@@ -461,11 +461,11 @@ window.GLORY_DATA = {
       "Darius Acuff Jr.",
       "Cameron Boozer",
       "Franz Wagner",
-      "Caleb Wilson",
-      "Dylan Harper",
       "Cade Cunningham",
+      "Scottie Barnes",
+      "Dylan Harper",
       "Alperen Sengun",
-      "Scottie Barnes"
+      "Deni Avdija"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",
