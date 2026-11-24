@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-24 17:59 UTC
+// Auto-generated 2026-11-24 22:47 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-24 17:59 UTC",
+  "UPDATED": "2026-11-24 22:47 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5753,7 +5753,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 63.8
@@ -6877,7 +6877,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.4
@@ -9028,9 +9028,9 @@ window.TENNIS_DATA = {
       "prevListRank": 139,
       "tournamentStatus": {
         "tournament": "IEB+ Argentina Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 36.2
     },
@@ -10102,9 +10102,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Victoria Jimenez Kasintseva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "1-6 7-6 (7-1) 2-0 ret",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 55.4,
           "l_score": null,
           "match_score": 55.4
@@ -10137,15 +10137,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Leyre Romero Gormaz",
+          "w": "Nadia Podoroska",
           "w_logo": "",
-          "l": "Nadia Podoroska",
+          "l": "Leyre Romero Gormaz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 6-0",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 36.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 36.2,
           "match_score": 36.2
         },
         {
@@ -10154,9 +10154,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lourdes Ayala",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10167,9 +10167,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polona Hercog",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 4-2 ret",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10212,19 +10212,15 @@ window.TENNIS_DATA = {
       "Irene Burillo",
       "Julia Riera",
       "Laura Samson",
-      "Leyre Romero Gormaz",
-      "Lourdes Ayala",
       "Maria Lourdes Carle",
       "Martina Trevisan",
       "Nadia Podoroska",
       "Nuria Brancaccio",
-      "Polona Hercog",
       "Sofia Costoulas",
       "Sol Ailin Larraya Guidi",
       "Solana Sierra",
       "Varvara Lepchenko",
-      "Veronika Erjavec",
-      "Victoria Jimenez Kasintseva"
+      "Veronika Erjavec"
     ],
     "out": [
       "Abigail Rencheli",
@@ -10234,13 +10230,17 @@ window.TENNIS_DATA = {
       "Berta Bonardi",
       "Despina Papamichail",
       "Josefina Estevez",
+      "Leyre Romero Gormaz",
+      "Lourdes Ayala",
       "Lucia Bronzetti",
       "Luna Maria Cinalli",
+      "Polona Hercog",
       "Victoria Bosio",
+      "Victoria Jimenez Kasintseva",
       "Zhibek Kulambayeva"
     ],
-    "aliveCount": 21,
-    "matchesSeen": 20
+    "aliveCount": 17,
+    "matchesSeen": 23
   },
   "ATP_SCORE_LOG": {
     "206173": [

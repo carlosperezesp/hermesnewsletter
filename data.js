@@ -836,7 +836,7 @@ window.NHL_DATA = {
         "p": 49,
         "pm": 28,
         "toi": 21.4,
-        "shots": 76
+        "shots": 77
       },
       "trajectory": [
         46,
@@ -17440,9 +17440,9 @@ window.NHL_DATA = {
       "name": "Noah Warren",
       "pos": "D",
       "teamCode": "ANA",
-      "age": 22,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -17464,8 +17464,7 @@ window.NHL_DATA = {
         43,
         45,
         50
-      ],
-      "legendScore": 46.4
+      ]
     },
     {
       "id": 8480459,
@@ -17770,9 +17769,9 @@ window.NHL_DATA = {
       "name": "Adam Jiricek",
       "pos": "D",
       "teamCode": "STL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 20,
+      "country": "Czechia",
+      "birthCountry": "CZE",
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -21993,9 +21992,9 @@ window.NHL_DATA = {
       "name": "Otto Stenberg",
       "pos": "C",
       "teamCode": "STL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 21,
+      "country": "Sweden",
+      "birthCountry": "SWE",
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -40037,10 +40036,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-24 17:57 UTC",
+  "LAST_UPDATE": "2026-11-24 22:44 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-24T17:57:00Z"
+    "standingsDateTimeUtc": "2026-11-24T22:44:30Z"
   }
 };
