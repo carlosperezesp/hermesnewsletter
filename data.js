@@ -1801,7 +1801,7 @@ window.NHL_DATA = {
       "name": "Jacob Fowler",
       "pos": "G",
       "teamCode": "MTL",
-      "age": 21,
+      "age": 22,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -1993,7 +1993,7 @@ window.NHL_DATA = {
         50,
         75
       ],
-      "legendScore": 58.7
+      "legendScore": 58.6
     },
     {
       "id": 8481611,
@@ -2117,7 +2117,7 @@ window.NHL_DATA = {
         "p": 1,
         "pm": -3,
         "toi": 10.9,
-        "shots": 15
+        "shots": 16
       },
       "trajectory": [
         37,
@@ -2495,7 +2495,7 @@ window.NHL_DATA = {
         47,
         73
       ],
-      "legendScore": 40.9
+      "legendScore": 40.8
     },
     {
       "id": 8478550,
@@ -3427,7 +3427,7 @@ window.NHL_DATA = {
       "name": "Jeremy Swayman",
       "pos": "G",
       "teamCode": "BOS",
-      "age": 27,
+      "age": 28,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -28131,9 +28131,9 @@ window.NHL_DATA = {
       "name": "Cole Reinhardt",
       "pos": "LW",
       "teamCode": "FLA",
-      "age": 26,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -28725,9 +28725,9 @@ window.NHL_DATA = {
       "name": "Bo Groulx",
       "pos": "C",
       "teamCode": "TOR",
-      "age": 26,
-      "country": "France",
-      "birthCountry": "FRA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -30001,7 +30001,7 @@ window.NHL_DATA = {
           "a": 93,
           "p": 141,
           "pm": -8,
-          "score": 73
+          "score": 72
         },
         {
           "season": "1986-87",
@@ -30820,7 +30820,7 @@ window.NHL_DATA = {
           "a": 47,
           "p": 112,
           "pm": 28,
-          "score": 71
+          "score": 70
         },
         {
           "season": "2008-09",
@@ -31094,7 +31094,7 @@ window.NHL_DATA = {
         "a": 47,
         "p": 112,
         "pm": 28,
-        "score": 71
+        "score": 70
       }
     },
     {
@@ -32566,7 +32566,7 @@ window.NHL_DATA = {
           "a": 0,
           "p": 0,
           "pm": 0,
-          "score": 49
+          "score": 48
         },
         {
           "season": "1995-96",
@@ -33064,220 +33064,6 @@ window.NHL_DATA = {
       }
     },
     {
-      "id": 8477956,
-      "name": "David Pastrnak",
-      "pos": "RW",
-      "active": true,
-      "teamCode": "BOS",
-      "country": "Czechia",
-      "birthCountry": "CZE",
-      "birthDate": "1996-05-25",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8477956.png",
-      "currentScore": 77,
-      "legendScore": null,
-      "colors": {
-        "primary": "#ffb81c",
-        "secondary": "#111111"
-      },
-      "seasons": [
-        {
-          "season": "2014-15",
-          "seasonId": 20142015,
-          "age": 18,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 46,
-          "g": 10,
-          "a": 17,
-          "p": 27,
-          "pm": 12,
-          "score": 49
-        },
-        {
-          "season": "2015-16",
-          "seasonId": 20152016,
-          "age": 19,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 51,
-          "g": 15,
-          "a": 11,
-          "p": 26,
-          "pm": 3,
-          "score": 47
-        },
-        {
-          "season": "2016-17",
-          "seasonId": 20162017,
-          "age": 20,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 75,
-          "g": 34,
-          "a": 36,
-          "p": 70,
-          "pm": 11,
-          "score": 58
-        },
-        {
-          "season": "2017-18",
-          "seasonId": 20172018,
-          "age": 21,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 82,
-          "g": 35,
-          "a": 45,
-          "p": 80,
-          "pm": 10,
-          "score": 59
-        },
-        {
-          "season": "2018-19",
-          "seasonId": 20182019,
-          "age": 22,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 66,
-          "g": 38,
-          "a": 43,
-          "p": 81,
-          "pm": 6,
-          "score": 65
-        },
-        {
-          "season": "2019-20",
-          "seasonId": 20192020,
-          "age": 23,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 70,
-          "g": 48,
-          "a": 47,
-          "p": 95,
-          "pm": 21,
-          "score": 69
-        },
-        {
-          "season": "2020-21",
-          "seasonId": 20202021,
-          "age": 24,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 48,
-          "g": 20,
-          "a": 28,
-          "p": 48,
-          "pm": 10,
-          "score": 60
-        },
-        {
-          "season": "2021-22",
-          "seasonId": 20212022,
-          "age": 25,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 72,
-          "g": 40,
-          "a": 37,
-          "p": 77,
-          "pm": 13,
-          "score": 62
-        },
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 26,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 82,
-          "g": 61,
-          "a": 52,
-          "p": 113,
-          "pm": 34,
-          "score": 70
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 27,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 82,
-          "g": 47,
-          "a": 63,
-          "p": 110,
-          "pm": 21,
-          "score": 68
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 28,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 82,
-          "g": 43,
-          "a": 63,
-          "p": 106,
-          "pm": 0,
-          "score": 66
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 29,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 77,
-          "g": 29,
-          "a": 71,
-          "p": 100,
-          "pm": 4,
-          "score": 66
-        },
-        {
-          "season": "2026-27",
-          "seasonId": 20262027,
-          "age": 30,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 23,
-          "g": 11,
-          "a": 20,
-          "p": 31,
-          "pm": 6,
-          "score": 68
-        }
-      ],
-      "bestSeason": {
-        "season": "2022-23",
-        "seasonId": 20222023,
-        "age": 26,
-        "team": "Bruins",
-        "teamName": "Boston Bruins",
-        "gp": 82,
-        "g": 61,
-        "a": 52,
-        "p": 113,
-        "pm": 34,
-        "score": 70
-      },
-      "age22Season": {
-        "season": "2018-19",
-        "seasonId": 20182019,
-        "age": 22,
-        "team": "Bruins",
-        "teamName": "Boston Bruins",
-        "gp": 66,
-        "g": 38,
-        "a": 43,
-        "p": 81,
-        "pm": 6,
-        "score": 65
-      }
-    },
-    {
       "id": 8479318,
       "name": "Auston Matthews",
       "pos": "C",
@@ -33462,6 +33248,220 @@ window.NHL_DATA = {
         "a": 33,
         "p": 80,
         "pm": 19,
+        "score": 64
+      }
+    },
+    {
+      "id": 8477956,
+      "name": "David Pastrnak",
+      "pos": "RW",
+      "active": true,
+      "teamCode": "BOS",
+      "country": "Czechia",
+      "birthCountry": "CZE",
+      "birthDate": "1996-05-25",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8477956.png",
+      "currentScore": 77,
+      "legendScore": null,
+      "colors": {
+        "primary": "#ffb81c",
+        "secondary": "#111111"
+      },
+      "seasons": [
+        {
+          "season": "2014-15",
+          "seasonId": 20142015,
+          "age": 18,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 46,
+          "g": 10,
+          "a": 17,
+          "p": 27,
+          "pm": 12,
+          "score": 49
+        },
+        {
+          "season": "2015-16",
+          "seasonId": 20152016,
+          "age": 19,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 51,
+          "g": 15,
+          "a": 11,
+          "p": 26,
+          "pm": 3,
+          "score": 47
+        },
+        {
+          "season": "2016-17",
+          "seasonId": 20162017,
+          "age": 20,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 75,
+          "g": 34,
+          "a": 36,
+          "p": 70,
+          "pm": 11,
+          "score": 58
+        },
+        {
+          "season": "2017-18",
+          "seasonId": 20172018,
+          "age": 21,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 82,
+          "g": 35,
+          "a": 45,
+          "p": 80,
+          "pm": 10,
+          "score": 59
+        },
+        {
+          "season": "2018-19",
+          "seasonId": 20182019,
+          "age": 22,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 66,
+          "g": 38,
+          "a": 43,
+          "p": 81,
+          "pm": 6,
+          "score": 64
+        },
+        {
+          "season": "2019-20",
+          "seasonId": 20192020,
+          "age": 23,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 70,
+          "g": 48,
+          "a": 47,
+          "p": 95,
+          "pm": 21,
+          "score": 69
+        },
+        {
+          "season": "2020-21",
+          "seasonId": 20202021,
+          "age": 24,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 48,
+          "g": 20,
+          "a": 28,
+          "p": 48,
+          "pm": 10,
+          "score": 60
+        },
+        {
+          "season": "2021-22",
+          "seasonId": 20212022,
+          "age": 25,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 72,
+          "g": 40,
+          "a": 37,
+          "p": 77,
+          "pm": 13,
+          "score": 62
+        },
+        {
+          "season": "2022-23",
+          "seasonId": 20222023,
+          "age": 26,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 82,
+          "g": 61,
+          "a": 52,
+          "p": 113,
+          "pm": 34,
+          "score": 70
+        },
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 27,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 82,
+          "g": 47,
+          "a": 63,
+          "p": 110,
+          "pm": 21,
+          "score": 68
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 28,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 82,
+          "g": 43,
+          "a": 63,
+          "p": 106,
+          "pm": 0,
+          "score": 66
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 29,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 77,
+          "g": 29,
+          "a": 71,
+          "p": 100,
+          "pm": 4,
+          "score": 66
+        },
+        {
+          "season": "2026-27",
+          "seasonId": 20262027,
+          "age": 30,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 23,
+          "g": 11,
+          "a": 20,
+          "p": 31,
+          "pm": 6,
+          "score": 68
+        }
+      ],
+      "bestSeason": {
+        "season": "2022-23",
+        "seasonId": 20222023,
+        "age": 26,
+        "team": "Bruins",
+        "teamName": "Boston Bruins",
+        "gp": 82,
+        "g": 61,
+        "a": 52,
+        "p": 113,
+        "pm": 34,
+        "score": 70
+      },
+      "age22Season": {
+        "season": "2018-19",
+        "seasonId": 20182019,
+        "age": 22,
+        "team": "Bruins",
+        "teamName": "Boston Bruins",
+        "gp": 66,
+        "g": 38,
+        "a": 43,
+        "p": 81,
+        "pm": 6,
         "score": 64
       }
     },
@@ -34294,7 +34294,7 @@ window.NHL_DATA = {
           "a": 40,
           "p": 71,
           "pm": 23,
-          "score": 56
+          "score": 55
         },
         {
           "season": "1970-71",
@@ -34663,7 +34663,7 @@ window.NHL_DATA = {
           "a": 38,
           "p": 41,
           "pm": -24,
-          "score": 51
+          "score": 50
         },
         {
           "season": "2021-22",
@@ -35888,7 +35888,7 @@ window.NHL_DATA = {
           "a": 38,
           "p": 61,
           "pm": -5,
-          "score": 56
+          "score": 55
         },
         {
           "season": "2020-21",
@@ -36076,7 +36076,7 @@ window.NHL_DATA = {
           "a": 18,
           "p": 20,
           "pm": -9,
-          "score": 47
+          "score": 46
         },
         {
           "season": "2016-17",
@@ -37560,116 +37560,6 @@ window.NHL_DATA = {
       }
     },
     {
-      "id": 8482671,
-      "name": "Owen Power",
-      "pos": "D",
-      "active": true,
-      "teamCode": "BUF",
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "birthDate": "2002-11-22",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8482671.png",
-      "currentScore": 73,
-      "legendScore": null,
-      "colors": {
-        "primary": "#003087",
-        "secondary": "#ffb81c"
-      },
-      "seasons": [
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 19,
-          "team": "Sabres",
-          "teamName": "Buffalo Sabres",
-          "gp": 79,
-          "g": 4,
-          "a": 31,
-          "p": 35,
-          "pm": 10,
-          "score": 47
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 20,
-          "team": "Sabres",
-          "teamName": "Buffalo Sabres",
-          "gp": 76,
-          "g": 6,
-          "a": 27,
-          "p": 33,
-          "pm": 8,
-          "score": 46
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 21,
-          "team": "Sabres",
-          "teamName": "Buffalo Sabres",
-          "gp": 79,
-          "g": 7,
-          "a": 33,
-          "p": 40,
-          "pm": -13,
-          "score": 47
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 22,
-          "team": "Sabres",
-          "teamName": "Buffalo Sabres",
-          "gp": 81,
-          "g": 8,
-          "a": 21,
-          "p": 29,
-          "pm": 9,
-          "score": 45
-        },
-        {
-          "season": "2026-27",
-          "seasonId": 20262027,
-          "age": 23,
-          "team": "Sabres",
-          "teamName": "Buffalo Sabres",
-          "gp": 24,
-          "g": 3,
-          "a": 15,
-          "p": 18,
-          "pm": 4,
-          "score": 54
-        }
-      ],
-      "bestSeason": {
-        "season": "2026-27",
-        "seasonId": 20262027,
-        "age": 23,
-        "team": "Sabres",
-        "teamName": "Buffalo Sabres",
-        "gp": 24,
-        "g": 3,
-        "a": 15,
-        "p": 18,
-        "pm": 4,
-        "score": 54
-      },
-      "age22Season": {
-        "season": "2025-26",
-        "seasonId": 20252026,
-        "age": 22,
-        "team": "Sabres",
-        "teamName": "Buffalo Sabres",
-        "gp": 81,
-        "g": 8,
-        "a": 21,
-        "p": 29,
-        "pm": 9,
-        "score": 45
-      }
-    },
-    {
       "id": 8457063,
       "name": "Nicklas Lidstrom",
       "pos": "D",
@@ -37971,6 +37861,116 @@ window.NHL_DATA = {
         "a": 34,
         "p": 41,
         "pm": 7,
+        "score": 44
+      }
+    },
+    {
+      "id": 8482671,
+      "name": "Owen Power",
+      "pos": "D",
+      "active": true,
+      "teamCode": "BUF",
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "birthDate": "2002-11-22",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8482671.png",
+      "currentScore": 73,
+      "legendScore": null,
+      "colors": {
+        "primary": "#003087",
+        "secondary": "#ffb81c"
+      },
+      "seasons": [
+        {
+          "season": "2022-23",
+          "seasonId": 20222023,
+          "age": 19,
+          "team": "Sabres",
+          "teamName": "Buffalo Sabres",
+          "gp": 79,
+          "g": 4,
+          "a": 31,
+          "p": 35,
+          "pm": 10,
+          "score": 47
+        },
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 20,
+          "team": "Sabres",
+          "teamName": "Buffalo Sabres",
+          "gp": 76,
+          "g": 6,
+          "a": 27,
+          "p": 33,
+          "pm": 8,
+          "score": 46
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 21,
+          "team": "Sabres",
+          "teamName": "Buffalo Sabres",
+          "gp": 79,
+          "g": 7,
+          "a": 33,
+          "p": 40,
+          "pm": -13,
+          "score": 47
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 22,
+          "team": "Sabres",
+          "teamName": "Buffalo Sabres",
+          "gp": 81,
+          "g": 8,
+          "a": 21,
+          "p": 29,
+          "pm": 9,
+          "score": 44
+        },
+        {
+          "season": "2026-27",
+          "seasonId": 20262027,
+          "age": 23,
+          "team": "Sabres",
+          "teamName": "Buffalo Sabres",
+          "gp": 24,
+          "g": 3,
+          "a": 15,
+          "p": 18,
+          "pm": 4,
+          "score": 54
+        }
+      ],
+      "bestSeason": {
+        "season": "2026-27",
+        "seasonId": 20262027,
+        "age": 23,
+        "team": "Sabres",
+        "teamName": "Buffalo Sabres",
+        "gp": 24,
+        "g": 3,
+        "a": 15,
+        "p": 18,
+        "pm": 4,
+        "score": 54
+      },
+      "age22Season": {
+        "season": "2025-26",
+        "seasonId": 20252026,
+        "age": 22,
+        "team": "Sabres",
+        "teamName": "Buffalo Sabres",
+        "gp": 81,
+        "g": 8,
+        "a": 21,
+        "p": 29,
+        "pm": 9,
         "score": 44
       }
     },
@@ -39874,10 +39874,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-23 18:29 UTC",
+  "LAST_UPDATE": "2026-11-24 00:20 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-23T18:29:00Z"
+    "standingsDateTimeUtc": "2026-11-24T00:20:30Z"
   }
 };

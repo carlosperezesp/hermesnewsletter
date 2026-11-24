@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-23 18:32 UTC",
+  "UPDATED": "2026-11-24 00:22 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -79,15 +79,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-14"
     },
     {
-      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:C.J. Stroud",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-jovenes-promesas",
-      "text": "C.J. Stroud es nuevo nº1 · jóvenes promesas",
-      "weight": 92,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "tennis:in:ATP:Rafael Jodar:20261112",
       "sport": "tennis",
       "detail": "Tenis",
@@ -95,15 +86,6 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-15"
-    },
-    {
-      "id": "tennis:in:ATP:Taylor Fritz:20261105",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Taylor Fritz entra en el top 10 ATP",
-      "weight": 90,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-11-09"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Roman Josi",
@@ -304,42 +286,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cutter Gauthier",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Cutter Gauthier entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Jaylen Brown",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Jaylen Brown entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Darius Acuff Jr.",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Darius Acuff Jr. entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:in:C.J. Stroud",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "C.J. Stroud entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "tennis:out:ATP:Alex De Minaur:20261112",
       "sport": "tennis",
       "detail": "Tenis",
@@ -347,15 +293,6 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-15"
-    },
-    {
-      "id": "tennis:out:ATP:Rafael Jodar:20261105",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Rafael Jodar sale del top 10 ATP",
-      "weight": 78,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-11-09"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:out:Erik Karlsson",
