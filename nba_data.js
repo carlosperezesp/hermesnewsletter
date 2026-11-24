@@ -9079,7 +9079,7 @@ window.NBA_DATA = {
           "primary": "#0c2340",
           "secondary": "#236192"
         },
-        "prevRank": 6
+        "prevRank": 5
       },
       {
         "teamCode": "OKC",
@@ -9095,7 +9095,7 @@ window.NBA_DATA = {
           "primary": "#007ac1",
           "secondary": "#ef3b24"
         },
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "teamCode": "GS",
@@ -9376,7 +9376,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-24 04:47 UTC",
+  "LAST_UPDATE": "2026-11-24 05:21 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
