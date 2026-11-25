@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-25 17:27 UTC
+// Auto-generated 2026-11-25 22:01 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-25 17:27 UTC",
+  "UPDATED": "2026-11-25 22:01 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8223,7 +8223,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 44.4
@@ -10115,9 +10115,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ipek Oz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-7 6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 44.4,
           "l_score": null,
           "match_score": 44.4
@@ -10128,22 +10128,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sol Ailin Larraya Guidi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "R64",
-          "w": "Ariana Geerlings",
+          "w": "Alicia Herrero Linana",
           "w_logo": "",
-          "l": "Alicia Herrero Linana",
+          "l": "Ariana Geerlings",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10154,9 +10154,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martina Trevisan",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 3-1 ret",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10191,7 +10191,6 @@ window.TENNIS_DATA = {
       "Nadia Podoroska",
       "Nuria Brancaccio",
       "Sofia Costoulas",
-      "Sol Ailin Larraya Guidi",
       "Solana Sierra",
       "Varvara Lepchenko",
       "Veronika Erjavec"
@@ -10209,12 +10208,13 @@ window.TENNIS_DATA = {
       "Lucia Bronzetti",
       "Luna Maria Cinalli",
       "Polona Hercog",
+      "Sol Ailin Larraya Guidi",
       "Victoria Bosio",
       "Victoria Jimenez Kasintseva",
       "Zhibek Kulambayeva"
     ],
-    "aliveCount": 17,
-    "matchesSeen": 23
+    "aliveCount": 16,
+    "matchesSeen": 25
   },
   "ATP_SCORE_LOG": {
     "206173": [
