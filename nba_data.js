@@ -706,7 +706,7 @@ window.NBA_DATA = {
         "min": 33.7
       },
       "legendScore": 64.8,
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": 3112335,
@@ -732,7 +732,7 @@ window.NBA_DATA = {
         "min": 36.8
       },
       "legendScore": 66.7,
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 4065648,
@@ -810,7 +810,7 @@ window.NBA_DATA = {
         "min": 34.0
       },
       "legendScore": 60.9,
-      "prevRank": 11
+      "prevRank": 8
     },
     {
       "id": 4432166,
@@ -862,7 +862,7 @@ window.NBA_DATA = {
         "min": 33.3
       },
       "legendScore": 46.9,
-      "prevRank": 12
+      "prevRank": 10
     },
     {
       "id": 3936299,
@@ -9163,7 +9163,7 @@ window.NBA_DATA = {
           "primary": "#0c2340",
           "secondary": "#236192"
         },
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "teamCode": "DEN",
@@ -9179,7 +9179,7 @@ window.NBA_DATA = {
           "primary": "#0e2240",
           "secondary": "#fec524"
         },
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "teamCode": "OKC",
@@ -9414,7 +9414,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 30.8,
         "note": "Promising young talent — long road ahead",
-        "prevRank": null
+        "prevRank": 9
       },
       {
         "id": 5144091,
@@ -9431,7 +9431,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 30.8,
         "note": "Promising young talent — long road ahead",
-        "prevRank": null
+        "prevRank": 10
       }
     ]
   },
@@ -9476,7 +9476,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-25 15:36 UTC",
+  "LAST_UPDATE": "2026-11-25 17:25 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

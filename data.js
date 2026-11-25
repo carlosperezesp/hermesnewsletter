@@ -28820,9 +28820,9 @@ window.NHL_DATA = {
       "name": "Adam Beckman",
       "pos": "LW",
       "teamCode": "COL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#6f263d",
         "secondary": "#236192"
@@ -29282,9 +29282,9 @@ window.NHL_DATA = {
       "name": "Sam Morton",
       "pos": "C",
       "teamCode": "CGY",
-      "age": 27,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
@@ -39809,10 +39809,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-25 15:36 UTC",
+  "LAST_UPDATE": "2026-11-25 17:25 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-25T15:35:45Z"
+    "standingsDateTimeUtc": "2026-11-25T17:25:30Z"
   }
 };
