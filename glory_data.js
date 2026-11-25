@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-25 04:23 UTC",
+  "UPDATED": "2026-11-25 15:38 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -80,6 +80,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-15"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:AJ Dybantsa",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "AJ Dybantsa entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-25"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Jeremiah Fears",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Jeremiah Fears entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-25"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matt Boldy",
       "sport": "nhl",
       "detail": "NHL",
@@ -94,15 +112,6 @@ window.GLORY_DATA = {
       "detail": "NBA",
       "anchor": "nba-road-to-glory",
       "text": "Kevin Durant entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-24"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Deni Avdija",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Deni Avdija entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-24"
     },
@@ -220,15 +229,6 @@ window.GLORY_DATA = {
       "detail": "NBA",
       "anchor": "nba-road-to-glory",
       "text": "Anthony Davis entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Alperen Sengun",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Alperen Sengun entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-12"
     },
@@ -403,8 +403,8 @@ window.GLORY_DATA = {
       "Los Angeles Lakers",
       "Boston Celtics",
       "San Antonio Spurs",
-      "Denver Nuggets",
       "Minnesota Timberwolves",
+      "Denver Nuggets",
       "Oklahoma City Thunder",
       "Golden State Warriors",
       "New York Knicks",
@@ -420,8 +420,8 @@ window.GLORY_DATA = {
       "Cade Cunningham",
       "Scottie Barnes",
       "Dylan Harper",
-      "Alperen Sengun",
-      "Deni Avdija"
+      "AJ Dybantsa",
+      "Jeremiah Fears"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",

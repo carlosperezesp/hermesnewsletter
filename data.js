@@ -21133,9 +21133,9 @@ window.NHL_DATA = {
       "name": "Calum Ritchie",
       "pos": "C",
       "teamCode": "NYI",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 21,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#00539b",
         "secondary": "#f47d30"
@@ -39652,7 +39652,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 30.7,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "id": 8482733,
@@ -39670,7 +39670,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 31.7,
         "note": "Among the best players of their generation",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 8483445,
@@ -39688,7 +39688,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 31.9,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "id": 8481605,
@@ -39706,7 +39706,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.4,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "id": 8484144,
@@ -39760,7 +39760,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.0,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ]
   },
@@ -39809,10 +39809,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-25 04:20 UTC",
+  "LAST_UPDATE": "2026-11-25 15:36 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-25T04:20:00Z"
+    "standingsDateTimeUtc": "2026-11-25T15:35:45Z"
   }
 };
