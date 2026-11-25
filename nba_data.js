@@ -183,6 +183,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "DET",
+      "city": "Detroit Pistons",
+      "shortName": "Detroit",
+      "commonName": "Pistons",
+      "conf": "E",
+      "gp": 17,
+      "w": 11,
+      "l": 6,
+      "winPct": 0.647,
+      "gf": 1918,
+      "ga": 1823,
+      "gd": 95,
+      "score": 63,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+      "colors": {
+        "primary": "#c8102e",
+        "secondary": "#006bb6"
+      }
+    },
+    {
       "code": "ATL",
       "city": "Atlanta Hawks",
       "shortName": "Atlanta",
@@ -200,26 +220,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#e03a3e",
         "secondary": "#c1d32f"
-      }
-    },
-    {
-      "code": "DET",
-      "city": "Detroit Pistons",
-      "shortName": "Detroit",
-      "commonName": "Pistons",
-      "conf": "E",
-      "gp": 16,
-      "w": 10,
-      "l": 6,
-      "winPct": 0.625,
-      "gf": 1814,
-      "ga": 1737,
-      "gd": 77,
-      "score": 60,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
-      "colors": {
-        "primary": "#c8102e",
-        "secondary": "#006bb6"
       }
     },
     {
@@ -368,14 +368,14 @@ window.NBA_DATA = {
       "shortName": "Orlando",
       "commonName": "Magic",
       "conf": "E",
-      "gp": 16,
+      "gp": 17,
       "w": 7,
-      "l": 9,
-      "winPct": 0.438,
-      "gf": 1740,
-      "ga": 1806,
-      "gd": -66,
-      "score": 28,
+      "l": 10,
+      "winPct": 0.412,
+      "gf": 1826,
+      "ga": 1910,
+      "gd": -84,
+      "score": 25,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
       "colors": {
         "primary": "#0077c0",
@@ -9451,7 +9451,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-24 23:14 UTC",
+  "LAST_UPDATE": "2026-11-25 03:32 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

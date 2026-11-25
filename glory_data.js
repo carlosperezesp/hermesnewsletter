@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-24 23:16 UTC",
+  "UPDATED": "2026-11-25 03:35 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -33,14 +33,6 @@ window.GLORY_DATA = {
       "text": "Ryan Blaney ganó en Homestead-Miami Speedway",
       "weight": 100,
       "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Ryan Blaney ganó en Echopark Speedway",
-      "weight": 100,
-      "firstSeen": "2026-11-10"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.players:new1:LeBron James",
@@ -259,33 +251,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-11"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Cooper Flagg",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Cooper Flagg entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-10"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Cameron Boozer",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Cameron Boozer entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-10"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Cade Cunningham",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Cade Cunningham entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-10"
-    },
-    {
       "id": "tennis:out:ATP:Alex De Minaur:20261112",
       "sport": "tennis",
       "detail": "Tenis",
@@ -329,15 +294,6 @@ window.GLORY_DATA = {
       "text": "Tyrese Maxey cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:Brandon Miller",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Brandon Miller cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-11-10"
     }
   ],
   "REPORTS": [
@@ -748,8 +704,8 @@ window.GLORY_DATA = {
       "M Jansen",
       "JJ Bumrah",
       "JC Archer",
-      "JNT Seales",
       "Mohammed Siraj",
+      "JNT Seales",
       "PJ Cummins",
       "JC Tongue",
       "Taijul Islam",

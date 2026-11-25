@@ -8418,7 +8418,7 @@ window.NHL_DATA = {
       "name": "Philipp Grubauer",
       "pos": "G",
       "teamCode": "SEA",
-      "age": 34,
+      "age": 35,
       "country": "Germany",
       "birthCountry": "DEU",
       "colors": {
@@ -10026,7 +10026,7 @@ window.NHL_DATA = {
       "name": "Pavel Mintyukov",
       "pos": "D",
       "teamCode": "ANA",
-      "age": 22,
+      "age": 23,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -10051,7 +10051,7 @@ window.NHL_DATA = {
         45,
         57
       ],
-      "legendScore": 50.2
+      "legendScore": 48.2
     },
     {
       "id": 8477499,
@@ -25125,7 +25125,7 @@ window.NHL_DATA = {
       "name": "Travis Mitchell",
       "pos": "D",
       "teamCode": "ANA",
-      "age": 26,
+      "age": 27,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -40036,10 +40036,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-24 23:14 UTC",
+  "LAST_UPDATE": "2026-11-25 03:32 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-24T23:14:15Z"
+    "standingsDateTimeUtc": "2026-11-25T03:32:15Z"
   }
 };
