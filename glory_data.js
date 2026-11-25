@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-25 03:35 UTC",
+  "UPDATED": "2026-11-25 04:23 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -78,6 +78,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matt Boldy",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Matt Boldy entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-25"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.players:in:Kevin Durant",
@@ -168,15 +177,6 @@ window.GLORY_DATA = {
       "text": "Scottie Barnes entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-11-18"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-14"
     },
     {
       "id": "rank:nascar:DRIVERS:in:Joey Logano",
@@ -379,13 +379,13 @@ window.GLORY_DATA = {
       "Matthew Schaefer",
       "Macklin Celebrini",
       "Lane Hutson",
-      "Logan Mailloux",
       "Beckett Sennecke",
-      "Jackson LaCombe",
+      "Logan Mailloux",
       "Cutter Gauthier",
+      "Jackson LaCombe",
       "Connor Bedard",
       "Leo Carlsson",
-      "Cole Hutson"
+      "Matt Boldy"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",
