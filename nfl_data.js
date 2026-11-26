@@ -2108,7 +2108,7 @@ window.NFL_DATA = {
         "gap": 24.1,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 4361741,
@@ -2125,7 +2125,7 @@ window.NFL_DATA = {
         "gap": 24.6,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 4432577,
@@ -2280,7 +2280,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-26 15:17 UTC",
+  "LAST_UPDATE": "2026-11-26 17:05 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

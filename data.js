@@ -986,7 +986,7 @@ window.NHL_DATA = {
         82
       ],
       "legendScore": 50.9,
-      "prevRank": 9
+      "prevRank": 8
     },
     {
       "id": 8479979,
@@ -1018,7 +1018,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 19
+      "prevRank": 9
     },
     {
       "id": 8478460,
@@ -1053,7 +1053,7 @@ window.NHL_DATA = {
         82
       ],
       "legendScore": 53.8,
-      "prevRank": 8
+      "prevRank": 10
     },
     {
       "id": 8481605,
@@ -29583,9 +29583,9 @@ window.NHL_DATA = {
       "name": "Ben McCartney",
       "pos": "LW",
       "teamCode": "UTA",
-      "age": 25,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#69b3e7",
         "secondary": "#010101"
@@ -39383,7 +39383,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 12,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 8478864,
@@ -39402,7 +39402,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 7,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 8476460,
@@ -39440,7 +39440,7 @@ window.NHL_DATA = {
         "cups": 1,
         "seasons": 8,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -39658,7 +39658,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 30.7,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 4
+        "prevRank": 3
       },
       {
         "id": 8483457,
@@ -39676,7 +39676,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 30.8,
         "note": "Among the best players of their generation",
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "id": 8482733,
@@ -39833,10 +39833,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-26 15:17 UTC",
+  "LAST_UPDATE": "2026-11-26 17:05 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-26T15:16:30Z"
+    "standingsDateTimeUtc": "2026-11-26T17:05:15Z"
   }
 };
