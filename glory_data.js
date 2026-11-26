@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-26 02:53 UTC",
+  "UPDATED": "2026-11-26 03:41 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -80,6 +80,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-15"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mark Scheifele",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Mark Scheifele entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Hutson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Cole Hutson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-26"
+    },
+    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:MJ Henry",
       "sport": "cricket",
       "detail": "Cricket",
@@ -107,15 +125,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-25"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matt Boldy",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Matt Boldy entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-25"
-    },
-    {
       "id": "rank:nba:ROAD_TO_GLORY.players:in:Kevin Durant",
       "sport": "nba",
       "detail": "NBA",
@@ -130,15 +139,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "Roman Josi entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-23"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:John Carlson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "John Carlson entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-11-23"
     },
@@ -351,8 +351,8 @@ window.GLORY_DATA = {
       "Auston Matthews",
       "Kirill Kaprizov",
       "Jake Guentzel",
-      "Roman Josi",
-      "John Carlson"
+      "Mark Scheifele",
+      "Roman Josi"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -362,8 +362,8 @@ window.GLORY_DATA = {
       "Carolina Hurricanes",
       "Minnesota Wild",
       "Edmonton Oilers",
-      "Dallas Stars",
       "Boston Bruins",
+      "Dallas Stars",
       "New York Rangers"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
@@ -375,8 +375,8 @@ window.GLORY_DATA = {
       "Cutter Gauthier",
       "Jackson LaCombe",
       "Connor Bedard",
-      "Leo Carlsson",
-      "Matt Boldy"
+      "Cole Hutson",
+      "Leo Carlsson"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",
@@ -397,8 +397,8 @@ window.GLORY_DATA = {
       "Minnesota Timberwolves",
       "Denver Nuggets",
       "Oklahoma City Thunder",
-      "Golden State Warriors",
       "New York Knicks",
+      "Golden State Warriors",
       "Milwaukee Bucks",
       "Indiana Pacers"
     ],
