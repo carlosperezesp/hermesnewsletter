@@ -49,6 +49,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "CHI",
+      "city": "Chicago Bears",
+      "shortName": "Chicago",
+      "commonName": "Bears",
+      "conf": "NFC",
+      "div": "NFC North",
+      "gp": 11,
+      "w": 9,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.818,
+      "pf": 301,
+      "pa": 232,
+      "pd": 69,
+      "seed": 2,
+      "score": 70,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+      "colors": {
+        "primary": "#0b162a",
+        "secondary": "#c83803"
+      }
+    },
+    {
       "code": "KC",
       "city": "Kansas City Chiefs",
       "shortName": "Kansas City",
@@ -78,43 +101,20 @@ window.NFL_DATA = {
       "commonName": "Lions",
       "conf": "NFC",
       "div": "NFC North",
-      "gp": 10,
+      "gp": 11,
       "w": 8,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "winPct": 0.8,
-      "pf": 288,
-      "pa": 220,
-      "pd": 68,
-      "seed": 2,
-      "score": 69,
+      "winPct": 0.727,
+      "pf": 323,
+      "pa": 259,
+      "pd": 64,
+      "seed": 5,
+      "score": 63,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
       "colors": {
         "primary": "#0076b6",
         "secondary": "#b0b7bc"
-      }
-    },
-    {
-      "code": "CHI",
-      "city": "Chicago Bears",
-      "shortName": "Chicago",
-      "commonName": "Bears",
-      "conf": "NFC",
-      "div": "NFC North",
-      "gp": 10,
-      "w": 8,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.8,
-      "pf": 262,
-      "pa": 197,
-      "pd": 65,
-      "seed": 5,
-      "score": 69,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-      "colors": {
-        "primary": "#0b162a",
-        "secondary": "#c83803"
       }
     },
     {
@@ -2280,7 +2280,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-26 17:05 UTC",
+  "LAST_UPDATE": "2026-11-26 21:54 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

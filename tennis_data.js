@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-26 17:07 UTC
+// Auto-generated 2026-11-26 21:57 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-26 17:07 UTC",
+  "UPDATED": "2026-11-26 21:57 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5753,7 +5753,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 63.8
@@ -10063,9 +10063,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Irene Burillo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.8,
           "l_score": null,
           "match_score": 63.8
@@ -10076,9 +10076,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nuria Brancaccio",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "1-6 6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 36.7,
           "l_score": null,
           "match_score": 36.7
@@ -10089,9 +10089,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maria Lourdes Carle",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10102,9 +10102,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sofia Costoulas",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-7 (0-7) 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10162,7 +10162,7 @@ window.TENNIS_DATA = {
       "Zhibek Kulambayeva"
     ],
     "aliveCount": 16,
-    "matchesSeen": 26
+    "matchesSeen": 27
   },
   "ATP_SCORE_LOG": {
     "206173": [

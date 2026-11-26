@@ -16342,9 +16342,9 @@ window.NHL_DATA = {
       "name": "Luca Cagnoni",
       "pos": "D",
       "teamCode": "SJS",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 21,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#006d75",
         "secondary": "#ea7200"
@@ -16366,7 +16366,8 @@ window.NHL_DATA = {
         42,
         44,
         51
-      ]
+      ],
+      "legendScore": 47.5
     },
     {
       "id": 8484241,
@@ -27702,9 +27703,9 @@ window.NHL_DATA = {
       "name": "Brett Leason",
       "pos": "RW",
       "teamCode": "SJS",
-      "age": 27,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#006d75",
         "secondary": "#ea7200"
@@ -29781,9 +29782,9 @@ window.NHL_DATA = {
       "name": "Taylor Makar",
       "pos": "LW",
       "teamCode": "COL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#6f263d",
         "secondary": "#236192"
@@ -39833,10 +39834,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-26 17:05 UTC",
+  "LAST_UPDATE": "2026-11-26 21:54 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-26T17:05:15Z"
+    "standingsDateTimeUtc": "2026-11-26T21:54:15Z"
   }
 };
