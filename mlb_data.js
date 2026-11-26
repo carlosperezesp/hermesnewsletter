@@ -1441,7 +1441,7 @@ window.MLB_DATA = {
       "last": "Burleson",
       "pos": "1B",
       "teamCode": "STL",
-      "age": 27,
+      "age": 28,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png",
       "colors": {
         "primary": "#c41e3a",
@@ -1457,7 +1457,7 @@ window.MLB_DATA = {
         "sb": 4,
         "ops": 0.816
       },
-      "legendScore": 44.9,
+      "legendScore": 45.7,
       "currentScore": 73,
       "battingScore": 73,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-26 03:39 UTC",
+  "LAST_UPDATE": "2026-11-26 15:17 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

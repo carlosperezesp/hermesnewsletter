@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-26 03:41 UTC",
+  "UPDATED": "2026-11-26 15:19 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -80,6 +80,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-15"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Cale Makar entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Deni Avdija",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Deni Avdija entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-11-26"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mark Scheifele",
       "sport": "nhl",
       "detail": "NHL",
@@ -116,15 +134,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-25"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Jeremiah Fears",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Jeremiah Fears entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-25"
-    },
-    {
       "id": "rank:nba:ROAD_TO_GLORY.players:in:Kevin Durant",
       "sport": "nba",
       "detail": "NBA",
@@ -132,15 +141,6 @@ window.GLORY_DATA = {
       "text": "Kevin Durant entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-11-24"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Roman Josi",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Roman Josi entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-23"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Logan Mailloux",
@@ -349,10 +349,10 @@ window.GLORY_DATA = {
       "Leon Draisaitl",
       "David Pastrnak",
       "Auston Matthews",
-      "Kirill Kaprizov",
       "Jake Guentzel",
+      "Kirill Kaprizov",
       "Mark Scheifele",
-      "Roman Josi"
+      "Cale Makar"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -369,8 +369,8 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
       "Macklin Celebrini",
-      "Lane Hutson",
       "Beckett Sennecke",
+      "Lane Hutson",
       "Logan Mailloux",
       "Cutter Gauthier",
       "Jackson LaCombe",
@@ -397,8 +397,8 @@ window.GLORY_DATA = {
       "Minnesota Timberwolves",
       "Denver Nuggets",
       "Oklahoma City Thunder",
-      "New York Knicks",
       "Golden State Warriors",
+      "New York Knicks",
       "Milwaukee Bucks",
       "Indiana Pacers"
     ],
@@ -411,8 +411,8 @@ window.GLORY_DATA = {
       "Cade Cunningham",
       "Scottie Barnes",
       "Dylan Harper",
-      "AJ Dybantsa",
-      "Jeremiah Fears"
+      "Deni Avdija",
+      "AJ Dybantsa"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",
@@ -457,8 +457,8 @@ window.GLORY_DATA = {
       "Jared Goff",
       "Kirk Cousins",
       "Geno Smith",
-      "Brock Purdy",
       "Jordan Love",
+      "Brock Purdy",
       "C.J. Stroud",
       "Trevor Lawrence"
     ],

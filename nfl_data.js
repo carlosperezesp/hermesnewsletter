@@ -187,6 +187,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "LAR",
+      "city": "Los Angeles Rams",
+      "shortName": "Los Angeles",
+      "commonName": "Rams",
+      "conf": "NFC",
+      "div": "NFC West",
+      "gp": 11,
+      "w": 7,
+      "l": 4,
+      "t": 0,
+      "winPct": 0.636,
+      "pf": 274,
+      "pa": 200,
+      "pd": 74,
+      "seed": 7,
+      "score": 56,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#ffd100"
+      }
+    },
+    {
       "code": "MIN",
       "city": "Minnesota Vikings",
       "shortName": "Minnesota",
@@ -207,29 +230,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#4f2683",
         "secondary": "#ffc62f"
-      }
-    },
-    {
-      "code": "LAR",
-      "city": "Los Angeles Rams",
-      "shortName": "Los Angeles",
-      "commonName": "Rams",
-      "conf": "NFC",
-      "div": "NFC West",
-      "gp": 10,
-      "w": 6,
-      "l": 4,
-      "t": 0,
-      "winPct": 0.6,
-      "pf": 248,
-      "pa": 187,
-      "pd": 61,
-      "seed": 9,
-      "score": 53,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
-      "colors": {
-        "primary": "#003594",
-        "secondary": "#ffd100"
       }
     },
     {
@@ -308,16 +308,16 @@ window.NFL_DATA = {
       "commonName": "Packers",
       "conf": "NFC",
       "div": "NFC North",
-      "gp": 10,
+      "gp": 11,
       "w": 6,
-      "l": 4,
+      "l": 5,
       "t": 0,
-      "winPct": 0.6,
-      "pf": 226,
-      "pa": 221,
-      "pd": 5,
-      "seed": 7,
-      "score": 48,
+      "winPct": 0.545,
+      "pf": 239,
+      "pa": 247,
+      "pd": -8,
+      "seed": 9,
+      "score": 43,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
       "colors": {
         "primary": "#203731",
@@ -907,17 +907,17 @@ window.NFL_DATA = {
         "primary": "#203731",
         "secondary": "#ffb612"
       },
-      "score": 83,
+      "score": 85,
       "stats": {
         "type": "passing",
-        "cmp": 232,
-        "att": 368,
-        "pct": 63.0,
-        "yds": 2838,
-        "ypa": 7.7,
-        "td": 20,
-        "int": 7,
-        "rushYds": 23,
+        "cmp": 249,
+        "att": 397,
+        "pct": 62.7,
+        "yds": 3036,
+        "ypa": 7.6,
+        "td": 21,
+        "int": 9,
+        "rushYds": 30,
         "rushTd": 0
       },
       "prevRank": 7
@@ -1039,13 +1039,13 @@ window.NFL_DATA = {
       "score": 77,
       "stats": {
         "type": "passing",
-        "cmp": 248,
-        "att": 372,
-        "pct": 66.7,
-        "yds": 2623,
-        "ypa": 7.1,
+        "cmp": 264,
+        "att": 395,
+        "pct": 66.8,
+        "yds": 2763,
+        "ypa": 7.0,
         "td": 19,
-        "int": 10,
+        "int": 11,
         "rushYds": 17,
         "rushTd": 0
       }
@@ -2094,6 +2094,23 @@ window.NFL_DATA = {
         "prevRank": 6
       },
       {
+        "id": 4036378,
+        "name": "Jordan Love",
+        "pos": "QB",
+        "teamCode": "GB",
+        "colors": {
+          "primary": "#203731",
+          "secondary": "#ffb612"
+        },
+        "age": 28,
+        "careerScore": 65.9,
+        "threshold": 90.0,
+        "gap": 24.1,
+        "rings": 0,
+        "note": "Largo camino: años elite y títulos por delante",
+        "prevRank": 8
+      },
+      {
         "id": 4361741,
         "name": "Brock Purdy",
         "pos": "QB",
@@ -2109,23 +2126,6 @@ window.NFL_DATA = {
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
         "prevRank": 7
-      },
-      {
-        "id": 4036378,
-        "name": "Jordan Love",
-        "pos": "QB",
-        "teamCode": "GB",
-        "colors": {
-          "primary": "#203731",
-          "secondary": "#ffb612"
-        },
-        "age": 28,
-        "careerScore": 64.5,
-        "threshold": 90.0,
-        "gap": 25.5,
-        "rings": 0,
-        "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 8
       },
       {
         "id": 4432577,
@@ -2280,7 +2280,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-26 03:39 UTC",
+  "LAST_UPDATE": "2026-11-26 15:17 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
