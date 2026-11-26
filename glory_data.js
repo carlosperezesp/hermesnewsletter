@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-25 22:45 UTC",
+  "UPDATED": "2026-11-26 02:53 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -78,6 +78,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:MJ Henry",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "MJ Henry entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-26"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:AJ Dybantsa",
@@ -233,24 +242,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-12"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Jayson Tatum",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Jayson Tatum entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Franz Wagner",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Franz Wagner entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-11-11"
-    },
-    {
       "id": "tennis:out:ATP:Alex De Minaur:20261112",
       "sport": "tennis",
       "detail": "Tenis",
@@ -258,6 +249,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:Mohammed Siraj",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "Mohammed Siraj cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-11-26"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:out:Erik Karlsson",
@@ -285,15 +285,6 @@ window.GLORY_DATA = {
       "text": "Daniel Suarez cae del top-10 · Cup Series",
       "weight": 74,
       "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:out:Tyrese Maxey",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Tyrese Maxey cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-11-11"
     }
   ],
   "REPORTS": [
@@ -371,8 +362,8 @@ window.GLORY_DATA = {
       "Carolina Hurricanes",
       "Minnesota Wild",
       "Edmonton Oilers",
-      "Boston Bruins",
       "Dallas Stars",
+      "Boston Bruins",
       "New York Rangers"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
@@ -705,9 +696,9 @@ window.GLORY_DATA = {
       "JJ Bumrah",
       "JC Archer",
       "JNT Seales",
-      "Mohammed Siraj",
-      "PJ Cummins",
       "JC Tongue",
+      "MJ Henry",
+      "PJ Cummins",
       "Taijul Islam",
       "SR Harmer"
     ],

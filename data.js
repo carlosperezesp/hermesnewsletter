@@ -3,6 +3,28 @@
 window.NHL_DATA = {
   "TEAMS": [
     {
+      "code": "CAR",
+      "city": "Carolina Hurricanes",
+      "shortName": "Carolina",
+      "commonName": "Hurricanes",
+      "conf": "E",
+      "div": "Metro",
+      "gp": 25,
+      "w": 19,
+      "l": 3,
+      "ot": 3,
+      "pts": 41,
+      "gf": 103,
+      "ga": 56,
+      "gd": 47,
+      "score": 74,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+      "colors": {
+        "primary": "#cc0000",
+        "secondary": "#111111"
+      }
+    },
+    {
       "code": "MIN",
       "city": "Minnesota Wild",
       "shortName": "Minnesota",
@@ -22,28 +44,6 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
-      }
-    },
-    {
-      "code": "CAR",
-      "city": "Carolina Hurricanes",
-      "shortName": "Carolina",
-      "commonName": "Hurricanes",
-      "conf": "E",
-      "div": "Metro",
-      "gp": 24,
-      "w": 18,
-      "l": 3,
-      "ot": 3,
-      "pts": 39,
-      "gf": 100,
-      "ga": 55,
-      "gd": 45,
-      "score": 73,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
-      "colors": {
-        "primary": "#cc0000",
-        "secondary": "#111111"
       }
     },
     {
@@ -119,14 +119,14 @@ window.NHL_DATA = {
       "commonName": "Devils",
       "conf": "E",
       "div": "Metro",
-      "gp": 24,
-      "w": 16,
+      "gp": 25,
+      "w": 17,
       "l": 8,
       "ot": 0,
-      "pts": 32,
-      "gf": 91,
-      "ga": 75,
-      "gd": 16,
+      "pts": 34,
+      "gf": 94,
+      "ga": 77,
+      "gd": 17,
       "score": 62,
       "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
       "colors": {
@@ -141,15 +141,15 @@ window.NHL_DATA = {
       "commonName": "Lightning",
       "conf": "E",
       "div": "Atlantic",
-      "gp": 23,
+      "gp": 24,
       "w": 15,
-      "l": 6,
+      "l": 7,
       "ot": 2,
       "pts": 32,
-      "gf": 84,
-      "ga": 68,
-      "gd": 16,
-      "score": 62,
+      "gf": 85,
+      "ga": 71,
+      "gd": 14,
+      "score": 61,
       "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
       "colors": {
         "primary": "#002868",
@@ -207,19 +207,41 @@ window.NHL_DATA = {
       "commonName": "Bruins",
       "conf": "E",
       "div": "Atlantic",
-      "gp": 23,
+      "gp": 24,
       "w": 15,
-      "l": 7,
+      "l": 8,
       "ot": 1,
       "pts": 31,
-      "gf": 83,
-      "ga": 61,
-      "gd": 22,
-      "score": 62,
+      "gf": 85,
+      "ga": 65,
+      "gd": 20,
+      "score": 60,
       "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#111111"
+      }
+    },
+    {
+      "code": "WPG",
+      "city": "Winnipeg Jets",
+      "shortName": "Winnipeg",
+      "commonName": "Jets",
+      "conf": "W",
+      "div": "Central",
+      "gp": 26,
+      "w": 13,
+      "l": 9,
+      "ot": 4,
+      "pts": 30,
+      "gf": 83,
+      "ga": 86,
+      "gd": -3,
+      "score": 54,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
       }
     },
     {
@@ -311,28 +333,6 @@ window.NHL_DATA = {
       }
     },
     {
-      "code": "WPG",
-      "city": "Winnipeg Jets",
-      "shortName": "Winnipeg",
-      "commonName": "Jets",
-      "conf": "W",
-      "div": "Central",
-      "gp": 25,
-      "w": 12,
-      "l": 9,
-      "ot": 4,
-      "pts": 28,
-      "gf": 79,
-      "ga": 84,
-      "gd": -5,
-      "score": 53,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      }
-    },
-    {
       "code": "NYI",
       "city": "New York Islanders",
       "shortName": "NY Islanders",
@@ -361,15 +361,15 @@ window.NHL_DATA = {
       "commonName": "Rangers",
       "conf": "E",
       "div": "Metro",
-      "gp": 23,
+      "gp": 24,
       "w": 13,
-      "l": 9,
+      "l": 10,
       "ot": 1,
       "pts": 27,
-      "gf": 69,
-      "ga": 63,
-      "gd": 6,
-      "score": 55,
+      "gf": 70,
+      "ga": 68,
+      "gd": 2,
+      "score": 54,
       "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
       "colors": {
         "primary": "#0038a8",
@@ -405,15 +405,15 @@ window.NHL_DATA = {
       "commonName": "Sabres",
       "conf": "E",
       "div": "Atlantic",
-      "gp": 24,
-      "w": 10,
+      "gp": 25,
+      "w": 11,
       "l": 10,
       "ot": 4,
-      "pts": 24,
-      "gf": 73,
-      "ga": 83,
-      "gd": -10,
-      "score": 49,
+      "pts": 26,
+      "gf": 78,
+      "ga": 84,
+      "gd": -6,
+      "score": 50,
       "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
       "colors": {
         "primary": "#003087",
@@ -421,25 +421,25 @@ window.NHL_DATA = {
       }
     },
     {
-      "code": "PHI",
-      "city": "Philadelphia Flyers",
-      "shortName": "Philadelphia",
-      "commonName": "Flyers",
-      "conf": "E",
-      "div": "Metro",
+      "code": "CGY",
+      "city": "Calgary Flames",
+      "shortName": "Calgary",
+      "commonName": "Flames",
+      "conf": "W",
+      "div": "Pacific",
       "gp": 26,
-      "w": 9,
-      "l": 11,
-      "ot": 6,
+      "w": 11,
+      "l": 13,
+      "ot": 2,
       "pts": 24,
       "gf": 67,
-      "ga": 88,
-      "gd": -21,
+      "ga": 89,
+      "gd": -22,
       "score": 45,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+      "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
       "colors": {
-        "primary": "#f74902",
-        "secondary": "#111111"
+        "primary": "#c8102e",
+        "secondary": "#f1be48"
       }
     },
     {
@@ -462,6 +462,28 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#006d75",
         "secondary": "#ea7200"
+      }
+    },
+    {
+      "code": "PHI",
+      "city": "Philadelphia Flyers",
+      "shortName": "Philadelphia",
+      "commonName": "Flyers",
+      "conf": "E",
+      "div": "Metro",
+      "gp": 27,
+      "w": 9,
+      "l": 12,
+      "ot": 6,
+      "pts": 24,
+      "gf": 70,
+      "ga": 95,
+      "gd": -25,
+      "score": 44,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+      "colors": {
+        "primary": "#f74902",
+        "secondary": "#111111"
       }
     },
     {
@@ -509,25 +531,25 @@ window.NHL_DATA = {
       }
     },
     {
-      "code": "CGY",
-      "city": "Calgary Flames",
-      "shortName": "Calgary",
-      "commonName": "Flames",
-      "conf": "W",
-      "div": "Pacific",
-      "gp": 25,
-      "w": 10,
-      "l": 13,
-      "ot": 2,
+      "code": "WSH",
+      "city": "Washington Capitals",
+      "shortName": "Washington",
+      "commonName": "Capitals",
+      "conf": "E",
+      "div": "Metro",
+      "gp": 22,
+      "w": 11,
+      "l": 11,
+      "ot": 0,
       "pts": 22,
-      "gf": 61,
+      "gf": 79,
       "ga": 86,
-      "gd": -25,
-      "score": 43,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+      "gd": -7,
+      "score": 49,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
       "colors": {
-        "primary": "#c8102e",
-        "secondary": "#f1be48"
+        "primary": "#041e42",
+        "secondary": "#c8102e"
       }
     },
     {
@@ -553,28 +575,6 @@ window.NHL_DATA = {
       }
     },
     {
-      "code": "WSH",
-      "city": "Washington Capitals",
-      "shortName": "Washington",
-      "commonName": "Capitals",
-      "conf": "E",
-      "div": "Metro",
-      "gp": 21,
-      "w": 10,
-      "l": 11,
-      "ot": 0,
-      "pts": 20,
-      "gf": 72,
-      "ga": 83,
-      "gd": -11,
-      "score": 48,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      }
-    },
-    {
       "code": "DET",
       "city": "Detroit Red Wings",
       "shortName": "Detroit",
@@ -597,6 +597,28 @@ window.NHL_DATA = {
       }
     },
     {
+      "code": "CBJ",
+      "city": "Columbus Blue Jackets",
+      "shortName": "Columbus",
+      "commonName": "Blue Jackets",
+      "conf": "E",
+      "div": "Metro",
+      "gp": 23,
+      "w": 9,
+      "l": 13,
+      "ot": 1,
+      "pts": 19,
+      "gf": 58,
+      "ga": 74,
+      "gd": -16,
+      "score": 43,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+      "colors": {
+        "primary": "#002654",
+        "secondary": "#ce1126"
+      }
+    },
+    {
       "code": "LAK",
       "city": "Los Angeles Kings",
       "shortName": "Los Angeles",
@@ -616,28 +638,6 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
-      }
-    },
-    {
-      "code": "CBJ",
-      "city": "Columbus Blue Jackets",
-      "shortName": "Columbus",
-      "commonName": "Blue Jackets",
-      "conf": "E",
-      "div": "Metro",
-      "gp": 22,
-      "w": 9,
-      "l": 13,
-      "ot": 0,
-      "pts": 18,
-      "gf": 56,
-      "ga": 71,
-      "gd": -15,
-      "score": 43,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
-      "colors": {
-        "primary": "#002654",
-        "secondary": "#ce1126"
       }
     },
     {
@@ -669,14 +669,14 @@ window.NHL_DATA = {
       "commonName": "Penguins",
       "conf": "E",
       "div": "Metro",
-      "gp": 23,
+      "gp": 24,
       "w": 7,
-      "l": 14,
+      "l": 15,
       "ot": 2,
       "pts": 16,
-      "gf": 67,
-      "ga": 81,
-      "gd": -14,
+      "gf": 70,
+      "ga": 87,
+      "gd": -17,
       "score": 40,
       "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
       "colors": {
@@ -18065,7 +18065,7 @@ window.NHL_DATA = {
       "name": "Brandon Carlo",
       "pos": "D",
       "teamCode": "STL",
-      "age": 29,
+      "age": 30,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -28127,7 +28127,7 @@ window.NHL_DATA = {
       "name": "Samuel Helenius",
       "pos": "C",
       "teamCode": "LAK",
-      "age": 23,
+      "age": 24,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -39489,9 +39489,9 @@ window.NHL_DATA = {
         "city": "Carolina Hurricanes",
         "era": "2019–present",
         "cups": 0,
-        "dynastyScore": 52.2,
+        "dynastyScore": 52.7,
         "threshold": 89.7,
-        "gap": 37.5,
+        "gap": 37.0,
         "note": "6 straight playoff runs · no Cup yet",
         "needs": "Needs at least one Cup + years of dominance",
         "colors": {
@@ -39533,22 +39533,6 @@ window.NHL_DATA = {
         "prevRank": 7
       },
       {
-        "teamCode": "BOS",
-        "city": "Boston Bruins",
-        "era": "2019–present",
-        "cups": 0,
-        "dynastyScore": 46.1,
-        "threshold": 89.7,
-        "gap": 43.6,
-        "note": "Consistent 100+ point seasons",
-        "needs": "Needs at least one Cup + years of dominance",
-        "colors": {
-          "primary": "#ffb81c",
-          "secondary": "#111111"
-        },
-        "prevRank": 8
-      },
-      {
         "teamCode": "DAL",
         "city": "Dallas Stars",
         "era": "2022–present",
@@ -39565,13 +39549,29 @@ window.NHL_DATA = {
         "prevRank": 9
       },
       {
+        "teamCode": "BOS",
+        "city": "Boston Bruins",
+        "era": "2019–present",
+        "cups": 0,
+        "dynastyScore": 45.0,
+        "threshold": 89.7,
+        "gap": 44.7,
+        "note": "Consistent 100+ point seasons",
+        "needs": "Needs at least one Cup + years of dominance",
+        "colors": {
+          "primary": "#ffb81c",
+          "secondary": "#111111"
+        },
+        "prevRank": 8
+      },
+      {
         "teamCode": "NYR",
         "city": "New York Rangers",
         "era": "2022–present",
         "cups": 0,
-        "dynastyScore": 42.2,
+        "dynastyScore": 41.7,
         "threshold": 89.7,
-        "gap": 47.5,
+        "gap": 48.0,
         "note": "2024 Conference Finals · Panarin–Fox era",
         "needs": "Needs at least one Cup + years of dominance",
         "colors": {
@@ -39809,10 +39809,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-25 22:42 UTC",
+  "LAST_UPDATE": "2026-11-26 02:51 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-25T22:41:45Z"
+    "standingsDateTimeUtc": "2026-11-26T02:51:00Z"
   }
 };
