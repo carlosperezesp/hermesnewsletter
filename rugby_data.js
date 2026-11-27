@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-11-27 21:39 UTC",
+  "UPDATED": "2026-11-27 22:19 UTC",
   "LAST_MATCH": "2026-11-27",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 385,
+    "incrementalMatches": 386,
     "teams": 162,
-    "matches": 10080,
+    "matches": 10081,
     "through": "2026-11-27"
   },
   "IMPORTANCE": 6.5,
@@ -484,15 +484,15 @@ window.RUGBY_DATA = {
       "name": "Ireland",
       "teamCode": "IRE",
       "country": "Ireland",
-      "elo": 2576.6,
-      "eloRaw": 2576.6,
-      "lastMatch": "2026-11-21",
-      "inactiveDays": 6,
+      "elo": 2584.0,
+      "eloRaw": 2584.0,
+      "lastMatch": "2026-11-27",
+      "inactiveDays": 0,
       "peakElo": 2684.1,
       "peakDate": "2023-10-07",
       "worldCups": 0,
       "record": {
-        "w": 382,
+        "w": 383,
         "l": 348,
         "d": 64
       },
@@ -500,7 +500,7 @@ window.RUGBY_DATA = {
         "primary": "#169b62",
         "secondary": "#ff883e"
       },
-      "note": "382V-348D-64E · último 2026-11-21 · raw 2577"
+      "note": "383V-348D-64E · último 2026-11-27 · raw 2584"
     },
     {
       "rank": 3,
@@ -599,23 +599,23 @@ window.RUGBY_DATA = {
       "name": "Australia",
       "teamCode": "AUS",
       "country": "Australia",
-      "elo": 2276.5,
-      "eloRaw": 2276.5,
-      "lastMatch": "2026-11-21",
-      "inactiveDays": 6,
+      "elo": 2269.2,
+      "eloRaw": 2269.2,
+      "lastMatch": "2026-11-27",
+      "inactiveDays": 0,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
       "record": {
         "w": 354,
-        "l": 340,
+        "l": 341,
         "d": 21
       },
       "colors": {
         "primary": "#ffcd00",
         "secondary": "#00843d"
       },
-      "note": "354V-340D-21E · último 2026-11-21 · raw 2277"
+      "note": "354V-341D-21E · último 2026-11-27 · raw 2269"
     },
     {
       "rank": 8,

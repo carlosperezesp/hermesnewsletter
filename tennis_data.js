@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-27 21:40 UTC
+// Auto-generated 2026-11-27 22:20 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-27 21:40 UTC",
+  "UPDATED": "2026-11-27 22:20 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8887,7 +8887,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 46.7
@@ -10063,24 +10063,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alicia Herrero Linana",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 44.4,
           "l_score": null,
           "match_score": 44.4
         },
         {
           "round": "Quarterfinal",
-          "w": "Maria Lourdes Carle",
+          "w": "Guiomar Maristany Zuleta De Reales",
           "w_logo": "",
-          "l": "Guiomar Maristany Zuleta De Reales",
+          "l": "Maria Lourdes Carle",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 3-6 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 36.7,
+          "w_score": 36.7,
+          "l_score": null,
           "match_score": 36.7
         },
         {
@@ -10149,7 +10149,7 @@ window.TENNIS_DATA = {
       "Zhibek Kulambayeva"
     ],
     "aliveCount": 16,
-    "matchesSeen": 28
+    "matchesSeen": 29
   },
   "ATP_SCORE_LOG": {
     "206173": [
