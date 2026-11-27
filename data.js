@@ -3754,9 +3754,9 @@ window.NHL_DATA = {
       "name": "Lenni Hameenaho",
       "pos": "RW",
       "teamCode": "NJD",
-      "age": 22,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#111111"
@@ -3778,8 +3778,7 @@ window.NHL_DATA = {
         43,
         45,
         68
-      ],
-      "legendScore": 56.3
+      ]
     },
     {
       "id": 8482702,
@@ -10090,9 +10089,9 @@ window.NHL_DATA = {
       "name": "Justin Holl",
       "pos": "D",
       "teamCode": "WSH",
-      "age": 34,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -19027,9 +19026,9 @@ window.NHL_DATA = {
       "name": "Tyler Boucher",
       "pos": "RW",
       "teamCode": "OTT",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c52032",
         "secondary": "#c2912c"
@@ -23910,9 +23909,9 @@ window.NHL_DATA = {
       "name": "Dominic Toninato",
       "pos": "C",
       "teamCode": "CHI",
-      "age": 32,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cf0a2c",
         "secondary": "#111111"
@@ -26350,9 +26349,9 @@ window.NHL_DATA = {
       "name": "Anton Silaev",
       "pos": "D",
       "teamCode": "NJD",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 20,
+      "country": "Russia",
+      "birthCountry": "RUS",
       "colors": {
         "primary": "#ce1126",
         "secondary": "#111111"
@@ -29155,9 +29154,9 @@ window.NHL_DATA = {
       "name": "Dillon Boucher",
       "pos": "LW",
       "teamCode": "CHI",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 29,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#cf0a2c",
         "secondary": "#111111"
@@ -39834,10 +39833,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-27 15:05 UTC",
+  "LAST_UPDATE": "2026-11-27 16:50 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-27T15:05:00Z"
+    "standingsDateTimeUtc": "2026-11-27T16:49:30Z"
   }
 };
