@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-27 02:53 UTC",
+  "UPDATED": "2026-11-27 03:42 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -78,6 +78,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:SM Boland",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "SM Boland entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-27"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
@@ -222,6 +231,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:JNT Seales",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "JNT Seales cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-11-27"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Mohammed Siraj",
@@ -668,12 +686,12 @@ window.GLORY_DATA = {
       "M Jansen",
       "JJ Bumrah",
       "JC Archer",
-      "JNT Seales",
       "JC Tongue",
       "MJ Henry",
       "PJ Cummins",
       "Taijul Islam",
-      "SR Harmer"
+      "SR Harmer",
+      "SM Boland"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",

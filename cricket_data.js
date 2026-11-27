@@ -1,19 +1,19 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-11-26 22:34 UTC",
+  "UPDATED": "2026-11-27 03:42 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1677,
+    "matches": 1675,
     "archives": [
       {
         "name": "Tests",
-        "matches": 80
+        "matches": 79
       },
       {
         "name": "ODIs",
-        "matches": 174
+        "matches": 173
       },
       {
         "name": "T20Is",
@@ -137,37 +137,37 @@ window.CRICKET_DATA = {
       "id": "taijul-islam",
       "name": "Taijul Islam",
       "role": "Bowler",
-      "score": 75.0,
-      "legendScore": 55.1,
+      "score": 74.4,
+      "legendScore": 54.5,
       "stats": {
-        "test": 75.0,
-        "odi": 77.3,
-        "t20": 77.3,
-        "franchise": 66.8,
-        "runs": 273,
-        "wickets": 67,
-        "matches": 15
+        "test": 74.3,
+        "odi": 76.6,
+        "t20": 76.6,
+        "franchise": 66.2,
+        "runs": 244,
+        "wickets": 65,
+        "matches": 14
       },
       "formatScores": {
         "test": {
-          "overall": 71.2,
-          "batting": 13.1,
-          "bowling": 73.9
+          "overall": 69.8,
+          "batting": 12.7,
+          "bowling": 73.3
         },
         "odi": {
-          "overall": 70.3,
-          "batting": 14.8,
-          "bowling": 75.8
+          "overall": 69.1,
+          "batting": 14.4,
+          "bowling": 75.3
         },
         "t20": {
-          "overall": 75.2,
-          "batting": 15.6,
-          "bowling": 75.8
+          "overall": 73.7,
+          "batting": 15.1,
+          "bowling": 75.2
         },
         "franchise": {
-          "overall": 74.6,
-          "batting": 18.2,
-          "bowling": 63.5
+          "overall": 73.3,
+          "batting": 17.7,
+          "bowling": 63.1
         }
       },
       "country": "Bangladesh",
@@ -314,51 +314,6 @@ window.CRICKET_DATA = {
       "logo": "https://flagcdn.com/24x18/za.png"
     },
     {
-      "id": "jnt-seales",
-      "name": "JNT Seales",
-      "role": "Bowler",
-      "score": 69.1,
-      "legendScore": 58.6,
-      "stats": {
-        "test": 55.2,
-        "odi": 75.9,
-        "t20": 78.0,
-        "franchise": 73.6,
-        "runs": 245,
-        "wickets": 104,
-        "matches": 60
-      },
-      "formatScores": {
-        "test": {
-          "overall": 52.6,
-          "batting": 9.8,
-          "bowling": 54.0
-        },
-        "odi": {
-          "overall": 56.4,
-          "batting": 9.4,
-          "bowling": 76.8
-        },
-        "t20": {
-          "overall": 60.7,
-          "batting": 9.7,
-          "bowling": 79.4
-        },
-        "franchise": {
-          "overall": 59.5,
-          "batting": 10.0,
-          "bowling": 73.6
-        }
-      },
-      "country": "West Indies",
-      "teamCode": "WI",
-      "colors": {
-        "primary": "#7a263a",
-        "secondary": "#f6c344"
-      },
-      "logo": ""
-    },
-    {
       "id": "jc-archer",
       "name": "JC Archer",
       "role": "Bowler",
@@ -483,6 +438,51 @@ window.CRICKET_DATA = {
           "overall": 74.2,
           "batting": 18.9,
           "bowling": 60.6
+        }
+      },
+      "country": "Australia",
+      "teamCode": "AUS",
+      "colors": {
+        "primary": "#ffcd00",
+        "secondary": "#006341"
+      },
+      "logo": "https://flagcdn.com/24x18/au.png"
+    },
+    {
+      "id": "sm-boland",
+      "name": "SM Boland",
+      "role": "Bowler",
+      "score": 66.9,
+      "legendScore": 48.8,
+      "stats": {
+        "test": 66.9,
+        "odi": 68.9,
+        "t20": 68.8,
+        "franchise": 59.4,
+        "runs": 120,
+        "wickets": 52,
+        "matches": 10
+      },
+      "formatScores": {
+        "test": {
+          "overall": 58.6,
+          "batting": 9.8,
+          "bowling": 66.9
+        },
+        "odi": {
+          "overall": 58.0,
+          "batting": 11.1,
+          "bowling": 68.7
+        },
+        "t20": {
+          "overall": 61.7,
+          "batting": 11.6,
+          "bowling": 68.6
+        },
+        "franchise": {
+          "overall": 61.3,
+          "batting": 13.6,
+          "bowling": 57.5
         }
       },
       "country": "Australia",
@@ -634,12 +634,12 @@ window.CRICKET_DATA = {
             "secondary": "#f42a41"
           },
           "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 87.4,
-          "batting": 26.4,
-          "bowling": 55.3,
-          "overall": 87.4,
-          "runs": 855,
-          "wickets": 79
+          "score": 83.0,
+          "batting": 25.2,
+          "bowling": 52.2,
+          "overall": 83.0,
+          "runs": 787,
+          "wickets": 75
         },
         {
           "id": "ar-mcbrine",
@@ -908,12 +908,12 @@ window.CRICKET_DATA = {
             "secondary": "#f42a41"
           },
           "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 73.9,
-          "batting": 13.1,
-          "bowling": 73.9,
-          "overall": 71.2,
-          "runs": 273,
-          "wickets": 67
+          "score": 73.3,
+          "batting": 12.7,
+          "bowling": 73.3,
+          "overall": 69.8,
+          "runs": 244,
+          "wickets": 65
         },
         {
           "id": "m-jansen",
@@ -1136,24 +1136,6 @@ window.CRICKET_DATA = {
           "wickets": 40
         },
         {
-          "id": "mehedi-hasan-miraz",
-          "name": "Mehedi Hasan Miraz",
-          "role": "Bowler",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
-          "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
-          },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 77.1,
-          "batting": 21.8,
-          "bowling": 61.9,
-          "overall": 77.1,
-          "runs": 855,
-          "wickets": 79
-        },
-        {
           "id": "mr-adair",
           "name": "MR Adair",
           "role": "Bowler",
@@ -1224,6 +1206,24 @@ window.CRICKET_DATA = {
           "overall": 74.9,
           "runs": 519,
           "wickets": 80
+        },
+        {
+          "id": "sr-harmer",
+          "name": "SR Harmer",
+          "role": "Bowler",
+          "country": "South Africa",
+          "teamCode": "SA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb81c"
+          },
+          "logo": "https://flagcdn.com/24x18/za.png",
+          "score": 74.4,
+          "batting": 17.8,
+          "bowling": 70.6,
+          "overall": 74.4,
+          "runs": 171,
+          "wickets": 51
         }
       ],
       "batting": [
@@ -1372,24 +1372,6 @@ window.CRICKET_DATA = {
           "wickets": 0
         },
         {
-          "id": "sufyan-mehmood",
-          "name": "Sufyan Mehmood",
-          "role": "Bowler",
-          "country": "Oman",
-          "teamCode": "OMA",
-          "colors": {
-            "primary": "#db161b",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/om.png",
-          "score": 60.8,
-          "batting": 60.8,
-          "bowling": 18.2,
-          "overall": 69.8,
-          "runs": 242,
-          "wickets": 19
-        },
-        {
           "id": "lg-pretorius",
           "name": "LG Pretorius",
           "role": "Batter",
@@ -1405,6 +1387,24 @@ window.CRICKET_DATA = {
           "bowling": 0.4,
           "overall": 10.2,
           "runs": 1276,
+          "wickets": 0
+        },
+        {
+          "id": "rr-pant",
+          "name": "RR Pant",
+          "role": "Batter",
+          "country": "India",
+          "teamCode": "IND",
+          "colors": {
+            "primary": "#1c4fa1",
+            "secondary": "#ff9933"
+          },
+          "logo": "https://flagcdn.com/24x18/in.png",
+          "score": 56.7,
+          "batting": 56.7,
+          "bowling": 0.5,
+          "overall": 11.2,
+          "runs": 1623,
           "wickets": 0
         }
       ],
@@ -1428,42 +1428,6 @@ window.CRICKET_DATA = {
           "wickets": 137
         },
         {
-          "id": "jnt-seales",
-          "name": "JNT Seales",
-          "role": "Bowler",
-          "country": "West Indies",
-          "teamCode": "WI",
-          "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
-          },
-          "logo": "",
-          "score": 76.8,
-          "batting": 9.4,
-          "bowling": 76.8,
-          "overall": 56.4,
-          "runs": 245,
-          "wickets": 104
-        },
-        {
-          "id": "taijul-islam",
-          "name": "Taijul Islam",
-          "role": "Bowler",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
-          "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
-          },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 75.8,
-          "batting": 14.8,
-          "bowling": 75.8,
-          "overall": 70.3,
-          "runs": 273,
-          "wickets": 67
-        },
-        {
           "id": "jc-tongue",
           "name": "JC Tongue",
           "role": "Bowler",
@@ -1480,6 +1444,42 @@ window.CRICKET_DATA = {
           "overall": 49.3,
           "runs": 114,
           "wickets": 79
+        },
+        {
+          "id": "taijul-islam",
+          "name": "Taijul Islam",
+          "role": "Bowler",
+          "country": "Bangladesh",
+          "teamCode": "BAN",
+          "colors": {
+            "primary": "#006a4e",
+            "secondary": "#f42a41"
+          },
+          "logo": "https://flagcdn.com/24x18/bd.png",
+          "score": 75.3,
+          "batting": 14.4,
+          "bowling": 75.3,
+          "overall": 69.1,
+          "runs": 244,
+          "wickets": 65
+        },
+        {
+          "id": "jnt-seales",
+          "name": "JNT Seales",
+          "role": "Bowler",
+          "country": "West Indies",
+          "teamCode": "WI",
+          "colors": {
+            "primary": "#7a263a",
+            "secondary": "#f6c344"
+          },
+          "logo": "",
+          "score": 72.6,
+          "batting": 9.1,
+          "bowling": 72.6,
+          "overall": 54.0,
+          "runs": 226,
+          "wickets": 99
         },
         {
           "id": "m-jansen",
@@ -1720,24 +1720,6 @@ window.CRICKET_DATA = {
           "wickets": 58
         },
         {
-          "id": "mehedi-hasan-miraz",
-          "name": "Mehedi Hasan Miraz",
-          "role": "Bowler",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
-          "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
-          },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 81.5,
-          "batting": 21.8,
-          "bowling": 63.7,
-          "overall": 81.5,
-          "runs": 855,
-          "wickets": 79
-        },
-        {
           "id": "c-bosch",
           "name": "C Bosch",
           "role": "Bowler",
@@ -1772,6 +1754,24 @@ window.CRICKET_DATA = {
           "overall": 79.9,
           "runs": 519,
           "wickets": 80
+        },
+        {
+          "id": "md-fisher",
+          "name": "MD Fisher",
+          "role": "All-rounder",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 79.7,
+          "batting": 42.2,
+          "bowling": 31.5,
+          "overall": 79.7,
+          "runs": 50,
+          "wickets": 5
         }
       ],
       "batting": [
@@ -1994,24 +1994,6 @@ window.CRICKET_DATA = {
           "wickets": 116
         },
         {
-          "id": "jnt-seales",
-          "name": "JNT Seales",
-          "role": "Bowler",
-          "country": "West Indies",
-          "teamCode": "WI",
-          "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
-          },
-          "logo": "",
-          "score": 79.4,
-          "batting": 9.7,
-          "bowling": 79.4,
-          "overall": 60.7,
-          "runs": 245,
-          "wickets": 104
-        },
-        {
           "id": "jc-tongue",
           "name": "JC Tongue",
           "role": "Bowler",
@@ -2094,12 +2076,30 @@ window.CRICKET_DATA = {
             "secondary": "#f42a41"
           },
           "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 75.8,
-          "batting": 15.6,
-          "bowling": 75.8,
-          "overall": 75.2,
-          "runs": 273,
-          "wickets": 67
+          "score": 75.2,
+          "batting": 15.1,
+          "bowling": 75.2,
+          "overall": 73.7,
+          "runs": 244,
+          "wickets": 65
+        },
+        {
+          "id": "jnt-seales",
+          "name": "JNT Seales",
+          "role": "Bowler",
+          "country": "West Indies",
+          "teamCode": "WI",
+          "colors": {
+            "primary": "#7a263a",
+            "secondary": "#f6c344"
+          },
+          "logo": "",
+          "score": 75.2,
+          "batting": 9.4,
+          "bowling": 75.2,
+          "overall": 58.2,
+          "runs": 226,
+          "wickets": 99
         },
         {
           "id": "ja-duffy",
@@ -2660,30 +2660,30 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 73.6,
-          "batting": 10.0,
-          "bowling": 73.6,
-          "overall": 59.5,
-          "runs": 245,
-          "wickets": 104
+          "score": 70.2,
+          "batting": 9.6,
+          "bowling": 70.2,
+          "overall": 56.9,
+          "runs": 226,
+          "wickets": 99
         },
         {
-          "id": "s-joseph",
-          "name": "S Joseph",
+          "id": "arshdeep-singh",
+          "name": "Arshdeep Singh",
           "role": "Bowler",
-          "country": "West Indies",
-          "teamCode": "WI",
+          "country": "India",
+          "teamCode": "IND",
           "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
+            "primary": "#1c4fa1",
+            "secondary": "#ff9933"
           },
-          "logo": "",
-          "score": 70.1,
-          "batting": 17.1,
-          "bowling": 70.1,
-          "overall": 75.9,
-          "runs": 357,
-          "wickets": 98
+          "logo": "https://flagcdn.com/24x18/in.png",
+          "score": 69.5,
+          "batting": 9.9,
+          "bowling": 69.5,
+          "overall": 57.5,
+          "runs": 98,
+          "wickets": 103
         }
       ]
     }
@@ -3492,51 +3492,6 @@ window.CRICKET_DATA = {
         "logo": "https://flagcdn.com/24x18/gb-eng.png"
       },
       {
-        "id": "jnt-seales",
-        "name": "JNT Seales",
-        "role": "Bowler",
-        "score": 69.1,
-        "legendScore": 58.6,
-        "stats": {
-          "test": 55.2,
-          "odi": 75.9,
-          "t20": 78.0,
-          "franchise": 73.6,
-          "runs": 245,
-          "wickets": 104,
-          "matches": 60
-        },
-        "formatScores": {
-          "test": {
-            "overall": 52.6,
-            "batting": 9.8,
-            "bowling": 54.0
-          },
-          "odi": {
-            "overall": 56.4,
-            "batting": 9.4,
-            "bowling": 76.8
-          },
-          "t20": {
-            "overall": 60.7,
-            "batting": 9.7,
-            "bowling": 79.4
-          },
-          "franchise": {
-            "overall": 59.5,
-            "batting": 10.0,
-            "bowling": 73.6
-          }
-        },
-        "country": "West Indies",
-        "teamCode": "WI",
-        "colors": {
-          "primary": "#7a263a",
-          "secondary": "#f6c344"
-        },
-        "logo": ""
-      },
-      {
         "id": "jc-tongue",
         "name": "JC Tongue",
         "role": "Bowler",
@@ -3675,37 +3630,37 @@ window.CRICKET_DATA = {
         "id": "taijul-islam",
         "name": "Taijul Islam",
         "role": "Bowler",
-        "score": 75.0,
-        "legendScore": 55.1,
+        "score": 74.4,
+        "legendScore": 54.5,
         "stats": {
-          "test": 75.0,
-          "odi": 77.3,
-          "t20": 77.3,
-          "franchise": 66.8,
-          "runs": 273,
-          "wickets": 67,
-          "matches": 15
+          "test": 74.3,
+          "odi": 76.6,
+          "t20": 76.6,
+          "franchise": 66.2,
+          "runs": 244,
+          "wickets": 65,
+          "matches": 14
         },
         "formatScores": {
           "test": {
-            "overall": 71.2,
-            "batting": 13.1,
-            "bowling": 73.9
+            "overall": 69.8,
+            "batting": 12.7,
+            "bowling": 73.3
           },
           "odi": {
-            "overall": 70.3,
-            "batting": 14.8,
-            "bowling": 75.8
+            "overall": 69.1,
+            "batting": 14.4,
+            "bowling": 75.3
           },
           "t20": {
-            "overall": 75.2,
-            "batting": 15.6,
-            "bowling": 75.8
+            "overall": 73.7,
+            "batting": 15.1,
+            "bowling": 75.2
           },
           "franchise": {
-            "overall": 74.6,
-            "batting": 18.2,
-            "bowling": 63.5
+            "overall": 73.3,
+            "batting": 17.7,
+            "bowling": 63.1
           }
         },
         "country": "Bangladesh",
@@ -3760,6 +3715,51 @@ window.CRICKET_DATA = {
           "secondary": "#ffb81c"
         },
         "logo": "https://flagcdn.com/24x18/za.png"
+      },
+      {
+        "id": "sm-boland",
+        "name": "SM Boland",
+        "role": "Bowler",
+        "score": 66.9,
+        "legendScore": 48.8,
+        "stats": {
+          "test": 66.9,
+          "odi": 68.9,
+          "t20": 68.8,
+          "franchise": 59.4,
+          "runs": 120,
+          "wickets": 52,
+          "matches": 10
+        },
+        "formatScores": {
+          "test": {
+            "overall": 58.6,
+            "batting": 9.8,
+            "bowling": 66.9
+          },
+          "odi": {
+            "overall": 58.0,
+            "batting": 11.1,
+            "bowling": 68.7
+          },
+          "t20": {
+            "overall": 61.7,
+            "batting": 11.6,
+            "bowling": 68.6
+          },
+          "franchise": {
+            "overall": 61.3,
+            "batting": 13.6,
+            "bowling": 57.5
+          }
+        },
+        "country": "Australia",
+        "teamCode": "AUS",
+        "colors": {
+          "primary": "#ffcd00",
+          "secondary": "#006341"
+        },
+        "logo": "https://flagcdn.com/24x18/au.png"
       }
     ]
   }
