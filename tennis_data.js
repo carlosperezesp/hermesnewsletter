@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-27 16:52 UTC
+// Auto-generated 2026-11-27 21:40 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-27 16:52 UTC",
+  "UPDATED": "2026-11-27 21:40 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5753,7 +5753,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 63.8
@@ -10046,15 +10046,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Laura Samson",
+          "w": "Varvara Lepchenko",
           "w_logo": "",
-          "l": "Varvara Lepchenko",
+          "l": "Laura Samson",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-7 (0-7) 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 63.8,
           "match_score": 63.8
         },
         {
@@ -10072,15 +10072,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Guiomar Maristany Zuleta De Reales",
+          "w": "Maria Lourdes Carle",
           "w_logo": "",
-          "l": "Maria Lourdes Carle",
+          "l": "Guiomar Maristany Zuleta De Reales",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 36.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 36.7,
           "match_score": 36.7
         },
         {
@@ -10089,9 +10089,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Carole Monnet",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "w/o",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
