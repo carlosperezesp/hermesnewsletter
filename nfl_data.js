@@ -354,16 +354,16 @@ window.NFL_DATA = {
       "commonName": "Cowboys",
       "conf": "NFC",
       "div": "NFC East",
-      "gp": 11,
+      "gp": 12,
       "w": 5,
-      "l": 6,
+      "l": 7,
       "t": 0,
-      "winPct": 0.455,
-      "pf": 337,
-      "pa": 312,
-      "pd": 25,
-      "seed": 10,
-      "score": 38,
+      "winPct": 0.417,
+      "pf": 375,
+      "pa": 351,
+      "pd": 24,
+      "seed": 11,
+      "score": 35,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
       "colors": {
         "primary": "#003594",
@@ -454,7 +454,7 @@ window.NFL_DATA = {
       "pf": 218,
       "pa": 243,
       "pd": -25,
-      "seed": 11,
+      "seed": 10,
       "score": 34,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
       "colors": {
@@ -509,6 +509,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "PHI",
+      "city": "Philadelphia Eagles",
+      "shortName": "Philadelphia",
+      "commonName": "Eagles",
+      "conf": "NFC",
+      "div": "NFC East",
+      "gp": 11,
+      "w": 4,
+      "l": 7,
+      "t": 0,
+      "winPct": 0.364,
+      "pf": 206,
+      "pa": 275,
+      "pd": -69,
+      "seed": 12,
+      "score": 24,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+      "colors": {
+        "primary": "#004c54",
+        "secondary": "#a5acaf"
+      }
+    },
+    {
       "code": "TB",
       "city": "Tampa Bay Buccaneers",
       "shortName": "Tampa Bay",
@@ -523,7 +546,7 @@ window.NFL_DATA = {
       "pf": 223,
       "pa": 209,
       "pd": 14,
-      "seed": 12,
+      "seed": 13,
       "score": 25,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
       "colors": {
@@ -546,7 +569,7 @@ window.NFL_DATA = {
       "pf": 215,
       "pa": 257,
       "pd": -42,
-      "seed": 14,
+      "seed": 15,
       "score": 21,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
       "colors": {
@@ -592,35 +615,12 @@ window.NFL_DATA = {
       "pf": 201,
       "pa": 258,
       "pd": -57,
-      "seed": 13,
+      "seed": 14,
       "score": 19,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
       "colors": {
         "primary": "#a71930",
         "secondary": "#000000"
-      }
-    },
-    {
-      "code": "PHI",
-      "city": "Philadelphia Eagles",
-      "shortName": "Philadelphia",
-      "commonName": "Eagles",
-      "conf": "NFC",
-      "div": "NFC East",
-      "gp": 10,
-      "w": 3,
-      "l": 7,
-      "t": 0,
-      "winPct": 0.3,
-      "pf": 167,
-      "pa": 237,
-      "pd": -70,
-      "seed": 15,
-      "score": 18,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
-      "colors": {
-        "primary": "#004c54",
-        "secondary": "#a5acaf"
       }
     },
     {
@@ -2280,7 +2280,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-26 22:32 UTC",
+  "LAST_UPDATE": "2026-11-27 02:51 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

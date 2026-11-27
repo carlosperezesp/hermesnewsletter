@@ -6740,7 +6740,7 @@ window.NHL_DATA = {
       "name": "Anton Forsberg",
       "pos": "G",
       "teamCode": "LAK",
-      "age": 33,
+      "age": 34,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -39834,10 +39834,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-26 22:32 UTC",
+  "LAST_UPDATE": "2026-11-27 02:51 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-26T22:32:15Z"
+    "standingsDateTimeUtc": "2026-11-27T02:50:45Z"
   }
 };

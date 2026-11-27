@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-26 22:34 UTC",
+  "UPDATED": "2026-11-27 02:53 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -213,33 +213,6 @@ window.GLORY_DATA = {
       "text": "Christopher Bell entra en el top-10 · Cup Series",
       "weight": 84,
       "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Jake Guentzel",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Jake Guentzel entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Nikola Jokic",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Nikola Jokic entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.players:in:Anthony Davis",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-road-to-glory",
-      "text": "Anthony Davis entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-12"
     },
     {
       "id": "tennis:out:ATP:Alex De Minaur:20261112",
