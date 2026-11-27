@@ -8146,7 +8146,7 @@ window.NBA_DATA = {
       "last": "Bryant",
       "pos": "F",
       "teamCode": "SA",
-      "age": 20,
+      "age": 21,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5061568.png",
       "colors": {
         "primary": "#c4ced4",
@@ -8162,7 +8162,7 @@ window.NBA_DATA = {
         "blk": 0.2,
         "min": 11.3
       },
-      "legendScore": 24.4
+      "legendScore": 25.4
     },
     {
       "id": 4701233,
@@ -9426,7 +9426,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-27 03:40 UTC",
+  "LAST_UPDATE": "2026-11-27 15:05 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

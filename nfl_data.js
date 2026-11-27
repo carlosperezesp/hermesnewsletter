@@ -3,6 +3,29 @@
 window.NFL_DATA = {
   "TEAMS": [
     {
+      "code": "BUF",
+      "city": "Buffalo Bills",
+      "shortName": "Buffalo",
+      "commonName": "Bills",
+      "conf": "AFC",
+      "div": "AFC East",
+      "gp": 11,
+      "w": 10,
+      "l": 1,
+      "t": 0,
+      "winPct": 0.909,
+      "pf": 326,
+      "pa": 218,
+      "pd": 108,
+      "seed": 1,
+      "score": 81,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+      "colors": {
+        "primary": "#00338d",
+        "secondary": "#c60c30"
+      }
+    },
+    {
       "code": "SF",
       "city": "San Francisco 49ers",
       "shortName": "San Francisco",
@@ -23,29 +46,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#aa0000",
         "secondary": "#b3995d"
-      }
-    },
-    {
-      "code": "BUF",
-      "city": "Buffalo Bills",
-      "shortName": "Buffalo",
-      "commonName": "Bills",
-      "conf": "AFC",
-      "div": "AFC East",
-      "gp": 10,
-      "w": 9,
-      "l": 1,
-      "t": 0,
-      "winPct": 0.9,
-      "pf": 313,
-      "pa": 208,
-      "pd": 105,
-      "seed": 1,
-      "score": 80,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-      "colors": {
-        "primary": "#00338d",
-        "secondary": "#c60c30"
       }
     },
     {
@@ -78,16 +78,16 @@ window.NFL_DATA = {
       "commonName": "Chiefs",
       "conf": "AFC",
       "div": "AFC West",
-      "gp": 10,
+      "gp": 11,
       "w": 8,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "winPct": 0.8,
-      "pf": 271,
-      "pa": 163,
-      "pd": 108,
+      "winPct": 0.727,
+      "pf": 281,
+      "pa": 176,
+      "pd": 105,
       "seed": 5,
-      "score": 73,
+      "score": 66,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
       "colors": {
         "primary": "#e31837",
@@ -777,20 +777,72 @@ window.NFL_DATA = {
         "primary": "#003594",
         "secondary": "#869397"
       },
-      "score": 94,
+      "score": 98,
       "stats": {
         "type": "passing",
-        "cmp": 276,
-        "att": 420,
-        "pct": 65.7,
-        "yds": 3049,
-        "ypa": 7.3,
-        "td": 25,
-        "int": 6,
-        "rushYds": 118,
+        "cmp": 295,
+        "att": 448,
+        "pct": 65.8,
+        "yds": 3340,
+        "ypa": 7.5,
+        "td": 27,
+        "int": 7,
+        "rushYds": 137,
         "rushTd": 0
       },
       "prevRank": 2
+    },
+    {
+      "id": 3139477,
+      "name": "Patrick Mahomes",
+      "pos": "QB",
+      "teamCode": "KC",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3139477.png",
+      "colors": {
+        "primary": "#e31837",
+        "secondary": "#ffb612"
+      },
+      "score": 90,
+      "stats": {
+        "type": "passing",
+        "cmp": 242,
+        "att": 366,
+        "pct": 66.1,
+        "yds": 2883,
+        "ypa": 7.9,
+        "td": 22,
+        "int": 4,
+        "rushYds": 102,
+        "rushTd": 0
+      },
+      "prevRank": 4
+    },
+    {
+      "id": 3046779,
+      "name": "Jared Goff",
+      "pos": "QB",
+      "teamCode": "DET",
+      "age": 32,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3046779.png",
+      "colors": {
+        "primary": "#0076b6",
+        "secondary": "#b0b7bc"
+      },
+      "score": 89,
+      "stats": {
+        "type": "passing",
+        "cmp": 250,
+        "att": 368,
+        "pct": 67.9,
+        "yds": 3029,
+        "ypa": 8.2,
+        "td": 21,
+        "int": 5,
+        "rushYds": 45,
+        "rushTd": 0
+      },
+      "prevRank": 6
     },
     {
       "id": 4361741,
@@ -819,32 +871,6 @@ window.NFL_DATA = {
       "prevRank": 3
     },
     {
-      "id": 3139477,
-      "name": "Patrick Mahomes",
-      "pos": "QB",
-      "teamCode": "KC",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3139477.png",
-      "colors": {
-        "primary": "#e31837",
-        "secondary": "#ffb612"
-      },
-      "score": 88,
-      "stats": {
-        "type": "passing",
-        "cmp": 226,
-        "att": 337,
-        "pct": 67.1,
-        "yds": 2709,
-        "ypa": 8.0,
-        "td": 22,
-        "int": 4,
-        "rushYds": 100,
-        "rushTd": 0
-      },
-      "prevRank": 4
-    },
-    {
       "id": 4432577,
       "name": "C.J. Stroud",
       "pos": "QB",
@@ -869,32 +895,6 @@ window.NFL_DATA = {
         "rushTd": 1
       },
       "prevRank": 5
-    },
-    {
-      "id": 3046779,
-      "name": "Jared Goff",
-      "pos": "QB",
-      "teamCode": "DET",
-      "age": 32,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3046779.png",
-      "colors": {
-        "primary": "#0076b6",
-        "secondary": "#b0b7bc"
-      },
-      "score": 86,
-      "stats": {
-        "type": "passing",
-        "cmp": 225,
-        "att": 332,
-        "pct": 67.8,
-        "yds": 2716,
-        "ypa": 8.2,
-        "td": 20,
-        "int": 4,
-        "rushYds": 35,
-        "rushTd": 0
-      },
-      "prevRank": 6
     },
     {
       "id": 4036378,
@@ -1136,18 +1136,43 @@ window.NFL_DATA = {
         "primary": "#00338d",
         "secondary": "#c60c30"
       },
-      "score": 70,
+      "score": 69,
       "stats": {
         "type": "passing",
-        "cmp": 194,
-        "att": 302,
-        "pct": 64.2,
-        "yds": 2527,
-        "ypa": 8.4,
+        "cmp": 204,
+        "att": 323,
+        "pct": 63.2,
+        "yds": 2608,
+        "ypa": 8.1,
         "td": 14,
-        "int": 9,
-        "rushYds": 290,
+        "int": 11,
+        "rushYds": 333,
         "rushTd": 3
+      }
+    },
+    {
+      "id": 4431611,
+      "name": "Caleb Williams",
+      "pos": "QB",
+      "teamCode": "CHI",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431611.png",
+      "colors": {
+        "primary": "#0b162a",
+        "secondary": "#c83803"
+      },
+      "score": 66,
+      "stats": {
+        "type": "passing",
+        "cmp": 179,
+        "att": 262,
+        "pct": 68.3,
+        "yds": 2072,
+        "ypa": 7.9,
+        "td": 12,
+        "int": 6,
+        "rushYds": 171,
+        "rushTd": 1
       }
     },
     {
@@ -1273,31 +1298,6 @@ window.NFL_DATA = {
         "int": 4,
         "rushYds": 266,
         "rushTd": 4
-      }
-    },
-    {
-      "id": 4431611,
-      "name": "Caleb Williams",
-      "pos": "QB",
-      "teamCode": "CHI",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431611.png",
-      "colors": {
-        "primary": "#0b162a",
-        "secondary": "#c83803"
-      },
-      "score": 60,
-      "stats": {
-        "type": "passing",
-        "cmp": 149,
-        "att": 218,
-        "pct": 68.3,
-        "yds": 1727,
-        "ypa": 7.9,
-        "td": 10,
-        "int": 6,
-        "rushYds": 156,
-        "rushTd": 1
       }
     },
     {
@@ -1626,6 +1626,31 @@ window.NFL_DATA = {
       }
     },
     {
+      "id": 4360698,
+      "name": "Joe Milton",
+      "pos": "QB",
+      "teamCode": "PHI",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360698.png",
+      "colors": {
+        "primary": "#004c54",
+        "secondary": "#a5acaf"
+      },
+      "score": 44,
+      "stats": {
+        "type": "passing",
+        "cmp": 50,
+        "att": 86,
+        "pct": 58.1,
+        "yds": 641,
+        "ypa": 7.5,
+        "td": 3,
+        "int": 1,
+        "rushYds": 86,
+        "rushTd": 1
+      }
+    },
+    {
       "id": 4038524,
       "name": "Gardner Minshew II",
       "pos": "QB",
@@ -1797,31 +1822,6 @@ window.NFL_DATA = {
         "td": 3,
         "int": 5,
         "rushYds": 123,
-        "rushTd": 1
-      }
-    },
-    {
-      "id": 4360698,
-      "name": "Joe Milton",
-      "pos": "QB",
-      "teamCode": "PHI",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360698.png",
-      "colors": {
-        "primary": "#004c54",
-        "secondary": "#a5acaf"
-      },
-      "score": 37,
-      "stats": {
-        "type": "passing",
-        "cmp": 29,
-        "att": 55,
-        "pct": 52.7,
-        "yds": 310,
-        "ypa": 5.6,
-        "td": 0,
-        "int": 0,
-        "rushYds": 71,
         "rushTd": 1
       }
     },
@@ -2001,9 +2001,9 @@ window.NFL_DATA = {
           "secondary": "#869397"
         },
         "age": 33,
-        "careerScore": 78.1,
+        "careerScore": 80.8,
         "threshold": 90.0,
-        "gap": 11.9,
+        "gap": 9.2,
         "rings": 0,
         "note": "1–2 temporadas elite + un Super Bowl",
         "prevRank": 1
@@ -2026,6 +2026,23 @@ window.NFL_DATA = {
         "prevRank": 2
       },
       {
+        "id": 3046779,
+        "name": "Jared Goff",
+        "pos": "QB",
+        "teamCode": "DET",
+        "colors": {
+          "primary": "#0076b6",
+          "secondary": "#b0b7bc"
+        },
+        "age": 32,
+        "careerScore": 73.5,
+        "threshold": 90.0,
+        "gap": 16.5,
+        "rings": 0,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": 4
+      },
+      {
         "id": 12483,
         "name": "Matthew Stafford",
         "pos": "QB",
@@ -2041,23 +2058,6 @@ window.NFL_DATA = {
         "rings": 1,
         "note": "2–3 años de pico + varios anillos",
         "prevRank": 3
-      },
-      {
-        "id": 3046779,
-        "name": "Jared Goff",
-        "pos": "QB",
-        "teamCode": "DET",
-        "colors": {
-          "primary": "#0076b6",
-          "secondary": "#b0b7bc"
-        },
-        "age": 32,
-        "careerScore": 71.4,
-        "threshold": 90.0,
-        "gap": 18.6,
-        "rings": 0,
-        "note": "2–3 años de pico + varios anillos",
-        "prevRank": 4
       },
       {
         "id": 14880,
@@ -2232,6 +2232,23 @@ window.NFL_DATA = {
         "prevRank": 4
       },
       {
+        "id": 4431611,
+        "name": "Caleb Williams",
+        "pos": "QB",
+        "teamCode": "CHI",
+        "colors": {
+          "primary": "#0b162a",
+          "secondary": "#c83803"
+        },
+        "age": 25,
+        "currentScore": 66,
+        "projectedScore": 63.8,
+        "threshold": 90.0,
+        "gap": 26.2,
+        "note": "Joven con pedigrí — salto a elite pendiente",
+        "prevRank": 6
+      },
+      {
         "id": 4426348,
         "name": "Jayden Daniels",
         "pos": "QB",
@@ -2247,23 +2264,6 @@ window.NFL_DATA = {
         "gap": 27.5,
         "note": "Joven con pedigrí — salto a elite pendiente",
         "prevRank": 5
-      },
-      {
-        "id": 4431611,
-        "name": "Caleb Williams",
-        "pos": "QB",
-        "teamCode": "CHI",
-        "colors": {
-          "primary": "#0b162a",
-          "secondary": "#c83803"
-        },
-        "age": 25,
-        "currentScore": 60,
-        "projectedScore": 59.8,
-        "threshold": 90.0,
-        "gap": 30.2,
-        "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 6
       }
     ]
   },
@@ -2280,7 +2280,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-27 03:40 UTC",
+  "LAST_UPDATE": "2026-11-27 15:05 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

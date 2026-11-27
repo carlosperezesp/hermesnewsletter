@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-27 03:42 UTC",
+  "UPDATED": "2026-11-27 15:06 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
@@ -444,8 +444,8 @@ window.GLORY_DATA = {
     "nfl:ROAD_TO_GLORY.players": [
       "Dak Prescott",
       "Joe Burrow",
-      "Matthew Stafford",
       "Jared Goff",
+      "Matthew Stafford",
       "Kirk Cousins",
       "Geno Smith",
       "Jordan Love",
@@ -458,8 +458,8 @@ window.GLORY_DATA = {
       "Bryce Young",
       "Drake Maye",
       "Cam Ward",
-      "Jayden Daniels",
-      "Caleb Williams"
+      "Caleb Williams",
+      "Jayden Daniels"
     ],
     "tennis:ATP": [
       "Jannik Sinner",
