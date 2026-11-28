@@ -1053,7 +1053,7 @@ window.NHL_DATA = {
         82
       ],
       "legendScore": 58.0,
-      "prevRank": 17
+      "prevRank": 10
     },
     {
       "id": 8477492,
@@ -25887,9 +25887,9 @@ window.NHL_DATA = {
       "name": "Nico Myatovic",
       "pos": "LW",
       "teamCode": "ANA",
-      "age": 21,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -27240,9 +27240,9 @@ window.NHL_DATA = {
       "name": "Jacob Bernard-Docker",
       "pos": "D",
       "teamCode": "DET",
-      "age": 26,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#ffffff"
@@ -28593,9 +28593,9 @@ window.NHL_DATA = {
       "name": "Conor Sheary",
       "pos": "LW",
       "teamCode": "BUF",
-      "age": 34,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#003087",
         "secondary": "#ffb81c"
@@ -39838,7 +39838,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 16,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 8478864,
@@ -39857,7 +39857,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 7,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 8476460,
@@ -39876,7 +39876,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 14,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 8
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -40094,7 +40094,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 30.7,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 4
+        "prevRank": 3
       },
       {
         "id": 8483457,
@@ -40112,7 +40112,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 30.8,
         "note": "Among the best players of their generation",
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "id": 8481605,
@@ -40269,10 +40269,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-28 14:12 UTC",
+  "LAST_UPDATE": "2026-11-28 15:41 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-28T14:12:15Z"
+    "standingsDateTimeUtc": "2026-11-28T15:41:00Z"
   }
 };

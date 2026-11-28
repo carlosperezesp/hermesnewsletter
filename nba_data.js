@@ -784,7 +784,7 @@ window.NBA_DATA = {
         "min": 34.0
       },
       "legendScore": 61.5,
-      "prevRank": 8
+      "prevRank": 7
     },
     {
       "id": 5041939,
@@ -810,7 +810,7 @@ window.NBA_DATA = {
         "min": 33.8
       },
       "legendScore": 47.5,
-      "prevRank": 10
+      "prevRank": 8
     },
     {
       "id": 4566434,
@@ -836,7 +836,7 @@ window.NBA_DATA = {
         "min": 36.5
       },
       "legendScore": 53.5,
-      "prevRank": 7
+      "prevRank": 9
     },
     {
       "id": 3936299,
@@ -862,7 +862,7 @@ window.NBA_DATA = {
         "min": 36.9
       },
       "legendScore": 57.5,
-      "prevRank": 11
+      "prevRank": 10
     },
     {
       "id": 4433134,
@@ -9213,7 +9213,7 @@ window.NBA_DATA = {
           "primary": "#0e2240",
           "secondary": "#fec524"
         },
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "teamCode": "MIN",
@@ -9229,7 +9229,7 @@ window.NBA_DATA = {
           "primary": "#0c2340",
           "secondary": "#236192"
         },
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "teamCode": "OKC",
@@ -9413,7 +9413,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 29.3,
         "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "id": 4432166,
@@ -9430,7 +9430,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 29.8,
         "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "id": 4683021,
@@ -9447,7 +9447,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 29.8,
         "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 5037871,
@@ -9464,7 +9464,7 @@ window.NBA_DATA = {
         "threshold": 92.1,
         "gap": 30.2,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 5142718,
@@ -9526,7 +9526,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-11-28 14:12 UTC",
+  "LAST_UPDATE": "2026-11-28 15:41 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

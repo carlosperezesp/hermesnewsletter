@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-28 14:15 UTC
+// Auto-generated 2026-11-28 15:44 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-28 14:15 UTC",
+  "UPDATED": "2026-11-28 15:44 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10059,15 +10059,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Guiomar Maristany Zuleta De Reales",
+          "w": "Varvara Lepchenko",
           "w_logo": "",
-          "l": "Varvara Lepchenko",
+          "l": "Guiomar Maristany Zuleta De Reales",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 36.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 36.7,
           "match_score": 36.7
         }
       ]
