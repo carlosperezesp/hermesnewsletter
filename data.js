@@ -267,6 +267,28 @@ window.NHL_DATA = {
       }
     },
     {
+      "code": "WPG",
+      "city": "Winnipeg Jets",
+      "shortName": "Winnipeg",
+      "commonName": "Jets",
+      "conf": "W",
+      "div": "Central",
+      "gp": 27,
+      "w": 14,
+      "l": 9,
+      "ot": 4,
+      "pts": 32,
+      "gf": 86,
+      "ga": 87,
+      "gd": -1,
+      "score": 55,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      }
+    },
+    {
       "code": "BOS",
       "city": "Boston Bruins",
       "shortName": "Boston",
@@ -333,43 +355,21 @@ window.NHL_DATA = {
       }
     },
     {
-      "code": "WPG",
-      "city": "Winnipeg Jets",
-      "shortName": "Winnipeg",
-      "commonName": "Jets",
-      "conf": "W",
-      "div": "Central",
-      "gp": 26,
-      "w": 13,
-      "l": 9,
-      "ot": 4,
-      "pts": 30,
-      "gf": 83,
-      "ga": 86,
-      "gd": -3,
-      "score": 54,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      }
-    },
-    {
       "code": "NYI",
       "city": "New York Islanders",
       "shortName": "NY Islanders",
       "commonName": "Islanders",
       "conf": "E",
       "div": "Metro",
-      "gp": 24,
+      "gp": 25,
       "w": 12,
-      "l": 7,
+      "l": 8,
       "ot": 5,
       "pts": 29,
-      "gf": 76,
-      "ga": 69,
-      "gd": 7,
-      "score": 56,
+      "gf": 77,
+      "ga": 72,
+      "gd": 5,
+      "score": 55,
       "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
       "colors": {
         "primary": "#00539b",
@@ -1053,7 +1053,7 @@ window.NHL_DATA = {
         81
       ],
       "legendScore": 42.4,
-      "prevRank": 11
+      "prevRank": 10
     },
     {
       "id": 8476999,
@@ -39555,7 +39555,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 14,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 8474600,
@@ -39574,7 +39574,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 16,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 9
       },
       {
         "id": 8478864,
@@ -39593,7 +39593,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 7,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 8
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -39811,7 +39811,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 30.8,
         "note": "Among the best players of their generation",
-        "prevRank": 4
+        "prevRank": 3
       },
       {
         "id": 8484762,
@@ -39829,7 +39829,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 31.2,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "id": 8481605,
@@ -39847,7 +39847,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.4,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 6
+        "prevRank": 5
       },
       {
         "id": 8484873,
@@ -39865,7 +39865,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 8
+        "prevRank": 6
       },
       {
         "id": 8483445,
@@ -39883,7 +39883,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.0,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 5
+        "prevRank": 7
       },
       {
         "id": 8484144,
@@ -39901,7 +39901,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.2,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 8484153,
@@ -39986,10 +39986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-28 02:40 UTC",
+  "LAST_UPDATE": "2026-11-28 03:21 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-28T02:40:30Z"
+    "standingsDateTimeUtc": "2026-11-28T03:21:15Z"
   }
 };

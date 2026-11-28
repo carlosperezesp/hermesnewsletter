@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-28 02:43 UTC",
+  "UPDATED": "2026-11-28 03:23 UTC",
   "EVENTS": [
+    {
+      "id": "nascar:win:NASCAR Cup Series at Miami:Ryan Blaney",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "text": "Ryan Blaney ganó en Homestead-Miami Speedway",
+      "weight": 100,
+      "firstSeen": "2026-11-28"
+    },
     {
       "id": "f1:win:Qatar Airways Qatar Grand Prix:Kimi Antonelli",
       "sport": "f1",
