@@ -29088,9 +29088,9 @@ window.NHL_DATA = {
       "name": "William Trudeau",
       "pos": "D",
       "teamCode": "NSH",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#041e42"
@@ -40269,10 +40269,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-11-28 15:41 UTC",
+  "LAST_UPDATE": "2026-11-28 20:33 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-11-28T15:41:00Z"
+    "standingsDateTimeUtc": "2026-11-28T20:33:00Z"
   }
 };

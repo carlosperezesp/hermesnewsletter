@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-28 15:44 UTC
+// Auto-generated 2026-11-28 20:34 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-11-28 15:44 UTC",
+  "UPDATED": "2026-11-28 20:34 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8223,7 +8223,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 44.4
@@ -8887,7 +8887,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "IEB+ Argentina Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 46.7
@@ -10046,28 +10046,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Julia Riera",
+          "w": "Veronika Erjavec",
           "w_logo": "",
-          "l": "Veronika Erjavec",
+          "l": "Julia Riera",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 44.4,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 44.4,
           "match_score": 44.4
         },
         {
           "round": "Semifinal",
-          "w": "Varvara Lepchenko",
+          "w": "Guiomar Maristany Zuleta De Reales",
           "w_logo": "",
-          "l": "Guiomar Maristany Zuleta De Reales",
+          "l": "Varvara Lepchenko",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-0 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 36.7,
+          "w_score": 36.7,
+          "l_score": null,
           "match_score": 36.7
         }
       ]
@@ -10123,7 +10123,7 @@ window.TENNIS_DATA = {
       "Zhibek Kulambayeva"
     ],
     "aliveCount": 16,
-    "matchesSeen": 30
+    "matchesSeen": 31
   },
   "ATP_SCORE_LOG": {
     "206173": [

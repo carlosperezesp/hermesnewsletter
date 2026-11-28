@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-28 15:42 UTC
+// Auto-generated 2026-11-28 20:34 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-11-28 15:42 UTC",
+  "UPDATED": "2026-11-28 20:34 UTC",
   "SEASON": "2026",
   "ROUND": 20,
   "TOTAL_ROUNDS": 22,
@@ -26,36 +26,36 @@ window.MOTOGP_DATA = {
     },
     {
       "position": 2,
-      "name": "Jorge Martín",
-      "country": "ESP",
-      "bike": "Aprilia",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "primary": "#003366",
-      "secondary": "#E8002D",
-      "points": 396.0,
-      "score": 72.0,
-      "stats": {
-        "pts": 396.0
-      },
-      "seasonPct": 72.0,
-      "prevRank": 2,
-      "age": 28
-    },
-    {
-      "position": 3,
       "name": "Marco Bezzecchi",
       "country": "ITA",
       "bike": "Aprilia",
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 394.0,
-      "score": 71.6,
+      "points": 406.0,
+      "score": 73.8,
       "stats": {
-        "pts": 394.0
+        "pts": 406.0
       },
-      "seasonPct": 71.6,
+      "seasonPct": 73.8,
       "prevRank": 3,
+      "age": 28
+    },
+    {
+      "position": 3,
+      "name": "Jorge Martín",
+      "country": "ESP",
+      "bike": "Aprilia",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "primary": "#003366",
+      "secondary": "#E8002D",
+      "points": 405.0,
+      "score": 73.6,
+      "stats": {
+        "pts": 405.0
+      },
+      "seasonPct": 73.6,
+      "prevRank": 2,
       "age": 28
     },
     {
@@ -66,12 +66,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#E86825",
       "secondary": "#000000",
-      "points": 315.0,
-      "score": 57.3,
+      "points": 318.0,
+      "score": 57.8,
       "stats": {
-        "pts": 315.0
+        "pts": 318.0
       },
-      "seasonPct": 57.3,
+      "seasonPct": 57.8,
       "prevRank": 4,
       "age": 22
     },
@@ -83,12 +83,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/jp.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 309.0,
-      "score": 56.2,
+      "points": 315.0,
+      "score": 57.3,
       "stats": {
-        "pts": 309.0
+        "pts": 315.0
       },
-      "seasonPct": 56.2,
+      "seasonPct": 57.3,
       "prevRank": 5,
       "age": 25
     },
@@ -100,12 +100,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 298.0,
-      "score": 54.2,
+      "points": 301.0,
+      "score": 54.7,
       "stats": {
-        "pts": 298.0
+        "pts": 301.0
       },
-      "seasonPct": 54.2,
+      "seasonPct": 54.7,
       "prevRank": 6,
       "age": 28
     },
@@ -134,12 +134,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 204.0,
-      "score": 37.1,
+      "points": 208.0,
+      "score": 37.8,
       "stats": {
-        "pts": 204.0
+        "pts": 208.0
       },
-      "seasonPct": 37.1,
+      "seasonPct": 37.8,
       "prevRank": 8,
       "age": 30
     },
@@ -168,12 +168,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#E86825",
       "secondary": "#000000",
-      "points": 152.0,
-      "score": 27.6,
+      "points": 159.0,
+      "score": 28.9,
       "stats": {
-        "pts": 152.0
+        "pts": 159.0
       },
-      "seasonPct": 27.6,
+      "seasonPct": 28.9,
       "prevRank": 10,
       "age": 29
     }
@@ -186,7 +186,7 @@ window.MOTOGP_DATA = {
       "primary": "#E86825",
       "secondary": "#000000",
       "bike": "KTM",
-      "score": 57.3,
+      "score": 57.8,
       "position": 4,
       "age": 22,
       "note": "Top 4 a los 22"
@@ -198,7 +198,7 @@ window.MOTOGP_DATA = {
       "primary": "#003366",
       "secondary": "#E8002D",
       "bike": "Aprilia",
-      "score": 56.2,
+      "score": 57.3,
       "position": 5,
       "age": 25,
       "note": "Top 5 a los 25"

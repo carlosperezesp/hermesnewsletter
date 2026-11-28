@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-28 15:42 UTC
+// Auto-generated 2026-11-28 20:33 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-11-28 15:42 UTC",
+  "UPDATED": "2026-11-28 20:33 UTC",
   "SEASON": "2026",
   "ROUND": 20,
   "TOTAL_ROUNDS": 25,
@@ -22,7 +22,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 402.0,
-      "lastWeekendPoints": 12.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 64.3,
       "stats": {
@@ -47,7 +47,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 304.0,
-      "lastWeekendPoints": 25.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 48.6,
       "stats": {
@@ -72,7 +72,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 267.0,
-      "lastWeekendPoints": 6.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 42.7,
       "stats": {
@@ -97,7 +97,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 264.0,
-      "lastWeekendPoints": 2.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 42.2,
       "stats": {
@@ -122,7 +122,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 264.0,
-      "lastWeekendPoints": 18.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 42.2,
       "stats": {
@@ -147,7 +147,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 250.0,
-      "lastWeekendPoints": 1.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 40.0,
       "stats": {
@@ -172,7 +172,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 167.0,
-      "lastWeekendPoints": 15.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 26.7,
       "stats": {
@@ -247,7 +247,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 52.0,
-      "lastWeekendPoints": 10.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 8.3,
       "stats": {
@@ -555,9 +555,9 @@ window.F1_DATA = {
     }
   ],
   "LAST_WEEKEND": {
-    "id": "600057449",
-    "name": "Heineken Las Vegas Grand Prix",
-    "label": "LAS",
+    "id": "600057450",
+    "name": "Qatar Airways Qatar Grand Prix",
+    "label": "QAT",
     "includesSprint": false
   },
   "LAST_RACE": {

@@ -1,20 +1,70 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-11-28 15:43 UTC",
+  "UPDATED": "2026-11-28 20:34 UTC",
   "LAST_MATCH": "2026-11-28",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 387,
+    "incrementalMatches": 388,
     "teams": 162,
-    "matches": 10082,
+    "matches": 10083,
     "through": "2026-11-28"
   },
   "IMPORTANCE": 6.5,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-11-28",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#ffffff",
+            "secondary": "#cf142b"
+          }
+        },
+        "away": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "homeScore": 8,
+        "awayScore": 26,
+        "venue": "Allianz Stadium",
+        "city": "London"
+      },
+      {
+        "date": "2026-11-28",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Wales",
+          "teamCode": "WAL",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": 40,
+        "awayScore": 10,
+        "venue": "Allianz Stadium",
+        "city": "London"
+      },
       {
         "date": "2026-11-27",
         "status": "final",
@@ -264,109 +314,9 @@ window.RUGBY_DATA = {
         "awayScore": 15,
         "venue": "Allianz Stadium",
         "city": "London"
-      },
-      {
-        "date": "2026-11-14",
-        "status": "final",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "Ireland",
-          "teamCode": "IRE",
-          "colors": {
-            "primary": "#169b62",
-            "secondary": "#ff883e"
-          }
-        },
-        "away": {
-          "name": "Fiji",
-          "teamCode": "FIJ",
-          "colors": {
-            "primary": "#6ecff6",
-            "secondary": "#111111"
-          }
-        },
-        "homeScore": 43,
-        "awayScore": 15,
-        "venue": "Aviva Stadium",
-        "city": "Dublin"
-      },
-      {
-        "date": "2026-11-14",
-        "status": "final",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "Wales",
-          "teamCode": "WAL",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          }
-        },
-        "homeScore": 35,
-        "awayScore": 28,
-        "venue": "Principality Stadium",
-        "city": "Cardiff"
       }
     ],
     "upcoming": [
-      {
-        "date": "2026-11-28",
-        "status": "scheduled",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#ffffff",
-            "secondary": "#cf142b"
-          }
-        },
-        "away": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Allianz Stadium",
-        "city": "London"
-      },
-      {
-        "date": "2026-11-28",
-        "status": "live",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "Wales",
-          "teamCode": "WAL",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "homeScore": 26,
-        "awayScore": 0,
-        "venue": "Allianz Stadium",
-        "city": "London"
-      },
       {
         "date": "2026-11-29",
         "status": "scheduled",
@@ -456,6 +406,29 @@ window.RUGBY_DATA = {
     },
     {
       "rank": 2,
+      "name": "New Zealand",
+      "teamCode": "NZL",
+      "country": "New Zealand",
+      "elo": 2601.0,
+      "eloRaw": 2601.0,
+      "lastMatch": "2026-11-28",
+      "inactiveDays": 0,
+      "peakElo": 2749.6,
+      "peakDate": "2016-10-22",
+      "worldCups": 3,
+      "record": {
+        "w": 559,
+        "l": 146,
+        "d": 26
+      },
+      "colors": {
+        "primary": "#111111",
+        "secondary": "#d8d8d8"
+      },
+      "note": "559V-146D-26E · último 2026-11-28 · raw 2601"
+    },
+    {
+      "rank": 3,
       "name": "Ireland",
       "teamCode": "IRE",
       "country": "Ireland",
@@ -476,29 +449,6 @@ window.RUGBY_DATA = {
         "secondary": "#ff883e"
       },
       "note": "383V-348D-64E · último 2026-11-27 · raw 2584"
-    },
-    {
-      "rank": 3,
-      "name": "New Zealand",
-      "teamCode": "NZL",
-      "country": "New Zealand",
-      "elo": 2570.5,
-      "eloRaw": 2570.5,
-      "lastMatch": "2026-11-21",
-      "inactiveDays": 7,
-      "peakElo": 2749.6,
-      "peakDate": "2016-10-22",
-      "worldCups": 3,
-      "record": {
-        "w": 558,
-        "l": 146,
-        "d": 26
-      },
-      "colors": {
-        "primary": "#111111",
-        "secondary": "#d8d8d8"
-      },
-      "note": "558V-146D-26E · último 2026-11-21 · raw 2570"
     },
     {
       "rank": 4,
@@ -528,23 +478,23 @@ window.RUGBY_DATA = {
       "name": "England",
       "teamCode": "ENG",
       "country": "England",
-      "elo": 2485.5,
-      "eloRaw": 2485.5,
-      "lastMatch": "2026-11-21",
-      "inactiveDays": 7,
+      "elo": 2455.0,
+      "eloRaw": 2455.0,
+      "lastMatch": "2026-11-28",
+      "inactiveDays": 0,
       "peakElo": 2568.0,
       "peakDate": "2019-10-26",
       "worldCups": 1,
       "record": {
         "w": 460,
-        "l": 309,
+        "l": 310,
         "d": 82
       },
       "colors": {
         "primary": "#ffffff",
         "secondary": "#cf142b"
       },
-      "note": "460V-309D-82E · último 2026-11-21 · raw 2486"
+      "note": "460V-310D-82E · último 2026-11-28 · raw 2455"
     },
     {
       "rank": 6,
