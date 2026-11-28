@@ -4531,7 +4531,7 @@ window.MLB_DATA = {
       "last": "Raleigh",
       "pos": "C",
       "teamCode": "SEA",
-      "age": 29,
+      "age": 30,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41292.png",
       "colors": {
         "primary": "#0c2c56",
@@ -4547,7 +4547,7 @@ window.MLB_DATA = {
         "sb": 2,
         "ops": 0.664
       },
-      "legendScore": 35.6,
+      "legendScore": 36.4,
       "currentScore": 53,
       "battingScore": 53,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-11-28 03:21 UTC",
+  "LAST_UPDATE": "2026-11-28 14:12 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

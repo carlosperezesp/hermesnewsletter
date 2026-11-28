@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-28 03:22 UTC
+// Auto-generated 2026-11-28 14:13 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-11-28 03:22 UTC",
+  "UPDATED": "2026-11-28 14:13 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-28 03:23 UTC",
+  "UPDATED": "2026-11-28 14:15 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Miami:Ryan Blaney",
@@ -313,9 +313,9 @@ window.GLORY_DATA = {
       "David Pastrnak",
       "Auston Matthews",
       "Jake Guentzel",
-      "Mark Scheifele",
       "Roman Josi",
-      "Kirill Kaprizov"
+      "Kirill Kaprizov",
+      "Mark Scheifele"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -332,8 +332,8 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
       "Macklin Celebrini",
-      "Lane Hutson",
       "Beckett Sennecke",
+      "Lane Hutson",
       "Jackson LaCombe",
       "Cole Hutson",
       "Cutter Gauthier",
@@ -357,8 +357,8 @@ window.GLORY_DATA = {
       "Los Angeles Lakers",
       "Boston Celtics",
       "San Antonio Spurs",
-      "Minnesota Timberwolves",
       "Denver Nuggets",
+      "Minnesota Timberwolves",
       "Oklahoma City Thunder",
       "Golden State Warriors",
       "New York Knicks",
@@ -371,10 +371,10 @@ window.GLORY_DATA = {
       "Darius Acuff Jr.",
       "Cameron Boozer",
       "Franz Wagner",
-      "Cade Cunningham",
       "Scottie Barnes",
-      "Dylan Harper",
+      "Cade Cunningham",
       "Deni Avdija",
+      "Dylan Harper",
       "AJ Dybantsa"
     ],
     "mlb:ROAD_TO_GLORY.players": [

@@ -1189,14 +1189,14 @@ window.NFL_DATA = {
       "score": 65,
       "stats": {
         "type": "passing",
-        "cmp": 193,
-        "att": 322,
-        "pct": 59.9,
-        "yds": 1955,
-        "ypa": 6.1,
+        "cmp": 215,
+        "att": 362,
+        "pct": 59.4,
+        "yds": 2124,
+        "ypa": 5.9,
         "td": 12,
-        "int": 5,
-        "rushYds": 121,
+        "int": 7,
+        "rushYds": 128,
         "rushTd": 1
       }
     },
@@ -2280,7 +2280,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-28 03:21 UTC",
+  "LAST_UPDATE": "2026-11-28 14:12 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
