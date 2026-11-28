@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-11-27 22:19 UTC",
+  "UPDATED": "2026-11-28 02:43 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1675,
+    "matches": 1674,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 975
+        "matches": 974
       },
       {
         "name": "IPL",
@@ -802,7 +802,7 @@ window.CRICKET_DATA = {
           "batting": 72.0,
           "bowling": 1.5,
           "overall": 23.8,
-          "runs": 1925,
+          "runs": 1908,
           "wickets": 1
         },
         {
@@ -2250,24 +2250,6 @@ window.CRICKET_DATA = {
           "wickets": 56
         },
         {
-          "id": "shadab-khan",
-          "name": "Shadab Khan",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 85.3,
-          "batting": 31.8,
-          "bowling": 47.6,
-          "overall": 85.3,
-          "runs": 1069,
-          "wickets": 68
-        },
-        {
           "id": "rl-chase",
           "name": "RL Chase",
           "role": "Batter",
@@ -2284,6 +2266,24 @@ window.CRICKET_DATA = {
           "overall": 83.5,
           "runs": 1722,
           "wickets": 81
+        },
+        {
+          "id": "shadab-khan",
+          "name": "Shadab Khan",
+          "role": "Bowler",
+          "country": "Pakistan",
+          "teamCode": "PAK",
+          "colors": {
+            "primary": "#115740",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 83.5,
+          "batting": 31.3,
+          "bowling": 46.3,
+          "overall": 83.5,
+          "runs": 1021,
+          "wickets": 66
         },
         {
           "id": "ma-starc",
@@ -2606,9 +2606,9 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 77.2,
+          "score": 77.3,
           "batting": 8.4,
-          "bowling": 77.2,
+          "bowling": 77.3,
           "overall": 55.9,
           "runs": 120,
           "wickets": 113

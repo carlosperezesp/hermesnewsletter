@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-11-27 22:20 UTC",
+  "UPDATED": "2026-11-28 02:43 UTC",
   "EVENTS": [
+    {
+      "id": "f1:win:Qatar Airways Qatar Grand Prix:Kimi Antonelli",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "Kimi Antonelli ganó el Qatar Airways Qatar Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-11-28"
+    },
     {
       "id": "motogp:win:Portuguese motorcycle Grand Prix:Marco Bezzecchi",
       "sport": "motogp",
@@ -25,14 +33,6 @@ window.GLORY_DATA = {
       "text": "Scott McLaughlin ganó en Grand Prix of Monterey",
       "weight": 100,
       "firstSeen": "2026-11-15"
-    },
-    {
-      "id": "nascar:win:NASCAR Cup Series at Miami:Ryan Blaney",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Ryan Blaney ganó en Homestead-Miami Speedway",
-      "weight": 100,
-      "firstSeen": "2026-11-13"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.players:new1:LeBron James",
@@ -80,6 +80,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-15"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Roman Josi",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Roman Josi entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-11-28"
+    },
+    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:SM Boland",
       "sport": "cricket",
       "detail": "Cricket",
@@ -87,15 +96,6 @@ window.GLORY_DATA = {
       "text": "SM Boland entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-11-27"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Cale Makar entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-11-26"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Deni Avdija",
@@ -206,24 +206,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-11-18"
     },
     {
-      "id": "rank:nascar:DRIVERS:in:Joey Logano",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "anchor": "nascar-cup-series",
-      "text": "Joey Logano entra en el top-10 · Cup Series",
-      "weight": 84,
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "rank:nascar:DRIVERS:in:Christopher Bell",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "anchor": "nascar-cup-series",
-      "text": "Christopher Bell entra en el top-10 · Cup Series",
-      "weight": 84,
-      "firstSeen": "2026-11-13"
-    },
-    {
       "id": "tennis:out:ATP:Alex De Minaur:20261112",
       "sport": "tennis",
       "detail": "Tenis",
@@ -258,24 +240,6 @@ window.GLORY_DATA = {
       "text": "Erik Karlsson cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-11-23"
-    },
-    {
-      "id": "rank:nascar:DRIVERS:out:Carson Hocevar",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "anchor": "nascar-cup-series",
-      "text": "Carson Hocevar cae del top-10 · Cup Series",
-      "weight": 74,
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "rank:nascar:DRIVERS:out:Daniel Suarez",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "anchor": "nascar-cup-series",
-      "text": "Daniel Suarez cae del top-10 · Cup Series",
-      "weight": 74,
-      "firstSeen": "2026-11-13"
     }
   ],
   "REPORTS": [
@@ -341,9 +305,9 @@ window.GLORY_DATA = {
       "David Pastrnak",
       "Auston Matthews",
       "Jake Guentzel",
-      "Kirill Kaprizov",
       "Mark Scheifele",
-      "Cale Makar"
+      "Roman Josi",
+      "Kirill Kaprizov"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -360,12 +324,12 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Matthew Schaefer",
       "Macklin Celebrini",
-      "Beckett Sennecke",
       "Lane Hutson",
-      "Cutter Gauthier",
+      "Beckett Sennecke",
       "Jackson LaCombe",
-      "Connor Bedard",
       "Cole Hutson",
+      "Cutter Gauthier",
+      "Connor Bedard",
       "Leo Carlsson",
       "Logan Mailloux"
     ],

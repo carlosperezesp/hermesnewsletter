@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-11-27 22:19 UTC",
+  "UPDATED": "2026-11-28 02:42 UTC",
   "LAST_MATCH": "2026-11-27",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -15,6 +15,31 @@ window.RUGBY_DATA = {
   "IMPORTANCE": 6.5,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-11-27",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Ireland",
+          "teamCode": "IRE",
+          "colors": {
+            "primary": "#169b62",
+            "secondary": "#ff883e"
+          }
+        },
+        "away": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "homeScore": 38,
+        "awayScore": 14,
+        "venue": "Allianz Stadium",
+        "city": "London"
+      },
       {
         "date": "2026-11-27",
         "status": "final",
@@ -289,59 +314,9 @@ window.RUGBY_DATA = {
         "awayScore": 28,
         "venue": "Principality Stadium",
         "city": "Cardiff"
-      },
-      {
-        "date": "2026-11-14",
-        "status": "final",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "Italy",
-          "teamCode": "ITA",
-          "colors": {
-            "primary": "#0066b3",
-            "secondary": "#009246"
-          }
-        },
-        "away": {
-          "name": "Argentina",
-          "teamCode": "ARG",
-          "colors": {
-            "primary": "#75aadb",
-            "secondary": "#f6b40e"
-          }
-        },
-        "homeScore": 14,
-        "awayScore": 19,
-        "venue": "Stadio Luigi Ferraris",
-        "city": "Genova"
       }
     ],
     "upcoming": [
-      {
-        "date": "2026-11-27",
-        "status": "scheduled",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "Ireland",
-          "teamCode": "IRE",
-          "colors": {
-            "primary": "#169b62",
-            "secondary": "#ff883e"
-          }
-        },
-        "away": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Allianz Stadium",
-        "city": "London"
-      },
       {
         "date": "2026-11-28",
         "status": "scheduled",

@@ -124,16 +124,16 @@ window.NFL_DATA = {
       "commonName": "Broncos",
       "conf": "AFC",
       "div": "AFC West",
-      "gp": 10,
+      "gp": 11,
       "w": 8,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "winPct": 0.8,
-      "pf": 236,
-      "pa": 210,
-      "pd": 26,
+      "winPct": 0.727,
+      "pf": 241,
+      "pa": 237,
+      "pd": 4,
       "seed": 2,
-      "score": 66,
+      "score": 58,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
       "colors": {
         "primary": "#fb4f14",
@@ -210,6 +210,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "PIT",
+      "city": "Pittsburgh Steelers",
+      "shortName": "Pittsburgh",
+      "commonName": "Steelers",
+      "conf": "AFC",
+      "div": "AFC North",
+      "gp": 11,
+      "w": 7,
+      "l": 4,
+      "t": 0,
+      "winPct": 0.636,
+      "pf": 241,
+      "pa": 206,
+      "pd": 35,
+      "seed": 6,
+      "score": 53,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+      "colors": {
+        "primary": "#101820",
+        "secondary": "#ffb612"
+      }
+    },
+    {
       "code": "MIN",
       "city": "Minnesota Vikings",
       "shortName": "Minnesota",
@@ -253,29 +276,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#002244",
         "secondary": "#69be28"
-      }
-    },
-    {
-      "code": "PIT",
-      "city": "Pittsburgh Steelers",
-      "shortName": "Pittsburgh",
-      "commonName": "Steelers",
-      "conf": "AFC",
-      "div": "AFC North",
-      "gp": 10,
-      "w": 6,
-      "l": 4,
-      "t": 0,
-      "winPct": 0.6,
-      "pf": 214,
-      "pa": 201,
-      "pd": 13,
-      "seed": 7,
-      "score": 49,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-      "colors": {
-        "primary": "#101820",
-        "secondary": "#ffb612"
       }
     },
     {
@@ -339,7 +339,7 @@ window.NFL_DATA = {
       "pf": 188,
       "pa": 220,
       "pd": -32,
-      "seed": 6,
+      "seed": 7,
       "score": 45,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
       "colors": {
@@ -2280,7 +2280,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-11-27 22:17 UTC",
+  "LAST_UPDATE": "2026-11-28 02:41 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

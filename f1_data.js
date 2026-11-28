@@ -1,6 +1,6 @@
-// Auto-generated 2026-11-27 22:18 UTC
+// Auto-generated 2026-11-28 02:41 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-11-27 22:18 UTC",
+  "UPDATED": "2026-11-28 02:41 UTC",
   "SEASON": "2026",
   "ROUND": 20,
   "TOTAL_ROUNDS": 25,
@@ -561,32 +561,32 @@ window.F1_DATA = {
     "includesSprint": false
   },
   "LAST_RACE": {
-    "name": "Heineken Las Vegas Grand Prix",
-    "date": "2026-11-20",
-    "circuit": "Las Vegas Street Circuit",
+    "name": "Qatar Airways Qatar Grand Prix",
+    "date": "2026-11-27",
+    "circuit": "Lusail International Circuit",
     "round": 0,
     "state": "post",
     "podium": [
       {
         "position": 1,
-        "name": "Sergio Pérez",
-        "team": "",
+        "name": "Kimi Antonelli",
+        "team": "mercedes",
         "time": "",
-        "primary": "#555555"
+        "primary": "#00D2BE"
       },
       {
         "position": 2,
-        "name": "Ryo Hirakawa",
-        "team": "",
+        "name": "George Russell",
+        "team": "mercedes",
         "time": "",
-        "primary": "#555555"
+        "primary": "#00D2BE"
       },
       {
         "position": 3,
-        "name": "Rafael Câmara",
-        "team": "",
+        "name": "Isack Hadjar",
+        "team": "rb",
         "time": "",
-        "primary": "#555555"
+        "primary": "#6692FF"
       }
     ]
   },
